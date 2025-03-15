@@ -8,7 +8,7 @@ import tailwind from '@astrojs/tailwind';
 import mdx from '@astrojs/mdx';
 import partytown from '@astrojs/partytown';
 import icon from 'astro-icon';
-import compress from 'astro-compress';
+//import compress from 'astro-compress';
 import type { AstroIntegration } from 'astro';
 
 import astrowind from './vendor/integration';
@@ -53,6 +53,7 @@ export default defineConfig({
       })
     ),
 
+    /*
     compress({
       CSS: true,
       HTML: {
@@ -65,6 +66,7 @@ export default defineConfig({
       SVG: false,
       Logger: 1,
     }),
+    */
 
     astrowind({
       config: './src/config.yaml',
