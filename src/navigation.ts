@@ -1,119 +1,43 @@
-import { getPermalink, getBlogPermalink, getAsset } from './utils/permalinks';
+import { getAsset } from './utils/permalinks';
+//getPermalink, getBlogPermalink,
 
 export const headerData = {
   links: [
     {
-      text: 'Homes',
-      links: [
-        {
-          text: 'SaaS',
-          href: getPermalink('/homes/saas'),
-        },
-        {
-          text: 'Startup',
-          href: getPermalink('/homes/startup'),
-        },
-        {
-          text: 'Mobile App',
-          href: getPermalink('/homes/mobile-app'),
-        },
-        {
-          text: 'Personal',
-          href: getPermalink('/homes/personal'),
-        },
-      ],
+      text: 'Modern',
+      // links: [
+      //   {
+      //     text: 'SaaS',
+      //     href: getPermalink('/homes/saas'),
+      //   },
+      //   {
+      //     text: 'Startup',
+      //     href: getPermalink('/homes/startup'),
+      //   },
+      //   {
+      //     text: 'Mobile App',
+      //     href: getPermalink('/homes/mobile-app'),
+      //   },
+      //   {
+      //     text: 'Personal',
+      //     href: getPermalink('/homes/personal'),
+      //   },
+      // ],
+
+      href: '/#modernD20',
     },
     {
-      text: 'Pages',
-      links: [
-        {
-          text: 'Features (Anchor Link)',
-          href: getPermalink('/#features'),
-        },
-        {
-          text: 'Services',
-          href: getPermalink('/services'),
-        },
-        {
-          text: 'Pricing',
-          href: getPermalink('/pricing'),
-        },
-        {
-          text: 'About us',
-          href: getPermalink('/about'),
-        },
-        {
-          text: 'Contact',
-          href: getPermalink('/contact'),
-        },
-        {
-          text: 'Terms',
-          href: getPermalink('/terms'),
-        },
-        {
-          text: 'Privacy policy',
-          href: getPermalink('/privacy'),
-        },
-      ],
+      text: 'Future',
+      href: '/#futureD20',
     },
     {
-      text: 'Landing',
-      links: [
-        {
-          text: 'Lead Generation',
-          href: getPermalink('/landing/lead-generation'),
-        },
-        {
-          text: 'Long-form Sales',
-          href: getPermalink('/landing/sales'),
-        },
-        {
-          text: 'Click-Through',
-          href: getPermalink('/landing/click-through'),
-        },
-        {
-          text: 'Product Details (or Services)',
-          href: getPermalink('/landing/product'),
-        },
-        {
-          text: 'Coming Soon or Pre-Launch',
-          href: getPermalink('/landing/pre-launch'),
-        },
-        {
-          text: 'Subscription',
-          href: getPermalink('/landing/subscription'),
-        },
-      ],
+      text: 'Arcana',
+      href: '/#arcanaD20',
     },
     {
-      text: 'Blog',
-      links: [
-        {
-          text: 'Blog List',
-          href: getBlogPermalink(),
-        },
-        {
-          text: 'Article',
-          href: getPermalink('get-started-website-with-astro-tailwind-css', 'post'),
-        },
-        {
-          text: 'Article (with MDX)',
-          href: getPermalink('markdown-elements-demo-post', 'post'),
-        },
-        {
-          text: 'Category Page',
-          href: getPermalink('tutorials', 'category'),
-        },
-        {
-          text: 'Tag Page',
-          href: getPermalink('astro', 'tag'),
-        },
-      ],
+      text: 'Menaces', href: '/#menacesD20'
     },
-    {
-      text: 'Widgets',
-      href: '#',
-    },
+    
   ],
   actions: [{ text: 'Download', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
 };
@@ -121,53 +45,58 @@ export const headerData = {
 export const footerData = {
   links: [
     {
-      title: 'Product',
+      title: 'Modern d20 SRD',
       links: [
-        { text: 'Features', href: '#' },
-        { text: 'Security', href: '#' },
-        { text: 'Team', href: '#' },
-        { text: 'Enterprise', href: '#' },
-        { text: 'Customer stories', href: '#' },
-        { text: 'Pricing', href: '#' },
-        { text: 'Resources', href: '#' },
+        { text: 'Basics', href: 'modern-d20-srd-basics-index' },
+        { text: 'Classes', href: 'modern-d20-srd-classes-index' },
+        { text: 'Combat', href: 'modern-d20-srd-combat-index' },
+        { text: 'Condition Summary', href: 'modern-d20-srd-conditions-index' },
+        { text: 'Creature Types', href: 'modern-d20-srd-creature-types-index' },
+        { text: 'Creatures', href: 'modern-d20-srd-creatures-index' },
+        { text: 'Environment & Hazards', href: 'modern-d20-srd-environment-hazards-index' },
+        { text: 'Equipment', href: 'modern-d20-srd-equipment-index' },
+        { text: 'Feats', href: 'modern-d20-srd-feats-index' },
       ],
     },
     {
-      title: 'Platform',
+      title: 'Future d20 SRD',
       links: [
-        { text: 'Developer API', href: '#' },
-        { text: 'Partners', href: '#' },
-        { text: 'Atom', href: '#' },
-        { text: 'Electron', href: '#' },
-        { text: 'AstroWind Desktop', href: '#' },
+        { text: 'Classes', href: 'future-d20-srd-classes-index' },
+        { text: 'Cybernetics', href: 'future-d20-srd-cybernetics-index' },
+        { text: 'Environments', href: 'future-d20-srd-environments-index' },
+        { text: 'Equipment', href: 'future-d20-srd-equipment-index' },
+        { text: 'Expanded Skills', href: 'future-d20-srd-expanded-skills-index' },
+        { text: 'Feats', href: 'future-d20-srd-feats-index' },
+        { text: 'Mecha', href: 'future-d20-srd-mecha-index' },
+        { text: 'Mutations', href: 'future-d20-srd-mutations-index' },
+        { text: 'Progress Levels', href: 'future-d20-srd-progress-levels-index' },
       ],
     },
     {
-      title: 'Support',
+      title: 'Arcana d20 SRD',
       links: [
-        { text: 'Docs', href: '#' },
-        { text: 'Community Forum', href: '#' },
-        { text: 'Professional Services', href: '#' },
-        { text: 'Skills', href: '#' },
-        { text: 'Status', href: '#' },
+        { text: 'Advanced Classes', href: 'arcana-d20-srd-advanced-classes-index' },
+        { text: 'Creatures', href: 'arcana-d20-srd-creatures-index' },
+        { text: 'Equipment', href: 'arcana-d20-srd-equipment-index' },
+        { text: 'Feats', href: 'arcana-d20-srd-feats-index' },
+        { text: 'FX Items', href: 'arcana-d20-srd-fx-items-index' },
+        { text: 'Incantations', href: 'arcana-d20-srd-incantations-index' },
+        { text: 'Occupations', href: 'arcana-d20-srd-occupations-index' },
+        { text: 'Organizations', href: 'arcana-d20-srd-organizations-index' },
+        { text: 'Prestige Classes', href: 'arcana-d20-srd-prestige-classes-index' },
       ],
     },
     {
-      title: 'Company',
+      title: 'd20 Menaces',
       links: [
-        { text: 'About', href: '#' },
-        { text: 'Blog', href: '#' },
-        { text: 'Careers', href: '#' },
-        { text: 'Press', href: '#' },
-        { text: 'Inclusion', href: '#' },
-        { text: 'Social Impact', href: '#' },
-        { text: 'Shop', href: '#' },
+        { text: 'Buying Services', href: 'menaces-d20-buying-services-index' },
+        { text: 'Feats', href: 'menaces-d20-feats-index' },
+        { text: 'Menaces', href: 'menaces-d20-menaces-index' },
       ],
     },
   ],
   secondaryLinks: [
-    { text: 'Terms', href: getPermalink('/terms') },
-    { text: 'Privacy Policy', href: getPermalink('/privacy') },
+   
   ],
   socialLinks: [
     { ariaLabel: 'X', icon: 'tabler:brand-x', href: '#' },
@@ -176,6 +105,7 @@ export const footerData = {
     { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
     { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/onwidget/astrowind' },
   ],
+
   footNote: `
     <img class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 rtl:mr-0 rtl:ml-1.5 float-left rtl:float-right rounded-sm" src="https://onwidget.com/favicon/favicon-32x32.png" alt="onWidget logo" loading="lazy"></img>
     Made by <a class="text-blue-600 underline dark:text-muted" href="https://onwidget.com/"> onWidget</a> · All rights reserved.
