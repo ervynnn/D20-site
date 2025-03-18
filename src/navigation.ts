@@ -1,4 +1,3 @@
-import { getAsset } from './utils/permalinks';
 //getPermalink, getBlogPermalink,
 
 export const headerData = {
@@ -38,8 +37,7 @@ export const headerData = {
       text: 'Menaces', href: '/#menacesD20'
     },
     
-  ],
-  actions: [{ text: 'Download', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
+  ]
 };
 
 export const footerData = {
@@ -96,14 +94,8 @@ export const footerData = {
     },
   ],
   secondaryLinks: [
-   
   ],
   socialLinks: [
-    { ariaLabel: 'X', icon: 'tabler:brand-x', href: '#' },
-    { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: '#' },
-    { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: '#' },
-    { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
-    { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/onwidget/astrowind' },
   ],
 
   footNote: `
