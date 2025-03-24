@@ -1,0 +1,146 @@
+---
+title: 'Privacy Policy'
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+_Last updated_: January 06, 2023
+
+[ Arcana d20 SRD ](/#arcanaD20) > [ Advanced Classes ](arcana-d20-srd-advanced-classes-index) > Arcane Arranger
+
+##  Arcane Arranger
+
+The fastest path into this advanced class is from the Charismatic hero basic
+class, though other paths are possible.
+
+A high Intelligence is also useful for the Arcane Arranger, since knowledge is
+his province.
+
+###  Requirements
+
+To qualify to become an Arcane Arranger, a character must fulfill the
+following criteria.
+
+Skills: Diplomacy 6 ranks, Gather Information 6 ranks, any Knowledge (arcane
+law, business, current events, popular culture, or streetwise) 6 ranks.
+
+###  Class Information
+
+The following information pertains to the Arcane Arranger advanced class.
+
+**Hit Die**
+
+Arcane Arrangers gain 1d6 hit points per level. The character’s Constitution
+modifier applies.
+
+**Action Points**
+
+Arcane Arrangers gain a number of action points equal to 6 plus one-half their
+character level, rounded down, every time they advance a level in this class.
+
+**Class Skills**
+
+The Arcane Arranger’s class skills are: Bluff (Cha), Computer Use (Int),
+Decipher Script (Int), Diplomacy (Cha), Forgery (Int), Gather Information
+(Cha), Intimidate (Cha), Knowledge (arcane lore, business, current events,
+popular culture, streetwise) (Int), Listen (Wis), Profession (Wis), Read/Write
+Language (none), Repair (Int), Research (Int), Sense Motive (Wis), Speak
+Language (none).
+
+Skill Points at Each Level: 7 + Intelligence modifier.
+
+
+<table> <tr> <th colspan="8"> Table: The Arcane Arranger </th> </tr> <tr> <th> Level </th> <th> Base Attack Bonus </th> <th> Fort Save </th> <th> Ref Save </th> <th> Will Save </th> <th> Special </th> <th> Defense Bonus </th> <th> Reputation Bonus </th> </tr> <tr> <td> 1st </td> <td> +0 </td> <td> +0 </td> <td> +0 </td> <td> +1 </td> <td> Word on the street </td> <td> +0 </td> <td> +2 </td> </tr> <tr class="shaded"> <td> 2nd </td> <td> +1 </td> <td> +0 </td> <td> +0 </td> <td> +2 </td> <td> False allegiance </td> <td> +1 </td> <td> +2 </td> </tr> <tr> <td> 3rd </td> <td> +1 </td> <td> +1 </td> <td> +1 </td> <td> +2 </td> <td> Bonus feat </td> <td> +1 </td> <td> +2 </td> </tr> <tr class="shaded"> <td> 4th </td> <td> +2 </td> <td> +1 </td> <td> +1 </td> <td> +2 </td> <td> Shadow resources </td> <td> +1 </td> <td> +3 </td> </tr> <tr> <td> 5th </td> <td> +2 </td> <td> +1 </td> <td> +1 </td> <td> +3 </td> <td> Pack rat </td> <td> +2 </td> <td> +3 </td> </tr> <tr class="shaded"> <td> 6th </td> <td> +3 </td> <td> +2 </td> <td> +2 </td> <td> +3 </td> <td> Bonus feat </td> <td> +2 </td> <td> +3 </td> </tr> <tr> <td> 7th </td> <td> +3 </td> <td> +2 </td> <td> +2 </td> <td> +4 </td> <td> Expert in your field </td> <td> +2 </td> <td> +4 </td> </tr> <tr class="shaded"> <td> 8th </td> <td> +4 </td> <td> +2 </td> <td> +2 </td> <td> +4 </td> <td> Up my sleeve </td> <td> +3 </td> <td> +4 </td> </tr> <tr> <td> 9th </td> <td> +4 </td> <td> +3 </td> <td> +3 </td> <td> +4 </td> <td> Bonus feat </td> <td> +3 </td> <td> +4 </td> </tr> <tr class="shaded"> <td> 10th </td> <td> +5 </td> <td> +3 </td> <td> +3 </td> <td> +5 </td> <td> Up my sleeve </td> <td> +3 </td> <td> +5 </td> </tr> </table>
+
+
+###  Class Features
+
+The following features pertain to the Arcane Arranger advanced class.
+
+**Word on the Street**
+
+The Arcane Arranger filters information constantly and remembers everything.
+Through regular contacts, gossip, internet chats, and other situations, he has
+a deep knowledge of everyday things. The Arcane Arranger can make a Gather
+Information check on general or specific information instantaneously, and
+spends only an hour making a Gather Information check for restricted
+information. Retries may be made under normal rules.
+
+Protected information still requires 1d4+1 hours for a check.
+
+The purchase DC for using Gather Information is reduced by 10.
+
+**False Allegiance**
+
+The Arcane Arranger fits in with whatever group he chooses to be with. At 2nd
+level, the Arcane Arranger can successfully emulate an allegiance he knows
+about. He gains the +2 circumstance bonus on Charisma-based skills when
+dealing with an individual of the same allegiance. The allegiance and its
+bonus is considered in effect until a check is failed, at which point the
+false allegiance is revealed. Supernatural and spell-like abilities that
+determine allegiance are not affected by the Arcane Arranger’s false
+allegiance ability.
+
+**Bonus Feats**
+
+At 3rd, 6th, and 9th level, the Arcane Arranger gets a bonus feat. The bonus
+feat must be selected from the following list, and the Arcane Arranger must
+meet all of the prerequisites for the feat to select it.
+
+Arcane Skills, Armor Proficiency (light), Attentive, Builder, Combat
+Expertise, Educated, Gearhead, Improved Disarm, Jack of All Trades, Renown,
+Studious, Trustworthy, Windfall.
+
+**Shadow Resources**
+
+At 4th level, the Arcane Arranger is well-enough wired into the social system
+to be able to get the names and numbers of individuals with particular
+abilities and talents. Even if away from his home stomping ground a phone call
+can produce a contact with the needed resource. Make a level check, adding all
+Arcane Arranger levels and any levels of Charismatic Hero. The difficulty of
+this task is based on how common the required abilities are:
+
+
+<table> <tr> <td> Common Skill (Ride, Pilot, Treat Injury) </td> <td> DC 10 </td> </tr> <tr class="shaded"> <td> Uncommon Skill (subgroups of other skills such as Knowledge (arcane lore) or Craft (structural)) </td> <td> DC 15 </td> </tr> <tr> <td> Rare Skill (skills available for a particular class—Spellcraft, Psicraft, Use Magic Device) </td> <td> DC 20 </td> </tr> <tr class="shaded"> <td> Specific Feat </td> <td> DC 20 </td> </tr> <tr> <td> Class Feature (spellcasting, turn undead, psionics) </td> <td> DC 20 </td> </tr> <tr class="shaded"> <td> Specific Combination of Skills, Feats, and Abilities (someone with Knowledge (business) and the ability to cast the auguryspell) </td> <td> DC 25 </td> </tr> <tr> <td> Finding someone willing to perform activities secretly or illegally </td> <td> DC +5 </td> </tr> <tr class="shaded"> <td> Finding someone with a specific level of ability </td> <td> Add desired ranks to DC </td> </tr> </table>
+
+
+A successful check indicates that the individual is available, and the Arcane
+Arranger knows about him. It does not guarantee the character contacted will
+be willing to perform the requested service—the party requesting the service
+must still negotiate for that person’s services. An unsuccessful check means
+that no such individual is immediately known or available to the Arcane
+Arranger. This does not negate trying again for a different skill, nor from
+trying to locate a skill resource through more traditional methods. The
+resource the Arcane Arranger knows about will have total ranks in the needed
+skill of at least the Arcane Arranger’s total character level +3.
+
+**Pack Rat**
+
+At 5th level, the Arcane Arranger is considered to have considerable material
+resources either at hand or easily and cheaply acquired. When making a Wealth
+check to determine if a particular item is “at hand,” add the Arcane Arranger
+class levels as a circumstance bonus.
+
+**Expert in Your Field**
+
+At 7th level, the Arcane Arranger is considered a master of connections, such
+that his reputation precedes him in his dealings with others. The Arcane
+Arranger gains a circumstance bonus equal to his Reputation bonus when making
+skill checks that are directly involved with Gather Information and Diplomacy
+skills. In addition, the Arcane Arranger may add his Reputation bonus on
+Wealth checks for new purchases.
+
+**Up My Sleeve**
+
+At 8th level, the Arcane Arranger gains the supernatural ability to pull a
+specific item out of thin air. As a move action, the Arcane Arranger may cause
+any item currently in his possession (with a size no greater than Small) to
+disappear into an extra-dimensional space. The item becomes impossible to
+detect by any means, however detect magical aura spells will reveal a moderate
+magical aura around the hand that last held the item. As a move action, the
+Arcane Arranger can cause the item to reappear in his hand. The Arcane
+Arranger may only hide one item at a time in this fashion.
+
+At 10th level, the Arcane Arranger may use this ability to hide a single
+object of up to Large size or up to three objects of up to Small size (each of
+which may be retrieved individually).
+
