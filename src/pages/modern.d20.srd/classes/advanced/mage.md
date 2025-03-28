@@ -318,7 +318,7 @@ The Mage must also spend experience points to scribe a
 level * the caster level * the purchase DC of the raw materials.
 
 Finally, the Mage makes a [Craft (writing)](/modern.d20.srd/skills/craft.writing)
-[check](/modern.d20.srd/skills/skill.basics.php#skill). The DC for the check
+[check](/modern.d20.srd/skills/skill.basics). The DC for the check
 is 10 + the spell level + the caster level of the scroll. If the check fails,
 the raw materials are used up but the XP are not spent. The Mage can try
 scribing the [scroll](/modern.d20.srd/fx.items/scrolls) again as soon as he
@@ -357,7 +357,7 @@ hours. When the Mage creates a [potion](/modern.d20.srd/fx.items/potions), he
 sets the caster level. The caster level must be sufficient to cast the spell
 in question and no higher than the Mage’s class level. The caster level has an
 effect on the purchase DC of the raw materials to brew the
-[potion](/modern.d20.srd/fx.items/potions), the [skill check](/modern.d20.srd/skills/skill.basics.php#skill) to create the
+[potion](/modern.d20.srd/fx.items/potions), the [skill check](/modern.d20.srd/skills/skill.basics) to create the
 [potion](/modern.d20.srd/fx.items/potions), the experience point cost to brew
 the [potion](/modern.d20.srd/fx.items/potions), and the DC of a [saving throw](/modern.d20.srd/basics/saving.throws) (if applicable) to resist the
 effect of the potion.
@@ -371,7 +371,7 @@ The Mage must also spend experience points to brew a
 [potion](/modern.d20.srd/fx.items/potions). The XP cost is equal to the spell
 level * the caster level * the purchase DC of the raw materials. Finally, the
 Mage makes a [Craft (chemical)](/modern.d20.srd/skills/craft.chemical)
-[check](/modern.d20.srd/skills/skill.basics.php#skill). The DC for the check
+[check](/modern.d20.srd/skills/skill.basics). The DC for the check
 is 10 \+ the spell level + the caster level of the
 [potion](/modern.d20.srd/fx.items/potions). If the check fails, the raw
 materials are used up but the XP are not spent. The Mage can try brewing the
@@ -407,7 +407,7 @@ spellbook to prepare them anymore.
 
 At 7th level, a Mage becomes adept at casting spells during combat. He gets a
 +4 bonus on [Concentration](/modern.d20.srd/skills/concentration)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) made to cast a spell
+[checks](/modern.d20.srd/skills/skill.basics) made to cast a spell
 while on the defensive.
 
 ### Maximize Spell

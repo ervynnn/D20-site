@@ -45,12 +45,12 @@ The following features pertain to the Infiltrator advanced class.
 
 An Infiltrator knows how to size up an area and get the lay of the land in a
 single sweep of his or her eyes. This sweep provides a +4 circumstance bonus
-on [ Spot ](/modern.d20.srd/skills/skill.basics.php#skill) checks and covers
+on [ Spot ](/modern.d20.srd/skills/skill.basics) checks and covers
 an area out to 30 feet away from the Infiltrator. The Infiltrator can use this
 bonus at the start of an encounter.
 
-Anything not concealed can be spotted in a sweep with a successful [ check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 10). The DC for concealed
-or less obvious threats is equal to their [ Hide](/modern.d20.srd/skills/hide) [ check](/modern.d20.srd/skills/skill.basics.php#skill) result.
+Anything not concealed can be spotted in a sweep with a successful [ check](/modern.d20.srd/skills/skill.basics) (DC 10). The DC for concealed
+or less obvious threats is equal to their [ Hide](/modern.d20.srd/skills/hide) [ check](/modern.d20.srd/skills/skill.basics) result.
 
 ###  Improvised Implements
 
@@ -76,7 +76,7 @@ the prerequisites of the feat to select it.
 If an Infiltrator of 4th level or higher is exposed to any effect that
 normally allows a character to attempt a Reflex [ saving throw](/modern.d20.srd/basics/saving.throws) for half [ damage](/modern.d20.srd/combat/damage) , the Infiltrator suffers no damage if he or
 she makes a successful [ saving throw ](/modern.d20.srd/basics/saving.throws)
-and only half [ damage](https://web.archive.org/web/20190908130310/file:///C|/Documents%20and%20Settings/All%20Users/Documents/d20resources/modern.d20.srd/combat/damage.php)
+and only half [ damage](https://web.archive.org/web/20190908130310/file:///C|/Documents%20and%20Settings/All%20Users/Documents/d20resources/modern.d20.srd/combat/damage)
 on a failed [ save ](/modern.d20.srd/basics/saving.throws) . Improved evasion
 can only be used when wearing [ light armor](/modern.d20.srd/equipment/armor.light) or no armor.
 
@@ -88,8 +88,8 @@ tree.
 ###  Skill Mastery
 
 At 5th level, an Infiltrator selects a number of skills from his or her class
-list equal to 3 + his or her [ Intelligence](/modern.d20.srd/basics/ability.scores) modifier. When making a [ check](/modern.d20.srd/skills/skill.basics.php#skill) using one of these skills,
-the Infiltrator may [ take 10](/modern.d20.srd/skills/skill.basics.php#take10) even if stress and
+list equal to 3 + his or her [ Intelligence](/modern.d20.srd/basics/ability.scores) modifier. When making a [ check](/modern.d20.srd/skills/skill.basics) using one of these skills,
+the Infiltrator may [ take 10](/modern.d20.srd/skills/skill.basics) even if stress and
 distractions would normally prevent him or her from doing so.
 
 ###  Improvised Weapon Damage
@@ -103,7 +103,7 @@ it is for the purpose of determining the [ damage](/modern.d20.srd/combat/damage
 
 At 8th level, an Infiltrator’s ability to get the lay of the land improves.
 Now the Infiltrator not only spots potential perils with a successful check,
-he or she can determine the relative strength of these dangers. A successful [check ](/modern.d20.srd/skills/skill.basics.php#skill) relates the danger’s
+he or she can determine the relative strength of these dangers. A successful [check ](/modern.d20.srd/skills/skill.basics) relates the danger’s
 strength compared to the Infiltrator: stronger (higher level or Hit Dice), on
 par (same level or HD), or weaker (lower level or HD).
 

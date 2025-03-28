@@ -7,26 +7,26 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 ## Concentration ([Con](/modern.d20.srd/basics/ability.scores))
 
-[Check](/modern.d20.srd/skills/skill.basics.php#skill): A character makes a
-Concentration [check](/modern.d20.srd/skills/skill.basics.php#skill) whenever
+[Check](/modern.d20.srd/skills/skill.basics): A character makes a
+Concentration [check](/modern.d20.srd/skills/skill.basics) whenever
 he or she may potentially be distracted while engaged in some action that
 requires his or her full attention (such as making a [Disable Device](/modern.d20.srd/skills/disable.device) or [Treat Injury](/modern.d20.srd/skills/treat.injury) check). Situations such as taking
 [damage](/modern.d20.srd/combat/damage), working in a bouncing
 [vehicle](/modern.d20.srd/equipment/equipment.vehicles), or dealing with
 severe weather can require a character to make a Concentration
-[check](/modern.d20.srd/skills/skill.basics.php#skill).
+[check](/modern.d20.srd/skills/skill.basics).
 
-If the Concentration [check](/modern.d20.srd/skills/skill.basics.php#skill)
+If the Concentration [check](/modern.d20.srd/skills/skill.basics)
 succeeds, the character may continue with the action. If the Concentration
-[check](/modern.d20.srd/skills/skill.basics.php#skill) fails, the action
+[check](/modern.d20.srd/skills/skill.basics) fails, the action
 automatically fails (with the appropriate ramifications, if any), and the
 action is wasted. A successful Concentration
-[check](/modern.d20.srd/skills/skill.basics.php#skill) still doesn’t allow a
-character to [take 10](/modern.d20.srd/skills/skill.basics.php#take10) when in
+[check](/modern.d20.srd/skills/skill.basics) still doesn’t allow a
+character to [take 10](/modern.d20.srd/skills/skill.basics) when in
 a stressful situation; he or she must roll the
-[check](/modern.d20.srd/skills/skill.basics.php#skill) as normal.
+[check](/modern.d20.srd/skills/skill.basics) as normal.
 
-The [check](/modern.d20.srd/skills/skill.basics.php#skill) DC depends on the
+The [check](/modern.d20.srd/skills/skill.basics) DC depends on the
 nature of the distraction.
 
 Try Again?: Yes, though a success doesn’t cancel the effects of a previous
@@ -36,23 +36,23 @@ Special: A character can use Concentration to avoid [attacks of opportunity](/mo
 skill check that normally provokes [attacks of opportunity](/modern.d20.srd/combat/attacks.of.opportunity). The DC to do so
 is 15.
 
-If the Concentration [check](/modern.d20.srd/skills/skill.basics.php#skill)
+If the Concentration [check](/modern.d20.srd/skills/skill.basics)
 succeeds, the character may attempt the action normally without incurring any
 [attacks of opportunity](/modern.d20.srd/combat/attacks.of.opportunity). If
-the Concentration [check](/modern.d20.srd/skills/skill.basics.php#skill)
+the Concentration [check](/modern.d20.srd/skills/skill.basics)
 fails, the related check automatically fails just as if the character’s
 concentration had been disrupted by a distraction. The character does not
 provoke [attacks of opportunity](/modern.d20.srd/combat/attacks.of.opportunity), however.
 
 This use of Concentration applies only to skill
-[checks](/modern.d20.srd/skills/skill.basics.php#skill). It does not apply to
+[checks](/modern.d20.srd/skills/skill.basics). It does not apply to
 other actions that normally provoke [attacks of opportunity](/modern.d20.srd/combat/attacks.of.opportunity), such as
 [movement](/modern.d20.srd/combat/movement.and.position) or making unarmed
 attacks.
 
 A character with the [Focused](/modern.d20.srd/feats/focused) feat gets a +2
 bonus on all Concentration
-[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics).
 
 The concentration skill has further uses for characters using
 [magic](/modern.d20.srd/fx) or [psionics](/modern.d20.srd/psionics).

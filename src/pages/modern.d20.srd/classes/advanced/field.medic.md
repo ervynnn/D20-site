@@ -94,8 +94,8 @@ the prerequisites of the feat to select it.
 
 ### Medical Mastery
 
-When making a [Treat Injury](/modern.d20.srd/skills/treat.injury) [skill check](/modern.d20.srd/skills/skill.basics.php#skill), a Field Medic of 4th
-level or higher may [take 10](/modern.d20.srd/skills/skill.basics.php#take10)
+When making a [Treat Injury](/modern.d20.srd/skills/treat.injury) [skill check](/modern.d20.srd/skills/skill.basics), a Field Medic of 4th
+level or higher may [take 10](/modern.d20.srd/skills/skill.basics)
 even if stress and distractions would normally prevent him or her from doing
 so.
 
@@ -104,11 +104,11 @@ so.
 At 7th level or higher, a Field Medic can save a character reduced to –10 [hit points](/modern.d20.srd/combat/hit.points) or lower. If the Field Medic is
 able to administer aid within 3 rounds of the character’s death, he or she can
 make a [Treat Injury](/modern.d20.srd/skills/treat.injury) check. The DC for
-this check is 30, and the Field Medic can’t [take 10](/modern.d20.srd/skills/skill.basics.php#take10) or [take 20](/modern.d20.srd/skills/skill.basics.php#take20). If the check succeeds,
+this check is 30, and the Field Medic can’t [take 10](/modern.d20.srd/skills/skill.basics) or [take 20](/modern.d20.srd/skills/skill.basics). If the check succeeds,
 the dead character can make a [Fortitude save](/modern.d20.srd/basics/saving.throws) (DC 15) to stabilize and be
 restored to 0 [hit points](/modern.d20.srd/combat/hit.points).
 
-If the Field Medic fails the [skill check](/modern.d20.srd/skills/skill.basics.php#skill) or the patient fails the
+If the Field Medic fails the [skill check](/modern.d20.srd/skills/skill.basics) or the patient fails the
 save, the dead character can’t be saved.
 
 ### Medical Miracle
@@ -116,11 +116,11 @@ save, the dead character can’t be saved.
 At 10th level, a Field Medic can revive a character reduced to –10 [hit points](/modern.d20.srd/combat/hit.points) or lower. If the Field Medic is
 able to administer aid within 3 minutes of the character’s death, he or she
 can make a [Treat Injury](/modern.d20.srd/skills/treat.injury) check. The DC
-for this check is 40, and the Field Medic can’t [take 10](/modern.d20.srd/skills/skill.basics.php#take10) or [take 20](/modern.d20.srd/skills/skill.basics.php#take20). If the check succeeds,
+for this check is 40, and the Field Medic can’t [take 10](/modern.d20.srd/skills/skill.basics) or [take 20](/modern.d20.srd/skills/skill.basics). If the check succeeds,
 the dead character can make a [Fortitude save](/modern.d20.srd/basics/saving.throws) (DC 20) to stabilize and be
 restored to 1d6 [hit points](/modern.d20.srd/combat/hit.points).
 
-If the Field Medic fails the [skill check](/modern.d20.srd/skills/skill.basics.php#skill) or the patient fails the
+If the Field Medic fails the [skill check](/modern.d20.srd/skills/skill.basics) or the patient fails the
 [Fortitude save](/modern.d20.srd/basics/saving.throws), the dead character
 can’t be restored.
 

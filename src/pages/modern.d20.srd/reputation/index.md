@@ -28,14 +28,14 @@ who recognizes the hero.
 
 When a character has a positive opinion of a hero’s reputation, the hero is
 considered to be famous by that character. Fame, when recognized, provides a
-bonus to certain [ Charisma ](/modern.d20.srd/basics/ability.scores) -based [skill checks ](/modern.d20.srd/skills/skill.basics.php#skill) .
+bonus to certain [ Charisma ](/modern.d20.srd/basics/ability.scores) -based [skill checks ](/modern.d20.srd/skills/skill.basics) .
 
 When a character has a negative opinion of a hero’s reputation, the hero is
 considered to be infamous by that character. Also, at the GM’s option, a hero
 might be considered infamous in certain situations due to events that have
 transpired in the campaign.
 
-Infamy, when recognized, provides a penalty to certain [ Charisma](/modern.d20.srd/basics/ability.scores) -based [ skill checks](/modern.d20.srd/skills/skill.basics.php#skill) .
+Infamy, when recognized, provides a penalty to certain [ Charisma](/modern.d20.srd/basics/ability.scores) -based [ skill checks](/modern.d20.srd/skills/skill.basics) .
 
 ###  Using the Reputation Bonus
 

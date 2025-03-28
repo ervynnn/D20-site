@@ -89,10 +89,10 @@ limited duration.
 
 By spending 1 [action point](/modern.d20.srd/basics/action.points) and
 combining common objects with a [Craft](/modern.d20.srd/skills/craft)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) that corresponds to the
+[check](/modern.d20.srd/skills/skill.basics) that corresponds to the
 function desired, the Field Scientist can build a tool or device to deal with
 any situation. The DC for the [Craft](/modern.d20.srd/skills/craft)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) is equal to 5 + the
+[check](/modern.d20.srd/skills/skill.basics) is equal to 5 + the
 purchase DC of the object that most closely matches the desired function. Only
 objects that can normally be used more than once can be improvised.
 
@@ -122,8 +122,8 @@ feat to select it.
 At 4th level, a Field Scientist selects a number of skills from his or her
 class list equal to 3 + his or her
 [Intelligence](/modern.d20.srd/basics/ability.scores) modifier. When making a
-[skill check](/modern.d20.srd/skills/skill.basics.php#skill) using one of
-these skills, the Field Scientist may [take 10](/modern.d20.srd/skills/skill.basics.php#skill) even if stress and
+[skill check](/modern.d20.srd/skills/skill.basics) using one of
+these skills, the Field Scientist may [take 10](/modern.d20.srd/skills/skill.basics) even if stress and
 distractions would normally prevent him or her from doing so.
 
 ### Minor Breakthrough

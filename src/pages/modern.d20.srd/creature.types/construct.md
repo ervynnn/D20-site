@@ -41,7 +41,7 @@ objects or is harmless. They are not subject to [ critical hits](/modern.d20.srd
 effects of [ massive damage ](/modern.d20.srd/combat/death.dying.healing) .
 
 Repairable: Constructs cannot heal [ damage ](/modern.d20.srd/combat/damage)
-on their own but can be repaired using the [ Repair](/modern.d20.srd/skills/repair) skill. A successful [ Repair](/modern.d20.srd/skills/repair) [ check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 30) heals 1d10 points of
+on their own but can be repaired using the [ Repair](/modern.d20.srd/skills/repair) skill. A successful [ Repair](/modern.d20.srd/skills/repair) [ check](/modern.d20.srd/skills/skill.basics) (DC 30) heals 1d10 points of
 damage to a construct, and each check represents 1 hour of work. A construct
 reduced to 0 [ hit points ](/modern.d20.srd/combat/hit.points) is immediately
 destroyed and cannot be repaired.

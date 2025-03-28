@@ -31,7 +31,7 @@ the caster or his or her equipment.
 
 If a character uses this spell to create a disguise, he or she gets a +10
 bonus on the [Disguise](/modern.d20.srd/skills/disguise)
-[check](/modern.d20.srd/skills/skill.basics.php#skill).
+[check](/modern.d20.srd/skills/skill.basics).
 
 Note: Creatures get a [Will save](/modern.d20.srd/basics/saving.throws) to
 recognize the illusion if they interact with it.

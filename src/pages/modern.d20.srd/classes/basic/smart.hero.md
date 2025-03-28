@@ -150,14 +150,14 @@ minute.
 After creating the plan the Smart hero makes an
 [Intelligence](/modern.d20.srd/basics/ability.scores) check (DC 10) with a
 bonus equal to his or her Smart level. The result of the check provides the
-Smart hero and allies with a circumstance bonus. A Smart hero can’t [take 10](/modern.d20.srd/skills/skill.basics.php#take10) or
-[20](/modern.d20.srd/skills/skill.basics.php#take20) when making this check.
+Smart hero and allies with a circumstance bonus. A Smart hero can’t [take 10](/modern.d20.srd/skills/skill.basics) or
+[20](/modern.d20.srd/skills/skill.basics) when making this check.
 
 
 <table> <tr> <th>Check Result</th><th>Bonus</th></tr> <tr><td>9 or lower</td><td>+0 (check failed)</td></tr> <tr class="shaded"><td>10–14</td><td>+1</td></tr> <tr><td>15–24</td><td>+2</td></tr> <tr class="shaded"><td>25 or higher</td><td>+3</td></tr> </table>
 
 
-This bonus can be applied to all [skill checks](/modern.d20.srd/skills/skill.basics.php#skill) and attack rolls made
+This bonus can be applied to all [skill checks](/modern.d20.srd/skills/skill.basics) and attack rolls made
 by the Smart hero and his or her allies, but the bonus only lasts for the
 first 3 rounds after making the plan. After that time, reduce the bonus by 1
 point (to a minimum of +0) for every additional round the situation continues,

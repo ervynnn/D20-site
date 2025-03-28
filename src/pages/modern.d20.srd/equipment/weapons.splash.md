@@ -31,7 +31,7 @@ places, including hardware stores.
 
 A Molotov cocktail is a flask containing a flammable liquid, plugged with a
 rag. A Molotov cocktail is easily made by hand ([Craft [chemical]](/modern.d20.srd/skills/craft.chemical)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) DC 10 or
+[check](/modern.d20.srd/skills/skill.basics) DC 10 or
 [Intelligence](/modern.d20.srd/basics/ability.scores) check DC 15). The
 purchase DC given is for the components. To use it, the rag must first be lit,
 requiring a [move action](/modern.d20.srd/combat/move.actions) (and a lighter

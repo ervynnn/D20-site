@@ -7,8 +7,8 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 ## Repair ([Int](/modern.d20.srd/basics/ability.scores)) [Trained Only](/modern.d20.srd/skills/skill.basics)
 
-[Check](/modern.d20.srd/skills/skill.basics.php#skill): Most Repair
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) are made to fix
+[Check](/modern.d20.srd/skills/skill.basics): Most Repair
+[checks](/modern.d20.srd/skills/skill.basics) are made to fix
 complex electronic or mechanical devices. The DC is set by the GM. In general,
 simple repairs have a DC of 10 to 15 and require no more than a few minutes to
 accomplish. More complex repair work has a DC of 20 or higher and can require
@@ -22,10 +22,10 @@ necessary for the type of repair the character is attempting, then no [Wealth ch
 
 Jury-Rig: A character can choose to attempt jury-rigged, or temporary,
 repairs. Doing this reduces the purchase DC by 3 and the Repair
-[check](/modern.d20.srd/skills/skill.basics.php#skill) DC by 5, and allows the
+[check](/modern.d20.srd/skills/skill.basics) DC by 5, and allows the
 character to make the checks in as little as a [full- round](/modern.d20.srd/combat/full.round.actions) action. However, a jury-
 rigged repair can only fix a single problem with a
-[check](/modern.d20.srd/skills/skill.basics.php#skill), and the temporary
+[check](/modern.d20.srd/skills/skill.basics), and the temporary
 repair only lasts until the end of the current scene or encounter. The jury-
 rigged object must be fully repaired thereafter.
 
@@ -36,27 +36,27 @@ depending on the presence of security devices.
 The jury-rig application of the Repair skill can be used untrained.
 
 Try Again?: Yes, though in some specific cases, the GM may decide that a
-failed Repair [check](/modern.d20.srd/skills/skill.basics.php#skill) has
+failed Repair [check](/modern.d20.srd/skills/skill.basics) has
 negative ramifications that prevent repeated
-[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics).
 
-Special: A character can [take 10](/modern.d20.srd/skills/skill.basics.php#take10) or [take 20](/modern.d20.srd/skills/skill.basics.php#take20) on a Repair
-[check](/modern.d20.srd/skills/skill.basics.php#skill). When making a Repair
-[check](/modern.d20.srd/skills/skill.basics.php#skill) to accomplish a jury-
-rig repair, a character can’t [take 20](/modern.d20.srd/skills/skill.basics.php#take20).
+Special: A character can [take 10](/modern.d20.srd/skills/skill.basics) or [take 20](/modern.d20.srd/skills/skill.basics) on a Repair
+[check](/modern.d20.srd/skills/skill.basics). When making a Repair
+[check](/modern.d20.srd/skills/skill.basics) to accomplish a jury-
+rig repair, a character can’t [take 20](/modern.d20.srd/skills/skill.basics).
 
 Repair requires an [electrical tool kit](/modern.d20.srd/equipment/professional.equipment), a [mechanical tool kit](/modern.d20.srd/equipment/professional.equipment), or a [multipurpose tool](/modern.d20.srd/equipment/professional.equipment), depending on the
 task. If the character do not have the appropriate tools, he or she takes a –4
-penalty on the [check](/modern.d20.srd/skills/skill.basics.php#skill).
+penalty on the [check](/modern.d20.srd/skills/skill.basics).
 
 [Craft (mechanical)](/modern.d20.srd/skills/craft.mechanical) or [Craft (electronic)](/modern.d20.srd/skills/craft.electronic) can provide a +2
-[synergy bonus](/modern.d20.srd/skills/skill.basics.php#skill) on Repair
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) made for mechanical or
-electronic devices (see [Skill Synergy](/modern.d20.srd/skills/skill.basics.php#skill)).
+[synergy bonus](/modern.d20.srd/skills/skill.basics) on Repair
+[checks](/modern.d20.srd/skills/skill.basics) made for mechanical or
+electronic devices (see [Skill Synergy](/modern.d20.srd/skills/skill.basics)).
 
 A character with the [Gearhead](/modern.d20.srd/feats/gearhead) feat and at
 least 1 rank in this skill gets a +2 bonus on all Repair
-[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics).
 
 Time: See the table for guidelines. A character can make a jury-rig repair as
 a [full-round action](/modern.d20.srd/combat/full.round.actions), but the work

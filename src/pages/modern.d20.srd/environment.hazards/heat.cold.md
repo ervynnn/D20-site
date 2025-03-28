@@ -18,7 +18,7 @@ a Fortitude [ saving throw ](/modern.d20.srd/basics/saving.throws) each hour
 1d4 [ hit points ](/modern.d20.srd/combat/hit.points) . Heavy clothing or
 armor provides a –4 penalty on [ saves ](/modern.d20.srd/basics/saving.throws)
 against heat but grants a +4 equipment bonus on [ saves](/modern.d20.srd/basics/saving.throws) against cold. A character who succeeds
-at a [ Survival ](/modern.d20.srd/skills/survival) [ check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 15) gains a +4 competence
+at a [ Survival ](/modern.d20.srd/skills/survival) [ check](/modern.d20.srd/skills/skill.basics) (DC 15) gains a +4 competence
 bonus on the save (see the [ Survival ](/modern.d20.srd/skills/survival)
 skill).
 

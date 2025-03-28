@@ -29,7 +29,7 @@ per caster level. Creatures holding fragile objects can negate
 A deafened character, in addition to the obvious effects, suffers a –4 penalty
 on [initiative](/modern.d20.srd/combat/initiative) checks, automatically fails
 [Listen](/modern.d20.srd/skills/listen)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill), and has a 20% chance
+[checks](/modern.d20.srd/skills/skill.basics), and has a 20% chance
 to miscast and lose any spell with a verbal component that he or she tries to
 cast. The shout spell cannot penetrate the spell
 [silence](/modern.d20.srd/fx/silence).

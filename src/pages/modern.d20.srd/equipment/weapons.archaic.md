@@ -63,6 +63,6 @@ This is a lightweight, concealed sword that hides its blade in the shaft of a
 walking stick or umbrella. Because of this special construction, a sword cane
 is always considered to be concealed; it is noticed only with a
 [Spot](/modern.d20.srd/skills/spot)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 18). (The walking
+[check](/modern.d20.srd/skills/skill.basics) (DC 18). (The walking
 stick or umbrella is not concealed, only the blade within.)
 

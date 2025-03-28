@@ -45,18 +45,18 @@ The following features pertain to the Investigator advanced class.
 ###  Profile
 
 By making a [ Gather Information ](/modern.d20.srd/skills/gather.information)
-[ check ](/modern.d20.srd/skills/skill.basics.php#skill) (DC 15) when talking
+[ check ](/modern.d20.srd/skills/skill.basics) (DC 15) when talking
 to witnesses of a crime, the Investigator compiles a rough mental picture of
 the suspect. This mental picture provides a physical description, including
 distinguishing markings and visible mannerisms. Success makes the profile
 accurate, at least concerning a particular suspect as seen by witnesses. (For
-this [ Gather Information ](/modern.d20.srd/skills/gather.information) [ check](/modern.d20.srd/skills/skill.basics.php#skill) , no money changes hands.)
+this [ Gather Information ](/modern.d20.srd/skills/gather.information) [ check](/modern.d20.srd/skills/skill.basics) , no money changes hands.)
 
-The Investigator can expand the profile by making an [ Investigate](/modern.d20.srd/skills/investigate) [ check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 15) involving the crime
+The Investigator can expand the profile by making an [ Investigate](/modern.d20.srd/skills/investigate) [ check](/modern.d20.srd/skills/skill.basics) (DC 15) involving the crime
 scene or other evidence linked to the suspect. If successful, the Investigator
 combines eyewitness accounts with forensic evidence to develop a profile of
 the suspect’s method of operation. This provides a +2 circumstance bonus on
-any [ skill checks ](/modern.d20.srd/skills/skill.basics.php#skill) made to
+any [ skill checks ](/modern.d20.srd/skills/skill.basics) made to
 uncover additional evidence or otherwise locate and capture the suspect.
 
 ###  Contact
@@ -69,7 +69,7 @@ character, not a heroic character.
 
 A contact will not accompany an Investigator on missions or risk his or her
 life. A contact can, however, provide information or render a service (make a
-specific [ skill check ](/modern.d20.srd/skills/skill.basics.php#skill) on the
+specific [ skill check ](/modern.d20.srd/skills/skill.basics) on the
 Investigator’s behalf).
 
 At 2nd level, the Investigator gains a low-level contact, at 5th level a mid-
@@ -109,8 +109,8 @@ character is telling the truth by reading facial expressions and interpreting
 body language. The Investigator must be able to see and hear (but not
 necessarily understand) the individual under scrutiny.
 
-With a successful [ Sense Motive ](/modern.d20.srd/skills/sense.motive) [check ](/modern.d20.srd/skills/skill.basics.php#skill) opposed by the
-subject’s [ Bluff ](/modern.d20.srd/skills/bluff) [ check](/modern.d20.srd/skills/skill.basics.php#skill) result or against DC 10
+With a successful [ Sense Motive ](/modern.d20.srd/skills/sense.motive) [check ](/modern.d20.srd/skills/skill.basics) opposed by the
+subject’s [ Bluff ](/modern.d20.srd/skills/bluff) [ check](/modern.d20.srd/skills/skill.basics) result or against DC 10
 (whichever is greater), the Investigator can tell whether the subject is
 deliberately and knowingly speaking a lie. This ability doesn’t reveal the
 truth, uncover unintentional inaccuracies, or necessarily reveal omissions in
@@ -120,7 +120,7 @@ information.
 
 At 10th level, an Investigator becomes so attuned at solving mysteries that he
 or she finds a way to put two and two together and rarely misses a clue.
-Whenever the Investigator spends 1 [ action point](/modern.d20.srd/basics/action.points) to improve the result of a [ skill check ](/modern.d20.srd/skills/skill.basics.php#skill) made using certain
+Whenever the Investigator spends 1 [ action point](/modern.d20.srd/basics/action.points) to improve the result of a [ skill check ](/modern.d20.srd/skills/skill.basics) made using certain
 skills (see below), the Investigator gets to add an additional 1d6 to the
 result.
 

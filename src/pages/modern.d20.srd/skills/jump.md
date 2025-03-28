@@ -7,11 +7,11 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 ## Jump ([Str](/modern.d20.srd/basics/ability.scores)) [Armor Penalty](/modern.d20.srd/equipment/armor.general)
 
-[Check](/modern.d20.srd/skills/skill.basics.php#skill): The DC and the
+[Check](/modern.d20.srd/skills/skill.basics): The DC and the
 distance the character can cover vary according to the type of jump the
 character is attempting.
 
-The character’s Jump [check](/modern.d20.srd/skills/skill.basics.php#skill) is
+The character’s Jump [check](/modern.d20.srd/skills/skill.basics) is
 modified by his or her speed. The DCs specified below assume a speed of 30
 feet (the speed of a typical human). If the character’s speed is less than 30
 feet, he or she takes a penalty of –6 for every 10 feet of speed less than 30.
@@ -19,10 +19,10 @@ If the character’s speed is greater than 30 feet, he or she gains a bonus of
 +4 for every 10 feet over 30.
 
 If the character has ranks in the Jump skill and succeeds on a
-[check](/modern.d20.srd/skills/skill.basics.php#skill), the character lands on
+[check](/modern.d20.srd/skills/skill.basics), the character lands on
 his or her feet (when appropriate) and can move as far as the character’s
 remaining movement allows. If the character attempts a Jump
-[check](/modern.d20.srd/skills/skill.basics.php#skill) untrained, the
+[check](/modern.d20.srd/skills/skill.basics) untrained, the
 character lands prone unless he or she beats the DC by 5 or more. Standing
 from a prone position is a move action.
 
@@ -46,12 +46,12 @@ for the jump is doubled.
 
 
 If the character fails the
-[check](/modern.d20.srd/skills/skill.basics.php#skill) by less than 5, he or
+[check](/modern.d20.srd/skills/skill.basics) by less than 5, he or
 she doesn’t clear the distance, but can make a [Reflex save](/modern.d20.srd/basics/saving.throws) (DC 15) to grab the far edge of
 the gap. The character ends his or her movement grasping the far edge. If that
 leaves the character dangling over a chasm or gap, getting up requires a [move action](/modern.d20.srd/combat/move.actions) and a
 [Climb](/modern.d20.srd/skills/climb)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 15).
+[check](/modern.d20.srd/skills/skill.basics) (DC 15).
 
 High Jump: This is a vertical leap, made to jump up to grasp something
 overhead, such as a tree limb or ledge. The DC for the jump is the height x4
@@ -66,14 +66,14 @@ for the jump is doubled.
 
 
 If the character succeeds on the
-[check](/modern.d20.srd/skills/skill.basics.php#skill), he or she can reach
+[check](/modern.d20.srd/skills/skill.basics), he or she can reach
 the height. The character grasps the object he or she was trying to reach. If
 the character wishes to pull him or herself up, the character can do so with a
 [move action](/modern.d20.srd/combat/move.actions) and a
 [Climb](/modern.d20.srd/skills/climb)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 15). If the
+[check](/modern.d20.srd/skills/skill.basics) (DC 15). If the
 character fails the Jump
-[check](/modern.d20.srd/skills/skill.basics.php#skill), he or she does not
+[check](/modern.d20.srd/skills/skill.basics), he or she does not
 reach the height, and lands on his or her feet in the same square from which
 the character jumped.
 
@@ -90,7 +90,7 @@ size category smaller.
 
 
 Hop Up: The character can jump up onto an object as tall as his or her waist
-with a Jump [check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 10).
+with a Jump [check](/modern.d20.srd/skills/skill.basics) (DC 10).
 Doing so counts as 10 feet of
 [movement](/modern.d20.srd/combat/movement.and.position). The character does
 not need to get a running start to hop up (the DC is not doubled if you do not
@@ -102,28 +102,28 @@ height is 15. The character does not have to get a running start to jump down
 (the DC is not doubled if the character does not get a running start).
 
 If the character succeeds on the
-[check](/modern.d20.srd/skills/skill.basics.php#skill), he or she takes
+[check](/modern.d20.srd/skills/skill.basics), he or she takes
 [falling](/modern.d20.srd/environment.hazards/falling) damage as if the
 character had dropped 10 fewer feet than he or she actually did.
 
 Special: Effects that increase a character’s speed also increase the
 character’s jumping distance, since the
-[check](/modern.d20.srd/skills/skill.basics.php#skill) is modified by the
+[check](/modern.d20.srd/skills/skill.basics) is modified by the
 character’s speed.
 
-A character can [take 10](/modern.d20.srd/skills/skill.basics.php#take10) when
-making a Jump [check](/modern.d20.srd/skills/skill.basics.php#skill). If there
-is no danger associated with failing, the character can [take 20](/modern.d20.srd/skills/skill.basics.php#take20).
+A character can [take 10](/modern.d20.srd/skills/skill.basics) when
+making a Jump [check](/modern.d20.srd/skills/skill.basics). If there
+is no danger associated with failing, the character can [take 20](/modern.d20.srd/skills/skill.basics).
 
 A character with the [Acrobatic](/modern.d20.srd/feats/acrobatic) feat gets a
-+2 bonus on all Jump [checks](/modern.d20.srd/skills/skill.basics.php#skill).
++2 bonus on all Jump [checks](/modern.d20.srd/skills/skill.basics).
 A character with the [Run](/modern.d20.srd/feats/run) feat gains a +2
 competence bonus on Jump
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) preceded by a 20-foot
+[checks](/modern.d20.srd/skills/skill.basics) preceded by a 20-foot
 move.
 
 [Tumble](/modern.d20.srd/skills/tumble) can provide a +2 synergy bonus on Jump
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) (see [Skill Synergy](/modern.d20.srd/skills/skill.basics.php#skill)).
+[checks](/modern.d20.srd/skills/skill.basics) (see [Skill Synergy](/modern.d20.srd/skills/skill.basics)).
 
 Time: Using the Jump skill is either a [move action](/modern.d20.srd/combat/move.actions) or a [full-round action](/modern.d20.srd/combat/full.round.actions), depending on whether the
 character starts and completes the jump during a single [move action](/modern.d20.srd/combat/move.actions) or a [full-round action](/modern.d20.srd/combat/full.round.actions).

@@ -32,7 +32,7 @@ Additional blocks can be wired together, increasing the damage and burst
 radius; each additional block increases the
 [damage](/modern.d20.srd/combat/damage) by +2d6 and the burst radius by 2
 feet, and requires a [Demolitions](/modern.d20.srd/skills/demolitions)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 15) to link them.
+[check](/modern.d20.srd/skills/skill.basics) (DC 15) to link them.
 
 Although the [damage](/modern.d20.srd/combat/damage) statistics on the table
 represent a 1-pound block, C4 is sold in 4-block packages. The purchase DC
@@ -40,7 +40,7 @@ given represents a package of 4 blocks.
 
 C4/Semtex requires a detonator to set off. It is considered to be a moderate
 explosive for the purpose of using a [Craft (chemical)](/modern.d20.srd/skills/craft.chemical)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) to manufacture it.
+[check](/modern.d20.srd/skills/skill.basics) to manufacture it.
 
 ### Det Cord
 
@@ -62,7 +62,7 @@ a maximum increase of +4d6.
 
 Det cord requires a detonator to set it off. It is considered to be a simple
 explosive for the purpose of using a [Craft (chemical)](/modern.d20.srd/skills/craft.chemical)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) to manufacture it.
+[check](/modern.d20.srd/skills/skill.basics) to manufacture it.
 
 ### Dynamite
 
@@ -77,14 +77,14 @@ radius by 5 feet (maximum 20 feet).
 It’s possible to wire together several sticks of dynamite for even greater
 explosive effect. Doing so requires a
 [Demolitions](/modern.d20.srd/skills/demolitions)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 10 + 1 per stick).
+[check](/modern.d20.srd/skills/skill.basics) (DC 10 + 1 per stick).
 If the character succeeds on the check, the
 [damage](/modern.d20.srd/combat/damage) or the burst radius of the explosion
 increases by 50% (the character’s choice).
 
 Dynamite is sold in boxes of 12 sticks. It is considered to be a simple
 explosive for the purpose of using a [Craft (chemical)](/modern.d20.srd/skills/craft.chemical)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) to manufacture it.
+[check](/modern.d20.srd/skills/skill.basics) to manufacture it.
 
 To set off dynamite using a fuse, the fuse must first be lit, requiring a move
 action (and a lighter or other source of flame). The amount of time until the

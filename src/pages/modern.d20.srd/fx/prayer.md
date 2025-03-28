@@ -18,6 +18,6 @@ None; [ Spell Resistance ](/modern.d20.srd/special.abilities/spell.resistance)
 
 The caster brings special favor upon him or herself and allies while bringing
 disfavor to his or her enemies. The caster and allies gain a +1 luck bonus on
-[ attack rolls ](/modern.d20.srd/combat/attack.roll) , weapon [ damage](/modern.d20.srd/combat/damage) rolls, [ saves](/modern.d20.srd/basics/saving.throws) , and [ skill checks](/modern.d20.srd/skills/skill.basics.php#skill) , while foes take a –1
+[ attack rolls ](/modern.d20.srd/combat/attack.roll) , weapon [ damage](/modern.d20.srd/combat/damage) rolls, [ saves](/modern.d20.srd/basics/saving.throws) , and [ skill checks](/modern.d20.srd/skills/skill.basics) , while foes take a –1
 penalty on such rolls.
 

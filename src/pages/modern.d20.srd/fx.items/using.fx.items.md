@@ -17,9 +17,9 @@ and the item activates. No other special knowledge is needed.
 
 The [ Knowledge ](/modern.d20.srd/skills/knowledge) (arcane lore) skill might
 be useful in identifying secret command words or deciphering clues regarding
-them. A successful [ check ](/modern.d20.srd/skills/skill.basics.php#skill)
-(DC 30) is needed to come up with the word itself. If that [ check](/modern.d20.srd/skills/skill.basics.php#skill) is failed, succeeding at a
-second [ check ](/modern.d20.srd/skills/skill.basics.php#skill) (DC 25) might
+them. A successful [ check ](/modern.d20.srd/skills/skill.basics)
+(DC 30) is needed to come up with the word itself. If that [ check](/modern.d20.srd/skills/skill.basics) is failed, succeeding at a
+second [ check ](/modern.d20.srd/skills/skill.basics) (DC 25) might
 provide some insight or clue to discovering the command word or phrase.
 
 Activating a command word FX item is an [ attack action](/modern.d20.srd/combat/attack.actions) and does not provoke [ attacks of opportunity ](/modern.d20.srd/combat/attacks.of.opportunity) .

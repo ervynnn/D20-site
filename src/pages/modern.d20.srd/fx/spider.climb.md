@@ -15,5 +15,5 @@ Touch; [ Target ](/modern.d20.srd/fx/target) : Creature touched; [ Duration](/mo
 
 The subject can climb and travel on vertical surfaces or even traverse
 ceilings. The affected creature must have its hands free to climb in this
-manner. The subject gains a climb speed of 20 feet and need not make [ Climb](/modern.d20.srd/skills/climb) [ checks](/modern.d20.srd/skills/skill.basics.php#skill) to scale a surface.
+manner. The subject gains a climb speed of 20 feet and need not make [ Climb](/modern.d20.srd/skills/climb) [ checks](/modern.d20.srd/skills/skill.basics) to scale a surface.
 

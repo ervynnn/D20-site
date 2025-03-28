@@ -7,5 +7,5 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 ##  Athletic
 
-Benefit: The character gets a +2 bonus on all [ Climb](/modern.d20.srd/skills/climb) [ checks](/modern.d20.srd/skills/skill.basics.php#skill) and [ Swim](/modern.d20.srd/skills/swim) [ checks](/modern.d20.srd/skills/skill.basics.php#skill) .
+Benefit: The character gets a +2 bonus on all [ Climb](/modern.d20.srd/skills/climb) [ checks](/modern.d20.srd/skills/skill.basics) and [ Swim](/modern.d20.srd/skills/swim) [ checks](/modern.d20.srd/skills/skill.basics) .
 

@@ -12,7 +12,7 @@ photographs, use a video camera, or in some other way create a work of visual
 art.
 
 When attempting to create a work of visual art, the character simply makes a
-Craft (visual art) [check](/modern.d20.srd/skills/skill.basics.php#skill), the
+Craft (visual art) [check](/modern.d20.srd/skills/skill.basics), the
 result of which determines the quality of the work.
 
 Unless the effort is particularly elaborate or the character must acquire an
@@ -27,5 +27,5 @@ a day, or more, depending on the scope of the project.
 
 Special: A character with the [Creative](/modern.d20.srd/feats/creative) feat
 gets a +2 bonus on all Craft (visual art)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics).
 

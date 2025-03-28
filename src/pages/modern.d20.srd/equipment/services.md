@@ -44,7 +44,7 @@ may not be granted bail at all. The purchase DCs shown assume the suspect is
 viewed positively by the court. If not, increase the purchase DC by as much as
 5. Whatever the base purchase DC, a successful
 [Diplomacy](/modern.d20.srd/skills/diplomacy)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 15) by the suspect
+[check](/modern.d20.srd/skills/skill.basics) (DC 15) by the suspect
 reduces the purchase DC by 2.
 
 Property Crime: The crime involved only the destruction of property; no one
@@ -64,8 +64,8 @@ See the [Treat Injury](/modern.d20.srd/skills/treat.injury) skill for more
 information on the medical services described below.
 
 In a hospital setting, the necessary [Treat Injury](/modern.d20.srd/skills/treat.injury)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) are always successful.
-The purchase DC is per [check](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics) are always successful.
+The purchase DC is per [check](/modern.d20.srd/skills/skill.basics).
 
 Long-Term Care: The purchase DC represents treatment for regaining [hit points](/modern.d20.srd/combat/hit.points) or [ability score points](/modern.d20.srd/basics/ability.scores) more quickly than normal on a
 given day.

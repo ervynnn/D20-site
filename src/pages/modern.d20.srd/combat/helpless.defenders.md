@@ -18,7 +18,7 @@ the target can use his or her
 considered unaware. Further, any reasonable precaution taken by a target,
 including stationing bodyguards, placing his or her back to a wall, or being
 able to make [Spot](/modern.d20.srd/skills/spot)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill), also precludes
+[checks](/modern.d20.srd/skills/skill.basics), also precludes
 catching that target unaware and helpless.
 
 ### Regular Attack

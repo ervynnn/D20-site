@@ -66,7 +66,7 @@ selected more than once unless expressly indicated.
 
 A Strong hero can push him or herself to make an extreme effort. The effort
 must relate either to a [Strength](/modern.d20.srd/basics/ability.scores)
-check or a [Strength](/modern.d20.srd/basics/ability.scores)-based [skill check](/modern.d20.srd/skills/skill.basics.php#skill). You must decide to use
+check or a [Strength](/modern.d20.srd/basics/ability.scores)-based [skill check](/modern.d20.srd/skills/skill.basics). You must decide to use
 this ability before making the check.
 
 **Extreme Effort** : The effort requires a [full-round action](/modern.d20.srd/combat/full.round.actions) and provides a +2 bonus on

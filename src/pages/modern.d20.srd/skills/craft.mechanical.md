@@ -21,9 +21,9 @@ simple, moderate, complex, or advanced compared to current technology.
 
 
 Special: A character without a [mechanical tool kit](/modern.d20.srd/equipment/professional.equipment) takes a –4 penalty on
-Craft (mechanical) [checks](/modern.d20.srd/skills/skill.basics.php#skill).
+Craft (mechanical) [checks](/modern.d20.srd/skills/skill.basics).
 
 A character with the [Builder](/modern.d20.srd/feats/builder) feat gets a +2
 bonus on all Craft (mechanical)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics).
 

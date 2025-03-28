@@ -7,15 +7,15 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 ## Swim ([Str](/modern.d20.srd/basics/ability.scores)) [Armor Penalty](/modern.d20.srd/equipment/armor.general)
 
-[Check](/modern.d20.srd/skills/skill.basics.php#skill): A successful Swim
-[check](/modern.d20.srd/skills/skill.basics.php#skill) allows a character to
+[Check](/modern.d20.srd/skills/skill.basics): A successful Swim
+[check](/modern.d20.srd/skills/skill.basics) allows a character to
 swim one-quarter his or her speed as a [move action](/modern.d20.srd/combat/move.actions) or half the character’s speed as
 a [full-round](/modern.d20.srd/combat/full.round.actions) action. Roll once
 per round. If the character fails, he or she makes no progress through the
 water. If the character fails by 5 or more, he or she goes underwater.
 
 If the character is underwater (from failing a swim
-[check](/modern.d20.srd/skills/skill.basics.php#skill) or because the
+[check](/modern.d20.srd/skills/skill.basics) or because the
 character is swimming underwater intentionally), the character must hold his
 or her breath. A character can hold his or her breath for a number of rounds
 equal to the character’s Constitution score, but only if the character does
@@ -28,7 +28,7 @@ holding his or her breath. Each round, the DC of the check increases by 1. If
 the character fails the check, the character begins to
 [drown](/modern.d20.srd/environment.hazards/suffocation.drowning).
 
-The DC for the Swim [check](/modern.d20.srd/skills/skill.basics.php#skill)
+The DC for the Swim [check](/modern.d20.srd/skills/skill.basics)
 depends on the water:
 
 
@@ -36,30 +36,30 @@ depends on the water:
 
 
 Each hour that the character swims, make a Swim
-[check](/modern.d20.srd/skills/skill.basics.php#skill) against DC 20. If the
+[check](/modern.d20.srd/skills/skill.basics) against DC 20. If the
 character fails, he or she becomes fatigued. If the character fails a
-[check](/modern.d20.srd/skills/skill.basics.php#skill) while fatigued, the
+[check](/modern.d20.srd/skills/skill.basics) while fatigued, the
 character becomes exhausted. If the character fails a
-[check](/modern.d20.srd/skills/skill.basics.php#skill) while exhausted, the
+[check](/modern.d20.srd/skills/skill.basics) while exhausted, the
 character becomes unconscious. Unconscious characters go underwater and
 immediately begin to
 [drown](/modern.d20.srd/environment.hazards/suffocation.drowning).
 
-Try Again?: A new [check](/modern.d20.srd/skills/skill.basics.php#skill) is
+Try Again?: A new [check](/modern.d20.srd/skills/skill.basics) is
 allowed the round after a
-[check](/modern.d20.srd/skills/skill.basics.php#skill) is failed.
+[check](/modern.d20.srd/skills/skill.basics) is failed.
 
 Special: A character takes a penalty of –1 for every 5 pounds of gear he or
 she carries, including [armor](/modern.d20.srd/equipment/armor.general) and
 [weapons](/modern.d20.srd/equipment/equipment.weapons).
 
-A character can [take 10](/modern.d20.srd/skills/skill.basics.php#take10) when
-making a Swim [check](/modern.d20.srd/skills/skill.basics.php#skill), but
-can’t [take 20](/modern.d20.srd/skills/skill.basics.php#take20).
+A character can [take 10](/modern.d20.srd/skills/skill.basics) when
+making a Swim [check](/modern.d20.srd/skills/skill.basics), but
+can’t [take 20](/modern.d20.srd/skills/skill.basics).
 
 A character with the [Athletic](/modern.d20.srd/feats/athletic) feat gets a +2
-bonus on all Swim [checks](/modern.d20.srd/skills/skill.basics.php#skill).
+bonus on all Swim [checks](/modern.d20.srd/skills/skill.basics).
 
-Time: A Swim [check](/modern.d20.srd/skills/skill.basics.php#skill) is either
+Time: A Swim [check](/modern.d20.srd/skills/skill.basics) is either
 a [move action](/modern.d20.srd/combat/move.actions) or a [full-round action](/modern.d20.srd/combat/full.round.actions), as described above.
 

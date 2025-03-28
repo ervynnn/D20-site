@@ -44,5 +44,5 @@ Covering a larger area of the torso, this vest provides better protection than
 the light undercover shirt—but it’s also more easily noticed. It’s best used
 when the armor should remain unseen but the wearer doesn’t expect to face much
 scrutiny, granting a +2 bonus on [Spot](/modern.d20.srd/skills/spot)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) to notice the armor.
+[checks](/modern.d20.srd/skills/skill.basics) to notice the armor.
 

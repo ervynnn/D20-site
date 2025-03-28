@@ -70,7 +70,7 @@ hurt, oppress, and kill others, and to debase or destroy innocent life.
 
 An allegiance can create an empathic bond with others of the same allegiance.
 With the GM’s permission, the character gains a +2 circumstance bonus on
-[Charisma](/modern.d20.srd/basics/ability.scores)-based [skill checks](/modern.d20.srd/skills/skill.basics.php#skill) when dealing with
+[Charisma](/modern.d20.srd/basics/ability.scores)-based [skill checks](/modern.d20.srd/skills/skill.basics) when dealing with
 someone of the same allegiance—as long as the character has had some
 interaction with the other character to discover the connections and bring the
 bonus into play.

@@ -41,9 +41,9 @@ an individual usually involves denoting a password that the caster can share
 with friends.
 
 A successful [Search](/modern.d20.srd/skills/search)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 29) finds an energy
+[check](/modern.d20.srd/skills/skill.basics) (DC 29) finds an energy
 trap, and a successful [Disable Device](/modern.d20.srd/skills/disable.device)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 29) safely removes
+[check](/modern.d20.srd/skills/skill.basics) (DC 29) safely removes
 it.
 
 Material [Components](/modern.d20.srd/fx/components): Purchase DC 10.

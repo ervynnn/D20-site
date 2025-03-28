@@ -66,7 +66,7 @@ The following features pertain to the Techie advanced class.
 ### Jury-Rig
 
 A Techie gains a +2 competence bonus on
-[Repair](/modern.d20.srd/skills/repair) [skill checks](/modern.d20.srd/skills/skill.basics.php#skill) made to attempt
+[Repair](/modern.d20.srd/skills/repair) [skill checks](/modern.d20.srd/skills/skill.basics) made to attempt
 temporary or jury-rigged repairs. See the [Repair skill](/modern.d20.srd/skills/repair) for details on jury-rigging. At 7th
 level, this competence bonus increases to +4.
 
@@ -82,16 +82,16 @@ can get maximum performance out of it.
 By spending 1 [action point](/modern.d20.srd/basics/action.points) and making
 either a [Craft (electronic)](/modern.d20.srd/skills/craft.electronic) or
 [Craft (mechanical)](/modern.d20.srd/skills/craft.mechanical)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (whichever is
+[check](/modern.d20.srd/skills/skill.basics) (whichever is
 appropriate for the machine in question), the Techie can temporarily improve a
 machine’s performance—at the risk of causing the machine to need repairs
 later. The DC for the [Craft](/modern.d20.srd/skills/craft)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) depends on the type of
+[check](/modern.d20.srd/skills/skill.basics) depends on the type of
 improvement being made, as shown on the table below.
 
 The Techie performs the extreme modifications in 1 hour. The Techie can’t
-[take 10](/modern.d20.srd/skills/skill.basics.php#take10) or [take 20](/modern.d20.srd/skills/skill.basics.php#take20) on this
-[check](/modern.d20.srd/skills/skill.basics.php#skill). If the check succeeds,
+[take 10](/modern.d20.srd/skills/skill.basics) or [take 20](/modern.d20.srd/skills/skill.basics) on this
+[check](/modern.d20.srd/skills/skill.basics). If the check succeeds,
 the effect of the improvement lasts for a number of minutes equal to his or
 her Techie class level, beginning when the object is first put into use. The
 Techie selects the single improvement he or she wants to make prior to making
@@ -145,7 +145,7 @@ gather the necessary components prior to starting construction.
 
 Construct Frame: The [robot’s](/modern.d20.srd/creatures/robot) body
 determines its size, shape, locomotion, and hit points. The DC of the [Craft (mechanical)](/modern.d20.srd/skills/craft.mechanical)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) is set by the
+[check](/modern.d20.srd/skills/skill.basics) is set by the
 [robot’s](/modern.d20.srd/creatures/robot) size and modified by the form of
 locomotion selected.
 
@@ -162,7 +162,7 @@ locomotion selected.
 Select a frame size and form, add manipulators and sensors as necessary, and
 choose a type of remote control link. Add all the modifiers to determine the
 check’s DC. Make the [Craft (mechanical)](/modern.d20.srd/skills/craft.mechanical)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) to construct the
+[check](/modern.d20.srd/skills/skill.basics) to construct the
 [robot’s](/modern.d20.srd/creatures/robot) frame.
 
 It takes a Techie 30 hours to construct a Diminutive
@@ -184,7 +184,7 @@ components that need to be wired together. For a Diminutive robot, the DC is
 20. For a Tiny [robot](/modern.d20.srd/creatures/robot), the DC is 15. Add +1
 to the DC for each external component and +2 for the remote link. Make the
 [Craft (electronic)](/modern.d20.srd/skills/craft.electronic)
-[check](/modern.d20.srd/skills/skill.basics.php#skill).
+[check](/modern.d20.srd/skills/skill.basics).
 
 It takes a Techie 12 hours to wire a Diminutive
 [robot](/modern.d20.srd/creatures/robot) or 6 hours to wire a Tiny
@@ -196,18 +196,18 @@ ranks of the appropriate skill to program into the
 [robot](/modern.d20.srd/creatures/robot), up to the number of ranks the Techie
 has in the skill. A Techie’s [robot](/modern.d20.srd/creatures/robot) can only
 contain programming for one skill. Make the [Computer Use](/modern.d20.srd/skills/computer.use)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) to program the
+[check](/modern.d20.srd/skills/skill.basics) to program the
 [robot](/modern.d20.srd/creatures/robot).
 
 The DC for the [Computer Use](/modern.d20.srd/skills/computer.use)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) is 20, modified by the
+[check](/modern.d20.srd/skills/skill.basics) is 20, modified by the
 number of ranks the Techie wants to program into the robot (+1 to the DC for
 each rank). It takes 1 hour to program the
 [robot](/modern.d20.srd/creatures/robot).
 
 Reprogramming: A [robot](/modern.d20.srd/creatures/robot) can be reprogrammed
 at any time. Doing this requires 1 hour of work and a [Computer Use](/modern.d20.srd/skills/computer.use)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 20 + the number of
+[check](/modern.d20.srd/skills/skill.basics) (DC 20 + the number of
 ranks programmed into the [robot](/modern.d20.srd/creatures/robot)).
 
 ### Mastercraft
@@ -238,7 +238,7 @@ Techie can add the
 [mastercraft](/modern.d20.srd/equipment/mastercraft.objects) feature to an
 existing ordinary object by making the [Wealth check](/modern.d20.srd/wealth/wealth.check) and then making the
 [Craft](/modern.d20.srd/skills/craft)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) as though he or she
+[check](/modern.d20.srd/skills/skill.basics) as though he or she
 were constructing the object from scratch.
 
 In addition to the [Wealth check](/modern.d20.srd/wealth/wealth.check), the
@@ -246,7 +246,7 @@ Techie must also pay a cost in experience points equal to 25 x his or her
 Techie level x the bonus provided by the
 [mastercraft](/modern.d20.srd/equipment/mastercraft.objects) feature. The XP
 must be paid before making the [Craft](/modern.d20.srd/skills/craft)
-[check](/modern.d20.srd/skills/skill.basics.php#skill). If the expenditure of
+[check](/modern.d20.srd/skills/skill.basics). If the expenditure of
 these XP would drop the Techie to below the minimum needed for his or her
 current level, then the XP can’t be paid and the Techie can’t use the
 [mastercraft](/modern.d20.srd/equipment/mastercraft.objects) ability until he

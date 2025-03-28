@@ -28,7 +28,7 @@ An entangled creature takes a –2 penalty on [attack rolls](/modern.d20.srd/com
 [Dexterity](/modern.d20.srd/basics/ability.scores), and can’t move. An
 entangled character who attempts to cast a spell must make a
 [Concentration](/modern.d20.srd/skills/concentration)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 15) or lose the
+[check](/modern.d20.srd/skills/skill.basics) (DC 15) or lose the
 spell.
 
 Anyone in the effect’s area when the spell is cast must make a [Reflex save](/modern.d20.srd/basics/saving.throws). If this
@@ -38,14 +38,14 @@ to become stuck (see below). If the
 [save](/modern.d20.srd/basics/saving.throws) fails, the creature is stuck. A
 stuck creature can break loose by spending 1 round and succeeding on a
 [Strength](/modern.d20.srd/basics/ability.scores) check (DC 20) or an [Escape Artist](/modern.d20.srd/skills/escape.artist)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 25). Once loose
+[check](/modern.d20.srd/skills/skill.basics) (DC 25). Once loose
 (either by making the initial [Reflex save](/modern.d20.srd/basics/saving.throws) or a later
 [Strength](/modern.d20.srd/basics/ability.scores) check or [Escape Artist](/modern.d20.srd/skills/escape.artist)
-[check](/modern.d20.srd/skills/skill.basics.php#skill)), a creature may
+[check](/modern.d20.srd/skills/skill.basics)), a creature may
 progress through the web very slowly. Each round devoted to moving allows the
 creature to make a new [Strength](/modern.d20.srd/basics/ability.scores) check
 or [Escape Artist](/modern.d20.srd/skills/escape.artist)
-[check](/modern.d20.srd/skills/skill.basics.php#skill). The creature moves 5
+[check](/modern.d20.srd/skills/skill.basics). The creature moves 5
 feet for each full 5 points by which the check result exceeds 10.
 
 The web provides one-quarter [cover](/modern.d20.srd/combat/cover) for every 5

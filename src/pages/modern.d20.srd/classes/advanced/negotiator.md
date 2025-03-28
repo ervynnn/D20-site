@@ -44,7 +44,7 @@ All of the following are features of the Negotiator advanced class.
 ###  Conceal Motive
 
 A Negotiator gets to add a bonus equal to his or her Negotiator level whenever
-he or she opposes a [ Sense Motive ](/modern.d20.srd/skills/sense.motive) [check ](/modern.d20.srd/skills/skill.basics.php#skill) .
+he or she opposes a [ Sense Motive ](/modern.d20.srd/skills/sense.motive) [check ](/modern.d20.srd/skills/skill.basics) .
 
 ###  React First
 

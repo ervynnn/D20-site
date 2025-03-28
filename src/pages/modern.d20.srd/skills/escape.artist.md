@@ -7,8 +7,8 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 ## Escape Artist ([Dex](/modern.d20.srd/basics/ability.scores)) [Armor Penalty](/modern.d20.srd/equipment/armor.general)
 
-[Check](/modern.d20.srd/skills/skill.basics.php#skill): Make a
-[check](/modern.d20.srd/skills/skill.basics.php#skill) to escape from
+[Check](/modern.d20.srd/skills/skill.basics): Make a
+[check](/modern.d20.srd/skills/skill.basics) to escape from
 restraints or to squeeze through a tight space.
 
 
@@ -16,19 +16,19 @@ restraints or to squeeze through a tight space.
 
 
 For ropes, a character’s Escape Artist
-[check](/modern.d20.srd/skills/skill.basics.php#skill) is opposed by the
+[check](/modern.d20.srd/skills/skill.basics) is opposed by the
 [Dexterity check](/modern.d20.srd/skills/skill.basics) result of the opponent
 who tied the bonds. Since it’s easier to tie someone up than to escape from
 being tied up, the opponent gets a +20 bonus on his or her [Dexterity check](/modern.d20.srd/skills/skill.basics).
 
-For a tight space, a [check](/modern.d20.srd/skills/skill.basics.php#skill) is
+For a tight space, a [check](/modern.d20.srd/skills/skill.basics) is
 only called for if the character’s head fits but his or her shoulders don’t.
 If the space is long, such as in an airshaft, the GM may call for multiple
-[checks](/modern.d20.srd/skills/skill.basics.php#skill). A character can’t fit
+[checks](/modern.d20.srd/skills/skill.basics). A character can’t fit
 through a space that his or her head doesn’t fit through.
 
 A character can make an Escape Artist
-[check](/modern.d20.srd/skills/skill.basics.php#skill) opposed by his or her
+[check](/modern.d20.srd/skills/skill.basics) opposed by his or her
 opponent’s [grapple check](/modern.d20.srd/combat/grapple) to get out of a
 [grapple](/modern.d20.srd/combat/grapple) or out of a pinned condition (so
 that the character is just being [grappled](/modern.d20.srd/combat/grapple)).
@@ -37,26 +37,26 @@ the character escapes the [grapple](/modern.d20.srd/combat/grapple) he or she
 can move in the same round.
 
 Try Again?: A character can make another
-[check](/modern.d20.srd/skills/skill.basics.php#skill) after a failed
-[check](/modern.d20.srd/skills/skill.basics.php#skill) if the character is
+[check](/modern.d20.srd/skills/skill.basics) after a failed
+[check](/modern.d20.srd/skills/skill.basics) if the character is
 squeezing through a tight space, making multiple
-[checks](/modern.d20.srd/skills/skill.basics.php#skill). If the situation
+[checks](/modern.d20.srd/skills/skill.basics). If the situation
 permits, the character can make additional
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) as long as he or she
+[checks](/modern.d20.srd/skills/skill.basics) as long as he or she
 is not being actively opposed.
 
-Special: A character can [take 10](/modern.d20.srd/skills/skill.basics.php#take10) on an Escape Artist
-[check](/modern.d20.srd/skills/skill.basics.php#skill). A character can [take 20](/modern.d20.srd/skills/skill.basics.php#take20) if he or she is not being
-actively opposed (a character can [take 20](/modern.d20.srd/skills/skill.basics.php#take20) if he or she is tied up,
+Special: A character can [take 10](/modern.d20.srd/skills/skill.basics) on an Escape Artist
+[check](/modern.d20.srd/skills/skill.basics). A character can [take 20](/modern.d20.srd/skills/skill.basics) if he or she is not being
+actively opposed (a character can [take 20](/modern.d20.srd/skills/skill.basics) if he or she is tied up,
 even though it’s an opposed
-[check](/modern.d20.srd/skills/skill.basics.php#skill), because the opponent
+[check](/modern.d20.srd/skills/skill.basics), because the opponent
 isn’t actively opposing the character).
 
 A character with the [Nimble](/modern.d20.srd/feats/nimble) feat gets a +2
 bonus on all Escape Artist
-[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics).
 
-Time: Making a [check](/modern.d20.srd/skills/skill.basics.php#skill) to
+Time: Making a [check](/modern.d20.srd/skills/skill.basics) to
 escape from being bound by ropes, handcuffs, or other restraints (except a
 [grappler](/modern.d20.srd/combat/grapple)) requires 1 minute. Escaping a net
 is a [full-round action](/modern.d20.srd/combat/full.round.actions). Squeezing

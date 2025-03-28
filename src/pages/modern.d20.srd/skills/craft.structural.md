@@ -21,9 +21,9 @@ structure he or she wants to construct; then the Gamemaster decides if the
 structure is simple, moderate, complex, or advanced in scope and difficulty.
 
 Special: A character without a [mechanical tool kit](/modern.d20.srd/equipment/professional.equipment) takes a –4 penalty on
-Craft (structural) [checks](/modern.d20.srd/skills/skill.basics.php#skill).
+Craft (structural) [checks](/modern.d20.srd/skills/skill.basics).
 
 A character with the [Builder](/modern.d20.srd/feats/builder) feat gets a +2
 bonus on all Craft (structural)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics).
 

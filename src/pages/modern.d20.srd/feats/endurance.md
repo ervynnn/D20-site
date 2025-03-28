@@ -8,9 +8,9 @@ layout: '~/layouts/MarkdownLayout.astro'
 ## Endurance
 
 Benefit: The character gains a +4 bonus on the following
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) and saves: hourly
+[checks](/modern.d20.srd/skills/skill.basics) and saves: hourly
 [Swim](/modern.d20.srd/skills/swim)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) to avoid becoming
+[checks](/modern.d20.srd/skills/skill.basics) to avoid becoming
 fatigued, [Constitution](/modern.d20.srd/basics/ability.scores)
 [checks](/modern.d20.srd/skills/skill.basics) to continue running,
 [Constitution](/modern.d20.srd/basics/ability.scores)

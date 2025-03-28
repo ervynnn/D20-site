@@ -7,12 +7,12 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 ## Gather Information ([Cha](/modern.d20.srd/basics/ability.scores))
 
-[Check](/modern.d20.srd/skills/skill.basics.php#skill): By succeeding at a
-skill [check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 10) and
+[Check](/modern.d20.srd/skills/skill.basics): By succeeding at a
+skill [check](/modern.d20.srd/skills/skill.basics) (DC 10) and
 spending 1d4+1 hours passing out money and buying drinks, a character can get
 a feel for the major news items in a neighborhood. This result assumes that no
 obvious reasons exist why information would be withheld. The higher the
-[check](/modern.d20.srd/skills/skill.basics.php#skill) result, the better the
+[check](/modern.d20.srd/skills/skill.basics) result, the better the
 information.
 
 If the situation doesn’t require the expenditure of money, no [Wealth check](/modern.d20.srd/wealth/wealth.check) is necessary.
@@ -41,17 +41,17 @@ character extra money). Increase the [Wealth check](/modern.d20.srd/wealth/wealt
 bonus the character wants to add to his or her skill check.
 
 Try Again?: Yes, but it takes 1d4+1 hours for each
-[check](/modern.d20.srd/skills/skill.basics.php#skill), and characters may
+[check](/modern.d20.srd/skills/skill.basics), and characters may
 draw attention to themselves if they repeatedly pursue a certain type of
 information.
 
-Special: A character can [take 10](/modern.d20.srd/skills/skill.basics.php#take10) when making a Gather
-Information check, but cannot [take 20](/modern.d20.srd/skills/skill.basics.php#take20).
+Special: A character can [take 10](/modern.d20.srd/skills/skill.basics) when making a Gather
+Information check, but cannot [take 20](/modern.d20.srd/skills/skill.basics).
 
 A character with the [Trustworthy](/modern.d20.srd/feats/trustworthy) feat
 gets a +2 bonus on all Gather Information
-[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics).
 
 Time: A Gather Information
-[check](/modern.d20.srd/skills/skill.basics.php#skill) takes 1d4+1 hours.
+[check](/modern.d20.srd/skills/skill.basics) takes 1d4+1 hours.
 

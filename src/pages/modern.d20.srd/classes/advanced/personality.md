@@ -62,15 +62,15 @@ The following features pertain to the Personality advanced class.
 
 When others would normally make a
 [Diplomacy](/modern.d20.srd/skills/diplomacy)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) or
+[check](/modern.d20.srd/skills/skill.basics) or
 [Bluff](/modern.d20.srd/skills/bluff)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) to smooth-talk or trick
+[check](/modern.d20.srd/skills/skill.basics) to smooth-talk or trick
 their way into a private party or invitation-only event, the Personality adds
 a bonus equal to his or her Personality level.
 
 When a Personality buys a ticket to a show or for transportation, he or she
 can make a [Diplomacy](/modern.d20.srd/skills/diplomacy)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) to get that ticket
+[check](/modern.d20.srd/skills/skill.basics) to get that ticket
 upgraded. DCs are given below.
 
 ### Bonus Class Skill
@@ -143,9 +143,9 @@ succeeds at the [saving throw](/modern.d20.srd/basics/saving.throws), he or
 she is immune to the compulsion of this performance. If the target fails, he
 or she reacts to the emotion as described below.
 
-Despair: The target takes a –2 morale penalty on [saving throw](/modern.d20.srd/basics/saving.throws)s, [attack rolls](/modern.d20.srd/combat/attack.roll), [ability checks](/modern.d20.srd/basics/ability.scores), [skill checks](/modern.d20.srd/skills/skill.basics.php#skill), and weapon [damage rolls](/modern.d20.srd/combat/damage).
+Despair: The target takes a –2 morale penalty on [saving throw](/modern.d20.srd/basics/saving.throws)s, [attack rolls](/modern.d20.srd/combat/attack.roll), [ability checks](/modern.d20.srd/basics/ability.scores), [skill checks](/modern.d20.srd/skills/skill.basics), and weapon [damage rolls](/modern.d20.srd/combat/damage).
 
-Hope: The target gains a +2 morale bonus on [saving throw](/modern.d20.srd/basics/saving.throws)s, [attack rolls](/modern.d20.srd/combat/attack.roll), [ability checks](/modern.d20.srd/basics/ability.scores), [skill checks](/modern.d20.srd/skills/skill.basics.php#skill), and weapon [damage rolls](/modern.d20.srd/combat/damage).
+Hope: The target gains a +2 morale bonus on [saving throw](/modern.d20.srd/basics/saving.throws)s, [attack rolls](/modern.d20.srd/combat/attack.roll), [ability checks](/modern.d20.srd/basics/ability.scores), [skill checks](/modern.d20.srd/skills/skill.basics), and weapon [damage rolls](/modern.d20.srd/combat/damage).
 
 Rage: The target gains a +2 morale bonus to
 [Strength](/modern.d20.srd/basics/ability.scores) and

@@ -31,10 +31,10 @@ from a long distance.
 
 Standard: Standard binoculars reduce the range penalty for
 [Spot](/modern.d20.srd/skills/spot)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) to –1 for every 50
+[checks](/modern.d20.srd/skills/skill.basics) to –1 for every 50
 feet (instead of –1 for every 10 feet). Using binoculars for
 [Spot](/modern.d20.srd/skills/spot)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) takes five times as
+[checks](/modern.d20.srd/skills/skill.basics) takes five times as
 long as making the check unaided.
 
 Rangefinding: In addition to the benefit of standard binoculars, rangefinding
@@ -65,7 +65,7 @@ this gear with the [Climb](/modern.d20.srd/skills/climb) skill.
 A compass relies on the Earth’s magnetic field to determine the direction of
 magnetic north. A compass grants its user a +2 equipment bonus on
 [Navigate](/modern.d20.srd/skills/navigate)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics).
 
 ### Fire Extinguisher
 
@@ -108,7 +108,7 @@ Global positioning system receivers use signals from GPS satellites to
 determine the receiver’s location to within a few dozen feet. A GPS receiver
 grants its user a +4 equipment bonus on
 [Navigate](/modern.d20.srd/skills/navigate)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill), but because the
+[checks](/modern.d20.srd/skills/skill.basics), but because the
 receiver must be able to pick up satellite signals, it only works outdoors.
 
 ### Map

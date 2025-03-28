@@ -13,7 +13,7 @@ Transmutation
 Touch; [ Target ](/modern.d20.srd/fx/target) : Creature touched; [ Duration](/modern.d20.srd/fx/duration) : 1 minute/level (D); [ Saving Throw](/modern.d20.srd/basics/saving.throws) : Will negates (harmless); [ Spell Resistance ](/modern.d20.srd/special.abilities/spell.resistance) : Yes
 
 The subject gets an enhancement bonus on [ Jump ](/modern.d20.srd/skills/jump)
-[ checks ](/modern.d20.srd/skills/skill.basics.php#skill) . The enhancement
+[ checks ](/modern.d20.srd/skills/skill.basics) . The enhancement
 bonus is +10 at 1st level, +20 at 3rd level, and +30 at 5th level (the
 maximum).
 

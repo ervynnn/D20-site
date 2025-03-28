@@ -7,11 +7,11 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 ## Gamble ([Wis](/modern.d20.srd/basics/ability.scores))
 
-[Check](/modern.d20.srd/skills/skill.basics.php#skill): To join or start a
+[Check](/modern.d20.srd/skills/skill.basics): To join or start a
 game, a character must first pay a stake. The character sets the purchase DC
 of the stake if he or she starts the game, or the GM sets it if the character
 joins a game. Stakes run from penny-ante (purchase DC 4) to astronomical
-(purchase DC 24). A character cannot [take 20](/modern.d20.srd/skills/skill.basics.php#take20) when purchasing a stake.
+(purchase DC 24). A character cannot [take 20](/modern.d20.srd/skills/skill.basics) when purchasing a stake.
 
 If the stake is within the character’s means (it is equal to or less than his
 or her [Wealth bonus](/modern.d20.srd/wealth/wealth.bonus)), the character
@@ -22,25 +22,25 @@ character doesn’t lose anything either.
 
 If the stake is higher than the character’s [Wealth bonus](/modern.d20.srd/wealth/wealth.bonus) (before applying any reductions
 from purchasing the stake), the character gets a +1 bonus on his or her Gamble
-[check](/modern.d20.srd/skills/skill.basics.php#skill) for every point the
+[check](/modern.d20.srd/skills/skill.basics) for every point the
 purchase DC is above the character’s [Wealth bonus](/modern.d20.srd/wealth/wealth.bonus).
 
-The character’s Gamble [check](/modern.d20.srd/skills/skill.basics.php#skill)
+The character’s Gamble [check](/modern.d20.srd/skills/skill.basics)
 is opposed by the Gamble
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) of all other
+[checks](/modern.d20.srd/skills/skill.basics) of all other
 participants in the game. (If playing at a casino, assume the house has a
 Gamble skill modifier equal to the stake purchase DC. Regardless of the stake
 purchase DC, the house does not get a bonus on its Gamble
-[check](/modern.d20.srd/skills/skill.basics.php#skill) for the purchase DC.)
+[check](/modern.d20.srd/skills/skill.basics) for the purchase DC.)
 If there are many characters participating, the GM can opt to make a single
 roll for all of them, using the highest Gamble skill modifier among them and
 adding a +2 bonus to the
-[check](/modern.d20.srd/skills/skill.basics.php#skill).
+[check](/modern.d20.srd/skills/skill.basics).
 
 If the character beats all other participants, he or she wins and gains an
 increase to his or her [Wealth bonus](/modern.d20.srd/wealth/wealth.bonus).
 The amount of the increase depends on the difference between the character’s
-[check](/modern.d20.srd/skills/skill.basics.php#skill) result and the next
+[check](/modern.d20.srd/skills/skill.basics) result and the next
 highest result among the other participants.
 
 
@@ -49,13 +49,13 @@ highest result among the other participants.
 
 Try Again?: No, unless the character wants to put up another stake.
 
-Special: A character can’t [take 10](/modern.d20.srd/skills/skill.basics.php#take10) or [take 20](/modern.d20.srd/skills/skill.basics.php#take20) when making a Gamble
-[check](/modern.d20.srd/skills/skill.basics.php#skill).
+Special: A character can’t [take 10](/modern.d20.srd/skills/skill.basics) or [take 20](/modern.d20.srd/skills/skill.basics) when making a Gamble
+[check](/modern.d20.srd/skills/skill.basics).
 
 A character with the [Confident](/modern.d20.srd/feats/confident) feat gets a
 +2 bonus on all Gamble
-[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics).
 
-Time: A Gamble [check](/modern.d20.srd/skills/skill.basics.php#skill) requires
+Time: A Gamble [check](/modern.d20.srd/skills/skill.basics) requires
 1 hour.
 

@@ -149,7 +149,7 @@ anywhere in the world.
 
 The Intratec TEC-9 is an inexpensive machine pistol popular with criminals
 because it can be modified ([Repair](/modern.d20.srd/skills/repair)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) DC 15) to fire on
+[check](/modern.d20.srd/skills/skill.basics) DC 15) to fire on
 automatic. The pistol only works on semiautomatic fire or, if modified, only
 on automatic. Once modified to fire on automatic, the TEC-9 cannot be changed
 back to semiautomatic.

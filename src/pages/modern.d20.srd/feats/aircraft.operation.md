@@ -20,12 +20,12 @@ Prerequisite: [Pilot](/modern.d20.srd/skills/pilot) 4 ranks.
 
 Benefit: The character takes no penalty on
 [Pilot](/modern.d20.srd/skills/pilot)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) or [attack rolls](/modern.d20.srd/combat/attack.roll) made when operating an aircraft of
+[checks](/modern.d20.srd/skills/skill.basics) or [attack rolls](/modern.d20.srd/combat/attack.roll) made when operating an aircraft of
 the selected class.
 
 Normal: Characters without this feat take a –4 penalty on
 [Pilot](/modern.d20.srd/skills/pilot)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) made to operate an
+[checks](/modern.d20.srd/skills/skill.basics) made to operate an
 aircraft that falls in any of these classes, and on attacks made with aircraft
 weapons. There is no penalty when the character operates a general-purpose
 aircraft.

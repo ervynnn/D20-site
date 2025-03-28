@@ -16,7 +16,7 @@ professionals in adventure-related fields.
 
 Some objects contain the tools necessary to use certain skills optimally.
 Without the use of these items, often referred to as kits, skill
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) made with these skills
+[checks](/modern.d20.srd/skills/skill.basics) made with these skills
 are at a –4 penalty. Skills and the kits they are associated with are listed
 below. See the descriptions of the kits for additional details. Note that kits
 should be restocked periodically (purchase DC 5 less than the original
@@ -46,7 +46,7 @@ a creature spends fighting in such an area, the caltrops make a [touch attack](/
 caltrop deals 1 point of [damage](/modern.d20.srd/combat/damage) on a
 successful hit, and the injury reduces foot speed to half normal (a successful
 [Treat Injury](/modern.d20.srd/skills/treat.injury)
-[check](/modern.d20.srd/skills/skill.basics.php#skill), DC 15, or one day’s
+[check](/modern.d20.srd/skills/skill.basics), DC 15, or one day’s
 rest removes this penalty). A charging or running creature must immediately
 stop if it steps on a caltrop. See the avoid hazard
 [stunt](/modern.d20.srd/vehicle.movement.and.combat/stunts) for the effect of
@@ -56,7 +56,7 @@ caltrops on vehicles.
 
 This set of odd-shaped flat metal bars can be slipped into the window seam of
 a car door to trip the lock. The DC of a [Disable Device](/modern.d20.srd/skills/disable.device)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) to accomplish this
+[check](/modern.d20.srd/skills/skill.basics) to accomplish this
 varies with the quality of the lock; see the [skill description](/modern.d20.srd/skills/disable.device).
 
 ###  Chemical Kit
@@ -85,7 +85,7 @@ The usefulness of duct tape is limited only by a character’s imagination. Duct
 tape can support up to 200 pounds indefinitely, or up to 300 pounds for 1d6
 rounds. Characters bound with duct tape must make a
 [Strength](/modern.d20.srd/basics/ability.scores) or [Escape Artist](/modern.d20.srd/skills/escape.artist)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 20) to free
+[check](/modern.d20.srd/skills/skill.basics) (DC 20) to free
 themselves.
 
 A roll provides 70 feet of tape, 2 inches wide.
@@ -97,15 +97,15 @@ pliers, drivers, cutting devices, fasteners, power tools, and leads and wires.
 
 Basic: This small kit allows a character to make
 [Repair](/modern.d20.srd/skills/repair)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) to electrical or
+[checks](/modern.d20.srd/skills/skill.basics) to electrical or
 electronic devices without penalty.
 
 Deluxe: This kit consists of a number of specialized diagnostic and repair
 tools as well as thousands of spare parts. It grants a +2 equipment bonus on
 [Repair](/modern.d20.srd/skills/repair)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) for electrical or
+[checks](/modern.d20.srd/skills/skill.basics) for electrical or
 electronic devices and allows a character to make [Craft (electronic)](/modern.d20.srd/skills/craft.electronic)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) without penalty.
+[checks](/modern.d20.srd/skills/skill.basics) without penalty.
 
 ### Evidence Kits
 
@@ -127,13 +127,13 @@ tracks, as well as chemical residues and organic fluids. It also contains the
 necessary dusts, sprays, brushes, adhesives, and cards to gather fingerprints.
 It grants a +2 equipment bonus on
 [Investigate](/modern.d20.srd/skills/investigate)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) under appropriate
+[checks](/modern.d20.srd/skills/skill.basics) under appropriate
 circumstances (whenever the GM rules that the equipment in the kit can be of
 use in the current situation).
 
 Using a deluxe kit to analyze a possible narcotic substance or basic chemical
 requires a [Craft (chemical)](/modern.d20.srd/skills/craft.chemical)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 15). In this case,
+[check](/modern.d20.srd/skills/skill.basics) (DC 15). In this case,
 the +2 equipment bonus does not apply.
 
 ### Fake ID
@@ -143,7 +143,7 @@ mixed results, depending on the skill of the forger. Typically, a forger has 1
 to 4 ranks in the [Forgery](/modern.d20.srd/skills/forgery) skill, with a +1
 ability modifier. When a character purchases a fake ID, the GM secretly makes
 a [Forgery](/modern.d20.srd/skills/forgery)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) for the forger, which
+[check](/modern.d20.srd/skills/skill.basics) for the forger, which
 serves as the DC for the opposed check when someone inspects the fake ID. The
 purchase DC of a fake ID is 10 + the forger’s ranks in the
 [Forgery](/modern.d20.srd/skills/forgery) skill.
@@ -155,9 +155,9 @@ enough supplies (and simple instructions for their use) to treat an injury
 before transporting the injured person to a medical professional. A first aid
 kit can be used to help a dazed, unconscious, or stunned character by making a
 [Treat Injury](/modern.d20.srd/skills/treat.injury)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 15). A first aid
+[check](/modern.d20.srd/skills/skill.basics) (DC 15). A first aid
 kit can be used only once. Skill
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) made without a first
+[checks](/modern.d20.srd/skills/skill.basics) made without a first
 aid kit incur a –4 penalty.
 
 ### Forgery Kit
@@ -175,14 +175,14 @@ that has an appropriate body structure.
 
 Steel: These heavy-duty cuffs have hardness 10, 10 hit points, a break DC of
 30, and require a [Disable Device](/modern.d20.srd/skills/disable.device)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 25) or [Escape Artist](/modern.d20.srd/skills/escape.artist)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 35) to remove
+[check](/modern.d20.srd/skills/skill.basics) (DC 25) or [Escape Artist](/modern.d20.srd/skills/escape.artist)
+[check](/modern.d20.srd/skills/skill.basics) (DC 35) to remove
 without the key.
 
 Zip-Tie: These are single-use disposable handcuffs, much like heavy-duty cable
 ties. They have hardness 0, 4 hit points, and a break DC of 25. They can only
 be removed by cutting them off ([Disable Device](/modern.d20.srd/skills/disable.device) and [Escape Artist](/modern.d20.srd/skills/escape.artist)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) automatically fail).
+[checks](/modern.d20.srd/skills/skill.basics) automatically fail).
 
 ### Instrument, Keyboard
 
@@ -208,14 +208,14 @@ A flute, necessary in order to use the
 
 A lockpick set includes picks and tension bars for opening locks operated by
 standard keys. A lockpick set allows a character to make [Disable Device](/modern.d20.srd/skills/disable.device)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) to open mechanical
+[checks](/modern.d20.srd/skills/skill.basics) to open mechanical
 locks (deadbolts, keyed entry locks, and so forth) without penalty.
 
 ### Lock Release Gun
 
 This small, pistollike device automatically disables cheap and average
 mechanical locks operated by standard keys (no [Disable Device](/modern.d20.srd/skills/disable.device)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) necessary).
+[check](/modern.d20.srd/skills/skill.basics) necessary).
 
 ### Mechanical Tool Kit
 
@@ -224,15 +224,15 @@ pliers, drivers, cutting devices, fasteners, and even power tools.
 
 Basic: This kit, which fits in a portable toolbox, allows a character to make
 [Repair](/modern.d20.srd/skills/repair)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) for mechanical devices
+[checks](/modern.d20.srd/skills/skill.basics) for mechanical devices
 without penalty.
 
 Deluxe: This kit fills a good-sized shop cabinet. It includes a broad variety
 of specialized hand tools and a selection of high-quality power tools. It
 grants a +2 equipment bonus on [Repair](/modern.d20.srd/skills/repair)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) for mechanical devices
+[checks](/modern.d20.srd/skills/skill.basics) for mechanical devices
 and allows a character to make [Craft (mechanical)](/modern.d20.srd/skills/craft.mechanical) or [Craft (structural)](/modern.d20.srd/skills/craft.structural)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) without penalty.
+[checks](/modern.d20.srd/skills/skill.basics) without penalty.
 
 ### Medical Kit
 
@@ -243,7 +243,7 @@ unconscious, or stunned character, to provide long-term care, to restore [hit po
 [diseased](/modern.d20.srd/environment.hazards/disease) or
 [poisoned](/modern.d20.srd/environment.hazards/poison) character, or to
 stabilize a dying character (see the [Treat Injury](/modern.d20.srd/skills/treat.injury) skill). Skill
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) made without a medical
+[checks](/modern.d20.srd/skills/skill.basics) made without a medical
 kit incur a –4 penalty.
 
 ### Multipurpose Tool
@@ -253,7 +253,7 @@ opener, bottle opener, file, short ruler, scissors, tweezers, and wire
 cutters. The whole thing unfolds into a handy pair of pliers. A multipurpose
 tool can lessen the penalty for making
 [Repair](/modern.d20.srd/skills/repair), [Craft (mechanical)](/modern.d20.srd/skills/craft.mechanical), [Craft (electronic)](/modern.d20.srd/skills/craft.electronic), or [Craft (structural)](/modern.d20.srd/skills/craft.structural)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) without appropriate
+[checks](/modern.d20.srd/skills/skill.basics) without appropriate
 tools to –2 instead of the normal –4. The tool is useful for certain tasks, as
 determined by the GM, but may not be useful in all situations.
 
@@ -284,7 +284,7 @@ strip at any rate greater than half speed, or each round a creature spends
 fighting in such an area, the spike strip makes a touch [attack roll](/modern.d20.srd/combat/attack.roll) (base attack bonus +0). The strip
 deals 2 points of [damage](/modern.d20.srd/combat/damage) on a successful hit,
 and the injury reduces foot speed to half normal (a successful [Treat Injury](/modern.d20.srd/skills/treat.injury)
-[check](/modern.d20.srd/skills/skill.basics.php#skill), DC 15, or one day’s
+[check](/modern.d20.srd/skills/skill.basics), DC 15, or one day’s
 rest removes this penalty). Wheeled vehicles passing over the strip are
 automatically hit—although vehicles equipped with puncture-resistant tires are
 not affected.
@@ -296,7 +296,7 @@ for rudimentary emergency field surgery. A surgery kit is used when performing
 surgery (see the [Treat Injury](/modern.d20.srd/skills/treat.injury) skill). A
 character performing surgery without a surgery kit takes a -4 penalty on the
 [Treat Injury](/modern.d20.srd/skills/treat.injury)
-[check](/modern.d20.srd/skills/skill.basics.php#skill). (This penalty is in
+[check](/modern.d20.srd/skills/skill.basics). (This penalty is in
 addition to the -4 penalty that applies if the character does not have the
 [Surgery](/modern.d20.srd/feats/surgery) feat.)
 

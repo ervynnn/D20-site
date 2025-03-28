@@ -20,14 +20,14 @@ To use Craft, first decide what the character is trying to make and consult
 the category descriptions below. Make a [Wealth check](/modern.d20.srd/wealth/wealth.check) against the given purchase DC for
 the object to see if the character succeeds in acquiring the raw materials. If
 the character succeeds at that [check](/modern.d20.srd/wealth/wealth.check),
-make the Craft [check](/modern.d20.srd/skills/skill.basics.php#skill) against
+make the Craft [check](/modern.d20.srd/skills/skill.basics) against
 the given DC for the object in question. If the character fails the
-[check](/modern.d20.srd/skills/skill.basics.php#skill), he or she does not
+[check](/modern.d20.srd/skills/skill.basics), he or she does not
 make the object, and the raw materials are wasted (unless otherwise noted).
 
-Generally, a character can [take 10](/modern.d20.srd/skills/skill.basics.php#take10) when using a Craft skill
-to construct an object, but can’t [take 20](/modern.d20.srd/skills/skill.basics.php#take20) (since doing so represents
+Generally, a character can [take 10](/modern.d20.srd/skills/skill.basics) when using a Craft skill
+to construct an object, but can’t [take 20](/modern.d20.srd/skills/skill.basics) (since doing so represents
 multiple attempts, and the character uses up the raw materials after the first
-attempt). The exception is [Craft (writing)](/modern.d20.srd/skills/craft.writing); a character can [take 20](/modern.d20.srd/skills/skill.basics.php#take20) because the character does
+attempt). The exception is [Craft (writing)](/modern.d20.srd/skills/craft.writing); a character can [take 20](/modern.d20.srd/skills/skill.basics) because the character does
 not use up any raw materials (and thus no [Wealth check](/modern.d20.srd/wealth/wealth.check) is required to use the skill).
 

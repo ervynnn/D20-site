@@ -38,8 +38,8 @@ Identifying the glyph does not discharge it and allows the character to know
 the basic nature of the glyph (version, type of damage caused, what spell is
 stored).
 
-Detecting the glyph requires a successful [ Search](/modern.d20.srd/skills/search) [ check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 28), and safely removing
-it requires a successful [ Disable Device](/modern.d20.srd/skills/disable.device) [ check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 28).
+Detecting the glyph requires a successful [ Search](/modern.d20.srd/skills/search) [ check](/modern.d20.srd/skills/skill.basics) (DC 28), and safely removing
+it requires a successful [ Disable Device](/modern.d20.srd/skills/disable.device) [ check](/modern.d20.srd/skills/skill.basics) (DC 28).
 
 Depending on the version selected, a glyph either blasts the intruder or
 activates a spell.

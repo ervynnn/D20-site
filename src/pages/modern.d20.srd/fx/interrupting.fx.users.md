@@ -11,7 +11,7 @@ Distracting Spellcasters and Psionic Characters: A character can ready an
 attack against a character or creature with the trigger “if he or she starts
 casting a spell or manifesting a power.” If the attack succeeds in damaging
 the character or otherwise distracting him or her, he or she may lose the FX
-ability he or she was trying to use (as determined by his or her [Concentration ](/modern.d20.srd/skills/concentration) [ check](/modern.d20.srd/skills/skill.basics.php#skill) result).
+ability he or she was trying to use (as determined by his or her [Concentration ](/modern.d20.srd/skills/concentration) [ check](/modern.d20.srd/skills/skill.basics) result).
 
 Readying a Counterspell: A character may ready a counterspell against a
 spellcaster (often with the trigger “if he or she starts casting a spell”). In

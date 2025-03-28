@@ -91,8 +91,8 @@ Try Again?: For resist fear and memorize, you can make a check once per round.
 You can’t try again to tolerate [ poison](/modern.d20.srd/environment.hazards/poison) . You can’t try again in the
 same round for willpower.
 
-Special: You can [ take 10 ](/modern.d20.srd/skills/skill.basics.php#take10)
-on Autohypnosis checks, but you can’t [ take 20](/modern.d20.srd/skills/skill.basics.php#take20) .
+Special: You can [ take 10 ](/modern.d20.srd/skills/skill.basics)
+on Autohypnosis checks, but you can’t [ take 20](/modern.d20.srd/skills/skill.basics) .
 
 Most uses of Autohypnosis are [ attack actions](/modern.d20.srd/combat/attack.actions) . Willpower is a [ free action](/modern.d20.srd/combat/action.types) that can be attempted once per round.
 

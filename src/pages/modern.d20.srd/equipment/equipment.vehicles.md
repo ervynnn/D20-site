@@ -29,7 +29,7 @@ vehicle.
 
 Maneuver: The modifier added to any [Drive](/modern.d20.srd/skills/drive) or
 [Pilot](/modern.d20.srd/skills/pilot)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) attempted with the
+[checks](/modern.d20.srd/skills/skill.basics) attempted with the
 vehicle.
 
 Top Speed: The maximum number of squares the vehicle can cover in 1 round at

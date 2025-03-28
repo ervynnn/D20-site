@@ -159,7 +159,7 @@ Defense against [melee attacks](/modern.d20.srd/combat/attack.roll).
 
 ### Shaken
 
-A shaken character takes a –2 penalty on [attack rolls](/modern.d20.srd/combat/attack.roll), [saving throws](/modern.d20.srd/basics/saving.throws), and [skill checks](/modern.d20.srd/skills/skill.basics.php#skill).
+A shaken character takes a –2 penalty on [attack rolls](/modern.d20.srd/combat/attack.roll), [saving throws](/modern.d20.srd/basics/saving.throws), and [skill checks](/modern.d20.srd/skills/skill.basics).
 
 ### Stable
 

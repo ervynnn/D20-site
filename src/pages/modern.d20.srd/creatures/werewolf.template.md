@@ -265,7 +265,7 @@ character must remain in animal or hybrid form until the next dawn, when he or
 she automatically returns to
 [humanoid](/modern.d20.srd/creature.types/humanoid) form.
 
-Special: A character can [take 10](/modern.d20.srd/skills/skill.basics.php#take10), but cannot [take 20](/modern.d20.srd/skills/skill.basics.php#take20).
+Special: A character can [take 10](/modern.d20.srd/skills/skill.basics), but cannot [take 20](/modern.d20.srd/skills/skill.basics).
 
 When returning to normal form after an involuntary change, the character
 attempts a Wisdom check (DC 15) to realize what has happened. If the check

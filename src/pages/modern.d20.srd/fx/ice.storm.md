@@ -20,7 +20,7 @@ Hail falls for one full round, dealing 3d6 points of bludgeoning
 [damage](/modern.d20.srd/combat/damage) and 2d6 points of cold
 [damage](/modern.d20.srd/combat/damage) to creatures in their path.
 [Listen](/modern.d20.srd/skills/listen)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) made within the ice
+[checks](/modern.d20.srd/skills/skill.basics) made within the ice
 storm’s effect take a –4 penalty, and all ground movement within its area is
 at half speed. At the end of the duration, the hail disappears, leaving no
 aftereffects (other than the damage inflicted).

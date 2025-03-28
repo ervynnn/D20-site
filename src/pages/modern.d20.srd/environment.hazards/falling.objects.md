@@ -23,7 +23,7 @@ If the save fails by 10 or more, and the object is at least three size
 categories larger than the character, the character is pinned under the fallen
 object. A pinned character cannot move but is not helpless. The character can
 make a [ Strength ](/modern.d20.srd/basics/ability.scores) check to lift the
-object off him or herself or an [ Escape Artist](/modern.d20.srd/skills/escape.artist) [ check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 20) to get out from
+object off him or herself or an [ Escape Artist](/modern.d20.srd/skills/escape.artist) [ check](/modern.d20.srd/skills/skill.basics) (DC 20) to get out from
 underneath. The GM can modify the DCs for these checks based on the
 circumstances.
 

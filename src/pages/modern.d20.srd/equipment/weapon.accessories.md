@@ -27,14 +27,14 @@ of an electrically activated blasting cap and some sort of device that
 delivers the electrical charge to set off the blasting cap. Connecting a
 detonator to an explosive requires a
 [Demolitions](/modern.d20.srd/skills/demolitions)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 15). Failure means
+[check](/modern.d20.srd/skills/skill.basics) (DC 15). Failure means
 that the explosive fails to go off as planned. Failure by 10 or more means the
 explosive goes off as the detonator is being installed.
 
 Blasting Cap: This is a detonator without a built-in controller. It can be
 wired into any electrical device, such as a light switch or a car’s ignition
 switch, with a [Demolitions](/modern.d20.srd/skills/demolitions)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 10). When the
+[check](/modern.d20.srd/skills/skill.basics) (DC 10). When the
 electrical device is activated, the detonator goes off.
 
 Radio Control: This device consists of two parts: the detonator itself and the
@@ -50,7 +50,7 @@ Wired: This is the simplest form of detonator. The blasting cap connects by a
 wire to an activation device, usually a small pistol-grip device that the user
 squeezes. The detonator comes with 100 feet of wire, but longer lengths can be
 spliced in with a [Demolitions](/modern.d20.srd/skills/demolitions)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 10).
+[check](/modern.d20.srd/skills/skill.basics) (DC 10).
 
 ### Holster
 
@@ -107,16 +107,16 @@ supersonic speed that propel a bullet as it is fired. This eliminates the
 noise from the bullet’s firing, dramatically reducing the sound the weapon
 makes when it is used. For handguns, the only sound is the mechanical action
 of the weapon ([Listen](/modern.d20.srd/skills/listen)
-[check](/modern.d20.srd/skills/skill.basics.php#skill), DC 15, to notice). For
+[check](/modern.d20.srd/skills/skill.basics), DC 15, to notice). For
 [longarms](/modern.d20.srd/equipment/weapons.longarms), the supersonic speed
 of the bullet itself still makes noise. However, it’s difficult to tell where
 the sound is coming from, requiring a [Listen](/modern.d20.srd/skills/listen)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 15) to locate the
+[check](/modern.d20.srd/skills/skill.basics) (DC 15) to locate the
 source of the gunfire.
 
 Modifying a weapon to accept a suppressor requires a
 [Repair](/modern.d20.srd/skills/repair)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 15). Once a weapon
+[check](/modern.d20.srd/skills/skill.basics) (DC 15). Once a weapon
 has been modified in this manner, a suppressor can be attached or removed as a
 [move action](/modern.d20.srd/combat/move.actions).
 

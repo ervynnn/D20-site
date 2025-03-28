@@ -19,13 +19,13 @@ the character’s turn number.
 
 After succeeding on the check to attempt the sideswipe, the character makes a
 [Drive](/modern.d20.srd/skills/drive)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) opposed by the other
+[check](/modern.d20.srd/skills/skill.basics) opposed by the other
 driver. If the character succeeds, turn the other vehicle 90 degrees across
 the front of the character’s, so that they form a tee. Move them forward a
 distance equal to the character’s turn number. The vehicles end their movement
 at that location, at stationary speed, and take their normal [sideswipe damage](/modern.d20.srd/vehicle.movement.and.combat/resolving.collisions).
 
 If the character fails the
-[check](/modern.d20.srd/skills/skill.basics.php#skill), resolve the sideswipe
+[check](/modern.d20.srd/skills/skill.basics), resolve the sideswipe
 normally.
 

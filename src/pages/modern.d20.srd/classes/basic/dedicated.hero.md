@@ -139,13 +139,13 @@ self, in a higher power, or in both. This unswerving belief allows the
 Dedicated hero to add his or her
 [Wisdom](/modern.d20.srd/basics/ability.scores) modifier to the die roll
 whenever the hero spends 1 [action point](/modern.d20.srd/basics/action.points) to improve the result of an
-[attack roll](/modern.d20.srd/combat/attack.roll), [skill check](/modern.d20.srd/skills/skill.basics.php#skill), [saving throw](/modern.d20.srd/basics/saving.throws), or [ability check](/modern.d20.srd/basics/ability.scores).
+[attack roll](/modern.d20.srd/combat/attack.roll), [skill check](/modern.d20.srd/skills/skill.basics), [saving throw](/modern.d20.srd/basics/saving.throws), or [ability check](/modern.d20.srd/basics/ability.scores).
 
 Prerequisite: Skill emphasis.
 
 **Cool Under Pressure** : The Dedicated hero selects a number of skills equal
 to 3 + the hero’s [Wisdom](/modern.d20.srd/basics/ability.scores) modifier.
-When making a check with one of these skills, the Dedicated hero can [take 10](/modern.d20.srd/skills/skill.basics.php#take10) even when distracted or
+When making a check with one of these skills, the Dedicated hero can [take 10](/modern.d20.srd/skills/skill.basics) even when distracted or
 under duress.
 
 Prerequisite: Skill emphasis plus either faith or aware.

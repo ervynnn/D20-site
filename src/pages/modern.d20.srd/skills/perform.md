@@ -15,11 +15,11 @@ determine what Perform skill a particular type of performance falls under, use
 a broad interpretation of the existing categories. Do not arbitrarily make up
 new categories.
 
-[Check](/modern.d20.srd/skills/skill.basics.php#skill): The character is
+[Check](/modern.d20.srd/skills/skill.basics): The character is
 accomplished in some type of artistic expression and knows how to put on a
 performance. The character can impress audiences with his or her talent and
 skill. The quality of the character’s performance depends on his or her
-[check](/modern.d20.srd/skills/skill.basics.php#skill) result.
+[check](/modern.d20.srd/skills/skill.basics) result.
 
 The eight Perform categories, and the qualities each one encompasses, are as
 follows.
@@ -57,21 +57,21 @@ instruments, such as flute, bugle, trumpet, tuba, bagpipes, and trombone.
 
 Try Again?: Not for the same performance and audience.
 
-Special: A character can [take 10](/modern.d20.srd/skills/skill.basics.php#take10) when making a Perform
-check, but can’t [take 20](/modern.d20.srd/skills/skill.basics.php#take20).
+Special: A character can [take 10](/modern.d20.srd/skills/skill.basics) when making a Perform
+check, but can’t [take 20](/modern.d20.srd/skills/skill.basics).
 
 A character without an appropriate
 [instrument](/modern.d20.srd/equipment/professional.equipment) automatically
 fails any Perform (keyboard), Perform (percussion), Perform (stringed), or
 Perform (wind) check he or she attempts. At the GM’s discretion, impromptu
 instruments may be employed, but the performer must take a –4 penalty on the
-[check](/modern.d20.srd/skills/skill.basics.php#skill) because his or her
+[check](/modern.d20.srd/skills/skill.basics) because his or her
 equipment, although usable, is inappropriate for the skill.
 
 Every time a character takes the [Creative](/modern.d20.srd/feats/creative)
 feat, he or she gets a +2 bonus on checks involving two Perform skills the
 character designates. See the [feat description](/modern.d20.srd/feats/creative) for more information.
 
-Time: A Perform [check](/modern.d20.srd/skills/skill.basics.php#skill) usually
+Time: A Perform [check](/modern.d20.srd/skills/skill.basics) usually
 requires at least several minutes to an hour or more.
 

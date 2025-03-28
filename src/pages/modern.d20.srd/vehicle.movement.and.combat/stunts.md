@@ -47,7 +47,7 @@ On a failed [check](/modern.d20.srd/skills/skill.basics), the
 caltrops, this means the caltrops make an
 [attack](/modern.d20.srd/vehicle.movement.and.combat/attack.options) against
 the vehicle (see
-[Caltrops](/modern.d20.srd/equipment/professional.equipment.php#caltrops)). An
+[Caltrops](/modern.d20.srd/equipment/professional.equipment)). An
 oil slick forces the drive to make a [Drive](/modern.d20.srd/skills/drive)
 [check](/modern.d20.srd/skills/skill.basics) (DC 15) to retain control of the
 [vehicle](/modern.d20.srd/equipment/equipment.vehicles) (see [Losing Control](/modern.d20.srd/vehicle.movement.and.combat/losing.control)). Failing
@@ -175,7 +175,7 @@ A shallow gap (1 to 3 feet deep) is equivalent to a Medium-size object; the
 taking
 [collision](/modern.d20.srd/vehicle.movement.and.combat/collisions.ramming)
 damage from the failed jump by treating the far side as a hazard and then
-continue moving (see [Avoid Hazard](/modern.d20.srd/vehicle.movement.and.combat/stunts.php#avoid), above).
+continue moving (see [Avoid Hazard](/modern.d20.srd/vehicle.movement.and.combat/stunts), above).
 
 A moderately deep gap (4 to 10 feet deep) is equivalent to a Huge object. The
 [vehicle](/modern.d20.srd/equipment/equipment.vehicles) can only drive out of

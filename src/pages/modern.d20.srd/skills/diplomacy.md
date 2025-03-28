@@ -7,11 +7,11 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 ## Diplomacy ([Cha](/modern.d20.srd/basics/ability.scores))
 
-[Check](/modern.d20.srd/skills/skill.basics.php#skill): A character can change
+[Check](/modern.d20.srd/skills/skill.basics): A character can change
 others’ attitudes with a successful
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (see the table below.
+[check](/modern.d20.srd/skills/skill.basics) (see the table below.
 In negotiations, participants roll opposed Diplomacy
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) to see who gains the
+[checks](/modern.d20.srd/skills/skill.basics) to see who gains the
 advantage. Opposed [checks](/modern.d20.srd/wealth/wealth.check) also resolve
 cases where two advocates or diplomats plead opposing cases before a third
 party.
@@ -23,7 +23,7 @@ may call for a different initial attitude. The DCs given in the accompanying
 table show what it takes to change someone’s attitude with the use of the
 Diplomacy skill. The character doesn’t declare a specific outcome he or she is
 trying for; instead, make the
-[check](/modern.d20.srd/skills/skill.basics.php#skill) and compare the result
+[check](/modern.d20.srd/skills/skill.basics) and compare the result
 to the table on the next page.
 
 Try Again?: Generally, trying again doesn’t work. Even if the initial check
@@ -31,12 +31,12 @@ succeeds, the other character can only be persuaded so far. If the initial
 check fails, the other character has probably become more firmly committed to
 his or her position, and trying again is futile.
 
-Special: A character can [take 10](/modern.d20.srd/skills/skill.basics.php#take10) when making a Diplomacy
-check, but can’t [take 20](/modern.d20.srd/skills/skill.basics.php#take20).
+Special: A character can [take 10](/modern.d20.srd/skills/skill.basics) when making a Diplomacy
+check, but can’t [take 20](/modern.d20.srd/skills/skill.basics).
 
 A character with the [Trustworthy](/modern.d20.srd/feats/trustworthy) feat
 gets a +2 bonus on all Diplomacy
-[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics).
 
 Time: Diplomacy is at least a [full-round action](/modern.d20.srd/combat/full.round.actions). The GM may determine that
 some negotiations require a longer period of time.
@@ -55,17 +55,17 @@ Bribery and Diplomacy
 
 Offering money or another form of favor can, in the right situation, improve a
 character’s chances with a Diplomacy skill
-[check](/modern.d20.srd/skills/skill.basics.php#skill). Bribery allows a
+[check](/modern.d20.srd/skills/skill.basics). Bribery allows a
 character to circumvent various official obstacles when a person in a position
 of trust or authority is willing to accept such an offering.
 
 An illegal act, bribery requires two willing participants—one to offer a bribe
 and the other to accept it. When a character requires a bribe to render
 services, then a hero’s Diplomacy
-[check](/modern.d20.srd/skills/skill.basics.php#skill) automatically fails if
+[check](/modern.d20.srd/skills/skill.basics) automatically fails if
 a bribe isn’t attached to it. If a bribe isn’t required, a hero can add a
 bribe to get a bonus on his or her skill
-[check](/modern.d20.srd/skills/skill.basics.php#skill). This can backfire, as
+[check](/modern.d20.srd/skills/skill.basics). This can backfire, as
 some characters will be insulted by a bribe offer (their attitude changes one
 step for the worse) and others will report the hero to the proper authorities.
 

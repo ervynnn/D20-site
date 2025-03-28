@@ -44,11 +44,11 @@ specifically affect allies but not foes are not attacks for this purpose, even
 when they include foes in their area.
 
 An invisible creature gains a +40 bonus on [Hide](/modern.d20.srd/skills/hide)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) if immobile, or a +20
+[checks](/modern.d20.srd/skills/skill.basics) if immobile, or a +20
 bonus on [Hide](/modern.d20.srd/skills/hide)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) if moving. Pinpointing
+[checks](/modern.d20.srd/skills/skill.basics) if moving. Pinpointing
 the location of an invisible character who isn’t attempting to hide requires a
 [Spot](/modern.d20.srd/skills/spot)
-[check](/modern.d20.srd/skills/spot.php#skill) against DC 40 if immobile or DC
+[check](/modern.d20.srd/skills/spot) against DC 40 if immobile or DC
 20 if moving.
 

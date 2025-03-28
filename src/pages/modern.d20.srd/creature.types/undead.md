@@ -39,7 +39,7 @@ Ability Scores: An undead has no
 [Constitution](/modern.d20.srd/basics/ability.scores) score. It uses its
 [Charisma](/modern.d20.srd/basics/ability.scores) modifier for
 [Concentration](/modern.d20.srd/skills/concentration)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics).
 
 [Darkvision](/modern.d20.srd/special.abilities/darkvision) (Ex): Most undead
 have [darkvision](/modern.d20.srd/special.abilities/darkvision) with a range

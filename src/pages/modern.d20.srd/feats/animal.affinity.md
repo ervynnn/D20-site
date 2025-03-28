@@ -8,9 +8,9 @@ layout: '~/layouts/MarkdownLayout.astro'
 ## Animal Affinity
 
 Benefit: The character gets a +2 bonus on all [Handle Animal](/modern.d20.srd/skills/handle.animal)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) and
+[checks](/modern.d20.srd/skills/skill.basics) and
 [Ride](/modern.d20.srd/skills/ride)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics).
 
 Special: Remember that the [Handle Animal](/modern.d20.srd/skills/handle.animal) skill can’t be used untrained.
 

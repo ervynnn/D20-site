@@ -22,12 +22,12 @@ Prerequisite: [Drive](/modern.d20.srd/skills/drive) 4 ranks.
 
 Benefit: The character takes no penalty on
 [Drive](/modern.d20.srd/skills/drive)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) or [attack rolls](/modern.d20.srd/combat/attack.roll) made when operating a surface
+[checks](/modern.d20.srd/skills/skill.basics) or [attack rolls](/modern.d20.srd/combat/attack.roll) made when operating a surface
 vehicle of the selected class.
 
 Normal: Characters without this feat take a –4 penalty on
 [Drive](/modern.d20.srd/skills/drive)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) made to operate a
+[checks](/modern.d20.srd/skills/skill.basics) made to operate a
 surface vehicle that falls under any of these classes, and to attacks made
 with vehicle weapons. There is no penalty when you operate a general-purpose
 surface vehicle.

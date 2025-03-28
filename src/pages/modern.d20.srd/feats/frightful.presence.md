@@ -15,7 +15,7 @@ have fewer levels than the character must make a Will [saving throw](/modern.d20
 + the character’s [Charisma](/modern.d20.srd/basics/ability.scores) modifier).
 An opponent who fails his or her save is shaken, taking a –2 penalty on
 [attack rolls](/modern.d20.srd/combat/attack.roll),
-[saves](/modern.d20.srd/basics/saving.throws), and [skill checks](/modern.d20.srd/skills/skill.basics.php#skill) for a number of rounds
+[saves](/modern.d20.srd/basics/saving.throws), and [skill checks](/modern.d20.srd/skills/skill.basics) for a number of rounds
 equal to 1d6 + the character’s
 [Charisma](/modern.d20.srd/basics/ability.scores) modifier. The character can
 use the feat once per round as a [free action](/modern.d20.srd/combat/action.types).

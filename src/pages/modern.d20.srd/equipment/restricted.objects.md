@@ -57,7 +57,7 @@ restricted objects without a license.
 Sometimes a character wants to obtain an object without going through the
 hassle of getting a license first. Almost anything is available on the black
 market. [Knowledge](/modern.d20.srd/skills/knowledge) (streetwise)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) can be used to locate
+[checks](/modern.d20.srd/skills/skill.basics) can be used to locate
 a black market merchant. The DC is based on the location in question: 15 to
 find a black market merchant in a big city, or 20, 25, or higher in small
 towns and rural areas.

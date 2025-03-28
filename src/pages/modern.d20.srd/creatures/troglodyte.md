@@ -14,7 +14,7 @@ musklike chemical that most animal life finds offensive. All living creatures
 (except troglodytes) within 30 feet of the troglodyte must succeed on a
 [Fortitude save](/modern.d20.srd/basics/saving.throws) (DC 13) or take a –2
 morale penalty on [attack rolls](/modern.d20.srd/combat/attack.roll), weapon
-[damage](/modern.d20.srd/combat/damage) rolls, [ability checks](/modern.d20.srd/basics/ability.scores), [skill checks](/modern.d20.srd/skills/skill.basics.php#skill), and [saving throws](/modern.d20.srd/basics/saving.throws) for 10 rounds. Characters
+[damage](/modern.d20.srd/combat/damage) rolls, [ability checks](/modern.d20.srd/basics/ability.scores), [skill checks](/modern.d20.srd/skills/skill.basics), and [saving throws](/modern.d20.srd/basics/saving.throws) for 10 rounds. Characters
 subjected to stench from multiple troglodytes make only one [saving throw](/modern.d20.srd/basics/saving.throws). Characters affected by a
 troglodyte’s stench cannot be affected again by any troglodyte’s stench until
 the current effect expires.

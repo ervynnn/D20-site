@@ -84,9 +84,9 @@ decreases by 2.
 Repairing damage to an object takes a full hour of work and appropriate tools.
 (Without the tools, a character takes a –4 penalty on his or her
 [Repair](/modern.d20.srd/skills/repair)
-[check](/modern.d20.srd/skills/skill.basics.php#skill).) At the end of the
+[check](/modern.d20.srd/skills/skill.basics).) At the end of the
 hour, make a [Repair](/modern.d20.srd/skills/repair)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 20). Success
+[check](/modern.d20.srd/skills/skill.basics) (DC 20). Success
 restores 2d6 hit points. If damage remains, the character may continue to make
 repairs for as many hours as it takes to restore all the object’s hit points.
 

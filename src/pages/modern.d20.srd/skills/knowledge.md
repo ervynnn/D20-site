@@ -5,7 +5,7 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 [ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Knowledge
 
-## Knowledge ([Int](/modern.d20.srd/basics/ability.scores)) [Trained Only](/modern.d20.srd/skills/skill.basics.php#skill)
+## Knowledge ([Int](/modern.d20.srd/basics/ability.scores)) [Trained Only](/modern.d20.srd/skills/skill.basics)
 
 This skill encompasses several categories, each of them treated as a separate
 skill. These categories are identified and defined below.
@@ -15,8 +15,8 @@ determine what Knowledge skill a particular question or field of expertise
 falls under, use a broad interpretation of the existing categories. Do not
 arbitrarily make up new categories.
 
-[Check](/modern.d20.srd/skills/skill.basics.php#skill): A character makes a
-Knowledge [check](/modern.d20.srd/skills/skill.basics.php#skill) to see if the
+[Check](/modern.d20.srd/skills/skill.basics): A character makes a
+Knowledge [check](/modern.d20.srd/skills/skill.basics) to see if the
 character knows something.
 
 The DC for answering a question within the character’s field of study is 10
@@ -72,28 +72,28 @@ background necessary to identify various technological devices.
 Theology and Philosophy: Liberal arts, ethics, philosophical concepts, and the
 study of religious faith, practice, and experience.
 
-Try Again?: No. The [check](/modern.d20.srd/skills/skill.basics.php#skill)
+Try Again?: No. The [check](/modern.d20.srd/skills/skill.basics)
 represents what a character knows, and thinking about a topic a second time
 doesn’t let the character know something he or she never knew in the first
 place.
 
 Special: An untrained Knowledge
-[check](/modern.d20.srd/skills/skill.basics.php#skill) is simply an
+[check](/modern.d20.srd/skills/skill.basics) is simply an
 [Intelligence check](/modern.d20.srd/skills/skill.basics). Without actual
 training, a character only knows common knowledge about a given subject.
 
-A character can [take 10](/modern.d20.srd/skills/skill.basics.php#take10) when
-making a Knowledge [check](/modern.d20.srd/skills/skill.basics.php#skill), but
+A character can [take 10](/modern.d20.srd/skills/skill.basics) when
+making a Knowledge [check](/modern.d20.srd/skills/skill.basics), but
 can’t take 20.
 
 A character with the [Educated](/modern.d20.srd/feats/educated) feat gets a +2
 bonus on any two types of Knowledge
-[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics).
 
 The GM may decide that having 5 or more ranks in a specific Knowledge skill
-provides a character with a +2 [synergy bonus](/modern.d20.srd/skills/skill.basics.php#skill) when making a related
-[skill check](/modern.d20.srd/skills/skill.basics.php#skill).
+provides a character with a +2 [synergy bonus](/modern.d20.srd/skills/skill.basics) when making a related
+[skill check](/modern.d20.srd/skills/skill.basics).
 
-Time: A Knowledge [check](/modern.d20.srd/skills/skill.basics.php#skill) can
+Time: A Knowledge [check](/modern.d20.srd/skills/skill.basics) can
 be a reaction, but otherwise requires a [full-round action](/modern.d20.srd/combat/full.round.actions).
 

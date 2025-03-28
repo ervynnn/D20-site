@@ -25,19 +25,19 @@ Craft DCs
 Building an
 [explosive](/modern.d20.srd/equipment/weapons.explosives.splash.general) from
 scratch is dangerous. If the Craft (chemical)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) fails, the raw
+[check](/modern.d20.srd/skills/skill.basics) fails, the raw
 materials are wasted. If the
-[check](/modern.d20.srd/skills/skill.basics.php#skill) fails by 5 or more, the
+[check](/modern.d20.srd/skills/skill.basics) fails by 5 or more, the
 explosive compound detonates as it is being made, dealing half of its intended
 [damage](/modern.d20.srd/combat/damage) to the builder and anyone else in the
 burst radius.
 
-If the [check](/modern.d20.srd/skills/skill.basics.php#skill) succeeds, the
+If the [check](/modern.d20.srd/skills/skill.basics) succeeds, the
 final product is a solid material, about the size of a brick. An explosive
 compound does not include a [fuse or detonator](/modern.d20.srd/equipment/professional.equipment). Connecting a
 [fuse or detonator](/modern.d20.srd/equipment/professional.equipment) requires
 a [Demolitions](/modern.d20.srd/skills/demolitions)
-[check](/modern.d20.srd/skills/skill.basics.php#skill).
+[check](/modern.d20.srd/skills/skill.basics).
 
 
 <table> <tr> <th>Type of Scratch-Built Explosive</th> <th>Purchase DC</th> <th>Craft DC</th> <th><a href="/modern.d20.srd/basics/saving.throws">Reflex</a> DC (save for half damage)</th> <th>Time</th> </tr> <tr><td> Improvised (1d6/5 feet) <sup>1</sup></td><td> 6</td><td> 10</td><td> 10</td><td> 1 round </td></tr> <tr class="shaded"><td> Simple (2d6/5 feet)</td><td> 12</td><td> 15</td><td> 12</td><td> 10 min. </td></tr> <tr><td> Moderate (4d6/10 feet)</td><td> 16</td><td> 20</td><td> 12</td><td> 1 hr. </td></tr> <tr class="shaded"><td> Complex (6d6/15 feet)</td><td> 20</td><td> 25</td><td> 15</td><td> 3 hr. </td></tr> <tr><td> Powerful (8d6/20 feet)</td><td> 25</td><td> 30</td><td> 15</td><td> 12 hr. </td></tr> <tr class="shaded"><td> Devastating (10d6/25 feet)</td><td> 30</td><td> 35</td><td> 18</td><td> 24 hr. </td></tr> <tr><td colspan="5" style="font-size: .8em; text-align: left"><sup>1</sup> The figures in parentheses are typical damage/burst radius for each type of explosive.<br/> Scratch built explosives deal concussion damage. </td></tr> </table>
@@ -81,13 +81,13 @@ Remember to apply this modifier to the purchase DC when making a [Wealth check](
 [poison](/modern.d20.srd/environment.hazards/poison) on the black market.
 
 Craft DC: The DC of the Craft
-[check](/modern.d20.srd/skills/skill.basics.php#skill) to create a quantity of
+[check](/modern.d20.srd/skills/skill.basics) to create a quantity of
 the [poison](/modern.d20.srd/environment.hazards/poison).
 
 Time: The amount of time required for the Craft
-[check](/modern.d20.srd/skills/skill.basics.php#skill).
+[check](/modern.d20.srd/skills/skill.basics).
 
-If the Craft [check](/modern.d20.srd/skills/skill.basics.php#skill) succeeds,
+If the Craft [check](/modern.d20.srd/skills/skill.basics) succeeds,
 the final product is a synthesized solid or liquid
 [poison](/modern.d20.srd/environment.hazards/poison) stored in a bottle
 (containing 4 doses) or a gas stored in a pressurized cylinder. When released,
@@ -99,9 +99,9 @@ the area.
 
 
 Special: A character without a [chemical kit](/modern.d20.srd/equipment/professional.equipment) takes a –4 penalty on
-Craft (chemical) [checks](/modern.d20.srd/skills/skill.basics.php#skill).
+Craft (chemical) [checks](/modern.d20.srd/skills/skill.basics).
 
 A character with the [Builder](/modern.d20.srd/feats/builder) feat gets a +2
 bonus on all Craft (chemical)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics).
 

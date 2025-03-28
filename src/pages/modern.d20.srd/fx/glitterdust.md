@@ -30,7 +30,7 @@ chance in combat (all opponents have full
 [attack rolls](/modern.d20.srd/combat/attack.roll) (they are effectively
 invisible), moves at half speed, and suffers a –4 penalty on
 [Search](/modern.d20.srd/skills/search)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) and most
+[checks](/modern.d20.srd/skills/skill.basics) and most
 [Strength](/modern.d20.srd/basics/ability.scores) and
-[Dexterity](/modern.d20.srd/basics/ability.scores)-based [skill checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[Dexterity](/modern.d20.srd/basics/ability.scores)-based [skill checks](/modern.d20.srd/skills/skill.basics).
 

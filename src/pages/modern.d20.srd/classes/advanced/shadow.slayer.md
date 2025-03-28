@@ -132,7 +132,7 @@ Shadow Slayer’s level in this advanced class.
 At 5th and 7th level, a Shadow Slayer selects a type of Shadow creature as a
 favored enemy. Due to his extensive study of these foes and training in the
 proper techniques for combating them, the Shadow Slayer gains a +1 bonus on [Bluff ](/modern.d20.srd/skills/bluff) , [ Listen](/modern.d20.srd/skills/listen) , [ Search ](/modern.d20.srd/skills/search) ,
-[ Sense Motive ](/modern.d20.srd/skills/sense.motive) , and [ Spot](/modern.d20.srd/skills/spot) [ checks](/modern.d20.srd/skills/skill.basics.php#skill) when using these skills
+[ Sense Motive ](/modern.d20.srd/skills/sense.motive) , and [ Spot](/modern.d20.srd/skills/spot) [ checks](/modern.d20.srd/skills/skill.basics) when using these skills
 against creatures of this type. He also gets a +1 bonus on weapon [ damage rolls ](/modern.d20.srd/combat/damage) against creatures of this type.
 
 At each level after 5th, the Shadow Slayer may add +1 to the value of the

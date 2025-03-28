@@ -7,25 +7,25 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 ## Listen ([Wis](/modern.d20.srd/basics/ability.scores))
 
-[Check](/modern.d20.srd/skills/skill.basics.php#skill): Make a Listen
-[check](/modern.d20.srd/skills/skill.basics.php#skill) against a DC that
+[Check](/modern.d20.srd/skills/skill.basics): Make a Listen
+[check](/modern.d20.srd/skills/skill.basics) against a DC that
 reflects how quiet the noise is that a character might hear or against an
 opposed [Move Silently](/modern.d20.srd/skills/move.silently)
-[check](/modern.d20.srd/skills/skill.basics.php#skill).
+[check](/modern.d20.srd/skills/skill.basics).
 
 The GM may call for a Listen
-[check](/modern.d20.srd/skills/skill.basics.php#skill) by a character who is
+[check](/modern.d20.srd/skills/skill.basics) by a character who is
 in a position to hear something. A character can also make a Listen
-[check](/modern.d20.srd/skills/skill.basics.php#skill) voluntarily if he or
+[check](/modern.d20.srd/skills/skill.basics) voluntarily if he or
 she wants to try to hear something in the character’s vicinity.
 
 The GM may make the Listen
-[check](/modern.d20.srd/skills/skill.basics.php#skill) in secret so that the
+[check](/modern.d20.srd/skills/skill.basics) in secret so that the
 character doesn’t know whether not hearing anything means that nothing is
 there or that the character failed the
-[check](/modern.d20.srd/skills/skill.basics.php#skill).
+[check](/modern.d20.srd/skills/skill.basics).
 
-A successful Listen [check](/modern.d20.srd/skills/skill.basics.php#skill)
+A successful Listen [check](/modern.d20.srd/skills/skill.basics)
 when there isn’t anything to hear results in the character hearing nothing.
 
 
@@ -35,30 +35,30 @@ when there isn’t anything to hear results in the character hearing nothing.
 
 
 Try Again?: A character can make a Listen
-[check](/modern.d20.srd/skills/skill.basics.php#skill) every time he or she
+[check](/modern.d20.srd/skills/skill.basics) every time he or she
 has the opportunity to hear something in a reactive manner. As a [move action](/modern.d20.srd/combat/move.actions), the character may attempt to
 hear something that he or she failed (or believes he or she failed) to hear
 previously.
 
 Special: When several characters are listening to the same thing, the GM can
 make a single 1d20 roll and use it for all the listeners’ skill
-[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics).
 
-A character can [take 10](/modern.d20.srd/skills/skill.basics.php#take10) or
-[take 20](/modern.d20.srd/skills/skill.basics.php#take20) when making a Listen
-check. [Taking 20](/modern.d20.srd/skills/skill.basics.php#take20) means the
+A character can [take 10](/modern.d20.srd/skills/skill.basics) or
+[take 20](/modern.d20.srd/skills/skill.basics) when making a Listen
+check. [Taking 20](/modern.d20.srd/skills/skill.basics) means the
 character spends 1 minute attempting to hear something that may or may not be
 there to hear.
 
 A character with the [Alertness](/modern.d20.srd/feats/alertness) feat gets a
 +2 bonus on all Listen
-[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics).
 
 A sleeping character can make Listen
-[checks](/modern.d20.srd/skills/skill.basics.php#skill), but takes a –10
-penalty on the [checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics), but takes a –10
+penalty on the [checks](/modern.d20.srd/skills/skill.basics).
 
-Time: A Listen [check](/modern.d20.srd/skills/skill.basics.php#skill) is
+Time: A Listen [check](/modern.d20.srd/skills/skill.basics) is
 either a reaction (if called for by the GM) or a [move action](/modern.d20.srd/combat/move.actions) (if a character actively takes
 the time to try to hear something).
 

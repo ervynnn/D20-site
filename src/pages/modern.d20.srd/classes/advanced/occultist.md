@@ -81,15 +81,15 @@ buy ranks in them, just like other skills in the game.
 **Concentration** [(Con)](/modern.d20.srd/basics/ability.scores): The normal
 Concentration skill expands to include arcane applications, as defined below.
 
-[Check](/modern.d20.srd/skills/skill.basics.php#skill): You must make a
-Concentration [check](/modern.d20.srd/skills/skill.basics.php#skill) whenever
+[Check](/modern.d20.srd/skills/skill.basics): You must make a
+Concentration [check](/modern.d20.srd/skills/skill.basics) whenever
 you may potentially be distracted while engaged in an activity, including
 casting a spell or concentrating on an active spell, that requires your full
 attention.
 
-If the [check](/modern.d20.srd/skills/skill.basics.php#skill) succeeds, you
+If the [check](/modern.d20.srd/skills/skill.basics) succeeds, you
 may continue with the action as normal. If the
-[check](/modern.d20.srd/skills/skill.basics.php#skill) fails, the action
+[check](/modern.d20.srd/skills/skill.basics) fails, the action
 automatically fails and is wasted. If you were in the process of casting a
 spell, the spell is lost. If you were concentrating on an active spell, the
 spell ends.
@@ -118,7 +118,7 @@ including [scrolls](/modern.d20.srd/fx.items/scrolls) and
 [wands](/modern.d20.srd/fx.items/wands), that you could not otherwise
 activate.
 
-[Check](/modern.d20.srd/skills/skill.basics.php#skill): You can use this skill
+[Check](/modern.d20.srd/skills/skill.basics): You can use this skill
 to read a spell from a scroll or spellbook or activate a magic item. This
 skill lets you use a magic item as if you had the spell ability or class
 features of another class or a different
@@ -126,26 +126,26 @@ features of another class or a different
 
 When you’re attempting to activate a magic item using this skill, you do so as
 an [attack action](/modern.d20.srd/combat/attack.actions). However, the
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) you make to determine
+[checks](/modern.d20.srd/skills/skill.basics) you make to determine
 whether you are successful at activating the item take no time by themselves
 and are included in the activate magic item [attack action](/modern.d20.srd/combat/attack.actions).
 
 You make Use Magic Device
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) each time you activate
+[checks](/modern.d20.srd/skills/skill.basics) each time you activate
 a device such as a [scroll](/modern.d20.srd/fx.items/scrolls) or a
 [wand](/modern.d20.srd/fx.items/wands). If you are using the check to emulate
 some quality in an ongoing manner, you need to make the
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) once per hour.
+[checks](/modern.d20.srd/skills/skill.basics) once per hour.
 
 **Activate Blindly** : Some magic items are activated by special words,
 thoughts, or actions. You can activate such items as if you were using the
 activation word, thought, or action even if you’re not, and even if you don’t
 know it. You do have to use something equivalent. You have to speak, wave the
 item around, or otherwise attempt to get it to activate. You get a +2 bonus on
-the [check](/modern.d20.srd/skills/skill.basics.php#skill) if you’ve activated
+the [check](/modern.d20.srd/skills/skill.basics) if you’ve activated
 the item at least once in the past.
 
-If you fail the [check](/modern.d20.srd/skills/skill.basics.php#skill) by 10
+If you fail the [check](/modern.d20.srd/skills/skill.basics) by 10
 or more, you suffer a mishap. A mishap means that magical energy is released,
 but it doesn’t do what you wanted it to. The GM determines the result of a
 mishap. The default mishaps are that the item affects the wrong target or that
@@ -161,14 +161,14 @@ minute of concentration.
 
 **Emulate Class Feature** : Sometimes you need a class feature to activate a
 magic item. Your effective level in the emulated class equals your
-[check](/modern.d20.srd/skills/skill.basics.php#skill) result minus 20.
+[check](/modern.d20.srd/skills/skill.basics) result minus 20.
 
 This skill use doesn’t allow you to use the class feature of another class. It
 just lets you activate items as if you had the class feature.
 
 If the class whose feature you are emulating has an allegiance requirement,
 you must meet it. This may require a separate
-[check](/modern.d20.srd/skills/skill.basics.php#skill) to emulate allegiance
+[check](/modern.d20.srd/skills/skill.basics) to emulate allegiance
 (see below).
 
 **Emulate[Ability Score](/modern.d20.srd/basics/ability.scores)**: To cast a
@@ -176,10 +176,10 @@ spell from a scroll, you need a high [ability score](/modern.d20.srd/basics/abil
 ([Intelligence](/modern.d20.srd/basics/ability.scores) for [arcane spells](/modern.d20.srd/fx/arcane.spells),
 [Wisdom](/modern.d20.srd/basics/ability.scores) for [divine spells](/modern.d20.srd/fx/divine.spells)). Your effective ability score
 (appropriate to the class you’re emulating when you try to cast a spell from a
-scroll) equals your [check](/modern.d20.srd/skills/skill.basics.php#skill)
+scroll) equals your [check](/modern.d20.srd/skills/skill.basics)
 result minus 15. If you already have a high enough score in the ability, you
 don’t need to make this
-[check](/modern.d20.srd/skills/skill.basics.php#skill).
+[check](/modern.d20.srd/skills/skill.basics).
 
 **Emulate[Allegiance](/modern.d20.srd/basics/allegiances)**: Some magic items
 have positive or negative effects based on your
@@ -200,7 +200,7 @@ must first decipher it.
 In addition, casting a spell from a [scroll](/modern.d20.srd/fx.items/scrolls)
 requires a minimum score of 10 + the spell’s level in the appropriate ability.
 If you don’t have a sufficiently high score, you must emulate the ability
-score with a separate [check](/modern.d20.srd/skills/skill.basics.php#skill)
+score with a separate [check](/modern.d20.srd/skills/skill.basics)
 (see above).
 
 **Use a Wand** : Normally, to use a wand you must belong to a class that has
@@ -212,8 +212,8 @@ Try Again?: Yes, but if you ever roll a natural 1 while attempting to activate
 an item and you fail the check, then you can’t try to activate that item again
 for 24 hours.
 
-Special: You can’t [take 10](/modern.d20.srd/skills/skill.basics.php#take10)
-or [take 20](/modern.d20.srd/skills/skill.basics.php#take20) with this skill.
+Special: You can’t [take 10](/modern.d20.srd/skills/skill.basics)
+or [take 20](/modern.d20.srd/skills/skill.basics) with this skill.
 Magic is too unpredictable to make the use of this skill reliable.
 
 ### Spell Resistance
@@ -242,19 +242,19 @@ thereafter, she uncovers spell [scrolls](/modern.d20.srd/fx.items/scrolls)
 through arcane research and study. The GM randomly selects the spells
 contained on the [scrolls](/modern.d20.srd/fx.items/scrolls), though the
 Occultist can make a [Research](/modern.d20.srd/skills/research)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) to select a certain
+[check](/modern.d20.srd/skills/skill.basics) to select a certain
 number of her own spells. The table shows how many
 [scrolls](/modern.d20.srd/fx.items/scrolls) of each spell level the Occultist
 receives upon gaining a new level, and how many of these can be researched at
 each level. A failed [Research](/modern.d20.srd/skills/research)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) indicates that the
+[check](/modern.d20.srd/skills/skill.basics) indicates that the
 Occultist instead discovers all random spells.
 
 So, at 2nd level, the Occultist gains three 1st-level arcane spell
 [scrolls](/modern.d20.srd/fx.items/scrolls). One of these spells can be
 selected by the Occultist if she makes a successful
 [Research](/modern.d20.srd/skills/research)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 20); the other two
+[check](/modern.d20.srd/skills/skill.basics) (DC 20); the other two
 spells are selected randomly. These are all the spell
 [scrolls](/modern.d20.srd/fx.items/scrolls) the Occultist has until she
 attains 3rd level. Once a spell is used, it disappears from the scroll that
@@ -323,7 +323,7 @@ in this class.
 When the Occultist attains 7th level, and upon attaining each new level
 thereafter, she uncovers one magic item through arcane research and study. The
 GM randomly selects the item, though the Occultist can make a Research
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 25) to specify the
+[check](/modern.d20.srd/skills/skill.basics) (DC 25) to specify the
 type of item gained.
 
 The item must be a [wondrous item](/modern.d20.srd/fx.items/wondrous.items), a

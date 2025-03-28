@@ -9,14 +9,14 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 Benefit: To find tracks or follow them for one mile requires a
 [Survival](/modern.d20.srd/skills/survival)
-[check](/modern.d20.srd/skills/skill.basics.php#skill). The character must
+[check](/modern.d20.srd/skills/skill.basics). The character must
 make another [Survival](/modern.d20.srd/skills/survival)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) every time the tracks
+[check](/modern.d20.srd/skills/skill.basics) every time the tracks
 become difficult to follow.
 
 The character moves at half his or her normal speed (or at the character’s
 normal speed with a –5 penalty on the
-[check](/modern.d20.srd/skills/skill.basics.php#skill), or at up to twice the
+[check](/modern.d20.srd/skills/skill.basics), or at up to twice the
 character’s speed with a –20 penalty on the check). The DC depends on the
 surface and the prevailing conditions.
 
@@ -39,7 +39,7 @@ concrete, metal deckings, or indoor floors. The quarry leaves only traces,
 such as scuff marks.
 
 If the character fails a [Survival](/modern.d20.srd/skills/survival)
-[check](/modern.d20.srd/skills/skill.basics.php#skill), he or she can retry
+[check](/modern.d20.srd/skills/skill.basics), he or she can retry
 after 1 hour (out­doors) or 10 minutes (indoors) of searching.
 
 Normal: A character without this feat can use the

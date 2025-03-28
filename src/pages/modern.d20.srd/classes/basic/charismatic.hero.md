@@ -71,7 +71,7 @@ talent can be selected more than once unless expressly indicated.
 The Charismatic hero has an innate talent for being charming and captivating.
 
 Charm: The Charismatic hero gets a competence bonus on all
-[Charisma](/modern.d20.srd/basics/ability.scores)-based [skill checks](/modern.d20.srd/skills/skill.basics.php#skill) made to influence
+[Charisma](/modern.d20.srd/basics/ability.scores)-based [skill checks](/modern.d20.srd/skills/skill.basics) made to influence
 members of his chosen gender. (Some characters are charming to members of the
 opposite gender, others to members of the same gender.) The bonus is equal to
 the character’s Charismatic level.
@@ -93,8 +93,8 @@ a favor check, roll a d20 and add the character’s favor bonus, equal to the
 character’s Charismatic level. The GM sets the DC based on the scope of the
 favor being requested. The DC ranges from 10 for a simple favor to as high as
 30 for formidable and highly dangerous, expensive, or illegal favors. A
-Charismatic hero can’t [take 10](/modern.d20.srd/skills/skill.basics.php#take10) or
-[20](/modern.d20.srd/skills/skill.basics.php#take20) on this check, nor can
+Charismatic hero can’t [take 10](/modern.d20.srd/skills/skill.basics) or
+[20](/modern.d20.srd/skills/skill.basics) on this check, nor can
 the hero retry the check for the same (or virtually the same) favor. Favors
 should help advance the plot of an adventure. A favor that would enable a
 character to avoid an adventure altogether should always be unavailable to the
@@ -147,7 +147,7 @@ con and deceive. With this talent, he or she applies his or her Charismatic
 level as a competence bonus on any [Bluff](/modern.d20.srd/skills/bluff),
 [Diplomacy](/modern.d20.srd/skills/diplomacy), or
 [Gamble](/modern.d20.srd/skills/gamble)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) the hero makes while
+[checks](/modern.d20.srd/skills/skill.basics) the hero makes while
 attempting to lie, cheat, or otherwise bend the truth.
 
 **Dazzle** : The Charismatic hero has the ability to dazzle a target through
@@ -164,7 +164,7 @@ can try to resist.
 
 The target resists the dazzle attempt by making a Will [saving throw](/modern.d20.srd/basics/saving.throws) (DC 10 + Charismatic hero’s class
 level + Charismatic hero’s Cha bonus). If the save fails, the target receives
-a –1 penalty on [attack rolls](/modern.d20.srd/combat/attack.roll), [ability checks](/modern.d20.srd/basics/ability.scores), [skill checks](/modern.d20.srd/skills/skill.basics.php#skill), and [saving throws](/modern.d20.srd/basics/saving.throws) for a number of rounds equal to
+a –1 penalty on [attack rolls](/modern.d20.srd/combat/attack.roll), [ability checks](/modern.d20.srd/basics/ability.scores), [skill checks](/modern.d20.srd/skills/skill.basics), and [saving throws](/modern.d20.srd/basics/saving.throws) for a number of rounds equal to
 the character’s Charismatic level.
 
 This talent can be selected multiple times, each time worsening the dazzled
@@ -201,7 +201,7 @@ The Charismatic hero has a talent for leadership and inspiration.
 together. When the hero can spend a full round directing his or her allies and
 makes a [Charisma](/modern.d20.srd/basics/ability.scores) check (DC 10), the
 hero provides any of his or her allies within 30 feet a +1 bonus on their
-[attack rolls](/modern.d20.srd/combat/attack.roll) and [skill checks](/modern.d20.srd/skills/skill.basics.php#skill). The bonus lasts for a
+[attack rolls](/modern.d20.srd/combat/attack.roll) and [skill checks](/modern.d20.srd/skills/skill.basics). The bonus lasts for a
 number of rounds equal to the hero’s
 [Charisma](/modern.d20.srd/basics/ability.scores) modifier.
 

@@ -22,7 +22,7 @@ the three following effects, depending on the version selected:
 –6 penalty to an [ability score](/modern.d20.srd/basics/ability.scores)
 (minimum score of 1).
 
-–4 penalty on attack rolls, [saving throws](/modern.d20.srd/basics/saving.throws), [ability checks](/modern.d20.srd/skills/skill.basics), and [skill checks](/modern.d20.srd/skills/skill.basics.php#skill).
+–4 penalty on attack rolls, [saving throws](/modern.d20.srd/basics/saving.throws), [ability checks](/modern.d20.srd/skills/skill.basics), and [skill checks](/modern.d20.srd/skills/skill.basics).
 
 Each turn, the target has a 50% chance to act normally; otherwise, he or she
 takes no action.

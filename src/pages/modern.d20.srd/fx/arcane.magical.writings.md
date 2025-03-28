@@ -11,7 +11,7 @@ To decipher an arcane magical writing, a character must make a successful
 [Spellcraft](/modern.d20.srd/classes/advanced/mage) check (DC 20 + the spell’s
 level). If the check fails, the character cannot attempt to read that
 particular spell until the next day. A [read magic](/modern.d20.srd/fx/read.magic) spell automatically deciphers a magical
-writing without a [skill check](/modern.d20.srd/skills/skill.basics.php#skill). If the person who
+writing without a [skill check](/modern.d20.srd/skills/skill.basics). If the person who
 created the magical writing is on hand to help the reader, success is also
 automatic.
 

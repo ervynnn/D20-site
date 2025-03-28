@@ -13,7 +13,7 @@ and while the character replenishes this supply with every new level he or she
 attains, the character must use them wisely. A character can spend 1 action
 point to do one of these things:
 
-Alter a single d20 roll used to make an attack, a [skill check](/modern.d20.srd/skills/skill.basics.php#skill), an [ability check](/modern.d20.srd/basics/ability.scores), a level check, or a [saving throw](/modern.d20.srd/basics/saving.throws).
+Alter a single d20 roll used to make an attack, a [skill check](/modern.d20.srd/skills/skill.basics), an [ability check](/modern.d20.srd/basics/ability.scores), a level check, or a [saving throw](/modern.d20.srd/basics/saving.throws).
 
 Use a class talent or class feature during your turn for which the expenditure
 of 1 action point is required.

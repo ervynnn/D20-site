@@ -11,7 +11,7 @@ This skill allows a character to create short stories, novels, scripts and
 screenplays, newspaper articles and columns, and similar works of writing.
 
 When creating a work of writing, the player simply makes a Craft (writing)
-[check](/modern.d20.srd/skills/skill.basics.php#skill), the result of which
+[check](/modern.d20.srd/skills/skill.basics), the result of which
 determines the quality of the work.
 
 No [Wealth check](/modern.d20.srd/wealth/wealth.check) is necessary to use
@@ -26,5 +26,5 @@ a week, or more, depending on the scope of the project.
 
 Special: A character with the [Creative](/modern.d20.srd/feats/creative) feat
 gets a +2 bonus on all Craft (writing)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics).
 

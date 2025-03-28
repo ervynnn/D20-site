@@ -20,8 +20,8 @@ clothes that fit his or her lifestyle. Sometimes, however, a character might
 need something out of the ordinary. When that’s the case, he or she will have
 to purchase it like any other piece of gear. Clothes have two effects on game
 mechanics: one on [Disguise](/modern.d20.srd/skills/disguise)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill), and one on [Sleight of Hand](/modern.d20.srd/skills/sleight.of.hand)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics), and one on [Sleight of Hand](/modern.d20.srd/skills/sleight.of.hand)
+[checks](/modern.d20.srd/skills/skill.basics).
 
 First, clothing is part of a disguise. See the
 [Disguise](/modern.d20.srd/skills/disguise) skill description for more on how
@@ -68,11 +68,11 @@ discern.
 
 A character wearing a ghillie suit with appropriate coloration gains a +10
 bonus on [Hide](/modern.d20.srd/skills/hide)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill). (The suit’s
+[checks](/modern.d20.srd/skills/skill.basics). (The suit’s
 coloration can be changed with a move action. However, the bulky suit imposes
 a penalty of –4 on all [Dexterity](/modern.d20.srd/basics/ability.scores)
 checks, [Dexterity](/modern.d20.srd/skills/hide)-based skill
-[checks](/modern.d20.srd/skills/skill.basics.php#skill) (except Hide), and
+[checks](/modern.d20.srd/skills/skill.basics) (except Hide), and
 melee [attack rolls](/modern.d20.srd/combat/attack.roll).
 
 ### Outerwear

@@ -28,5 +28,5 @@ The spell does not affect creatures that do not have the chosen [ allegiance](/m
 An outsider with the designated [ allegiance](/modern.d20.srd/basics/allegiances) instead suffers 1d6 points of [ damage](/modern.d20.srd/combat/damage) per caster level (maximum 10d6). In addition
 to the obvious effects, a blinded creature suffers a 50% miss chance in combat
 (all opponents have total concealment), loses any [ Dexterity](/modern.d20.srd/basics/ability.scores) bonus to [ Defense](/modern.d20.srd/combat/defense) , grants a +2 bonus on opponents’ [ attack rolls ](/modern.d20.srd/combat/attack.roll) (they are effectively invisible),
-moves at half speed, and takes a –4 penalty on [ Search](/modern.d20.srd/skills/search) [ checks](/modern.d20.srd/skills/skill.basics.php#skill) and most [ Strength](/modern.d20.srd/basics/ability.scores) \- and [ Dexterity](/modern.d20.srd/basics/ability.scores) -based skill checks.
+moves at half speed, and takes a –4 penalty on [ Search](/modern.d20.srd/skills/search) [ checks](/modern.d20.srd/skills/skill.basics) and most [ Strength](/modern.d20.srd/basics/ability.scores) \- and [ Dexterity](/modern.d20.srd/basics/ability.scores) -based skill checks.
 

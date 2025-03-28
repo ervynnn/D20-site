@@ -125,7 +125,7 @@ action while flying, provided they fly in a straight line.
 Swim: A creature with a swim speed can move through water at the given speed
 without making [Swim](/modern.d20.srd/skills/swim) checks. It gains a +8
 species bonus on any [Swim](/modern.d20.srd/skills/swim) check to perform some
-special action or avoid a hazard. The creature always can choose to [take 10](/modern.d20.srd/skills/skill.basics.php#take10), even if distracted or
+special action or avoid a hazard. The creature always can choose to [take 10](/modern.d20.srd/skills/skill.basics), even if distracted or
 endangered when swimming. Creatures can use the run action while swimming,
 provided they swim in a straight line.
 

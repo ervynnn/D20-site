@@ -30,16 +30,16 @@ trained or untrained use, they are covered in the Special section (see below).
 the skill name, apply the [armor penalty](/modern.d20.srd/equipment/armor.general) for the armor the character
 is wearing to checks involving this skill.
 
-[Check](/modern.d20.srd/skills/skill.basics.php#skill): What a character can
-do with a successful [skill check](/modern.d20.srd/skills/skill.basics.php#skill), and the
-[check’s](/modern.d20.srd/skills/skill.basics.php#skill) DC.
+[Check](/modern.d20.srd/skills/skill.basics): What a character can
+do with a successful [skill check](/modern.d20.srd/skills/skill.basics), and the
+[check’s](/modern.d20.srd/skills/skill.basics) DC.
 
 Try Again?: Any conditions that apply to repeated attempts to use the skill
-for a particular purpose. If this entry is omitted, the [skill check](/modern.d20.srd/skills/skill.basics.php#skill) can be tried again
+for a particular purpose. If this entry is omitted, the [skill check](/modern.d20.srd/skills/skill.basics) can be tried again
 without any inherent penalty other than taking additional time.
 
 Special: Any particular notes that apply, such as whether a character can
-[take 10](/modern.d20.srd/skills/skill.basics.php#take10) or [take 20](/modern.d20.srd/skills/skill.basics.php#take20) when using the skill.
+[take 10](/modern.d20.srd/skills/skill.basics) or [take 20](/modern.d20.srd/skills/skill.basics) when using the skill.
 
 Untrained: Any details about using a skill untrained. If this entry doesn’t
 appear, it means the skill works the same even when used untrained, or that an

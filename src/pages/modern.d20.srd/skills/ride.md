@@ -8,21 +8,21 @@ layout: '~/layouts/MarkdownLayout.astro'
 ## Ride ([Dex](/modern.d20.srd/basics/ability.scores))
 
 Animals ill suited as mounts provide a –2 penalty on their rider’s Ride
-[check](/modern.d20.srd/skills/skill.basics.php#skill).
+[check](/modern.d20.srd/skills/skill.basics).
 
 Check: Typical riding actions don’t require
-[checks](/modern.d20.srd/skills/skill.basics.php#skill). A character can
+[checks](/modern.d20.srd/skills/skill.basics). A character can
 saddle, mount, ride, and dismount without a problem. Mounting or dismounting
 an animal is a [move action](/modern.d20.srd/combat/move.actions). Some tasks,
 such as those undertaken in combat or other extreme circumstances, require
-[checks](/modern.d20.srd/skills/skill.basics.php#skill). In addition,
+[checks](/modern.d20.srd/skills/skill.basics). In addition,
 attempting trick riding or asking the animal to perform an unusual technique
-also requires a [check](/modern.d20.srd/skills/skill.basics.php#skill).
+also requires a [check](/modern.d20.srd/skills/skill.basics).
 
 Guide with Knees (DC 5): The character can react instantly to guide his or her
 mount with his or her knees so that the character can use both hands in combat
 or to perform some other action. Make the
-[check](/modern.d20.srd/skills/skill.basics.php#skill) at the start of the
+[check](/modern.d20.srd/skills/skill.basics) at the start of the
 character’s round. If the character fails, he or she can only use one hand
 this round because the character needs to use the other to control his or her
 mount.
@@ -39,7 +39,7 @@ else. If the character fails, he or she can do nothing else that round. If the
 character fails by more than 5, he or she loses control of the animal.
 
 For animals trained in combat riding, the character does not need to make this
-[check](/modern.d20.srd/skills/skill.basics.php#skill). Instead, the character
+[check](/modern.d20.srd/skills/skill.basics). Instead, the character
 can use his or her [move action](/modern.d20.srd/combat/move.actions) to have
 the animal perform a trick (commonly, to
 [attack](/modern.d20.srd/combat/attack.roll)). The character can use his or
@@ -61,29 +61,29 @@ of its [movement](/modern.d20.srd/combat/movement.and.position). Use the
 character’s Ride modifier or the mount’s [Jump](/modern.d20.srd/skills/jump)
 modifier (whichever is lower) when the mount makes its
 [Jump](/modern.d20.srd/skills/jump)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (see the
+[check](/modern.d20.srd/skills/skill.basics) (see the
 [Jump](/modern.d20.srd/skills/jump) skill). The character makes a Ride
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 15) to stay on the
+[check](/modern.d20.srd/skills/skill.basics) (DC 15) to stay on the
 mount when it leaps.
 
 Fast Mount or Dismount (DC 20; armor penalty applies): The character can mount
 or dismount as a [free action](/modern.d20.srd/combat/action.types). If the
-character fails the [check](/modern.d20.srd/skills/skill.basics.php#skill),
+character fails the [check](/modern.d20.srd/skills/skill.basics),
 mounting or dismounting is a [move action](/modern.d20.srd/combat/move.actions). (A character can’t attempt a
 fast mount or dismount unless he or she can perform the mount or dismount as a
 [move action](/modern.d20.srd/combat/move.actions) this round, should the
-[check](/modern.d20.srd/skills/skill.basics.php#skill) fail.)
+[check](/modern.d20.srd/skills/skill.basics) fail.)
 
 Special: If the character is riding bareback, he or she takes a –5 penalty on
-Ride [checks](/modern.d20.srd/skills/skill.basics.php#skill).
+Ride [checks](/modern.d20.srd/skills/skill.basics).
 
-A character can [take 10](/modern.d20.srd/skills/skill.basics.php#take10) when
-making a Ride [check](/modern.d20.srd/skills/skill.basics.php#skill), but
-can’t [take 20](/modern.d20.srd/skills/skill.basics.php#take20).
+A character can [take 10](/modern.d20.srd/skills/skill.basics) when
+making a Ride [check](/modern.d20.srd/skills/skill.basics), but
+can’t [take 20](/modern.d20.srd/skills/skill.basics).
 
 A character with the [Animal Affinity](/modern.d20.srd/feats/animal.affinity)
 feat gets a +2 bonus on all Ride
-[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics).
 
 Time: Ride is a [move action](/modern.d20.srd/combat/move.actions), except
 when otherwise noted for the special tasks listed above.

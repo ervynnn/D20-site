@@ -5,9 +5,9 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 [ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Handle Animal
 
-## Handle Animal ([Cha](/modern.d20.srd/basics/ability.scores)) [Trained Only](/modern.d20.srd/skills/skill.basics.php#skill)
+## Handle Animal ([Cha](/modern.d20.srd/basics/ability.scores)) [Trained Only](/modern.d20.srd/skills/skill.basics)
 
-[Check](/modern.d20.srd/skills/skill.basics.php#skill): The time required to
+[Check](/modern.d20.srd/skills/skill.basics): The time required to
 get an effect and the DC depend on what the character is trying to do.
 
 
@@ -16,17 +16,17 @@ get an effect and the DC depend on what the character is trying to do.
 
 Handle an Animal: This means to command an animal to perform a task or trick
 that it knows. If the animal is wounded or has taken any [ability score](/modern.d20.srd/basics/ability.scores) damage, the DC increases by +5.
-If the [check](/modern.d20.srd/skills/skill.basics.php#skill) is successful,
+If the [check](/modern.d20.srd/skills/skill.basics) is successful,
 the animal performs the task or trick on its next action.
 
 “Push” an Animal: To push an animal means to get it to perform a task or trick
 that it doesn’t know, but is physically capable of performing. If the
-[check](/modern.d20.srd/skills/skill.basics.php#skill) is successful, the
+[check](/modern.d20.srd/skills/skill.basics) is successful, the
 animal performs the task or trick on its next action.
 
 Teach an Animal a Trick: The character can teach an animal a specific trick,
 such as “attack” or “stay,” with one week of work and a successful Handle
-Animal [check](/modern.d20.srd/skills/skill.basics.php#skill). An animal with
+Animal [check](/modern.d20.srd/skills/skill.basics). An animal with
 an [Intelligence](/modern.d20.srd/basics/ability.scores) of 1 can learn a
 maximum of three tricks, while an animal with an
 [Intelligence](/modern.d20.srd/basics/ability.scores) of 2 can learn a maximum
@@ -35,10 +35,10 @@ of six tricks.
 The character can teach an animal to obey only that character. Any other
 person attempting to make the animal perform a trick takes a –10 penalty on
 his or her Handle Animal
-[check](/modern.d20.srd/skills/skill.basics.php#skill). Teaching an animal to
+[check](/modern.d20.srd/skills/skill.basics). Teaching an animal to
 obey only the character counts as a trick (in terms of how many tricks the
 animal can learn). It does not require a
-[check](/modern.d20.srd/skills/skill.basics.php#skill); however, it increases
+[check](/modern.d20.srd/skills/skill.basics); however, it increases
 the DC of all tricks the character teaches the animal by +5. If the animal
 already knows any tricks, the character cannot teach it to obey only that
 character.
@@ -100,7 +100,7 @@ Combat Riding (DC 20, 6 weeks): An animal trained to bear a rider into combat
 knows Attack, Come, Defend, Down, Guard, and Heel. An animal trained in riding
 may be “upgraded” to an animal trained in combat riding by spending three
 weeks and making a Handle Animal
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 20). If the animal
+[check](/modern.d20.srd/skills/skill.basics) (DC 20). If the animal
 was trained in other tricks (in addition to those provided by training the
 animal for riding), those tricks are completely replaced by the combat riding
 tricks.
@@ -125,14 +125,14 @@ and Stay.
 
 Try Again?: Yes.
 
-Special: A character can [take 10](/modern.d20.srd/skills/skill.basics.php#take10) or [take 20](/modern.d20.srd/skills/skill.basics.php#take20) when handling animals.
+Special: A character can [take 10](/modern.d20.srd/skills/skill.basics) or [take 20](/modern.d20.srd/skills/skill.basics) when handling animals.
 
 An untrained character uses [Charisma checks](/modern.d20.srd/skills/skill.basics) to handle and push animals, but
 he or she can’t teach or train animals.
 
 A character with the [Animal Affinity](/modern.d20.srd/feats/animal.affinity)
 feat and at least 1 rank in this skill gets a +2 bonus on all Handle Animal
-[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics).
 
 Time: See above. Teaching or training an animal takes a number of days. The
 character does not have to spend the entire time training the animal; 3 hours

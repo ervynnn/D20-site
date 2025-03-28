@@ -7,10 +7,10 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 ## Bluff ([Cha](/modern.d20.srd/basics/ability.scores))
 
-[Check](/modern.d20.srd/skills/skill.basics.php#skill): A Bluff
-[check](/modern.d20.srd/skills/skill.basics.php#skill) is opposed by the
+[Check](/modern.d20.srd/skills/skill.basics): A Bluff
+[check](/modern.d20.srd/skills/skill.basics) is opposed by the
 target’s [Sense Motive](/modern.d20.srd/skills/sense.motive)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) when trying to con or
+[check](/modern.d20.srd/skills/skill.basics) when trying to con or
 mislead. Favorable and unfavorable circumstances weigh heavily on the outcome
 of a bluff. Two circumstances can work against the character: The bluff is
 hard to believe, or the action that the bluff requires the target to take goes
@@ -20,14 +20,14 @@ If it’s important, the GM can distinguish between a bluff that fails because
 the target doesn’t believe it and one that fails because it asks too much of
 the target. For instance, if the target gets a +10 bonus because the bluff
 demands something risky of the target, and the target’s [Sense Motive](/modern.d20.srd/skills/sense.motive)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) succeeds by 10 or less,
+[check](/modern.d20.srd/skills/skill.basics) succeeds by 10 or less,
 then the target didn’t so much see through the bluff as prove reluctant to go
 along with it. If the target’s [Sense Motive](/modern.d20.srd/skills/sense.motive)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) succeeds by 11 or more,
+[check](/modern.d20.srd/skills/skill.basics) succeeds by 11 or more,
 he has seen through the bluff, and would have succeeded in doing so even if it
 had not placed any demand on him (that is, even without the +10 bonus).
 
-A successful Bluff [check](/modern.d20.srd/skills/skill.basics.php#skill)
+A successful Bluff [check](/modern.d20.srd/skills/skill.basics)
 indicates that the target reacts as the character wishes, at least for a short
 time (usually 1 round or less), or the target believes something that the
 character wants him or her to believe. A bluff requires interaction between
@@ -62,26 +62,26 @@ ignores his or her [Dexterity bonus](/modern.d20.srd/basics/ability.scores) to
 lowering his or her [Defense](/modern.d20.srd/combat/defense) score. Using
 Bluff in this way against a creature of animal intelligence
 ([Int](/modern.d20.srd/basics/ability.scores) 1 or 2) requires a –8 penalty on
-the [check](/modern.d20.srd/skills/skill.basics.php#skill). Against a
+the [check](/modern.d20.srd/skills/skill.basics). Against a
 nonintelligent creature, feinting is impossible.
 
 Creating a Diversion to Hide: A character can use Bluff to help him or her
 hide. A successful Bluff
-[check](/modern.d20.srd/skills/skill.basics.php#skill) gives the character the
+[check](/modern.d20.srd/skills/skill.basics) gives the character the
 momentary diversion needed to attempt a [Hide](/modern.d20.srd/skills/hide)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) while people are aware
+[check](/modern.d20.srd/skills/skill.basics) while people are aware
 of the character. (See the [Hide](/modern.d20.srd/skills/hide) skill)
 
 Sending a Secret Message: A character can use Bluff to send and understand
 secret messages while appearing to be speaking about other things. The DC for
 a basic message is 10. Complex messages or messages trying to communicate new
 information have DCs of 15 or 20. Both the sender and the receiver must make
-the [check](/modern.d20.srd/skills/skill.basics.php#skill) for the secret
+the [check](/modern.d20.srd/skills/skill.basics) for the secret
 message to be successfully relayed and understood.
 
 Anyone listening in on a secret message can attempt a [Sense Motive](/modern.d20.srd/skills/sense.motive)
-[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC equal to the
-sender’s Bluff [check](/modern.d20.srd/skills/skill.basics.php#skill) result).
+[check](/modern.d20.srd/skills/skill.basics) (DC equal to the
+sender’s Bluff [check](/modern.d20.srd/skills/skill.basics) result).
 If successful, the eavesdropper realizes that a secret message is contained in
 the communication. If the eavesdropper beats the DC by 5 or more, he or she
 understands the secret message.
@@ -90,15 +90,15 @@ Whether trying to send or intercept a message, a failure by 5 or more points
 means that one side or the other misinterprets the message in some fashion.
 
 Try Again?: Generally, a failed Bluff
-[check](/modern.d20.srd/skills/skill.basics.php#skill) makes the target too
+[check](/modern.d20.srd/skills/skill.basics) makes the target too
 suspicious for the character to try another bluff in the same circumstances.
 For feinting in [combat](/modern.d20.srd/combat/combat.cycle), the character
 may try again freely.
 
-Special: A character can [take 10](/modern.d20.srd/skills/skill.basics.php#take10) when making a bluff
-(except for feinting in combat), but can’t [take 20](/modern.d20.srd/skills/skill.basics.php#take20). A character with the
+Special: A character can [take 10](/modern.d20.srd/skills/skill.basics) when making a bluff
+(except for feinting in combat), but can’t [take 20](/modern.d20.srd/skills/skill.basics). A character with the
 [Deceptive](/modern.d20.srd/feats/deceptive) feat gets a +2 bonus on all Bluff
-[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics).
 
 Time: A bluff takes at least 1 round (and is at least a [full-round action](/modern.d20.srd/combat/full.round.actions)) but can take much longer
 if the character tries something elaborate. Using Bluff as a feint in

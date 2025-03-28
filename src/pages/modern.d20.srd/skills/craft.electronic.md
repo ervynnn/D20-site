@@ -21,9 +21,9 @@ current technology.
 
 
 Special: A character without an [electrical tool kit](/modern.d20.srd/equipment/professional.equipment) takes a –4 penalty on
-Craft (electronic) [checks](/modern.d20.srd/skills/skill.basics.php#skill).
+Craft (electronic) [checks](/modern.d20.srd/skills/skill.basics).
 
 A character with the [Builder](/modern.d20.srd/feats/builder) feat gets a +2
 bonus on all Craft (electronic)
-[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+[checks](/modern.d20.srd/skills/skill.basics).
 
