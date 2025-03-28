@@ -11,7 +11,7 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 ###  Webmaster's Note:
 
-d20resources.com was created with the idea of making playing d20 games easier.
+Dept7 was created with the idea of making playing d20 games easier.
 There are tons of incredible rpg books available for reference; I should know,
 I (like many of you I would assume) have shelves full of them. The problem is
 that with all of this reference material, sometimes it's simply too cumbersome
