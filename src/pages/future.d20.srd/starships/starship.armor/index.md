@@ -1,0 +1,43 @@
+---
+title: Starship Armor
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > Starship Armor
+
+## Starship Armor
+
+A starship can have only one type of armor installed. To surround a starship’s
+hull in armor or to upgrade the armor, a character must succeed at a Craft
+(structural) check (DC 30) after investing 600 hours in its assembly. A
+character without a mechanical tool kit takes a –4 penalty on the skill check.
+The character must also make a Wealth check against the armor’s (or upgraded
+armor’s) purchase DC.
+
+Different types of starship armor are presented below.
+
+Hardness: The amount of damage the armor absorbs from a weapon hit or
+collision.
+
+Tactical Speed Penalty: The amount by which the armor reduces the starship’s
+tactical speed, given in feet and squares.
+
+Weight: The armor’s weight.
+
+Purchase DC: The armor’s purchase DC.
+
+Restriction: The restriction rating of the armor.
+
+  * PL 5
+    * [Alloy Plating](/future.d20.srd/starships/starship.armor/alloy.plating)
+  * PL 6
+    * [Polymeric](/future.d20.srd/starships/starship.armor/polymeric)
+    * [Vanadium](/future.d20.srd/starships/starship.armor/vanadium)
+  * PL 7
+    * [Cerametal](/future.d20.srd/starships/starship.armor/cerametal)
+    * [Deflective](/future.d20.srd/starships/starship.armor/deflective)
+    * [Neutronite](/future.d20.srd/starships/starship.armor/neutronite)
+  * PL 8
+    * [Ablative](/future.d20.srd/starships/starship.armor/ablative)
+    * [Nanofluidic](/future.d20.srd/starships/starship.armor/nanofluidic)
+

@@ -1,146 +1,83 @@
+
 ---
 title: 'Privacy Policy'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-_Last updated_: January 06, 2023
 
-[ Arcana d20 SRD ](/#arcanaD20) > [ Advanced Classes ](arcana-d20-srd-advanced-classes-index) > Arcane Arranger
+Index
 
-##  Arcane Arranger
-
-The fastest path into this advanced class is from the Charismatic hero basic
-class, though other paths are possible.
-
-A high Intelligence is also useful for the Arcane Arranger, since knowledge is
-his province.
-
-###  Requirements
-
-To qualify to become an Arcane Arranger, a character must fulfill the
-following criteria.
-
-Skills: Diplomacy 6 ranks, Gather Information 6 ranks, any Knowledge (arcane
-law, business, current events, popular culture, or streetwise) 6 ranks.
-
-###  Class Information
-
-The following information pertains to the Arcane Arranger advanced class.
-
-**Hit Die**
-
-Arcane Arrangers gain 1d6 hit points per level. The character’s Constitution
-modifier applies.
-
-**Action Points**
-
-Arcane Arrangers gain a number of action points equal to 6 plus one-half their
-character level, rounded down, every time they advance a level in this class.
-
-**Class Skills**
-
-The Arcane Arranger’s class skills are: Bluff (Cha), Computer Use (Int),
-Decipher Script (Int), Diplomacy (Cha), Forgery (Int), Gather Information
-(Cha), Intimidate (Cha), Knowledge (arcane lore, business, current events,
-popular culture, streetwise) (Int), Listen (Wis), Profession (Wis), Read/Write
-Language (none), Repair (Int), Research (Int), Sense Motive (Wis), Speak
-Language (none).
-
-Skill Points at Each Level: 7 + Intelligence modifier.
+##  Modern d20 SRD
 
 
-<table> <tr> <th colspan="8"> Table: The Arcane Arranger </th> </tr> <tr> <th> Level </th> <th> Base Attack Bonus </th> <th> Fort Save </th> <th> Ref Save </th> <th> Will Save </th> <th> Special </th> <th> Defense Bonus </th> <th> Reputation Bonus </th> </tr> <tr> <td> 1st </td> <td> +0 </td> <td> +0 </td> <td> +0 </td> <td> +1 </td> <td> Word on the street </td> <td> +0 </td> <td> +2 </td> </tr> <tr class="shaded"> <td> 2nd </td> <td> +1 </td> <td> +0 </td> <td> +0 </td> <td> +2 </td> <td> False allegiance </td> <td> +1 </td> <td> +2 </td> </tr> <tr> <td> 3rd </td> <td> +1 </td> <td> +1 </td> <td> +1 </td> <td> +2 </td> <td> Bonus feat </td> <td> +1 </td> <td> +2 </td> </tr> <tr class="shaded"> <td> 4th </td> <td> +2 </td> <td> +1 </td> <td> +1 </td> <td> +2 </td> <td> Shadow resources </td> <td> +1 </td> <td> +3 </td> </tr> <tr> <td> 5th </td> <td> +2 </td> <td> +1 </td> <td> +1 </td> <td> +3 </td> <td> Pack rat </td> <td> +2 </td> <td> +3 </td> </tr> <tr class="shaded"> <td> 6th </td> <td> +3 </td> <td> +2 </td> <td> +2 </td> <td> +3 </td> <td> Bonus feat </td> <td> +2 </td> <td> +3 </td> </tr> <tr> <td> 7th </td> <td> +3 </td> <td> +2 </td> <td> +2 </td> <td> +4 </td> <td> Expert in your field </td> <td> +2 </td> <td> +4 </td> </tr> <tr class="shaded"> <td> 8th </td> <td> +4 </td> <td> +2 </td> <td> +2 </td> <td> +4 </td> <td> Up my sleeve </td> <td> +3 </td> <td> +4 </td> </tr> <tr> <td> 9th </td> <td> +4 </td> <td> +3 </td> <td> +3 </td> <td> +4 </td> <td> Bonus feat </td> <td> +3 </td> <td> +4 </td> </tr> <tr class="shaded"> <td> 10th </td> <td> +5 </td> <td> +3 </td> <td> +3 </td> <td> +5 </td> <td> Up my sleeve </td> <td> +3 </td> <td> +5 </td> </tr> </table>
+<table class="index2col"> <tr> <td> <a href="modern.d20.srd/basics"> Basics </a> </td> <td> <a href="modern.d20.srd/fx.items"> FX Items </a> </td> </tr> <tr> <td> <a href="modern.d20.srd/classes"> Classes </a> </td> <td> <a href="modern.d20.srd/ordinaries"> Ordinaries </a> </td> </tr> <tr> <td> <a href="modern.d20.srd/combat"> Combat </a> </td> <td> <a href="modern.d20.srd/psionics"> Psionics </a> </td> </tr> <tr> <td> <a href="modern.d20.srd/conditions"> Condition Summary </a> </td> <td> <a href="modern.d20.srd/reputation"> Reputation </a> </td> </tr> <tr> <td> <a href="modern.d20.srd/creature.types"> Creature Types </a> </td> <td> <a href="modern.d20.srd/skills"> Skills </a> </td> </tr> <tr> <td> <a href="modern.d20.srd/creatures"> Creatures </a> </td> <td> <a href="modern.d20.srd/special.abilities"> Special Abilities </a> </td> </tr> <tr> <td> <a href="modern.d20.srd/environment.hazards"> Environment &amp; Hazards </a> </td> <td> <a href="modern.d20.srd/starting.occupation"> Starting Occupation </a> </td> </tr> <tr> <td> <a href="modern.d20.srd/equipment"> Equipment </a> </td> <td> <a href="modern.d20.srd/vehicle.movement.and.combat"> Vehicle Movement and Combat </a> </td> </tr> <tr> <td> <a href="modern.d20.srd/feats"> Feats </a> </td> <td> <a href="modern.d20.srd/wealth"> Wealth </a> </td> </tr> <tr> <td> <a href="modern.d20.srd/fx"> FX </a> </td> <td> </td> </tr> </table>
 
 
-###  Class Features
-
-The following features pertain to the Arcane Arranger advanced class.
-
-**Word on the Street**
-
-The Arcane Arranger filters information constantly and remembers everything.
-Through regular contacts, gossip, internet chats, and other situations, he has
-a deep knowledge of everyday things. The Arcane Arranger can make a Gather
-Information check on general or specific information instantaneously, and
-spends only an hour making a Gather Information check for restricted
-information. Retries may be made under normal rules.
-
-Protected information still requires 1d4+1 hours for a check.
-
-The purchase DC for using Gather Information is reduced by 10.
-
-**False Allegiance**
-
-The Arcane Arranger fits in with whatever group he chooses to be with. At 2nd
-level, the Arcane Arranger can successfully emulate an allegiance he knows
-about. He gains the +2 circumstance bonus on Charisma-based skills when
-dealing with an individual of the same allegiance. The allegiance and its
-bonus is considered in effect until a check is failed, at which point the
-false allegiance is revealed. Supernatural and spell-like abilities that
-determine allegiance are not affected by the Arcane Arranger’s false
-allegiance ability.
-
-**Bonus Feats**
-
-At 3rd, 6th, and 9th level, the Arcane Arranger gets a bonus feat. The bonus
-feat must be selected from the following list, and the Arcane Arranger must
-meet all of the prerequisites for the feat to select it.
-
-Arcane Skills, Armor Proficiency (light), Attentive, Builder, Combat
-Expertise, Educated, Gearhead, Improved Disarm, Jack of All Trades, Renown,
-Studious, Trustworthy, Windfall.
-
-**Shadow Resources**
-
-At 4th level, the Arcane Arranger is well-enough wired into the social system
-to be able to get the names and numbers of individuals with particular
-abilities and talents. Even if away from his home stomping ground a phone call
-can produce a contact with the needed resource. Make a level check, adding all
-Arcane Arranger levels and any levels of Charismatic Hero. The difficulty of
-this task is based on how common the required abilities are:
+##  Future d20 SRD
 
 
-<table> <tr> <td> Common Skill (Ride, Pilot, Treat Injury) </td> <td> DC 10 </td> </tr> <tr class="shaded"> <td> Uncommon Skill (subgroups of other skills such as Knowledge (arcane lore) or Craft (structural)) </td> <td> DC 15 </td> </tr> <tr> <td> Rare Skill (skills available for a particular class—Spellcraft, Psicraft, Use Magic Device) </td> <td> DC 20 </td> </tr> <tr class="shaded"> <td> Specific Feat </td> <td> DC 20 </td> </tr> <tr> <td> Class Feature (spellcasting, turn undead, psionics) </td> <td> DC 20 </td> </tr> <tr class="shaded"> <td> Specific Combination of Skills, Feats, and Abilities (someone with Knowledge (business) and the ability to cast the auguryspell) </td> <td> DC 25 </td> </tr> <tr> <td> Finding someone willing to perform activities secretly or illegally </td> <td> DC +5 </td> </tr> <tr class="shaded"> <td> Finding someone with a specific level of ability </td> <td> Add desired ranks to DC </td> </tr> </table>
+<table class="index2col"> <tr> <td> <a href="future.d20.srd/classes"> Classes </a> </td> <td> <a href="future.d20.srd/progress.levels"> Progress Levels </a> </td> </tr> <tr> <td> <a href="future.d20.srd/cybernetics"> Cybernetics </a> </td> <td> <a href="future.d20.srd/robots"> Robots </a> </td> </tr> <tr> <td> <a href="future.d20.srd/environments"> Environments </a> </td> <td> <a href="future.d20.srd/scientific.engineering"> Scientific Engineering </a> </td> </tr> <tr> <td> <a href="future.d20.srd/equipment"> Equipment </a> </td> <td> <a href="future.d20.srd/starships"> Starships </a> </td> </tr> <tr> <td> <a href="future.d20.srd/expanded.skills"> Expanded Skills </a> </td> <td> <a href="future.d20.srd/starting.occupations"> Starting Occupations </a> </td> </tr> <tr> <td> <a href="future.d20.srd/feats"> Feats </a> </td> <td> <a href="future.d20.srd/traveler.science"> Traveler Science </a> </td> </tr> <tr> <td> <a href="future.d20.srd/mecha"> Mecha </a> </td> <td> <a href="future.d20.srd/vehicles"> Vehicles </a> </td> </tr> <tr> <td> <a href="future.d20.srd/mutations"> Mutations </a> </td> <td> <a href="future.d20.srd/xenobiology"> Xenobiology </a> </td> </tr> </table>
 
 
-A successful check indicates that the individual is available, and the Arcane
-Arranger knows about him. It does not guarantee the character contacted will
-be willing to perform the requested service—the party requesting the service
-must still negotiate for that person’s services. An unsuccessful check means
-that no such individual is immediately known or available to the Arcane
-Arranger. This does not negate trying again for a different skill, nor from
-trying to locate a skill resource through more traditional methods. The
-resource the Arcane Arranger knows about will have total ranks in the needed
-skill of at least the Arcane Arranger’s total character level +3.
+##  Arcana d20 SRD
 
-**Pack Rat**
 
-At 5th level, the Arcane Arranger is considered to have considerable material
-resources either at hand or easily and cheaply acquired. When making a Wealth
-check to determine if a particular item is “at hand,” add the Arcane Arranger
-class levels as a circumstance bonus.
+<table class="index2col"> <tr> <td> <a href="arcana.d20.srd/advanced.classes"> Advanced Classes </a> </td> <td> <a href="arcana.d20.srd/occupations"> Occupations </a> </td> </tr> <tr> <td> <a href="arcana.d20.srd/creatures"> Creatures </a> </td> <td> <a href="arcana.d20.srd/organizations"> Organizations </a> </td> </tr> <tr> <td> <a href="arcana.d20.srd/equipment"> Equipment </a> </td> <td> <a href="arcana.d20.srd/prestige.classes"> Prestige Classes </a> </td> </tr> <tr> <td> <a href="arcana.d20.srd/feats"> Feats </a> </td> <td> <a href="arcana.d20.srd/psionics"> Psionics </a> </td> </tr> <tr> <td> <a href="arcana.d20.srd/fx.items"> FX Items </a> </td> <td> <a href="arcana.d20.srd/shadowkind"> Shadowkind </a> </td> </tr> <tr> <td> <a href="arcana.d20.srd/incantations"> Incantations </a> </td> <td> <a href="arcana.d20.srd/spells"> Spells </a> </td> </tr> </table>
 
-**Expert in Your Field**
 
-At 7th level, the Arcane Arranger is considered a master of connections, such
-that his reputation precedes him in his dealings with others. The Arcane
-Arranger gains a circumstance bonus equal to his Reputation bonus when making
-skill checks that are directly involved with Gather Information and Diplomacy
-skills. In addition, the Arcane Arranger may add his Reputation bonus on
-Wealth checks for new purchases.
+##  d20 Menaces
 
-**Up My Sleeve**
 
-At 8th level, the Arcane Arranger gains the supernatural ability to pull a
-specific item out of thin air. As a move action, the Arcane Arranger may cause
-any item currently in his possession (with a size no greater than Small) to
-disappear into an extra-dimensional space. The item becomes impossible to
-detect by any means, however detect magical aura spells will reveal a moderate
-magical aura around the hand that last held the item. As a move action, the
-Arcane Arranger can cause the item to reappear in his hand. The Arcane
-Arranger may only hide one item at a time in this fashion.
+<table class="index2col"> <tr> <td> <a href="menaces.d20/buying.services"> Buying Services </a> </td> </tr> <tr> <td> <a href="menaces.d20/feats"> Feats </a> </td> </tr> <tr> <td> <a href="menaces.d20/menaces"> Menaces </a> </td> </tr> </table>
 
-At 10th level, the Arcane Arranger may use this ability to hide a single
-object of up to Large size or up to three objects of up to Small size (each of
-which may be retrieved individually).
+
+##  Simple Bookmark Downloads:
+
+[ Entire Site ](bookmarks/d20resources)
+
+[ Modern d20 SRD ](bookmarks/modern.d20.srd) ( [ Instructions
+](bookmarks/index) )
+
+[ Future d20 SRD ](bookmarks/future.d20.srd)
+
+###  Webmaster's Note:
+
+d20resources.com was created with the idea of making playing d20 games easier.
+There are tons of incredible rpg books available for reference; I should know,
+I (like many of you I would assume) have shelves full of them. The problem is
+that with all of this reference material, sometimes it's simply too cumbersome
+to have every book on hand and available when I just need a quick rule fast.
+Short of memorizing page numbers, I needed a better way to look up rules and
+stats so that my players didn't have to wait for me to find something common.
+
+My solution is this website. Right now I'm beginning to run a d20 Modern
+campaign via webcam so I'm constantly in front of my computer. Because of
+that, I've rebuilt the Modern d20 System Reference Documentation as a series
+of web pages, utilizing indexing and cross-linking that a book simply can't
+provide. Thanks to the OGL, the central game engine is available to be used in
+just such a way. This site will in no way substitute the complete text of any
+of the actual books, but for looking up a spell or a weapon it does well in a
+pinch. I'm making this tool public as a way of giving back to a community that
+I've had the fortune of being a part of for nearly 20 years.
+
+The Modern SRD is just the beginning though. I'd like to combine as many other
+OGL systems as time permits to expand the reference library this site can
+provide. Ultimately, I'd like this site to be one more resource for the
+average gamer to utilize in their games; so they can spend less time digging,
+and more time playing.
+
+If you happen to know of an open system that this kind of website could
+benefit from, please [ send me a note ](contact) and I'll be happy to take a
+look. I'd love to have a variety of reference sites available to users. If
+this site has helped you, I'd love to hear from you, and I'd appreciate a kind
+word to the members of your group.
+
+I think there comes a time in every gamer's life where they either turn away
+from role playing games as a childish endeavour, or embrace them as something
+that they'll enjoy for the rest of their lives. For those of us who are
+growing older and losing that precious commodity of free time, this site is
+for you. Here's to hoping that you'll gain back some of that free time and put
+it into what's important: playing the game.
+
+-Brendan Quinn 
 

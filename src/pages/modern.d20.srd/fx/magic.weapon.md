@@ -1,0 +1,19 @@
+---
+title: Magic Weapon
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX ](/modern.d20.srd/fx) > Magic Weapon
+
+##  Magic Weapon
+
+Transmutation
+
+[ Level ](/modern.d20.srd/fx/level) : [ Acolyte](/modern.d20.srd/classes/advanced/acolyte) 1, [ Mage](/modern.d20.srd/classes/advanced/mage) 1; [ Components](/modern.d20.srd/fx/components) : V, S, DF; [ Casting Time](/modern.d20.srd/fx/casting.time) ; [ Attack action](/modern.d20.srd/combat/attack.actions) [ Range ](/modern.d20.srd/fx/range) :
+Touch; [ Target ](/modern.d20.srd/fx/target) : Weapon touched; [ Duration](/modern.d20.srd/fx/duration) : 1 minute/level; [ Saving Throw](/modern.d20.srd/basics/saving.throws) : Will negates (harmless, object); [Spell Resistance ](/modern.d20.srd/special.abilities/spell.resistance) : Yes
+(harmless, object)
+
+Magic weapon gives a weapon a +1 enhancement bonus on [ attack](/modern.d20.srd/combat/attack.actions) and [ damage](/modern.d20.srd/combat/damage) rolls.
+
+This spell cannot be cast on a natural weapon, such as an unarmed strike.
+

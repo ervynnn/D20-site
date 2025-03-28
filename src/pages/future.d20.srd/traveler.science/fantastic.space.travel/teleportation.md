@@ -1,0 +1,122 @@
+---
+title: Teleportation
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Traveler Science](/future.d20.srd/traveler.science) > [Fantastic Space Travel](/future.d20.srd/traveler.science/fantastic.space.travel) > Teleportation
+
+## Teleportation
+
+The earliest teleportation devices move only simple substances, with uniform
+molecular structures. As the technology improves, teleporting more complex
+matter becomes possible. At Progress Level 8, living organic matter can pass
+more or less safely through teleporters. At Progress Level 9, the range of
+matter transference increases to cover galactic distances.
+
+### Teleporters
+
+As with stardrives, multiple types of teleporters can exist, depending on the
+technology used to develop them.
+
+### Transport Booth (PL 8)
+
+Based on original teleportation technology, a transport booth is simply a
+booth large enough to accommodate a single Medium-size creature or Huge
+object, with controls on the outside. An operator selects the destination
+booth (which is any other transport booth), waits for a clear signal from the
+destination, then transmits. Anything inside the booth is disassembled at the
+molecular level, translated into electronic data, and transmitted. The speed
+of the transmission depends on the communication technology used, but even
+with the least effective communications, any distance of less than 1,000 miles
+is virtually instantaneous.
+
+Radio Transceiver (PL 5): A transport booth equipped with a radio transceiver
+can teleport its contents to a receiving booth positioned within 240,000 miles
+(roughly the distance between Earth and the Moon). Since light travels at a
+speed of 186,000 miles per second, the transport is nearly instantaneous.
+
+Laser Transceiver (PL 6): A transport booth equipped with a laser transceiver
+can teleport its contents to a receiving booth at any distance. However, the
+transmission travels at a speed of 8 AU/hour (or 744,000,000 miles/hour),
+making it practical only for interplanetary transport.
+
+Mass Transceiver (PL 7): A transport booth equipped with a mass transceiver
+can teleport its contents to a receiving booth instantaneously. The maximum
+range of the transmission is 1,000 AU (roughly 93,000,000,000 miles).
+
+Drive Transceiver (PL 8): A transport booth equipped with a drive transceiver
+can teleport its contents to a receiving booth within 1,000 AU (roughly
+93,000,000,000 miles). The transport is virtually instantaneous.
+
+Ansible (PL 9): A transport booth equipped with an ansible can teleport its
+contents to a receiving booth across interstellar space. The teleport occurs
+instantaneously, and the range of the transport booth is effectively
+unlimited. If the transport booth operator attempts to transmit before he gets
+a clear signal from the receiving booth, any living creature involved in the
+teleport must make a Fortitude save (DC 20). If the save fails, the living
+being immediately drops to –1 hit points and begins to die. Even if the save
+succeeds, the creature takes 2d4 points of Constitution damage. In either
+case, the teleported creature reaches the intended destination.
+
+The purchase DC of a transport booth does not include the cost of the
+communication technology used to transmit the matter (see Table: Transport
+Booth Purchase DC Modifiers).
+
+Purchase DC: 31 (per transport booth) + the communication system’s purchase DC
+modifier (see Table: Transport Booth Purchase DC Modifiers).
+
+Restriction: Licensed (+1).
+
+### Transportal (PL 8)
+
+The transportal is a contained teleportation field. Creatures step into it,
+and moments later they step out on the far side in a different location. The
+technology only allows transport from one transportal to another, though it is
+stable enough to remain open for several minutes with each activation and only
+requires about 30 minutes to recharge between activations. The only major
+drawback of the transportal is that it tends to disorient travelers. Any
+creature using a transportal must succeed on a Fortitude save (DC 15) or be
+shaken for 1d6 rounds upon arrival.
+
+Purchase DC: 58 per transportal.
+
+Restriction: Licensed (+1).
+
+### Transport Disk (PL 9)
+
+The general technology of teleportation advances at Progress Level 9, to the
+point where a receiving station is no longer necessary. The traveler stands
+upon a disk on the floor, and the operator uses sensor technology to pinpoint
+the traveler’s target destination. Pinpointing the target destination requires
+a successful Navigate check, and the DC depends on the distance traveled (see
+Table: Check DCs for Transport Disks). Attempting to pinpoint the location
+without the aid of sensor technology imposes a –20 penalty on the Navigate
+check.
+
+When the operator transmits, any creature or object standing on the transport
+disk is instantly sent to the location the operator has selected. If the
+operator’s Navigate check fails by 10 or less, the teleported creature or
+object appears in a location 1d100 miles from the intended destination
+(determined randomly). If the check fails by 11 or more, the teleported
+creature or object materializes inside solid matter at some location 1d100
+miles from the intended destination. Any living creature teleported into solid
+matter takes 20d6 points of damage, or half damage if a Fortitude save (DC 20)
+succeeds. It must also be freed from whatever she has materialized inside of.
+
+Although the chance of a botched transmission is daunting to some, transport
+disks offer a tremendous advantage. With a successful Computer Use check (see
+Table: Check DCs for Transport Disks), a transport disk operator can locate a
+particular creature or object with computer sensors and teleport it from its
+present location to the transport disk. The range is limited only by the range
+of the sensors.
+
+Purchase DC: 52.
+
+Restriction: Restricted (+2).
+
+
+<table> <tr><th colspan="2">Table: Transport Booth Purchase DC Modifiers</th></tr> <tr><th>Transport Booth’s Purchase DC</th><th>Communication System Modifier</th></tr> <tr><th colspan="2" style="text-align: left">Progress Level 5: Information Age</th></tr> <tr><td>Radio Transceiver</td><td>+0</td></tr> <tr><th colspan="2" style="text-align: left">Progress Level 6: Fusion Age</th></tr> <tr><td>Laser Transceiver</td><td>+3</td></tr> <tr><th colspan="2" style="text-align: left">Progress Level 7: Gravity Age</th></tr> <tr><td>Mass Transceiver</td><td>+5</td></tr> <tr><th colspan="2" style="text-align: left">Progress Level 8: Energy Age</th></tr> <tr><td>Drive Transceiver</td><td>+8</td></tr> <tr><th colspan="2" style="text-align: left">Progress Level 9: Matter Age</th></tr> <tr><td>Ansible</td><td>+13</td></tr> </table>
+ 
+<table> <tr><th colspan="3">Table: Check DCs For Transport Disks</th></tr> <tr><th>Distance</th><th>Navigate Check DC</th><th>Computer Use DC</th></tr> <tr><td>Planetary</td><td>15</td><td>20</td></tr> <tr class="shaded"><td>Interplanetary</td><td>20</td><td>25</td></tr> <tr><td>Interstellar</td><td>25</td><td>30</td></tr> </table>
+
+

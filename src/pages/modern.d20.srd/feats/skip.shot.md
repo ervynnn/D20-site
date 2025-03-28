@@ -1,0 +1,23 @@
+---
+title: Skip Shot
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Skip Shot
+
+## Skip Shot
+
+Prerequisites: [Point Blank Shot](/modern.d20.srd/feats/point.blank.shot),
+[Precise Shot](/modern.d20.srd/feats/precise.shot).
+
+Benefit: If the character has a solid, relatively smooth surface on which to
+skip a bullet (such as a street or a concrete wall), and a target within 10
+feet of that surface, the character may ignore cover between the character and
+the target. However, the character receives a –2 penalty on his or her [attack roll](/modern.d20.srd/combat/attack.roll), and the character’s attack deals –1
+die of [damage](/modern.d20.srd/combat/damage).
+
+Special: The surface doesn’t have to be perfectly smooth and level; a brick
+wall or an asphalt road can be used. The target can have no more than nine-
+tenths [cover](/modern.d20.srd/combat/cover) for A character to attempt a skip
+shot.
+

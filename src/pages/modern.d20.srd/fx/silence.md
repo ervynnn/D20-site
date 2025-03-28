@@ -1,0 +1,27 @@
+---
+title: Silence
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX ](/modern.d20.srd/fx) > Silence
+
+##  Silence
+
+Illusion
+
+[ Level ](/modern.d20.srd/fx/level) : [ Acolyte](/modern.d20.srd/classes/advanced/acolyte) 2; [ Components](/modern.d20.srd/fx/components) : V, S; [ Casting Time](/modern.d20.srd/fx/casting.time) ; [ Attack action](/modern.d20.srd/combat/attack.actions) [ Range ](/modern.d20.srd/fx/range) :
+Long (400 ft. + 40 ft./level); [ Area ](/modern.d20.srd/fx/area) :
+15-ft.-radius emanation centered on a creature, object, or point in space; [Duration ](/modern.d20.srd/fx/duration) : 1 minute/level; [ Saving Throw](/modern.d20.srd/basics/saving.throws) : Will negates or none (object); [Spell Resistance ](/modern.d20.srd/special.abilities/spell.resistance) : Yes
+or no (object)
+
+Upon the casting of this spell, complete silence prevails in the affected
+area. All sound is stopped: Conversation is impossible, spells with verbal
+components cannot be cast, and no noise whatsoever issues from, enters, or
+passes through the area. The spell can be cast on a point in space, but the
+effect is stationary unless cast on a mobile object. The spell can be centered
+on a creature, and the effect then radiates from the creature and moves as it
+moves. An unwilling creature can attempt a [ Will save](/modern.d20.srd/basics/saving.throws) to negate the spell and can use [spell resistance ](/modern.d20.srd/special.abilities/spell.resistance) , if
+any. Items in a creature’s possession or magic items that emit sound receive [saves ](/modern.d20.srd/basics/saving.throws) and [ spell resistance](/modern.d20.srd/special.abilities/spell.resistance) , but unattended objects
+and points in space do not. This spell provides a defense against sonic or
+language-based attacks.
+

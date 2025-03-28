@@ -1,0 +1,22 @@
+---
+title: Cybernetic Dependency
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Cybernetic Dependency
+
+##  Cybernetic Dependency [DRAWBACK]
+
+Radiation exposure causes your body tissues to degenerate. You rely on a
+cybernetic implant to repair damage to your body.
+
+MP Value: 6.
+
+Drawback: You need a body repair weave (see Cybernetics) to heal naturally.
+For you, the body repair weave does not confer its usual benefit (improved
+natural healing). If the implant is destroyed, you cannot heal damage
+naturally until it is replaced or repaired.
+
+Special: This drawback is available only in Progress Level 7 or higher
+campaigns.
+

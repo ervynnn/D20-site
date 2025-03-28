@@ -1,0 +1,141 @@
+---
+title: Computers and Consumer Electronics
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > [Equipment (General)](/modern.d20.srd/equipment/equipment.general) > Computers and Consumer Electronics
+
+## Computers and Consumer Electronics
+
+
+<table> <tr> <th>Object</th> <th><a href="/modern.d20.srd/equipment/equipment.general">Size</a></th> <th><a href="/modern.d20.srd/equipment/equipment.general">Weight</a></th> <th><a href="/modern.d20.srd/equipment/equipment.general">Purchase DC</a></th> <th><a href="/modern.d20.srd/equipment/equipment.general">Restriction</a></th> </tr> <tr class="shaded"><td colspan="5">Camera</td></tr> <tr class="shaded2"><td> 35mm</td><td> Small</td><td> 2 lb.</td><td> 17</td><td> — </td></tr> <tr class="shaded2"><td> Digital</td><td> Tiny</td><td> 0.5 lb.</td><td> 14</td><td> — </td></tr> <tr class="shaded2"><td> Disposable</td><td> Tiny</td><td> 0.5 lb.</td><td> 4</td><td> — </td></tr> <tr class="shaded2"><td> Film</td><td> Dim</td><td> —</td><td> 3</td><td> — </td></tr> <tr class="shaded2"><td> Film developing (roll)</td><td> —</td><td> —</td><td> 3</td><td> — </td></tr> <tr><td> Cell phone</td><td> Dim</td><td> —</td><td> 9</td><td> — </td></tr> <tr class="shaded"><td colspan="5"> Computer </td></tr> <tr class="shaded2"><td> Desktop</td><td> Large</td><td> 10 lb.</td><td> 22</td><td> — </td></tr> <tr class="shaded2"><td> Notebook</td><td> Med</td><td> 5 lb.</td><td> 23</td><td> — </td></tr> <tr class="shaded2"><td> Upgrade</td><td> —</td><td> —</td><td> See text</td><td> — </td></tr> <tr><td> Digital audio recorder</td><td> Tiny</td><td> 1 lb.</td><td> 10</td><td> — </td></tr> <tr class="shaded"><td colspan="5"> Modem </td></tr> <tr class="shaded2"><td>Broadband</td><td> Tiny</td><td> 1 lb.</td><td> 6</td><td> — </td></tr> <tr class="shaded2"><td> Cellular</td><td> Tiny</td><td> 1 lb.</td><td> 6</td><td> — </td></tr> <tr><td> PDA</td><td> Tiny</td><td> 0.5 lb.</td><td> 16</td><td> — </td></tr> <tr><td> Portable satellite phone</td><td> Small</td><td> 2 lb.</td><td> 17</td><td> — </td></tr> <tr><td> Portable video camera</td><td> Small</td><td> 2 lb.</td><td> 16</td><td> — </td></tr> <tr><td> Printer</td><td> Med</td><td> 3 lb.</td><td> 12</td><td> — </td></tr> <tr><td> Scanner</td><td> Med</td><td> 3 lb.</td><td> 12</td><td> — </td></tr> <tr class="shaded"><td colspan="5"> Walkie-talkie </td></tr> <tr class="shaded2"><td> Basic</td><td> Tiny</td><td> 1 lb.</td><td> 7</td><td> — </td></tr> <tr class="shaded2"><td> Professional</td><td> Tiny</td><td> 1 lb.</td><td> 15</td><td> — </td></tr> </table>
+
+
+Rules for operating computers appear under the Computer Use skill. Some of the
+items in this section have monthly subscription costs as well as initial
+purchase costs. The purchase DC accounts for both costs; once a character has
+obtained the item, he or she doesn’t have to worry about ongoing subscription
+costs.
+
+### Camera
+
+Still cameras let a character capture a record of what he or she has seen.
+
+35mm: The best choice for the professional photographer, this camera can
+accept different lenses and takes the highest-quality picture. A camera is
+needed to use the photography aspect of the Craft (visual art) skill. The film
+used in a camera must be developed.
+
+Digital: A digital camera uses no film; instead, its pictures are simply
+downloaded to a computer as image files. No film developing is necessary.
+
+Disposable: A 35mm camera with film built in can be purchased from vending
+machines, tourist traps, drugstores, and hundreds of other places. Once the
+film is used, the entire camera is turned in to have the film developed.
+
+Film: The medium upon which photographs are stored, film comes in a variety of
+sizes and speeds. The purchase DC represents the cost of a roll of 24
+exposures of high-speed (ASA 400) film.
+
+Film Developing: In most areas, drugstores and photo shops provide 1-hour
+service; in others, it takes 24 hours. In really remote areas, film may have
+to be sent away for developing, taking a week or longer. The purchase DC
+represents the cost of getting two prints of each shot on a roll of film, or
+one of each and any two also blown up to a larger size.
+
+### Cell Phone
+
+A digital communications device that comes in a hand-held model or as a
+headset, a cell phone uses a battery that lasts for 24 hours before it must be
+recharged. It works in any area covered by cellular service.
+
+### Computer
+
+Whether a desktop or notebook model, a computer includes a keyboard, a mouse,
+a monitor, speakers, a CD-ROM drive, a dial-up modem, and the latest
+processor. A character needs a computer to make Computer Use checks and to
+make Research checks involving the Internet.
+
+Desktop: Bulky but powerful, these machines are common on desks everywhere.
+
+Notebook: Slim, lightweight, and portable, notebook computers have most of the
+functions available on desktop computers.
+
+Upgrade: A character can upgrade a desktop or notebook computer’s processor to
+provide a +1 equipment bonus on Computer Use checks. Increase the purchase DC
+of a desktop by +1 or a notebook by +2 to purchase an upgrade.
+
+### Digital Audio Recorder
+
+These tiny recorders (about the size of a deck of playing cards) can record up
+to eight hours of audio and can be connected to a computer to download the
+digital recording. Digital audio recorders don’t have extremely sensitive
+microphones; they only pick up sounds within 10 feet.
+
+### Modem
+
+A modem allows a character to connect a computer to the Internet. To use a
+modem, a character must have a computer and an appropriate data line (or a
+cell phone, in the case of a cellular modem).
+
+All computers come with dial-up modems, which allow connection to the Internet
+but without the speed of broadband or the flexibility of cellular. A dial-up
+modem uses a standard telephone line; while it’s connected, that telephone
+line can’t be used for another purpose.
+
+Broadband: Cable modems and DSL services bring high-speed Internet access into
+the homes of millions. A broadband modem gives a character on-demand, high-
+speed access to data, allowing Computer Use and Research checks involving the
+Internet to be made in half the normal time.
+
+Cellular: A cellular modem allows a character to connect her notebook computer
+to the Internet anywhere he or she can use a cell phone. However, access speed
+is slow, and any Computer Use or Research check involving the Internet takes
+half again the normal time (multiply by 1.5).
+
+### PDA
+
+Personal data assistants are handy tools for storing data. They can be linked
+to a notebook or desktop computer to move files back and forth, but can’t be
+used for Computer Use or Research checks.
+
+### Portable Satellite Telephone
+
+This object looks much like a bulky cell phone, and functions in much the same
+way as well. However, because it communicates directly via satellite, it can
+be used any­where on earth, even in remote areas well beyond the extent of
+cell phone service.
+
+Portable satellite phones are very expensive to use. When used in a place not
+served by regular cellular service, each call requires a Wealth check (DC 6).
+
+### Portable Video Camera
+
+Portable video cameras use some format of videotape to record activity. The
+tape can be played back through a VCR or via the camera eyepiece.
+
+### Printer
+
+The color inkjet printer described here is suited for creating hard copies of
+text and image files from computers.
+
+### Scanner
+
+A color flatbed scanner allows the user to transfer images and documents from
+hard copy into a computer in digital form.
+
+### Walkie-Talkie
+
+This hand-held radio transceiver communicates with any similar device
+operating on the same frequency and within range.
+
+Basic: This dime-store variety has only a few channels. Anyone else using a
+similar walkie-talkie within range can listen in on the character’s
+conversations. It has a range of 2 miles.
+
+Professional: This high-end civilian model allows a character to program in
+twenty different frequencies from thousands of choices—making it likely that
+the character can find a frequency that’s not being used by anyone else within
+range. The device can be used with or without a voice-activated headset
+(included). It has a range of 15 miles.
+

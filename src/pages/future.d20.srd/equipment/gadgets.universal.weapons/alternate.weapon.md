@@ -1,0 +1,29 @@
+---
+title: Alternate Weapon
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Weapon Gadgets ](/future.d20.srd/equipment/gadgets.universal.weapons) > Alternate Weapon
+
+##  Alternate Weapon
+
+Some weapons are capable of serving multiple purposes by integrating two types
+of weapon into one. This can encompass everything from having a bayonet
+installed on a rifle to allowing a weapon to switch between two different
+energy types at any given time. When dealing with firearms and other ranged
+weapons, this usually involves only mixing like types; for example, energy
+weapons are only combined with energy weapons, and ballistic weapons are only
+combined with ballistic weapons. This is not a hard-and-fast limitation but
+rather a suggestion based on the logistics of designing such a weapon. When
+selecting the alternate weapon gadget, choose a second weapon. That weapon is
+integrated into the base weapon and can be used at any time. Additionally, you
+must choose whether or not the alternate weapon may be physically separated
+from the base weapon or not at the time of purchase. This gadget may be
+selected multiple times, each time adding a single additional weapon to the
+base model.
+
+**Restrictions** : The character must also purchase the weapon to be
+integrated separately from the primary weapon, before the gadget modification
+is made.  
+**Purchase DC Modifier** : +4.
+

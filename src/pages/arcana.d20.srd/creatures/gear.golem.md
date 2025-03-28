@@ -1,0 +1,80 @@
+---
+title: Gear Golem
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Gear Golem
+
+##  Gear Golem
+
+Gear golems cannot speak. They typically stand 10 feet tall and weigh 4,000
+pounds. A gear golem may be created using the create golem incantation.
+
+###  Species Traits
+
+Gear golems have the following traits:
+
+Construct: Gear golems are immune to mind-influencing effects as well as
+poison, sleep, paralysis, stunning, disease, necromancy effects, and any
+effect that requires a Fortitude save unless the effect also works on objects
+or is harmless. They are not subject to critical hits, nonlethal damage,
+ability damage, ability drain, energy drain, or the effects of massive damage.
+
+Speed: Gear golems are lumbering constructs that can’t take run actions.
+
+Improved Grab (Ex): To use this ability, the gear golem must hit an opponent
+smaller than itself with its slam attack. If it gets a hold, it attempts to
+grind its foe against its spinning gears as a free action (see below).
+
+Gear Grind (Ex): If the gear golem successfully grapples a creature smaller
+than itself, it grinds the creature with its spinning gears for 4d8 points of
+slashing damage each round the grapple is maintained (including the round in
+which the grapple is first achieved).
+
+Detonate (Ex): When a gear golem is reduced to 0 or fewer hit points, it
+explodes in a 20-foot-radius burst of serrated gears and shrapnel. The
+explosion deals 12d8 points of slashing damage to creatures caught in the
+radius; a successful Reflex save (DC 19) halves the damage.
+
+Magic Immunity (Ex): A gear golem is immune to all spells, spell-like
+abilities, and supernatural effects, except as follows. An electricity effect
+slows it (as the slow spell) for 3 rounds, with no saving throw. A fire effect
+breaks any slow effect on the golem and cures 1 point of damage for each 3
+points of damage it would otherwise deal. The golem rolls no saving throw
+against fire effects.
+
+Repairable: Gear golems cannot heal damage on their own but can be repaired
+using the Repair skill. A successful Repair check (DC 30) heals 1d10 points of
+damage, and each check represents 1 hour of work. A gear golem cannot repair
+itself.
+
+Darkvision (Ex): Gear golems can see in the dark up to 60 feet. Darkvision is
+black and white only, but it is otherwise like normal sight, and gear golems
+can function with no light at all.
+
+Gear Golem: CR 11; Large construct; HD18d10+20; hp 119; Mas —; Init –1; Spd 20
+ft. (can’t run); Defense 30, touch 8, flat-footed 30 (–1 Dex, –1 size, +22
+natural); BAB +13; Grap +23; Atk +18 melee (1d8+9, slam); Full Atk +18 melee
+(1d8+6, 2 slams); FS 10 ft. by 10 ft.; Reach 10 ft.; SQ construct, improved
+grab, gear grind, detonate, magic immunity, darkvision 60 ft.; AL none or
+master; SV Fort +6, Ref +5, Will +6; AP 0; Rep +0; Str 23, Dex 9, Con —, Int
+—, Wis 11, Cha 1.
+
+Skills: Hide –5.
+
+Feats: None.
+
+Advancement: 19–24 HD (Large); 25–54 HD (Huge).
+
+Advanced Gear Golem: CR 13; Huge construct; HD 25d10+40; hp 177; Mas —; Init
+–2; Spd 30 ft. (can’t run); Defense 31, touch 6, flat-footed 31 (–2 Dex, –2
+size, +25 natural); BAB +17; Grap +35; Atk +25 melee (2d6+15, slam); Full Atk
++25 melee (2d6+10, 2 slams); FS 15 ft. by 15 ft.; Reach 10 ft.; SQ construct,
+improved grab, gear grind, detonate (30- foot-radius burst; DC 22), magic
+immunity, darkvision 60 ft.; AL none or master; SV Fort +8, Ref +6, Will +8;
+AP 0; Rep +0; Str 31, Dex 7, Con —, Int —, Wis 11, Cha 1.
+
+Skills: Hide –10.
+
+Feats: None.
+

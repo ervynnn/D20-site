@@ -1,0 +1,38 @@
+---
+title: Surface Vehicle Operation
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Surface Vehicle Operation
+
+## Surface Vehicle Operation
+
+Select a class of surface vehicle (heavy wheeled, powerboat, sailboat, ship,
+or tracked). The character is proficient at operating that class of vehicle.
+
+The heavy wheeled class includes all kinds of semi-trucks and tractor-
+trailers, as well as wheeled construction vehicles (such as earth movers) and
+wheeled armored vehicles (such as some armored personnel carriers). Powerboats
+are engine-powered water vessels designed for operation by a single person and
+usually no more than 100 feet in length. Sailboats are wind-powered water
+vessels. Ships are large, multicrewed water vessels. Tracked vehicles include
+bulldozers and tanks and other military vehicles.
+
+Prerequisite: [Drive](/modern.d20.srd/skills/drive) 4 ranks.
+
+Benefit: The character takes no penalty on
+[Drive](/modern.d20.srd/skills/drive)
+[checks](/modern.d20.srd/skills/skill.basics.php#skill) or [attack rolls](/modern.d20.srd/combat/attack.roll) made when operating a surface
+vehicle of the selected class.
+
+Normal: Characters without this feat take a –4 penalty on
+[Drive](/modern.d20.srd/skills/drive)
+[checks](/modern.d20.srd/skills/skill.basics.php#skill) made to operate a
+surface vehicle that falls under any of these classes, and to attacks made
+with vehicle weapons. There is no penalty when you operate a general-purpose
+surface vehicle.
+
+Special: A character can gain this feat as many as five times. Each time the
+character takes the feat, he or she selects a different class of surface
+vehicle.
+

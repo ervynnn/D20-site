@@ -1,0 +1,53 @@
+---
+title: Starship Sensors
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > Starship Sensors
+
+##  Starship Sensors
+
+A starship would be lost in the blackness of outer space without a
+sophisticated sensor array enabling it to perceive its surroundings. Sensor
+arrays allow a starship’s crew to plot safe courses through unexplored star
+systems, avoid comets and electromagnetic storms, navigate asteroid belts,
+analyze planetary surface conditions, detect other starships nearby, and
+analyze damage to the ship’s outer hull. Without a functional sensor array, a
+ship and its crew are virtually paralyzed.
+
+This section describes several standard sensor arrays. Each sensor array
+includes a list of functions; each function requires a move action and a
+successful Computer Use check (DC 15).
+
+To build a sensor system from scratch, a character must succeed at a Craft
+(electronic) check (DC 30) after investing 60 hours in its assembly. A
+character without an electrical tool kit takes a –4 penalty on the skill
+check. The character must also make a Wealth check against the sensor system’s
+purchase DC. Installing a sensor system requires a successful Craft
+(electrical) check (DC 30) after investing 30 hours. A character without an
+electrical tool kit takes a –4 penalty on the skill check.
+
+Different types of sensor systems are detailed below.
+
+Purchase DC: The purchase DC of the system.
+
+Restriction: The level of license required to purchase the system legally.
+
+  * PL 5 
+    * [ Class I Sensor Array ](/future.d20.srd/starships/starship.sensors/class.i.sensor.array)
+  * PL 6 
+    * [ Class II Sensor Array ](/future.d20.srd/starships/starship.sensors/class.ii.sensor.array)
+    * [ Class III Sensor Array ](/future.d20.srd/starships/starship.sensors/class.iii.sensor.array)
+    * [ Targeting System ](/future.d20.srd/starships/starship.sensors/targeting.system)
+  * PL 7 
+    * [ Class IV Sensor Array ](/future.d20.srd/starships/starship.sensors/class.vi.sensor.array)
+    * [ Class V Sensor Array ](/future.d20.srd/starships/starship.sensors/class.v.sensor.array)
+    * [ Targeting System, Improved ](/future.d20.srd/starships/starship.sensors/targeting.system.improved)
+  * PL 8 
+    * [ Achilles Targeting System ](/future.d20.srd/starships/starship.sensors/achilles.targeting.software)
+    * [ Class VI Sensor Array ](/future.d20.srd/starships/starship.sensors/class.vi.sensor.array)
+    * [ Class VII Sensor Array ](/future.d20.srd/starships/starship.sensors/class.vii.sensor.array)
+  * PL 9 
+    * [ Class VIII Sensor Array ](/future.d20.srd/starships/starship.sensors/class.viii.sensor.array)
+    * [ Class IX Sensor Array ](/future.d20.srd/starships/starship.sensors/class.ix.sensor.array)
+

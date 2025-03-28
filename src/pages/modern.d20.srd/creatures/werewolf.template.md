@@ -1,0 +1,284 @@
+---
+title: Werewolf (Template)
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Werewolf (Template)
+
+## Werewolf (Template)
+
+Natural werewolves are humanoids born with the ability to assume wolf and
+hybrid forms. A [humanoid](/modern.d20.srd/creature.types/humanoid) who
+contracts lycanthropy after being wounded by a werewolf becomes an afflicted
+werewolf.
+
+### Template Traits
+
+“Werewolf” is a template (inherited for natural werewolves, acquired for
+afflicted werewolves) that can be added to any
+[humanoid](/modern.d20.srd/creature.types/humanoid) creature (referred to
+hereafter as the character).
+
+A werewolf uses either the character’s or the wolf’s statistics and special
+abilities in addition to those described below.
+
+Challenge Rating: Same as the character +2.
+
+Hit Dice: Same as the character plus the wolf’s Hit Dice (2d8).
+
+Speed: Same as the character, or 50 feet for hybrid and wolf form.
+
+Defense: Same as the character while in
+[humanoid](/modern.d20.srd/creature.types/humanoid) form. In hybrid and animal
+form, the creature gains a +2 natural armor bonus. This bonus does not stack
+with other natural armor bonuses.
+
+Base Attack: Same as the character +1.
+
+Grapple Bonus: Apply modifiers for
+[Strength](/modern.d20.srd/basics/ability.scores) depending on the
+lycanthrope’s form.
+
+Attacks: Same as the character while in
+[humanoid](/modern.d20.srd/creature.types/humanoid) form. In hybrid and animal
+form, a werewolf attacks with its powerful bite, dealing 1d6 points of
+[damage](/modern.d20.srd/combat/damage) plus its
+[Strength](/modern.d20.srd/basics/ability.scores) modifier.
+
+Special Qualities: A werewolf retains all the special qualities of the
+character and gains the additional special qualities listed below.
+
+Alternate Form (Su): A werewolf can assume wolf or hybrid form, but its gear
+is not absorbed into the new form. The bipedal hybrid form is about 6 feet
+tall, with a short tail and thick fur. The legs are like those of a wolf, and
+the head combines [humanoid](/modern.d20.srd/creature.types/humanoid) and
+lupine features in degrees that vary from one werewolf to the next. The animal
+form is that of a fully-grown wolf without any trace of human features.
+
+Changing to or from wolf or hybrid form is a [move action](/modern.d20.srd/combat/move.actions). Upon assuming either form, the
+werewolf regains [hit points](/modern.d20.srd/combat/hit.points) as if having
+rested for a day. A slain werewolf reverts to its
+[humanoid](/modern.d20.srd/creature.types/humanoid) form, although it remains
+dead. Afflicted werewolves find this ability difficult to control (see
+Lycanthropy as an Affliction, below), but natural lycanthropes have full
+control over this power.
+
+Curse of Lycanthropy (Su): Any
+[humanoid](/modern.d20.srd/creature.types/humanoid) hit by a werewolf’s bite
+[attack](/modern.d20.srd/combat/attack.roll) (in wolf or hybrid form) must
+succeed on a [Fortitude save](/modern.d20.srd/basics/saving.throws) (DC 15) or
+contract lycanthropy.
+
+[Trip](/modern.d20.srd/combat/trip) (Ex): A werewolf in wolf form that hits
+with a bite [attack](/modern.d20.srd/combat/attack.roll) can attempt to
+[trip](/modern.d20.srd/combat/trip) its opponent as a [free action](/modern.d20.srd/combat/action.types) without making a touch attack or
+provoking an [attack of opportunity](/modern.d20.srd/combat/attacks.of.opportunity). If the attempt
+fails, the opponent cannot react to [trip](/modern.d20.srd/combat/trip) the
+werewolf.
+
+[Scent](/modern.d20.srd/special.abilities/scent) (Ex): This ability allows a
+werewolf in wolf or hybrid form to detect approaching enemies, sniff out
+hidden foes, and track by sense of smell.
+
+[Damage Reduction](/modern.d20.srd/special.abilities/damage.reduction)
+15/Silver (Su): A werewolf in wolf or hybrid form ignores the first 15 points
+of [damage](/modern.d20.srd/combat/damage) dealt by a nonsilver or nonmagical
+weapon but takes full damage from silvered weapons or weapons with a +1 or
+better magic bonus.
+
+Wolf Empathy (Ex): A werewolf can communicate with wolves in any form and
+gains a +4 species bonus on [Diplomacy](/modern.d20.srd/skills/diplomacy)
+checks when influencing a wolf’s attitude. A friendly wolf understands and
+heeds simple commands, such as “wait,” “chase,” “flee,” and “attack.”
+
+[Darkvision](/modern.d20.srd/special.abilities/darkvision) (Ex): In their wolf
+and hybrid forms, werewolves have
+[darkvision](/modern.d20.srd/special.abilities/darkvision) with a range of 60
+feet.
+
+Saves: Same as the character, with a +3 bonus on Fortitude and Reflex saves.
+
+[Ability Scores](/modern.d20.srd/basics/ability.scores): Werewolves gain the
+following [ability score](/modern.d20.srd/basics/ability.scores) increases:
+[Con](/modern.d20.srd/basics/ability.scores) +4,
+[Wis](/modern.d20.srd/basics/ability.scores) +2. Additionally, a werewolf that
+assumes wolf and hybrid form gains the following additional benefits for as
+long as it remains in either form:
+[Str](/modern.d20.srd/basics/ability.scores) +2,
+[Dex](/modern.d20.srd/basics/ability.scores) +4.
+
+[Allegiances](/modern.d20.srd/basics/allegiances): A natural werewolf
+typically has allegiance to chaos and evil. An afflicted werewolf gains the
+chaos and evil [allegiances](/modern.d20.srd/basics/allegiances) (displacing
+other [allegiances](/modern.d20.srd/basics/allegiances), if need be). These
+[allegiances](/modern.d20.srd/basics/allegiances) can be removed only when the
+werewolf has the ability to control the curse of lycanthropy by taking 10 on a
+Control Shape check.
+
+[Skills](/modern.d20.srd/skills): Same as the character, with a +1 species
+bonus on [Hide](/modern.d20.srd/skills/hide) checks, a +2 species bonus on
+[Move Silently](/modern.d20.srd/skills/move.silently) checks, a +3 species
+bonus on [Spot](/modern.d20.srd/skills/spot) checks, and a +5 species bonus on
+[Listen](/modern.d20.srd/skills/listen) checks. A werewolf in wolf or hybrid
+form also gains a +4 species bonus on
+[Survival](/modern.d20.srd/skills/survival) checks when tracking by scent.
+
+[Feats](/modern.d20.srd/feats): Same as the character. A werewolf gains the
+bonus feats [Iron Will](/modern.d20.srd/feats/iron.will) and [Weapon Finesse](/modern.d20.srd/feats/weapon.finesse) (bite).
+
+Talents: Same as the character.
+
+Werewolf in Humanoid Form (Human [Strong Hero](/modern.d20.srd/classes/basic/strong.hero) 5): CR 7; Medium-size
+[humanoid](/modern.d20.srd/creature.types/humanoid); HD 5d8+15 plus 2d8+6;
+[hp](/modern.d20.srd/combat/hit.points) 52;
+[Mas](/modern.d20.srd/creatures/creature.overview) 17;
+[Init](/modern.d20.srd/combat/initiative) +2; Spd 30 ft.;
+[Defense](/modern.d20.srd/combat/defense) 15,
+[touch](/modern.d20.srd/combat/attack.actions) 15, [flat- footed](/modern.d20.srd/combat/surprise) 13 (+2
+[Dex](/modern.d20.srd/basics/ability.scores), +3 class); BAB +5;
+[Grap](/modern.d20.srd/combat/grapple) +8;
+[Atk](/modern.d20.srd/combat/attack.roll) +8
+[melee](/modern.d20.srd/combat/attack.roll) (1d6+6/19–20, cleaver); Full Atk
++8 [melee](/modern.d20.srd/combat/attack.roll) (1d6+6/19–20, cleaver), or +7
+ranged (2d8, Mossberg); [FS](/modern.d20.srd/creatures/creature.overview) 5
+ft. by 5 ft.; Reach 5 ft.; [SQ](/modern.d20.srd/creatures/creature.overview)
+alternate form, trip, scent, wolf empathy;
+[AL](/modern.d20.srd/basics/allegiances) evil, chaos;
+[SV](/modern.d20.srd/basics/saving.throws) Fort +9, Ref +6, Will +2;
+[AP](/modern.d20.srd/creatures/creature.overview) 2;
+[Rep](/modern.d20.srd/creatures/creature.overview) +1;
+[Str](/modern.d20.srd/basics/ability.scores) 16,
+[Dex](/modern.d20.srd/basics/ability.scores) 14,
+[Con](/modern.d20.srd/basics/ability.scores) 17,
+[Int](/modern.d20.srd/basics/ability.scores) 12,
+[Wis](/modern.d20.srd/basics/ability.scores) 12,
+[Cha](/modern.d20.srd/basics/ability.scores) 8.
+
+[Skills](/modern.d20.srd/skills): [Climb](/modern.d20.srd/skills/climb) +9,
+Handle Animal +3, [Hide](/modern.d20.srd/skills/hide) +3,
+[Jump](/modern.d20.srd/skills/jump) +7,
+[Knowledge](/modern.d20.srd/skills/knowledge) (current events) +5,
+[Knowledge](/modern.d20.srd/skills/knowledge) (popular culture) +5,
+[Knowledge](/modern.d20.srd/skills/knowledge) (streetwise) +5,
+[Listen](/modern.d20.srd/skills/listen) +6, [Move Silently](/modern.d20.srd/skills/move.silently) +4,
+[Profession](/modern.d20.srd/skills/profession) +5,
+[Read/Write](/modern.d20.srd/skills/read.write.language) Language (any two),
+[Speak](/modern.d20.srd/skills/speak.language) Language (any two),
+[Spot](/modern.d20.srd/skills/spot) +4, [Swim](/modern.d20.srd/skills/swim)
++9.
+
+[Feats](/modern.d20.srd/feats): [Athletic](/modern.d20.srd/feats/athletic),
+[Heroic Surge](/modern.d20.srd/feats/heroic.surge), [Iron Will](/modern.d20.srd/feats/iron.will), [Personal Firearms Proficiency](/modern.d20.srd/feats/personal.firearms.proficiency), [Power Attack](/modern.d20.srd/feats/power.attack), [Simple Weapons Proficiency](/modern.d20.srd/feats/simple.weapons.proficiency), [Weapon Finesse](/modern.d20.srd/feats/weapon.finesse) (bite).
+
+Talents (Strong Hero): Melee smash, improved
+[melee](/modern.d20.srd/combat/attack.roll) smash, advanced
+[melee](/modern.d20.srd/combat/attack.roll) smash.
+
+Possessions: Mossberg (12-gauge shotgun), 12 rounds of 12-gauge ammunition,
+cleaver, casual clothes.
+
+Werewolf in Hybrid or Wolf Form (Human Strong Hero 5): As
+[humanoid](/modern.d20.srd/creature.types/humanoid) form except: Init +4; Spd
+50 ft.; [Defense](/modern.d20.srd/combat/defense) 17,
+[touch](/modern.d20.srd/combat/attack.actions) 15, [flat- footed](/modern.d20.srd/combat/surprise) 15 (+2
+[Dex](/modern.d20.srd/basics/ability.scores), +3 class, +2 natural);
+[Grap](/modern.d20.srd/combat/grapple) +9;
+[Atk](/modern.d20.srd/combat/attack.roll) +9
+[melee](/modern.d20.srd/combat/attack.roll) (1d6+7, bite); Full Atk +9
+[melee](/modern.d20.srd/combat/attack.roll) (1d6+7, bite), or +9 ranged;
+[SQ](/modern.d20.srd/creatures/creature.overview) alternate form, curse of
+lycanthropy, trip, scent, [damage reduction](/modern.d20.srd/special.abilities/damage.reduction) 15/silver, wolf
+empathy, [darkvision](/modern.d20.srd/special.abilities/darkvision) 60 ft.;
+[SV](/modern.d20.srd/basics/saving.throws) Ref +8;
+[Str](/modern.d20.srd/basics/ability.scores) 18,
+[Dex](/modern.d20.srd/basics/ability.scores) 18.
+
+Adjusted [Skills](/modern.d20.srd/skills):
+[Climb](/modern.d20.srd/skills/climb) +10, [Hide](/modern.d20.srd/skills/hide)
++5, [Jump](/modern.d20.srd/skills/jump) +8, [Move Silently](/modern.d20.srd/skills/move.silently) +6,
+[Swim](/modern.d20.srd/skills/swim) +10,
+[Survival](/modern.d20.srd/skills/survival) +5 (when tracking by scent).
+
+### Lycanthropy as an Affliction
+
+When a character contracts lycanthropy through a werewolf’s attack, no
+symptoms appear until the first night of the next full moon. On that night,
+the afflicted character involuntarily assumes animal form and becomes a
+ravenous beast, forgetting his or her own identity. The character remains in
+animal form until dawn and remembers nothing about the incident.
+
+Thereafter, the character is subject to involuntary transformation under the
+full moon and whenever damaged in combat. He or she feels an overwhelming rage
+building up and must succeed on a Control Shape check to resist changing into
+animal form.
+
+### Curing Lycanthropy
+
+An afflicted character who eats a sprig of belladonna (also called wolfsbane)
+within an hour of a lycanthrope’s attack can attempt a [Fortitude save](/modern.d20.srd/basics/saving.throws) (DC 20) to shake off the
+affliction. If someone with ranks in the [Treat Injury](/modern.d20.srd/skills/treat.injury) skill administers the herb, use
+the character’s saving throw or the healer’s [Treat Injury](/modern.d20.srd/skills/treat.injury) check, whichever is higher. The
+character gets only one chance, no matter how much belladonna is consumed. The
+belladonna must be reasonably fresh (picked within the last week).
+
+Fresh or not, belladonna is toxic. A character consuming the herb must succeed
+on a [Fortitude save](/modern.d20.srd/basics/saving.throws) (DC 13) or take
+initial damage of 1d6 points of temporary
+[Strength](/modern.d20.srd/basics/ability.scores). One minute later, the
+character must succeed on a second
+[save](/modern.d20.srd/basics/saving.throws) (same DC) or take an additional
+2d6 points of temporary [Strength](/modern.d20.srd/basics/ability.scores)
+damage.
+
+The only other way to remove the curse of lycanthropy is to cast [remove curse](/modern.d20.srd/fx/remove.curse) or [break enchantment](/modern.d20.srd/fx/break.enchantment) on the character during one
+of the three days of the full moon. After receiving the spell, the character
+must succeed on a [Will save](/modern.d20.srd/basics/saving.throws) (DC 20) to
+break the curse (the caster knows whether the spell works). Otherwise, the
+process must be repeated. Characters undergoing this cure are often kept bound
+or confined in cages until the cure takes effect.
+
+Only afflicted lycanthropes can be cured of lycanthropy. Natural lycanthropy
+cannot be cured.
+
+### New Skill: Control Shape (Wis) Trained Only
+
+
+<table style="float: right"><tr><th> Task</th><th> DC</th></tr> <tr><td> Resist involuntary change</td><td> 25 </td></tr> <tr class="shaded"><td> Return to <a href="/modern.d20.srd/creature.types/humanoid">humanoid</a> form (full moon <sup>1</sup>)</td><td> 25 </td></tr> <tr><td> Return to <a href="/modern.d20.srd/creature.types/humanoid">humanoid</a> form (not full moon)</td><td> 20 </td></tr> <tr class="shaded"><td> Voluntary change (full moon)</td><td> 10 </td></tr> <tr><td> Voluntary change (not full moon)</td><td> 15 </td></tr> <tr><td colspan="2" style="font-size: .8em; text-align: left"><sup>1</sup> For game purposes, the full moon lasts three days every month. </td></tr></table>
+
+
+Any character who has contracted lycanthropy and is aware of his or her
+condition can learn Control Shape as a class skill. This determines whether
+the afflicted werewolf can voluntarily control his shape. Natural lycanthropes
+have control over their shapeshifting abilities.
+
+Check: The afflicted character must make a check at moonrise each night of the
+full moon to resist involuntarily assuming animal form. An injured character
+must also check for an involuntary change after accumulating enough damage to
+reduce his or her hit point total to three-quarters of its full normal value
+and again after each additional one-quarter lost (save DC same as for full
+moon).
+
+Try Again?: Check for an involuntary change once each time a triggering event
+occurs. On a failed check to return to
+[humanoid](/modern.d20.srd/creature.types/humanoid) form (see below), the
+character must remain in animal or hybrid form until the next dawn, when he or
+she automatically returns to
+[humanoid](/modern.d20.srd/creature.types/humanoid) form.
+
+Special: A character can [take 10](/modern.d20.srd/skills/skill.basics.php#take10), but cannot [take 20](/modern.d20.srd/skills/skill.basics.php#take20).
+
+When returning to normal form after an involuntary change, the character
+attempts a Wisdom check (DC 15) to realize what has happened. If the check
+succeeds, the character becomes aware of the affliction and can now
+voluntarily attempt to change to animal or hybrid form, using the appropriate
+DC. An attempt is a standard action and can be made each round. Any voluntary
+change to animal or hybrid form immediately and permanently changes the
+character’s two strongest allegiances to chaos and evil.
+
+An afflicted character who is aware of his or her condition can also try to
+return to [humanoid](/modern.d20.srd/creature.types/humanoid) from after
+assuming animal or hybrid form, using the appropriate DC. Only one attempt is
+allowed, however, as described above.
+
+Time: Attempting to control one’s shape is a full-round action.
+

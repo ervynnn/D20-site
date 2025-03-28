@@ -1,0 +1,182 @@
+---
+title: Sidhe
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Sidhe
+
+##  Sidhe
+
+Use the information on Fey to create new sidhe.
+
+###  Species Traits
+
+Sidhe have the following traits.
+
+Change Self (Sp): A sidhe can change its appearance at will, as per the change
+self spell cast by a 10th-level Mage.
+
+Immunities (Ex): A sidhe is immune to one or more specific types of energy or
+weapon damage. Sidhe roll on the immunity column of Table: Sidhe Immunities
+and Resistances.
+
+Energy Resistance (Ex): A sidhe is resistant to one or more specific types of
+energy damage. Sidhe roll on the immunity column of Table: Sidhe Immunities
+and Resistances.
+
+Damage Reduction (Su): Sidhe have damage reduction, as noted in the chart
+below. One-of-a-kind sidhe lords may have even higher damage reduction
+(usually 15/+2).
+
+
+<table> <tr> <th> Sidhe Hit Dice </th> <th> Damage Reduction </th> </tr> <tr> <td> 8 or fewer </td> <td> 5/+1 </td> </tr> <tr class="shaded"> <td> 9–16 </td> <td> 10/+1 </td> </tr> <tr> <td> 17 or more </td> <td> 15/+2 </td> </tr> </table>
+
+
+Low-Light Vision (Ex): Sidhe can see twice as far as a human in starlight,
+moonlight, torchlight, and similar conditions of poor illumination. They
+retain the ability to distinguish color and detail under these conditions.
+
+Allegiances: All sidhe have a primary allegiance to chaos.
+
+Bonus Feat: Sidhe gain either Archaic Weapons Proficiency or Simple Weapons
+Proficiency as a bonus feat.
+
+Automatic Languages: Sidhe can speak Sylvan (the language of fey) and a number
+of additional languages equal to their Intelligence bonus. Sidhe with an
+Intelligence of 8 or higher can also read and write these languages.
+
+Advancement: By character class.
+
+
+<table> <tr> <th colspan="4"> Table: Sidhe Immunities and Resistances </th> </tr> <tr> <th> Roll d% </th> <th> Immunity </th> <th> Roll d% </th> <th> Resistance </th> </tr> <tr> <td> 01–06 </td> <td> Acid damage </td> <td> 01–21 </td> <td> None (do not roll again) </td> </tr> <tr class="shaded"> <td> 07–12 </td> <td> Cold damage </td> <td> 22–27 </td> <td> Acid resistance 10 </td> </tr> <tr> <td> 13–18 </td> <td> Sonic/concussion damage </td> <td> 28–30 </td> <td> Acid resistance 20 </td> </tr> <tr class="shaded"> <td> 19–24 </td> <td> Electricity damage </td> <td> 31–36 </td> <td> Cold resistance 10 </td> </tr> <tr> <td> 25–30 </td> <td> Fire damage </td> <td> 37–39 </td> <td> Cold resistance 20 </td> </tr> <tr class="shaded"> <td> 31–36 </td> <td> Ballistic damage </td> <td> 40–45 </td> <td> Sonic/concussion resistance 10 </td> </tr> <tr> <td> 37–42 </td> <td> Bludgeoning damage </td> <td> 46–48 </td> <td> Sonic/concussion resistance 20 </td> </tr> <tr class="shaded"> <td> 43–48 </td> <td> Piercing damage </td> <td> 49–54 </td> <td> Electricity resistance 10 </td> </tr> <tr> <td> 49–54 </td> <td> Slashing damage </td> <td> 55–57 </td> <td> Electricity resistance 20 </td> </tr> <tr class="shaded"> <td> 55–60 </td> <td> Poison damage </td> <td> 58–63 </td> <td> Fire resistance 10 </td> </tr> <tr> <td> 61–66 </td> <td> Radiation damage </td> <td> 64–66 </td> <td> Fire resistance 20 </td> </tr> <tr class="shaded"> <td> 67–100 </td> <td> Choose one, and roll again </td> <td> 67–100 </td> <td> Choose one, and roll again </td> </tr> </table>
+
+
+Dreamghast
+
+Fascinate (Sp): A dreamghast can fascinate onlookers by staring at the targets
+and speaking softly. The targets must be within 60 feet of the dreamghast and
+must be able to see and hear the dreamghast. The dreamghast must also see the
+creatures it intends to fascinate. The distraction of a nearby combat or other
+dangers prevents the ability from working. Otherwise, creatures that fail a
+Will save (DC 21) remain stationary and quiet, staring at and listening to the
+dreamghast as long as the dreamghast maintains the fascinate effect for up to
+1 minute.
+
+Any potential threat (such as a thrall of the dreamghast moving behind the
+fascinated creature) allows an affected target a new save against the
+fascinate effect. Any obvious threat, such as drawing a weapon, automatically
+breaks the effect. While using the fascinate ability, a dreamghast must spend
+an attack action each round concentrating. The fascinate ability is a spell-
+like, mind-affecting charm ability.
+
+Despair (Su): The mere sight of a dreamghast in its true form forces the
+viewer to succeed at a Will save (DC 21) or be paralyzed with fear for 1d4
+rounds. Whether or not the save is successful, that creature cannot be
+affected again by that dreamghast’s despair ability for one day.
+
+Detect Dreams (Sp): A dreamghast can observe the dreams of a sleeping creature
+within 60 feet. This functions like the detect thoughts power manifested by a
+10th-level Telepath, except that it only functions on sleeping creatures.
+
+Devour Dreams (Su): A dreamghast can caress the forehead of a sleeping victim
+and consume its dreams for itself. The process requires 10 minutes of
+uninterrupted feeding, during which time a cloud or roiling vapor emerges from
+the victim’s head and is sucked into the dreamghast’s gaping maw. Once the
+dream is devoured, the dreamghast gains a +1 luck bonus on attacks, ability
+checks, skill checks, and saves and 4 temporary hit points per Hit Die of the
+victim. The luck bonus and temporary hit points last for 24 hours. At the end
+of the dream-eating process, the dreamghast chooses whether it wants to
+enslave the victim or cause memory loss (see below); either is a free action.
+A sleeping victim has no chance of waking during the dream-devouring process.
+
+Enslave (Su): If the dreamghast considers a dream-eating victim particularly
+interesting or useful, he may implant a series of enslavement commands in the
+victim’s mind. The target must succeed at a Will save (DC 21) or be affected
+as though by a domination power manifested by a 10th-level Telepath. The
+dreamghast commands the enslaved victim telepathically when the victim sleeps;
+when the victim is awake, it acts on previous orders but can’t be given new
+ones. An enslaved creature obeys the dreamghast’s commands until freed by a
+dispel magic or remove curse spell or a negate psionics power. The enslaved
+creature can also attempt a new Will save every 24 hours to break free. The
+control is also broken if the dreamghast dies or travels more than 1 mile from
+its slave.
+
+Memory Loss (Su): Once the dreamghast eats someone’s dreams, it may consume
+the subject’s memories as well. The victim must succeed at a Will save (DC 21)
+or suffer complete memory loss. The victim has no memory of his identity,
+background, family, friends, and so forth. The memory loss has no effect on
+languages known, class-related talents, or other class features. The subject
+temporarily loses all Knowledge skills but retains all other skills. The
+memory loss persists until the victim receives a break enchantment spell or
+undergoes 1d6 months of therapy.
+
+Immunities (Ex): A dreamghast is immune to ballistic damage.
+
+Fire Resistance 10 (Ex): Dreamghasts ignore the first 10 points of fire damage
+dealt by any single attack.
+
+Dreamghast (Sidhe): CR 7; Medium fey; HD 10d6+10; hp 45; Mas 16; Init +2; Spd
+30 ft.; Defense 17, touch 12, flat-footed 15 (+2 Dex, +5 natural); BAB +5;
+Grap +6; Atk +6 melee (1d6+1/19–20, machete) or +6 ranged; Full Atk +4 melee
+(1d6+1/19–20, machete), +0 melee (1d6/19–20, 3 machetes) or +6 ranged; FS 5
+ft. by 5 ft.; Reach 5 ft.; SQ fascinate, change self, despair, detect dreams,
+dream eating, enslave, memory loss, damage reduction 10/+1, fire resistance
+10, immunities, low-light vision; AL chaos, evil; SV Fort +4, Ref +5, Will +8;
+AP 0; Rep +0; Str 12, Dex 14, Con 13, Int 11, Wis 13, Cha 20.
+
+Skills: Concentration +14, Intimidate +18, Listen +13, Spot +14.
+
+Feats: Archaic Weapons Proficiency, Combat Reflexes, Improved Damage
+Threshold, Multiweapon Fighting*, Simple Weapons Proficiency.
+
+*The Multiweapon Fighting feat functions just like the Two-Weapon Fighting feat, except you need more than two arms to use it. The primary attack takes a –2 penalty, and all the secondary attacks take a –6 penalty. 
+
+Possessions: Four machetes.
+
+Advancement: By character class.
+
+Faun
+
+Enchanting Music (Su): Music is magical to fauns, and they can create a
+variety of enchanting effects on listeners with a carefully crafted song. When
+a faun infuses its song with its fey power, all creatures within a 60-foot
+spread of the satyr (except other sidhe) must succeed at a Will save (DC 13)
+or be affected by attraction, as the power manifest by a 10thlevel Telepath.
+Once per day, the faun can use his music to instead create a lesser domination
+effect (Will save, DC 15, negates) or mental blast effect (Will save, DC 15,
+negates) targeted at one specific listener.
+
+It takes the faun a full-round action to use enchanting music. Anyone who
+successfully saves against the faun’s enchanting music cannot be affected by
+music from that faun for one day.
+
+Immunities (Ex): A faun is immune to bludgeoning damage, enabling it to
+survive a barfight unscathed.
+
+Cold Resistance 10 (Ex): Fauns ignore the first 10 points of cold damage dealt
+by any single attack.
+
+Skill Bonuses: Fauns gain a +4 species bonus on Hide, Listen, Move Silently,
+Perform, and Spot checks.
+
+Faun (Sidhe): CR 4; Medium fey; HD 5d6; hp 17; Mas 11; Init +2; Spd 30 ft.;
+Defense 14, touch 12, flat-footed 12 (+2 Dex, +2 natural); BAB +2; Grap +2;
+Atk +2 melee (1d6, gore) or +2 melee (1d6/18–20, sword cane) or +5 ranged
+(2d6, Colt Python); Full Atk +2 melee (1d6, gore) or +2 melee (1d6/18–20,
+sword cane) or +5 ranged (2d6, Colt Python); FS 5 ft. by 5 ft.; Reach 5 ft.;
+SA enchanting music, change self, cold resistance 10, damage reduction 5/+1,
+immunities, lowlight vision; AL chaos; SV Fort +3, Ref +3, Will +3; AP 0; Rep
++0; Str 10, Dex 15, Con 11, Int 10, Wis 9, Cha 14.
+
+Skills: Bluff +10, Disguise +12, Hide +14, Listen +3, Move Silently +12,
+Perform (sing) +14, Perform (any one) +14, Spot +3.
+
+Feats: Archaic Weapons Proficiency, Great Fortitude, Personal Weapons
+Proficiency, Simple Weapons Proficiency.
+
+Possessions: Musical instrument, loaded Colt Python (.357 revolver), sword
+cane (usually disguised as an umbrella or within the musical instrument’s
+case).
+
+Advancement: By character class.
+

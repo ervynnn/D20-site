@@ -1,0 +1,80 @@
+---
+title: Languages Of Shadow
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Shadowkind ](/arcana.d20.srd/shadowkind) > Languages Of Shadow
+
+##  Languages Of Shadow
+
+Creatures who reach our modern world through Shadow gain an innate knowledge
+of English, Spanish, Russian, or whatever the predominant language happens to
+be in the area in which they arrive. To them, the language resembles Common, a
+language that was used in trade or other negotiations between different
+species in the world of their birth. Whether this is mere coincidence or part
+of some great design remains a mystery.
+
+“Languages of Shadow” are languages brought to our world by creatures of
+Shadow. Like Earth languages, these languages can be grouped together in
+families. Languages that belong to a single family share the same root
+alphabet. However, knowing one language in a family doesn’t enable characters
+with the Smart hero’s linguist talent to automatically speak, write, and
+understand the other languages in that family.
+
+Natives of our world—human and Shadowkind alike—can learn new Shadow languages
+only after they are exposed to them; they can’t master them spontaneously. To
+learn Draconic, for example, a character must spend time with creatures that
+speak Draconic or find someone with access to the written language (Draconic
+“books on tape” or ancient texts written using the Draconic alphabet, for
+example). Certain Shadowkind know languages commonly spoken among members of
+their species, and all characters may study and learn new Shadow languages,
+investing in the appropriate Read/Write Language and Speak Language skills as
+they advance in level.
+
+Table: Shadow Languages by Family lists various languages of Shadow and their
+root alphabets. Shadow language families include the following:
+
+Celestial: Elegant in its simplicity and purity, celestial writing tends to be
+direct in its language. Spoken, it has a gentle, flowing tone.
+
+Draconic: A florid, powerful alphabet, Draconic is often used for magical
+messages and inscriptions. It is said to descend from the dragons themselves
+and is often referred to as the Original Language and the Words of Power.
+
+Dwarven: Using an alphabet similar to the Norse runes, the dwarven alphabet
+was made to be carved in stone, and its letters look as if they were chiseled
+in place. Languages in this family are generally rough and heavily accented.
+
+Elven: The elven alphabet is a thin, flowing freehand script with letters
+overlapping and curling in on themselves, suitable for inscription on metal,
+ivory, or very hard woods. It is used by elves (including drow) and has a
+melodic tone when spoken.
+
+Fiendish: The Fiendish alphabet is a jagged, powerful script. The two
+languages that form this group—Abyssal and Infernal—are dominated by harsh
+gutturals and accents. Favored by evil outsiders, its presence usually
+indicates something malefic.
+
+Halfling: The halfling alphabet makes heavy use of pictograms and lettering
+passingly similar in appearance to musical notes. The spoken language is a
+patois incorporating elements of Elven combined with distinctive halfling
+idioms.
+
+Undertongue: Represented by harsh lines and stark hieroglyphs, this debased
+version of Elven is spoken by countless subterranean species, usually for the
+purpose of doing business with one another.
+
+
+<table> <tr> <th colspan="3"> Table: Languages Of Shadow By Family </th> </tr> <tr> <th> Language </th> <th> Typical Speakers </th> <th> Alphabet/Family </th> </tr> <tr> <td> Abyssal </td> <td> Outsiders with allegiances to chaos, evil </td> <td> Fiendish </td> </tr> <tr class="shaded"> <td> Aquan </td> <td> Water-based creatures </td> <td> Elven </td> </tr> <tr> <td> Auran </td> <td> Air-based creatures </td> <td> Draconic </td> </tr> <tr class="shaded"> <td> Celestial </td> <td> Creatures with good allegiance </td> <td> Celestial </td> </tr> <tr> <td> Common </td> <td> Various Shadowkind species </td> <td> Common </td> </tr> <tr class="shaded"> <td> Draconic </td> <td> Dragons and other reptilian creatures </td> <td> Draconic </td> </tr> <tr> <td> Drow Sign Language </td> <td> Drow </td> <td> None* </td> </tr> <tr class="shaded"> <td> Dwarven </td> <td> Dwarves </td> <td> Dwarven </td> </tr> <tr> <td> Elven </td> <td> Elves, drow, and half-elves </td> <td> Elven </td> </tr> <tr class="shaded"> <td> Giant </td> <td> Giants, trolls, ogres </td> <td> Dwarven </td> </tr> <tr> <td> Gnoll </td> <td> Gnolls </td> <td> Dwarven </td> </tr> <tr class="shaded"> <td> Gnome </td> <td> Gnomes </td> <td> Dwarven </td> </tr> <tr> <td> Goblin </td> <td> Goblins, bugbears, and other goblinoids </td> <td> Dwarven </td> </tr> <tr class="shaded"> <td> Halfling </td> <td> Halflings </td> <td> Elven </td> </tr> <tr> <td> Ignan </td> <td> Fire-based or fire-worshiping creatures </td> <td> Draconic </td> </tr> <tr class="shaded"> <td> Infernal </td> <td> Outsiders with evil, law allegiances </td> <td> Fiendish </td> </tr> <tr> <td> Orc </td> <td> Orcs and half-orcs </td> <td> Dwarven </td> </tr> <tr class="shaded"> <td> Sylvan </td> <td> Forest-dwelling creatures and fey </td> <td> Elven </td> </tr> <tr> <td> Terran </td> <td> Earth-based creatures </td> <td> Dwarven </td> </tr> <tr class="shaded"> <td> Undertongue </td> <td> Subterranean creatures </td> <td> Elven </td> </tr> <tr> <td colspan="3" style="text-align: left; font-size: .8em"> *See the Footnote on Sign Languages. </td> </tr> </table>
+
+
+###  Footnote on Sign Languages
+
+Knowing one type of sign language does not grant knowledge of other sign
+languages. In the mundane world, ASL (American Sign Language) is a dominant
+form of nonverbal communication in the United States and may be used and
+understood by any character who takes the Speak American Sign Language skill.
+However, the communication is in the native language of the speaker. Two
+characters using ASL to communicate with each other must share another common
+language.
+

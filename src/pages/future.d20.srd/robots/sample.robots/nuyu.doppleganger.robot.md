@@ -1,0 +1,61 @@
+---
+title: “Nuyu” Doppelganger Robot
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > [Sample Robots](/future.d20.srd/robots/sample.robots) > “Nuyu” Doppelganger Robot
+
+## “Nuyu” Doppelganger Robot (PL 7)
+
+Each doppelganger robot is modeled after a specific person. “Nuyu” bioreplicas
+are often used as doubles for politicians and movie stars during high-risk
+public appearances. Government agencies also use them as spies and
+infiltrators. A “Nuyu” is usually programmed with enough knowledge of its
+biological counterpart to maintain the charade for a period of a few hours or
+days.
+
+Purchase DC: 32.
+
+Restriction: Restricted (+2).
+
+“Nuyu” Replacement Robot: CR 1; Medium-size construct; HD 1d10+10; hp 15; Mas
+—; Init +2 (+2 equipment); Spd 30 ft.; Defense 10, touch 10, flat-footed 10;
+BAB +0; Grp +1; Atk +1 melee (1d3+1 nonlethal, 2 advanced hands) or +0 ranged;
+FS 5 ft. by 5 ft.; Reach 5 ft.; SQ construct traits, critical systems,
+darkvision 120 ft., doubled range increments, lifelike appearance; AL varies;
+SV Fort +0, Ref +0, Will +0; AP 0; Rep +0; Str 12, Dex 11, Con —, Int 10, Wis
+10, Cha 12.
+
+Skills: Bluff +5, Computer Use +4, Diplomacy +5, Disable Device +4, Disguise
++5, Drive +4, Gather Information +5, Hide +4, Knowledge (current events) +4,
+Listen +6, Move Silently +4, Repair +4, Search +2, Sense Motive +4, Sleight of
+Hand +4, Spot +6, Survival +4.
+
+Feats: Personal Firearms Proficiency.
+
+Equipment: Determined by the GM.
+
+The “Nuyu” doppelganger robot has the following systems and accessories:
+
+Frame: Bioreplica.
+
+Locomotion: Legs (2, speed-enhanced).
+
+Manipulators: Advanced hands (2).
+
+Sensors: Class VII sensor system.
+
+Skill Software: Language chips (English, Japanese), skill net (Bluff 4 ranks,
+Diplomacy 4 ranks, Disguise 4 ranks, Gather Information 4 ranks), skill net
+(Computer Use 4 ranks, Disable Device 4 ranks, Knowledge [current events] 4
+ranks, Repair), skill net (Drive 4 ranks, Hide 4 ranks, Move Silently 4 ranks,
+Sleight of Hand 4 ranks), skill net (Listen 4 ranks, Sense Motive 4 ranks,
+Spot 4 ranks, Survival 4 ranks).
+
+Feat Software: Personal Firearms Proficiency progit.
+
+Ability Upgrade: Charisma upgrade (+2).
+
+Accessories: Integrated cell phone, self-destruct system, self-repair unit,
+vocalizer.
+

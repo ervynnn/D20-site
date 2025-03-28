@@ -1,0 +1,19 @@
+---
+title: PL 0: Stone Age
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Progress Levels](/future.d20.srd/progress) > PL 0: Stone Age
+
+## PL 0: Stone Age
+
+The major achievements of a Stone Age society are the use of fire, the
+domestication of animals, and the invention of agriculture. An individual
+living in a Stone Age society is primitive, but he isn’t necessarily gullible,
+stupid, or easily frightened by advanced technology. Common weapons in a PL 0
+civilization include the club, the dagger, the spear, and the bow. Armor made
+from hide or leather is possible, as are wicker shields. Communication beyond
+the local tribe or settlement doesn’t exist. Travel is accomplished by foot or
+by simple rafts or canoes. Simple pottery, stoneworking, and woodworking are
+possible.
+

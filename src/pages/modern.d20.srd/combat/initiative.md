@@ -1,0 +1,42 @@
+---
+title: Initiative
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Initiative
+
+## Initiative
+
+Every round, each combatant gets to do something. The combatants’ initiative
+checks, from highest to lowest, determine the order in which they act, from
+first to last.
+
+### Initiative Checks
+
+At the start of a battle, each combatant makes a single initiative check. An
+initiative check is a [Dexterity](/modern.d20.srd/basics/ability.scores)
+check. Each character applies his or her
+[Dexterity](/modern.d20.srd/basics/ability.scores) modifier to the roll, and
+anyone with the [Improved Initiative](/modern.d20.srd/feats/improved.initiative) feat gets an additional
++4 bonus on the check. The GM finds out what order characters are acting in,
+counting down from highest result to lowest, and each character acts in turn.
+On all following rounds, the characters act in the same order (unless a
+character takes an action that results in his or her initiative changing; see
+[Special Initiative Actions](/modern.d20.srd/combat/special.initiative.actions)). If two or more
+combatants have the same initiative check result, the combatants who are tied
+go in order of total initiative modifier (including
+[Dexterity](/modern.d20.srd/basics/ability.scores) modifier and [Improved Initiative](/modern.d20.srd/feats/improved.initiative) bonus, if
+applicable).If there is still a tie, roll a die.
+
+Flat-Footed: At the start of a battle, before the character has had a chance
+to act (specifically, before the character’s first turn in the initiative
+order), the character is flat-footed. A character can’t use his or her
+[Dexterity](/modern.d20.srd/basics/ability.scores) bonus to
+[Defense](/modern.d20.srd/combat/defense) or make attacks of opportunity while
+flat-footed.
+
+### Joining a Battle
+
+If characters enter a battle after it has begun, they roll initiative at that
+time and act whenever their turn comes up in the existing order.
+

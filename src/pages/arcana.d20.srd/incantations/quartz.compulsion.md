@@ -1,0 +1,39 @@
+---
+title: Quartz Compulsion
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Quartz Compulsion
+
+##  Quartz Compulsion
+
+Enchantment (Compulsion) [Mind-Affecting, Language-Dependent]
+
+Skill Check: Knowledge (arcane lore) DC 33, 6 successes, and Intimidate DC 33,
+2 successes; Failure: Two consecutive failed skill checks; Components: V, S,
+F, B; Casting Time: 80 minutes (minimum); Range: Unlimited; Target: One
+creature with fewer Hit Dice that you; Duration: 16 hours (see text); Saving
+Throw: Will partial (DC 18 + caster’s Cha modifier); Spell Resistance: Yes
+
+The quartz compulsion incantation lets you telepathically contact the subject
+by gazing through a quartz shard, regardless of where the subject is located.
+You can telepathically converse for 16 minutes with the subject. Your
+telepathic contact can also contain a suggestion (as per the suggestion
+psionic power), which the subject does her best to carry out. A successful
+Will save negates the suggestion effect but not the contact itself. Telepathic
+communcation is possible even if the creature’s Intelligence score is as low
+as 1, but you must have a language in common with the subject to communicate.
+If the message is impossible or meaningless according to the circumstances
+that exist for the subject at the time the quartz compulsion comes, the
+message is understood but the suggestion is ineffective.
+
+Focus: A carefully cut shard of quartz (purchase DC 22).
+
+Backlash: Caster is exhausted.
+
+Failure: Reversal. You converse with the subject normally, but the suggestion
+attempt automatically fails, and the subject can instead compel you (as per
+the suggestion psionic power). You don’t get a saving throw, and spell
+resistance does not apply. Depending on the specific suggestion, you may not
+realize that your attempt failed or that you’ve been compelled.
+

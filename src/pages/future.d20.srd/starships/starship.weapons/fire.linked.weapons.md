@@ -1,0 +1,28 @@
+---
+title: Fire-Linked Weapons
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Weapons](/future.d20.srd/starships/starship) > Fire-Linked Weapons
+
+##  Fire-Linked Weapons
+
+Fire-linked weapons are identical beam weapons, projectile weapons, or missile
+launchers that point and fire in the same direction. In effect, this
+arrangement creates a single weapon (fired with a single attack roll) that
+deals greater damage than either weapon alone.
+
+Each full doubling of the number of fire-linked weapons (two weapons, four,
+eight, and so on) increases the damage by one-half the base damage. For
+example, a fighter using two fire-linked rail cannons (damage 6d12 each) deals
+9d12 points of damage with a successful attack. Fire-linking weapons adds +1
+to the purchase DC of each weapon in the link; taking the above example, each
+fire-linked rail cannon would have a purchase DC of 31 instead of 30.
+
+Variable fire links also exist, allowing the gunner to decide from attack to
+attack whether to fire the weapons individually (as normal), in a full link
+(as described above), or in a partial link. A partial link allows the pilot to
+fire the linked weapons in groups of two. Only starships with four or more
+fire-linked weapons can be fired in a partial link. The variable version of
+the fire link adds +3 to the purchase DC of each weapon in the link.
+

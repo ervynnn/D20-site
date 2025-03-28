@@ -1,0 +1,15 @@
+---
+title: Creative
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Feats ](/modern.d20.srd/feats) > Creative
+
+##  Creative
+
+Benefit: Pick two of the following skills: [ Craft (visual art)](/modern.d20.srd/skills/craft.visual.art) , [ Craft (writing)](/modern.d20.srd/skills/craft.writing) , [ Perform (act)](/modern.d20.srd/skills/perform) , [ Perform (dance)](/modern.d20.srd/skills/perform) , [ Perform (keyboards)](/modern.d20.srd/skills/perform) , [ Perform (percussion instruments)](/modern.d20.srd/skills/perform) , [ Perform (sing)](/modern.d20.srd/skills/perform) , [ Perform (stand-up)](/modern.d20.srd/skills/perform) , [ Perform (string instruments)](/modern.d20.srd/skills/perform) , and [ Perform (wind instruments)](/modern.d20.srd/skills/perform) . The character gets a +2 bonus on all
+checks with those two skills.
+
+Special: A character can select this feat as many as five times. Each time,
+the character selects two new skills from the choices given above.
+

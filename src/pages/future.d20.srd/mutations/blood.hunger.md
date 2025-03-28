@@ -1,0 +1,26 @@
+---
+title: Blood Hunger
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Blood Hunger
+
+##  Blood Hunger [DRAWBACK]
+
+You crave the taste of blood. Moreover, you need to drink blood to survive.
+
+MP Cost: 1.
+
+Drawback: You must drain a pint of blood from a living creature once every 24
+hours. Doing so is an attack action, and you can only drain blood from a
+willing, helpless, or dying (but not dead) creature. The bitten creature takes
+normal damage from the bite attack plus an extra 1d6 points of damage from the
+blood loss.
+
+If you go 24 hours without consuming blood, you take 1d4 points of
+Constitution damage. Drinking a pint of blood cures the ability damage caused
+by blood deprivation in 1d6 rounds. Ability damage caused by blood deprivation
+cannot be restored through natural healing.
+
+Special: You must have a natural bite attack to take this drawback.
+

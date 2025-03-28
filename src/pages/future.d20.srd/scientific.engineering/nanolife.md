@@ -1,0 +1,20 @@
+---
+title: Nanolife
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Scientific Engineering](/future.d20.srd/scientific.engineering) > Nanolife
+
+##  Nanolife
+
+After a society creates artificial intelligence, nanomachines become far more
+than simply computer-controlled microscopic machines. Many argue that nanites
+become microscopic life forms, and that nanocolonies are hive minds, with the
+nanites behaving in much the same way as insects. This raises the issue of
+whether or not nanites can be controlled, especially if their programming can
+be overcome by their artificial intelligence. In some cases, nanolife takes on
+an agenda of its own, and it is often in these circumstances that catastrophic
+turns of events bring entire civilizations down. Additionally, moral questions
+are raised when the creation of new nanotechnology mirrors the creation of new
+life, and doubly so for the termination or destruction of nanocolonies.
+

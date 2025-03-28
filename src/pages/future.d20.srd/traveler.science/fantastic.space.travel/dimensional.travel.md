@@ -1,0 +1,25 @@
+---
+title: Dimensional Travel
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Traveler Science](/future.d20.srd/traveler.science) > [Fantastic Space Travel](/future.d20.srd/traveler.science/fantastic.space.travel) > Dimensional Travel
+
+## Dimensional Travel
+
+Humankind has long been fascinated with the idea of parallel dimensions, the
+theory being that alongside our own universe lie virtually identical universes
+in which people just like us live out their lives (and perhaps fantasize about
+parallel dimensions). The popular notion is that in a parallel dimension, some
+different decision was made, some random event occurred differently, or that
+some element in the composition of the Earth is more common—and, as a result,
+the universe is different to some degree or another. What if Wellington lost
+the Battle of Waterloo? What if the cataclysm that wiped out the dinosaurs
+never happened? What if Hitler conquered the world?
+
+Of course, it could all be considerably more subtle than all that; perhaps all
+humans have gray eyes, and that’s the only difference. The point is that in
+alternate realities, life could be different. Without ever leaving their home
+world, dimensional explorers could face challenges every bit as daunting as
+the challenges faced by space explorers.
+

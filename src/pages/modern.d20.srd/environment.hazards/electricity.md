@@ -1,0 +1,20 @@
+---
+title: Electricity
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Environment & Hazards](/modern.d20.srd/environment.hazards) > Electricity
+
+##  Electricity
+
+Electrical hazards come in many forms, including stun guns, downed power
+lines, and electric security fences. Table: Electricity Damage gives [ damage](/modern.d20.srd/combat/damage) values for various electrical hazards based
+on relative voltage. A character can make a Fortitude [ saving throw](/modern.d20.srd/basics/saving.throws) to reduce the damage by half. If that
+character is not grounded or is otherwise insulated from the current, a
+successful [ save ](/modern.d20.srd/basics/saving.throws) indicates that no
+damage is suffered.
+
+
+<table> <tr> <th colspan="4"> Table: Electricity Damage </th> </tr> <tr> <th> Type </th> <th> Examples </th> <th> Damage </th> <th> Fort DC </th> </tr> <tr> <td> Jolt </td> <td> Car battery, stun gun </td> <td> 1d3 </td> <td> 10 </td> </tr> <tr class="shaded"> <td> Low voltage </td> <td> Fuse box, electrical socket </td> <td> 2d6 </td> <td> 15 </td> </tr> <tr> <td> Medium voltage </td> <td> Industrial transformer, electric fence </td> <td> 4d6 </td> <td> 15 </td> </tr> <tr class="shaded"> <td> High voltage </td> <td> Power line, electric chair, lightning </td> <td> 8d6 </td> <td> 20 </td> </tr> </table>
+
+

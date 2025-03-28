@@ -1,0 +1,256 @@
+---
+title: Skill Basics
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Skill Basics
+
+## Skill Basics
+
+Getting Skills
+
+At each level, a character gets skill points that are used to buy skills. The
+character’s class and [Intelligence](/modern.d20.srd/basics/ability.scores)
+modifier determine the number of points received.
+
+If the character buys a class skill, he or she gets 1 rank in the skill for
+each skill point spent. If the character buys a cross-class skill, he or she
+gets ½ rank per skill point. The maximum rank in a class skill is equal to
+character level + 3. The maximum rank in a cross-class skill is one-half of
+this number.
+
+Using Skills
+
+To make a skill check, roll:
+
+1d20 + skill modifier
+
+(Skill modifier = skill ranks + ability modifier + miscellaneous modifiers)
+
+Skill Ranks: A character’s ranks in a skill is based on the number of skill
+points the character has invested in the skill. Some skills can be used even
+if the character has no ranks in the skill; doing this is known as making an
+untrained skill check.
+
+Ability Modifier: The ability modifier used in the skill check is the modifier
+for the skill’s key ability (the ability associated with the skill’s use). The
+key ability of a skill is noted in its description.
+
+Miscellaneous Modifiers: Miscellaneous modifiers include bonuses provided by
+[feats](/modern.d20.srd/feats) and class features, and penalties such as the
+ones associated with the nonproficient use of armor, among others.
+
+Acquiring Skill Ranks
+
+Ranks indicate how much training or experience a character has with a given
+skill. Each skill has a number of ranks, from 0 (for a skill in which a
+character has no training at all) to 23 (for a 20th-level character who has
+increased a class skill to its maximum rank). When making a skill check, a
+character adds his or her skill ranks to the roll as part of the skill
+modifier.
+
+The rules assume that a character can always find a way to learn any skill.
+However, the GM can impose limits depending on circumstances and a given
+situation.
+
+
+<table> <tr><th colspan="3">Table: Skill Points per Level</th></tr> <tr><th>Class</th><th> 1st Level Skill Points</th><th> Higher Level Skill Points</th></tr> <tr><td> Strong</td><td> (3 + Int modifier) x4</td><td> 3 + Int modifier </td></tr> <tr class="shaded"><td> Fast</td><td> (5 + Int modifier) x4</td><td> 5 + Int modifier </td></tr> <tr><td> Tough</td><td> (3 + Int modifier) x4</td><td> 3 + Int modifier </td></tr> <tr class="shaded"><td> Smart</td><td> (9 + Int modifier) x4</td><td> 9 + Int modifier </td></tr> <tr><td> Dedicated</td><td> (5 + Int modifier) x4</td><td> 5 + Int modifier </td></tr> <tr class="shaded"><td> Charismatic</td><td> (7 + Int modifier) x4</td><td> 7 + Int modifier </td></tr></table>
+
+
+Skill Checks
+
+Unlike with attack rolls and saving throws, a natural roll of 20 on the d20 is
+not an automatic success when making a skill check, and a natural roll of 1 is
+not an automatic failure.
+
+Difficulty Class
+
+Some checks are made against a Difficulty Class (DC). The DC is a number set
+by the GM (using the skill rules as a guideline) that a character must attain
+to succeed.
+
+
+<table> <tr><th colspan="2">Table: Difficulty Class Examples</th></tr> <tr><th> Difficulty (DC)</th><th> Example (Skill Used)</th></tr> <tr><td> Very easy (0)</td><td> Notice something large in plain sight (<a href="/modern.d20.srd/skills/spot">Spot</a>) </td> </tr> <tr class="shaded"><td> Easy (5)</td><td> Climb a knotted rope (<a href="/modern.d20.srd/skills/climb">Climb</a>) </td> </tr> <tr><td> Average (10)</td><td> Hear an approaching security guard (<a href="/modern.d20.srd/skills/listen">Listen</a>) </td> </tr> <tr class="shaded"><td> Tough (15)</td><td> Disarm an explosive (<a href="/modern.d20.srd/skills/demolitions">Demolitions</a>) </td> </tr> <tr><td> Challenging (20)</td><td> Swim against a strong current (<a href="/modern.d20.srd/skills/swim">Swim</a>) </td> </tr> <tr class="shaded"><td> Formidable (25)</td><td> Break into a secure computer system (<a href="/modern.d20.srd/skills/computer.use">Computer Use</a>) </td> </tr> <tr><td> Heroic (30)</td><td> Leap across a 30-foot chasm (<a href="/modern.d20.srd/skills/jump">Jump</a>) </td> </tr> <tr class="shaded"><td> Superheroic (35)</td><td> Convince the guards that even though you’re not wearing an ID badge and aren’t on their list, they should let you into the building (<a href="/modern.d20.srd/skills/bluff">Bluff</a>) </td> </tr> <tr><td> Nearly impossible (40)</td><td> Track a trained commando through the forests of Brazil on a moonless night after 12 days of rainfall (<a href="/modern.d20.srd/skills/survival">Survival</a>) </td> </tr> </table>
+
+
+Opposed Checks
+
+Some skill checks are opposed checks. They are made against a randomized
+number, usually another character’s skill check result.
+
+For ties on opposed checks, the character with the higher key ability score
+wins. If those scores are the same, roll again.
+
+
+<table> <tr><th colspan="3"> Table: Example Opposed Checks</th></tr> <tr><th> Task</th><th> Skill</th><th> Opposing Skill</th></tr> <tr><td> Sneak up on someone</td><td> <a href="/modern.d20.srd/skills/move.silently">Move Silently</a></td> <td> <a href="/modern.d20.srd/skills/listen">Listen </a></td> </tr> <tr class="shaded"><td> Con someone</td><td> <a href="/modern.d20.srd/skills/bluff">Bluff</a></td> <td> <a href="/modern.d20.srd/skills/sense.motive">Sense Motive</a></td> </tr> <tr><td> Hide from someone</td><td> <a href="/modern.d20.srd/skills/hide">Hide</a></td> <td> <a href="/modern.d20.srd/skills/spot">Spot </a></td> </tr> <tr class="shaded"><td> Win a car race</td><td> <a href="/modern.d20.srd/skills/drive">Drive</a></td> <td> <a href="/modern.d20.srd/skills/drive">Drive</a></td> </tr> <tr><td> Pretend to be someone else</td><td> <a href="/modern.d20.srd/skills/disguise">Disguise</a></td> <td> <a href="/modern.d20.srd/skills/spot">Spot </a></td> </tr> <tr class="shaded"><td> Steal a key chain</td><td> <a href="/modern.d20.srd/skills/sleight.of.hand">Sleight of Hand</a></td> <td> <a href="/modern.d20.srd/skills/spot">Spot </a></td> </tr> <tr><td> Create a fake ID</td><td> <a href="/modern.d20.srd/skills/forgery">Forgery</a></td> <td> <a href="/modern.d20.srd/skills/forgery">Forgery </a></td> </tr> </table>
+
+
+Trying Again
+
+If a character fails on a skill check, he or she can sometimes try again.
+Check the skill description to find out if, and under what circumstances, a
+character can try again. Many skills, however, have natural consequences for
+failing that must be accounted for. Some skills can’t be tried again once a
+check has failed for a particular task. If the use of a skill carries no
+penalty for failure, a character can take 20 and assume that he or she keeps
+trying until he or she eventually succeeds.
+
+Untrained Skill Checks
+
+Generally, if a character attempts to use a skill he or she doesn’t have any
+ranks in, the character makes a skill check as described. The character’s
+skill modifier don’t include skill ranks because the character doesn’t have
+any. The character does get other modifiers, though, such as the ability
+modifier for the skill’s key ability. Some skills can be used only if the
+character is trained in the skill.
+
+Favorable and Unfavorable Conditions
+
+Some situations may make a skill easier or harder to use, resulting in a bonus
+or penalty to the skill modifier or a change to the skill check’s DC.
+
+The GM can alter the odds of success in four ways to take into account
+exceptional circumstances:
+
+1\. Give the skill user a +2 circumstance bonus to represent conditions that
+improve performance, such as having the perfect tool for the job, getting help
+from another character, or working under conditions that are significantly
+better than normal.
+
+2\. Give the skill user a –2 circumstance penalty to represent conditions that
+hamper performance, such as being forced to use improvised tools or possessing
+misleading information.
+
+3\. Reduce the DC by 2 to represent circumstances that make the task easier,
+such as having a friendly audience when making a
+[Perform](/modern.d20.srd/skills/perform) check or searching for information
+on an extremely well documented topic with a [Computer Use](/modern.d20.srd/skills/computer.use) check.
+
+4\. Increase the DC by 2 to represent circumstances that make the task harder,
+such as making a [Perform](/modern.d20.srd/skills/perform) check in front of a
+hostile audience or searching for information on a very poorly documented
+topic with a [Computer Use](/modern.d20.srd/skills/computer.use) check.
+
+Conditions that affect a character’s ability to perform the skill change the
+character’s skill modifier. Conditions that modify how well the character must
+perform the skill to succeed change the DC. A bonus on a character’s skill
+modifier or a reduction in the DC of the check have the same result—they
+create a better chance for success. But they represent different
+circumstances, and sometimes that difference is important.
+
+Time and Skill Checks
+
+Using a skill might take a round, several rounds, or even longer. It might
+take no time at all. Types of actions define how long activities take to
+perform within the framework of a combat round (6 seconds) and how movement is
+treated with respect to the activity. See the skill description for specifies
+on how long a skill takes to use. In general, using a skill that requires
+concentration while in close combat is dangerous. Nearby opponents can make
+[attacks of opportunity](/modern.d20.srd/combat/attacks.of.opportunity)
+against a character when he or she lets his or her guard down.
+
+Tools
+
+Some skill applications require the use of tools. If tools are needed, the
+specific items required are mentioned in the skill description. If the
+character doesn’t have the appropriate tools, he or she can still attempt to
+use the skill, but the character takes a –4 penalty on his or her check.
+
+A character may be able to put together some impromptu tools to make the
+check. If the GM allows it, reduce the penalty to –2 (instead of –4) for using
+impromptu tools. It usually takes some time (several minutes to an hour or
+more) to collect or create a set of impromptu tools, and it may require a
+skill check as well.
+
+Checks without Rolls
+
+A skill check represents an attempt to accomplish some goal, usually in the
+face of time pressure or distraction. Sometimes, though, a character can use a
+skill under more favorable conditions and eliminate the luck factor.
+
+Taking 10
+
+When a character is not being threatened or distracted, he or she may choose
+to take 10. Instead of rolling 1d20 for the skill check, calculate the result
+as if the character had rolled a 10 (an average roll on a d20). For many
+relatively routine tasks, taking 10 results in a success.
+
+Distractions and threats make it impossible for a character to take 10. A
+character also can’t take 10 when using a skill untrained, though the GM may
+allow exceptions for truly routine activities.
+
+Taking 20
+
+When a character has plenty of time, is faced with no threats or distractions,
+and the skill being attempted carries no penalty for failure, a character can
+take 20. Instead of rolling 1d20 for the skill check, calculate the result as
+if the character had rolled a 20.
+
+Taking 20 is the equivalent of attempting the check over and over again until
+the character gets it right. Taking 20 takes twenty times as long as making a
+single check (2 minutes for a skill that can normally be checked in 1 round).
+
+Aiding Another
+
+In some situations, characters can cooperate to accomplish a given task. One
+character is designated as the leader in the effort, while the others try to
+aid the character in his or her efforts. A character aids another by making a
+skill check (DC 10). This is an attack action, and the character can’t take 10
+on this check. If the check succeeds, the character’s ally gains a +2
+circumstance bonus to apply to his or her skill check to complete the task.
+
+In many cases, a character’s help won’t be beneficial, or only a lim­ited
+number of characters can help at the same time. The GM limits aid another
+attempts as he or she sees fit for the conditions.
+
+Skill Synergy
+
+Sometimes, the GM may decide that having one skill provides a bonus when a
+character uses another skill in certain situations. The character must have at
+least 5 ranks in the related skill to gain this synergy bonus, and the GM must
+agree that the two skills can complement each other in the given situation. In
+such cases, the character receives a +2 synergy bonus on the skill check.
+
+Ability Checks
+
+Sometimes a character tries to do something to which no specific skill
+applies. In these cases, the character makes an ability check: Roll 1d20 and
+apply the appropriate ability modifier. The GM assigns a DC, or sets up an
+opposed check when two characters are engaged in a contest using one ability
+against another. In some cases, a test of one’s ability doesn’t involve luck.
+When two characters arm wrestle, for example, the stronger character simply
+wins. In the case of identical scores, make opposed Strength checks.
+
+
+<table> <tr><th>Example Ability Check</th> <th>Key Ability</th></tr> <tr><td> Forcing open a jammed or locked door</td><td> Strength </td></tr> <tr class="shaded"><td> Tying a rope</td><td> Dexterity </td></tr> <tr><td> Holding one’s breath</td><td> Constitution </td></tr> <tr class="shaded"><td> Navigating a maze</td><td> Intelligence </td></tr> <tr><td> Recognize a stranger you’ve seen before</td><td> Wisdom </td></tr> <tr class="shaded"><td> Getting yourself noticed in a crowd</td><td> Charisma </td></tr> </table>
+
+
+Modifier Types and Stacking
+
+A modifier provides a bonus (a positive modifier) or a penalty (a negative
+modifier) to a die roll.
+
+Bonuses with specific descriptors, such as “equipment bonus,” generally don’t
+stack (combine for cumulative effect) with others of the same type. In those
+cases, only the best bonus of that type applies.
+
+The only specific bonuses that stack are dodge bonuses, synergy bonuses, and
+sometimes circumstance bonuses.
+
+Circumstance bonuses stack only if they’re provided by differing
+circumstances; if two circumstance bonuses caused by similar circumstances
+apply, they don’t stack.
+
+Specific bonuses that don’t stack include competence, cover, equipment,
+morale, natural armor, and size.
+
+If the game setting includes magic or other supernatural effects, there can
+also be deflection, enhancement, enlargement, haste, inherent, insight, luck,
+profane, resistance, and sacred bonus descriptors. None of these bonuses
+stack.
+
+Any bonus without a descriptor (such as simply a “+1 bonus”) stacks with other
+bonuses.
+
+All penalties stack, regardless of their descriptors.
+

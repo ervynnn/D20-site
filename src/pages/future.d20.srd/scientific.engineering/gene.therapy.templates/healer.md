@@ -1,0 +1,33 @@
+---
+title: Healer
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > [Gene Therapy Templates](/future.d20.srd/scientific.engineering/gene.therapy.templates) > Healer
+
+## Healer (Template)
+
+“Healer” is an acquired template that can be added to any humanoid or
+monstrous humanoid (referred to hereafter as the character). It uses all the
+character’s statistics and special abilities except as noted here.
+
+The healer template allows the character to heal wounds more rapidly. A
+character acquires the healer template by undergoing a course of gene therapy
+(see More Human than Human).
+
+The regimen requires 25 successful Fortitude saving throws (DC 30).
+
+Special Qualities: A healer retains all the special qualities of the character
+and gains the additional special qualities listed below.
+
+Fast Healing 3 (Ex): A healer heals 3 points of damage each round. Fast
+healing stops working when the healer is reduced to –10 hp or fewer.
+
+Lowered Damage Threshold (Ex): A healer’s massive damage threshold is equal to
+Con –3.
+
+Skills: Same as the character, with a +2 species bonus on any Treat Injury
+checks made to treat himself.
+
+Advancement: By character class.
+

@@ -1,0 +1,19 @@
+---
+title: Water Breathing
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX ](/modern.d20.srd/fx) > Water Breathing
+
+##  Water Breathing
+
+Transmutation
+
+[ Level ](/modern.d20.srd/fx/level) : [ Acolyte](/modern.d20.srd/classes/advanced/acolyte) 3, [ Mage](/modern.d20.srd/classes/advanced/mage) 3; [ Components](/modern.d20.srd/fx/components) : V, S, M/DF; [ Casting Time](/modern.d20.srd/fx/casting.time) ; [ Attack action](/modern.d20.srd/combat/attack.actions) [ Range ](/modern.d20.srd/fx/range) :
+Touch; [ Target ](/modern.d20.srd/fx/target) : Living creatures touched; [Duration ](/modern.d20.srd/fx/duration) : 2 hours/level (see text); [ Saving Throw ](/modern.d20.srd/basics/saving.throws) : Will negates (harmless); [Spell Resistance ](/modern.d20.srd/special.abilities/spell.resistance) : Yes
+(harmless)
+
+The transmuted creatures can breathe water freely. Divide the duration evenly
+among all the creatures touched. The spell does not make creatures unable to
+breathe air.
+

@@ -1,0 +1,24 @@
+---
+title: Laser Transceiver
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Comm Systems ](/future.d20.srd/starships/starship.comm) > Laser Transceiver
+
+##  Laser Transceiver (PL 6)
+
+This system uses a beam of coherent light to transmit messages. The laser is
+unidirectional; the signal cannot be intercepted or jammed unless it’s beamed
+directly at a hostile ship or station. However, if the comm officer doesn’t
+know exactly where the receiving station is, the laser transceiver is a waste
+of effort. This has some hidden drawbacks; a character cannot use the laser
+transceiver for a general distress call to all stations in the area, for
+example. A ship can’t receive laser communications unless it is equipped with
+the transceiver.
+
+Lasers are limited to the speed of light (8 AU/hour), meaning it can take
+hours or days to get a response within a system, or even weeks to get a
+response at interstellar distances.
+
+Purchase DC: 23.
+

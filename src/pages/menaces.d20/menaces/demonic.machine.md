@@ -1,0 +1,75 @@
+---
+title: Demonic Machine
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Demonic Machine
+
+##  Demonic Machine
+
+A demonic machine has the normal dimensions, weight, and appearance of its
+mundane counterpart, and to all outward appearances, it is a perfectly normal
+machine. Any sort of device that has sufficiently dangerous moving parts—a
+printing press, a farm combine, an industrial shredder, or the like—is an
+excellent candidate for fiendish possession.
+
+###  Species Traits
+
+Charm Person (Sp): Once per day, as a full-round action, the demonic machine
+can use charm person (manifester level 5th; save DC 8).
+
+Construct: A demonic machine has the traits and immunities common to
+constructs. Unlike most constructs, however, it has an Intelligence score
+supplied by the demonic force that animates it.
+
+Damage Reduction 10/+1 (Su): A demonic machine ignores the first 10 points of
+damage dealt by any nonmagical weapon. In campaigns without magic weapons, the
+GM can either disregard the demonic machine’s damage reduction or apply it
+only to certain types of weapons (ballistic, bludgeoning, piercing, slashing,
+or sonic/concussion).
+
+**Feats:** Though technically a construct, a demonic machine is animated by a
+fell presence from beyond Shadow. It gains feats as an outsider (1, plus 1
+feat per 4 HD beyond 1 HD).
+
+Grind (Ex): A demonic machine may make a grind attack (at its normal attack
+bonus) against a grappled creature, dealing double claw damage plus its
+Strength modifier.
+
+Improved Grab (Ex): To use this ability, the demonic machine must hit an
+opponent at least one size category smaller than itself with its claw attack.
+If it gets a hold, it automatically deals claw damage each round that the hold
+is maintained, and it can grind in the next round.
+
+Machine Possession: The animating force in a demonic machine is a demon from
+beyond Shadow. This creature can, at any time, choose to abandon one machine
+as a free action and possess another as an attack action.
+
+**Skills:** A demonic machine gains skills as if it were an outsider (8 + Int
+modifier per HD).
+
+Demonic Machine: CR 5; Large construct; HD 5d10+15; hp 42; Mas —; Init +3; Spd
+30 ft.; Defense 13, touch 8, flat-footed 13 (–1 size, –1 Dex, +5 natural); BAB
++3; Grap +12; Atk +7 melee (1d6+5, claw); Full Atk +7 melee (1d6+5, 2 claws);
+FS 10 ft. by 10 ft.; Reach 5 ft.; SQ construct, damage reduction 10/+1,
+improved grab, grind (2d6+5), machine possession; AL evil; SV Fort +1, Ref +0,
+Will +1; AP 0; Rep +0; Str 20, Dex 8, Con —, Int 10, Wis 10, Cha 5.
+
+**Skills:** Bluff +5, Listen +10, Sense Motive +8, Spot +10.
+
+**Feats:** Alertness, Improved Initiative.
+
+**Advancement:** 6–7 HD (Large); 8–15 HD (Huge).
+
+Advanced Demonic Machine (industrial shredder): CR 8; Huge construct; HD
+8d10+20; hp 64; Mas —; Init +1; Spd 30 ft.; Defense 14, touch 6, flat-footed
+14 (–2 size, –2 Dex, +8 natural); BAB +6; Grap +23; Atk +13 melee (2d4+9,
+claw); Full Atk +13 melee (2d4+9, 2 claws); FS 15 ft. by 15 ft.; Reach 10 ft.;
+SA improved grab, grind (4d4+9); SQ construct, damage reduction 10/+1,
+improved grab, grind, possession; AL evil; SV Fort +2, Ref +0, Will +2; AP 0;
+Rep +0; Str 28, Dex 6, Con —, Int 10, Wis 10, Cha 5.
+
+**Skills:** Bluff +11, Listen +16, Sense Motive +14, Spot +16.
+
+**Feats:** Alertness, Improved Initiative.
+

@@ -1,0 +1,416 @@
+---
+title: Vehicles
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Equipment ](/arcana.d20.srd/equipment) > Vehicles
+
+##  Vehicles
+
+Crew: The standard crew. In most cases, only one crewperson is needed to drive
+the vehicle; others serve as gunners or co-pilots.
+
+Passengers: The number of passengers the vehicle is designed to carry. This is
+in addition to the crew. Vehicles that carry passengers can use passenger
+space to carry additional cargo when passengers aren’t present. Each unused
+passenger slot allows the vehicle to carry an additional 250 pounds of cargo.
+Cargo Capacity: The amount of cargo the vehicle is designed to carry. Many
+vehicles can, in a pinch, carry extra passengers instead of cargo, but doing
+so is usually a cramped, uncomfortable, and often unsafe experience for those
+passengers. As a rule of thumb, one additional passenger can be carried for
+each 250 pounds of unused cargo capacity.
+
+Initiative: The modifier added to initiative rolls when driving the vehicle.
+
+Maneuver: The modifier added to any Drive or Pilot checks attempted with the
+vehicle.
+
+Max Speed: The maximum number of squares the vehicle can cover in a single
+round at character scale (with the number of squares at chase scale in
+parentheses).
+
+This is the fastest the vehicle can move.
+
+Defense: The vehicle’s Defense.
+
+Hardness: The vehicle’s hardness. Subtract this number from any weapon damage
+dealt to the vehicle.
+
+Hit Points: The vehicle’s maximum hit points.
+
+Size: The vehicle’s size category.
+
+Purchase DC: The purchase DC to buy the vehicle.
+
+Restriction: The restriction rating for the vehicle.
+
+
+<table> <tr> <th colspan="13"> Table: Vehicles </th> </tr> <tr> <th> Name </th> <th> Crew </th> <th> Pass </th> <th> Cargo (lb.) </th> <th> Init </th> <th> Maneuver </th> <th> Max Speed </th> <th> Armor Class </th> <th> Hardness </th> <th> Hit Points </th> <th> Size </th> <th> Purchase DC </th> <th> Restriction </th> </tr> <tr> <th colspan="13" style="text-align: left"> General Purpose Aircraft </th> </tr> <tr> <td> Ultralight </td> <td> 1 </td> <td> 1 </td> <td> 50 </td> <td> –4 </td> <td> –4 </td> <td> 28 (2) </td> <td> 9 </td> <td> 3 </td> <td> 10 </td> <td> L </td> <td> 21 </td> <td> Lic (+1) </td> </tr> <tr class="shaded"> <td> Maulle M-7-260C (seaplane) </td> <td> 2 </td> <td> 3 </td> <td> 900 </td> <td> –4 </td> <td> –4 </td> <td> 175 (17) </td> <td> 6 </td> <td> 5 </td> <td> 55 </td> <td> G </td> <td> 37 </td> <td> Lic (+1) </td> </tr> <tr> <th colspan="13" style="text-align: left"> General Purpose Bicycles </th> </tr> <tr> <td> Diamondback X-20 (mountain) </td> <td> 1 </td> <td> 0 </td> <td> 0 </td> <td> –1 </td> <td> +4 </td> <td> 40 (4) </td> <td> 11 </td> <td> 5 </td> <td> 6 </td> <td> S </td> <td> 14 </td> <td> — </td> </tr> <tr class="shaded"> <td> LeMond Victoire (racing bike) </td> <td> 1 </td> <td> 0 </td> <td> 0 </td> <td> –1 </td> <td> +4 </td> <td> 50 (5) </td> <td> 11 </td> <td> 5 </td> <td> 5 </td> <td> S </td> <td> 21 </td> <td> — </td> </tr> <tr> <td> Mongoose Fuzz Pro (BMX bike) </td> <td> 1 </td> <td> 0 </td> <td> 0 </td> <td> –1 </td> <td> +4 </td> <td> 30 (3) </td> <td> 11 </td> <td> 5 </td> <td> 5 </td> <td> S </td> <td> 13 </td> <td> — </td> </tr> <tr> <th colspan="13" style="text-align: left"> Civilian Cars </th> </tr> <tr> <td> 1967 Chevrolet Camaro (sports coupe) </td> <td> 1 </td> <td> 4 </td> <td> 250 </td> <td> –2 </td> <td> –1 </td> <td> 200 (20) </td> <td> 8 </td> <td> 5 </td> <td> 36 </td> <td> H </td> <td> 28 </td> <td> Lic (+1) </td> </tr> <tr class="shaded"> <td> Police cruiser </td> <td> 1 </td> <td> 4 </td> <td> 425 </td> <td> –2 </td> <td> 0 </td> <td> 190 (19) </td> <td> 8 </td> <td> 5 </td> <td> 34 </td> <td> H </td> <td> 30 </td> <td> Res (+2) </td> </tr> <tr> <td> Dodge Intrepid police interceptor (sports coupe) </td> <td> 1 </td> <td> 1 </td> <td> 200 </td> <td> –2 </td> <td> +1 </td> <td> 200 (20) </td> <td> 9 </td> <td> 5 </td> <td> 34 </td> <td> L </td> <td> 31 </td> <td> Res (+2) </td> </tr> <tr> <th colspan="13" style="text-align: left"> General Purpose Motorcycles </th> </tr> <tr> <td> Police motorcycle (street bike) </td> <td> 1 </td> <td> 0 </td> <td> 10 </td> <td> +1 </td> <td> +1 </td> <td> 290 (29) </td> <td> 9 </td> <td> 5 </td> <td> 22 </td> <td> L </td> <td> 27 </td> <td> Res (+2) </td> </tr> <tr class="shaded"> <td> Vespa ET4 (scooter) </td> <td> 1 </td> <td> 1 </td> <td> 0 </td> <td> –2 </td> <td> +3 </td> <td> 22 (2) </td> <td> 10 </td> <td> 5 </td> <td> 10 </td> <td> M </td> <td> 18 </td> <td> Lic (+1) </td> </tr> <tr> <td> Harley Davidson V-Rod (street bike) </td> <td> 1 </td> <td> 1 </td> <td> 0 </td> <td> +1 </td> <td> +1 </td> <td> 300 (30) </td> <td> 9 </td> <td> 5 </td> <td> 22 </td> <td> L </td> <td> 27 </td> <td> Lic (+1) </td> </tr> <tr> <th colspan="13" style="text-align: left"> General Purpose Trucks </th> </tr> <tr> <td> Jeep Wrangler (SUV) </td> <td> 1 </td> <td> 3 </td> <td> 800 </td> <td> –2 </td> <td> –2 </td> <td> 140 (14) </td> <td> 8 </td> <td> 5 </td> <td> 32 </td> <td> H </td> <td> 28 </td> <td> Lic (+1) </td> </tr> <tr class="shaded"> <td> Ford Econoline 150 (van) </td> <td> 1 </td> <td> 8 </td> <td> 4800 </td> <td> –2 </td> <td> –2 </td> <td> 195 (19) </td> <td> 8 </td> <td> 5 </td> <td> 34 </td> <td> H </td> <td> 29 </td> <td> Lic (+1) </td> </tr> <tr> <td> Peterbilt Model 379 (tractor trailer) </td> <td> 1 </td> <td> 1 </td> <td> 80,000* </td> <td> –4 </td> <td> –4 </td> <td> 130 (13) </td> <td> 6 </td> <td> 5 </td> <td> 85 </td> <td> G </td> <td> 33 </td> <td> Lic (+1) </td> </tr> <tr> <th colspan="13" style="text-align: left"> General Purpose Water Vehicles </th> </tr> <tr> <td> Tug boat </td> <td> 5 </td> <td> 5 </td> <td> 4000 tons </td> <td> –4 </td> <td> –4 </td> <td> 30 (3) </td> <td> 6 </td> <td> 5 </td> <td> 150 </td> <td> G </td> <td> 38 </td> <td> Lic (+1) </td> </tr> <tr class="shaded"> <td> Fishing trawler </td> <td> 9 </td> <td> 2 </td> <td> 100 tons </td> <td> –4 </td> <td> –4 </td> <td> 30 (3) </td> <td> 6 </td> <td> 5 </td> <td> 175 </td> <td> G </td> <td> 43 </td> <td> Lic (+1) </td> </tr> <tr> <td> Avanti 39 (cigarette boat) </td> <td> 1 </td> <td> 8 </td> <td> 300 </td> <td> +1 </td> <td> –2 </td> <td> 100 (10) </td> <td> 8 </td> <td> 5 </td> <td> 50 </td> <td> H </td> <td> 35 </td> <td> Lic (+1) </td> </tr> <tr> <th colspan="13" style="text-align: left"> Other General Purpose Vehicles </th> </tr> <tr> <td> Emergency aid vehicle </td> <td> 2 </td> <td> 2 </td> <td> 1000 </td> <td> –2 </td> <td> –2 </td> <td> 160 (16) </td> <td> 8 </td> <td> 5 </td> <td> 34 </td> <td> H </td> <td> 30 </td> <td> Res (+2) </td> </tr> <tr class="shaded"> <td> Fire truck </td> <td> 4 </td> <td> 2 </td> <td> 2500 </td> <td> –4 </td> <td> –4 </td> <td> 105 (10) </td> <td> 6 </td> <td> 5 </td> <td> 80 </td> <td> G </td> <td> 35 </td> <td> Res (+2) </td> </tr> <tr> <td> Police peacekeeper </td> <td> 3 </td> <td> 10 </td> <td> 250 </td> <td> –2 </td> <td> –2 </td> <td> 95 (10) </td> <td> 8 </td> <td> 10 </td> <td> 48 </td> <td> H </td> <td> 40 </td> <td> Res (+2) </td> </tr> <tr class="shaded"> <td> Tow truck </td> <td> 1 </td> <td> 1 </td> <td> 50,000* </td> <td> –2 </td> <td> –4 </td> <td> 130 (13) </td> <td> 6 </td> <td> 5 </td> <td> 39 </td> <td> G </td> <td> 31 </td> <td> Lic (+1) </td> </tr> <tr> <td colspan="13" style="text-align: left; font-size: .8em"> *Towing and/or hauling capacity </td> </tr> </table>
+
+
+###  General Purpose Aircraft
+
+There are many models of civilian aircraft—from single-engine propeller planes
+to jumbo jets. All use the Pilot skill to operate.
+
+**Maulle M-7-260C Seaplane**
+
+The Maulle M-7-260C seaplane has a fast cruise speed and low stall speed,
+making it ideal for water landings. With twin pontoons instead of wheels,
+landing a seaplane on anything but water would be disastrous. A seaplane is
+six squares wide and six squares long.
+
+###  Ultralight
+
+Ultralights are essentially powered hang gliders. An ultralight only requires
+100 feet or so to land and take off, depending on wind conditions. It is small
+enough to fit in the back of a pickup truck when disassembled. It takes 15
+minutes to disassemble an ultralight and 30 minutes to assemble it. An
+ultralight is two squares wide and two squares long. The vehicle is very
+fragile and provides no cover to its pilot.
+
+###  General Purpose Bicycles
+
+Bicycles are common in urban settings and have the main advantage of being
+able to skirt past traffic jams. See additional rules on operating a bicycle
+below.
+
+**Diamondback X-20 Mountain Bike**
+
+The Diamondback X-20 is a rugged mountain bike that works equally well on
+smooth streets or rough terrain. The rider suffers no additional penalties for
+taking the bike offroad. A mountain bike is one square wide and one square
+long.
+
+**LeMond Victoire Racing Bike**
+
+The LeMond Victoire is a top of the line, aerodynamic 10-speed bicycle
+designed for riding on streets and highways. A rider suffers a –4 penalty on
+Balance checks if they take the bike offroad. A racing bike is one square wide
+and one square long.
+
+**Mongoose Pro Fuzz BMX Bike**
+
+A typical BMX bike used for offroad trails and stunt riding. The rider suffers
+no additional penalties for going offroad with this bicycle. A BMX bike is one
+square wide and one square long.
+
+**Police Bicycle**
+
+A police bicycle is a mountain bike (usually black and emblazoned with
+“POLICE” on the side) that includes large saddlebags that hold a small amount
+of equipment: 6 zip-ties, 3 road flares, a multipurpose tool, a first-aid kit,
+and a flashlight. A police bicycle is one square wide and one square long.
+
+**Operating a Bicycle**
+
+Operating a bicycle uses the same rules as any other vehicle, but with a few
+special rules:
+
+  * Operating a bicycle uses the Balance skill instead of Drive, but is otherwise treated the same when using the Vehicle rules. 
+  * A bicycle can only reach a maximum of street speed and doing so requires a full-round action, unless going down a significant downward slope (GM’s discretion). The rider must use a full-round action to climb up a significant slope and can only move a maximum of alley speed on such an action. 
+  * After every hour of strenuous riding, the rider must make a Constitution check or become fatigued for 1d10 minutes per hour of riding. 
+  * It is a free action to get on or off a bicycle. 
+  * All attacks made from a bicycle suffer a –2 penalty. The rider cannot use any weapons that require both hands. 
+  * Bicycles are Small vehicles, granting a +1 bonus to Initiative, maneuver modifier, and Defense (the size modifier is already included in the vehicle statistics on Table: Vehicles.) 
+  * Bicycle tires have 2 hit points each. 
+
+###  General Purpose Cars
+
+Most new general purpose cars include such standard features as air
+conditioning, air bags, antilock brakes, cruise control, keyless entry, and
+AM/FM radio with CD player. Luxury vehicles also include extras like heated
+side mirrors, power seats, leather upholstery, and sunroofs. In general, these
+luxury amenities can be added to a non-luxury car with a +1 increase in the
+vehicle’s purchase DC.
+
+Unless otherwise noted, civilian cars provide three-quarters cover for their
+occupants (although passengers who lean out of windows or sunroofs, perhaps to
+fire weapons, may be reduced to one-half or even one-quarter cover).
+
+**1967 Chevrolet Camaro**
+
+A good example of a “muscle car,” a 1967 Chevy Camaro has a 350 cubic inch V8
+engine that produces 295 horsepower. This does not include additional upgrades
+such as turbocharging and racing tires. A Camaro is two squares wide and four
+squares long.
+
+**Police Cruiser**
+
+This version is based on the Ford Crown Victoria, with a strengthened chassis
+and improved engine. It is the typical police vehicle found in cities and
+other urban areas. The police cruiser is two squares wide and four squares
+long.
+
+**Dodge Intrepid Police Interceptor**
+
+With faster sports cars on the streets, the police occasionally need faster
+cars to catch them. Only the largest and best-funded police departments can
+afford this vehicle. It contains the same equipment as a regular police
+cruiser. Police interceptors are two squares wide and four squares long.
+
+**General Purpose Trucks**
+
+Trucks include pickups, sport-utility vehicles, vans and minivans. They
+generally have the same range of features as civilian cars. Like cars, trucks
+generally provide three-quarters cover to their occupants. The rear beds of
+pickup trucks, however, provide only one-half cover.
+
+**Ford Econoline 150**
+
+A typical full-sized van used for hauling cargo or passengers, the Ford
+Econoline 150 comes with two conventional doors up front, sliding doors on the
+side, and a rear hatch-style door. It is two squares wide and four squares
+long.
+
+**Jeep Wrangler**
+
+The Wrangler is a small truck designed for serious off-roading. It sports
+oversized tires, a roll bar, and heavy-duty shock absorbers. It’s not fast,
+but can get through difficult terrain much better than a normal car. A
+Wrangler is two squares wide and three squares long.
+
+**Peterbilt 379**
+
+The cab of this 18-wheeler has the classic long nose of most big rigs. It is
+spacious, powerful, and comfortable. This model includes a sleeper space
+immediately behind the cab, giving the driver a home away from home. The
+Peterbilt 379 also carries a basic mechanical tool kit, a CB radio
+(essentially a professional walkie-talkie with twice the usual range), and a
+GPS receiver. The vehicle is two squares wide and fourteen squares long,
+including a full-sized trailer. The cab alone is five squares long. The cab
+provides three-quarters cover to its occupants, and being in the trailer
+provides full cover.
+
+**Tow Truck**
+
+A tow truck is a large diesel-powered vehicle with a professional grade tow
+bar/winch used for hauling inoperative cars. It takes 2d10 minutes to hook up
+a car with the tow bar—a successful Repair check (DC 10) can halve the time.
+Most tow trucks also carry a basic mechanical tool kit, CB radio, and one-
+gallon gas can. A tow truck is two squares wide and four squares long.
+
+###  General Purpose Motorcycles
+
+Unlike getting into a car, mounting a motorcycle is a free action. Motorcycles
+tend to perform better than automobiles, but they provide no cover to their
+occupants.
+
+**V-Rod**
+
+The V-Rod combines the aesthetics of a traditional Harley with the engine of a
+racing bike. Using a liquid-cooled engine that kicks out 115 horsepower, this
+monster combines the “biker” mystique with the speed of a racing bike. The
+V-Rod is one square wide by two squares long.
+
+**Police Motorcycle**
+
+Most police departments use Harley-Davidson motorcycles, specially altered to
+suit the department’s needs and painted to look obvious. It has a professional
+CB radio, siren, bubble lights, and a powerful 1450 cc engine. It has two
+large saddlebags that contain the following items: 6 zip-ties, 3 road flares,
+a multipurpose tool, a first-aid kit, and a flashlight. A police motorcycle is
+one square wide by two squares long.
+
+**Vespa ET4**
+
+A compromise between a bicycle and a motorcycle, scooters are useful for
+getting through clogged city streets. Because they only have small, single-
+cylinder engines, scooters are not allowed on highways. A scooter is one
+square wide and one square long.
+
+###  General Purpose Water Vehicles
+
+Piloting a water vehicle is covered by the Drive skill. Because of their size,
+most large boats are more likely to be used as places to stage an adventure
+rather than as a vehicle to get around.
+
+**Avanti 39 Cigarette Boat**
+
+Long and sleek, this expensive and high-powered boat is designed to move fast
+and look good. It is commonly used for smuggling cargo between ports that are
+not likely to stop something that obviously belongs to an “upstanding
+citizen.” A cigarette boat is two squares wide and eight squares long.
+
+**Fishing Trawler**
+
+Fishing trawlers are found around commercial fishing ports. They are huge
+boats with most of their space dedicated to equipment that harvests and stores
+fish. They are slow, but handle well in rough water (+2 bonus on Drive checks
+in rough seas). A fishing boat is four squares wide and sixteen squares long.
+
+**Tug Boat**
+
+Common around ports, tug boats help guide larger vessels to and from the
+docks. They are slow but incredibly powerful, being able to nudge huge ships
+with their oversized and overtorqued engines. A tug boat is four squares wide
+and eighteen squares long.
+
+###  Other Vehicles
+
+A few types of vehicles don’t fit neatly into the categories covered above.
+Many of these (like the emergency aid vehicle and urban assault vehicle) are
+usually custom built, so the model name isn’t specified as it is with most
+other vehicles. The description and statistics reflect a typical design.
+
+**Emergency Aid Vehicle**
+
+When someone needs medical attention, this is what shows up. It contains a
+large amount of medical and emergency rescue supplies. An emergency aid
+vehicle is two squares wide and four squares long.
+
+**Fire Truck**
+
+There are technically two types of fire trucks—pumpers, which have large water
+tanks, and ladder trucks, which mount enormous ladders for getting
+firefighters up high. A fire truck is two squares wide and six squares long.
+
+**Police Peacekeeper**
+
+When mobs are rioting in the streets, some police departments roll out these
+armored personnel carriers to help quell violence. In addition to their size
+and intimidating appearance, police APCs mount a water cannon, loudspeaker,
+and grenade launcher that fires tear gas rounds. The police peacekeeper is
+crewed by a driver, a “gunner” (for the water cannon), and a commander. It has
+three top hatches, one above each crew position, and a large door in back for
+police to load or disembark. It takes one full-round action to enter an APC
+through a top hatch, and another full-round action to start it moving. Police
+armored personnel carriers are two squares wide and four squares long.
+
+**What a Police Officer Carries**
+
+Police and other law-enforcement officers carry a large amount of equipment
+with them at all times. Here is a sample list of the typical equipment carried
+by a uniformed police officer, excluding items that are normally carried
+inside the police cruiser or during special situations, such as a raid or SWAT
+action.
+
+  * Glock 17 (plus 2 extra clips of ammunition) 
+  * Undercover vest 
+  * Flashlight (can be used as a club) 
+  * Handcuffs, steel 
+  * Zip-ties (6) 
+  * Walkie-talkie (professional) 
+  * Cell phone 
+  * Pepper spray canister 
+  * Metal baton and/or tonfa 
+  * Multitool 
+  * Latex gloves (12) 
+  * Citation book 
+
+**What is Inside a Police Cruiser**
+
+Police vehicles vary in terms of what equipment they carry, depending on
+whether they belong to state, county, or city precincts. Despite this, there
+is enough similarity to assume that the following equipment could be found in
+any police cruiser.
+
+The following items are located in the front passenger compartment of the
+vehicle:
+
+  * Mossberg shotgun (including box of ammunition with 12 rounds; Disable Device check DC 20 to open the lock) 
+  * Patrol box 
+  * CB radio (professional) 
+  * Maps (road atlas) 
+  * GPS receiver 
+  * Searchlight (as battery flood flashlight but double the range; mounted to vehicle) 
+  * Pepper spray canister 
+  * Baton (use club) or tonfa 
+  * Flashlight (standard and 12 chemical light sticks) 
+  * Taser (50% chance) 
+
+The following equipment is typically located in the trunk of the vehicle
+(Disable Device check DC 15 to open the lock):
+
+  * First-aid kit 
+  * Basic evidence kit 
+  * Basic toolkit (including duct tape, boltcutters, and multipurpose tool) 
+  * Handcuffs and plastic zip ties 
+  * Blankets 
+  * Food (the equivalent of 2 days trail rations) 
+  * 12 road flares 
+  * Traffic cones 
+  * Gas siphon 
+  * Crime scene tape 
+  * Portable fire extinguisher 
+  * Trauma kit (50% chance) 
+  * 4 tear gas canisters (50% chance) 
+  * Spike strip (50% chance) 
+
+**What is in an Emergency Aid Vehicle**
+
+Obviously, aid vehicles are loaded with a huge variety of medical equipment.
+Instead of listing every single item, assume that the following “kits” can be
+assembled from the gear carried inside.
+
+  * 1 crash cart 
+  * 4 trauma kits 
+  * 6 first-aid kits 
+  * 1 basic evidence kit 
+
+In addition, aid vehicles contain a large number of non-medical equipment,
+allowing them to provide assistance under almost any circumstance.
+
+  * CB radio (as professional walkie-talkie with twice the range) 
+  * GPS receiver 
+  * Maps (road atlas) 
+  * Flashlights (2 standard, 4 penlights, 1 battery flood) 
+  * Cellular phone 
+  * Basic mechanical tool kit (including duct tape, boltcutters, multipurpose tool) 
+  * Rope (50 feet) 
+  * Blankets 
+  * Physical restraints (equivalent to handcuffs) 
+  * Sand bags (for stabilization) 
+  * Wood blocks (for setting tires) 
+  * Searchlight (as a battery flood flashlight, but twice the range; mounted on vehicle) 
+  * Winch and cable 
+  * Hydraulic compressor (50% chance; mounted on outside of vehicle) 
+  * Jaws of life (only if there is a hydraulic compressor) 
+  * Metal cutting saw (only if there is a hydraulic compressor) 
+  * Tire chains (+2 bonus on Drive checks on icy surfaces) 
+
+**What is Inside a Fire Truck**
+
+Fire trucks are enormous vehicles that carry a tremendous amount of
+firefighting, medical, and search and rescue equipment. Obviously, most of the
+space is dedicated to the operation of the fire hoses. The following items can
+be found in the front cab of a fire truck:
+
+  * CB radio (equivalent to professional walkie-talkie with double the range). 
+  * GPS receiver 
+  * Searchlight (mounted to vehicle) 
+  * 4 walkie-talkies (professional) with charger 
+  * Maps (road atlas) 
+  * Instant camera and extra film 
+  * Binoculars 
+  * Shovels, brooms, and steel rake 
+  * 2 battery powered floodlights 
+
+The following items are located in various storage panels on the sides and
+rear of the fire truck. Some of these items have been condensed into kits:
+
+  * 1 crash kit 
+  * 2 trauma kits 
+  * 3 first-aid kits 
+  * 1 basic evidence kit 
+  * Hose and pipe fittings 
+  * Flashlights (3 battery flood, 3 regular) 
+  * Basic mechanical tool kit (including duct tape, boltcutters, multipurpose tool) 
+  * Long tools (shovels, rakes, brooms, wrenches, pry bar, fire axe, sledgehammer) 
+  * Hand-held fire extinguishers (pressure water, dry chemical, C02, halon) 
+  * Rope (100 feet) 
+  * 2 searchlights (mounted on sides of the vehicle) 
+  * Submersible water pump 
+  * Tarps 
+  * 2 chainsaws 
+
+The following equipment is located in the hose bed and open top compartment of
+a fire truck:
+
+  * Fire hoses (100+ feet) 
+  * Hose fittings and couplings 
+  * 5 gallon can of gasoline 
+  * 2 15-foot ladders 
+  * Gas-powered circular saw 
+  * Gas-powered electrical generator and cables 
+

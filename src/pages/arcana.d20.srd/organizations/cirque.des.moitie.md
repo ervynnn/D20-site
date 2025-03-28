@@ -1,0 +1,69 @@
+---
+title: Cirque Des Moitié
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Organizations](/arcana.d20.srd/organizations) > Cirque Des Moitié
+
+## Cirque Des Moitié
+
+One of the most difficult questions facing intelligent creatures who find
+themselves suddenly living on our side of Shadow is how to support themselves.
+Many of the skills and abilities that were highly prized in their former lives
+have no application (no legal application, that is) in the mundane world.
+Some, however, find their natural talents have unexpected outlets.
+
+Such is the case with the members of Cirque des Moitié, a collection of
+halflings who have formed a troupe of acrobats and clowns that mundane crowds
+know as “the Greatest Little Show on Earth.” Cirque has become world famous
+for precision acrobatics, sets and music that are often described as
+“otherworldly,” and routines so spectacular that crowds swear they must be
+magical. Of course, the truth of the matter is that they are magical. The
+troupe builds their shows using not only the halflings’ natural agility but
+knowledge of arcane and divine magic, too. They also employ a number of gnomes
+to design and build sets, and a few dwarves to do strength- and stamina- based
+acts. Occasionally they will also hire on members of other, taller races to
+play specific roles, but in general they try to make sure that their
+performers are of small stature.
+
+Among Shadowkind, Cirque des Moitié is considered one of the greatest success
+stories of adapting to the mundane world. Elves, half-orcs, and other races do
+not find the acts awesome in the way mundane crowds do, but they still come to
+the show in droves simply to celebrate the halflings’ success.
+
+Cirque des Moitié constantly travels the globe. This makes it a difficult
+organization for heroes to belong to (unless they can squeeze their adventures
+in between the two-shows nightly schedule). Other than that there is no reason
+that any hero of size small or lower (with high Dexterity and Charisma scores)
+couldn’t join the Cirque. And, in fact, the troupe does employ larger,
+stronger races to work on the stage crew.
+
+The performers of Cirque des Moitié spend a great deal of time developing both
+their physical prowess and their acting abilities. The troupe has a training
+regimen that they guard as closely as warrior monks guard their secret martial
+techniques. Members of this organization may use the following feats to fill
+any open feat slots.
+
+**Cirque Acrobate**
+
+Prerequisite: Dexterity 16, Acrobatic, Cirque Contrôleur, Balance 6 ranks,
+Tumble 9 ranks.
+
+Benefit: You gain a +2 competence bonus on Disguise, Perform (dance), and
+Sleight of Hand checks.
+
+**Cirque Contrôleur**
+
+Prerequisite: Dexterity 15, Acrobatic, Balance 6 ranks.
+
+Benefit: You gain a +2 competence bonus on Move Silently, Perform (act), and
+Tumble checks.
+
+**Cirque Vedette**
+
+Prerequisite: Dexterity 18, Acrobatic, Cirque Acrobate, Cirque Contrôleur,
+Balance 6 ranks, Tumble 9 ranks, Disguise 12 ranks.
+
+Benefit: You gain a +4 competence bonus on Balance, Escape Artist, Move
+Silently, Sleight of Hand, and Tumble checks.
+

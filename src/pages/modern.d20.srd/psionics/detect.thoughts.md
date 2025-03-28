@@ -1,0 +1,33 @@
+---
+title: Detect Thoughts
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Psionics ](/modern.d20.srd/psionics) > Detect Thoughts
+
+##  Detect Thoughts
+
+[ Charisma ](/modern.d20.srd/basics/ability.scores) [Mind-Affecting]
+
+Level: [ Telepath ](/modern.d20.srd/classes/advanced/telepath) 2; Display
+Visual, Mental; Manifestation Time: Attack action; Range: 60 ft; Area:
+Quarter-circle emanating from you to the extreme of the range; Duration:
+Concentration, up to 1 minute/level (D); [ Saving Throw](/modern.d20.srd/basics/saving.throws) : Will negates (see text); [ Power Resistance ](/modern.d20.srd/special.abilities/power.resistance) : No; Power
+Point Cost: 3
+
+The manifester detects surface thoughts. The amount of information revealed
+depends on how long the manifester studies a particular area or subject.
+
+1st Round: Presence or absence of thoughts (from conscious creatures with [Intelligence ](/modern.d20.srd/basics/ability.scores) scores of 1 or higher).
+
+2nd Round: Number of thinking minds and the mental strength of each.
+
+3rd Round: Surface thoughts of any mind in the area. A target’s [ Will save](/modern.d20.srd/basics/saving.throws) prevents the manifester from reading
+its thoughts, and the manifester must manifest detect thoughts again to have
+another chance. Creatures of animal [ Intelligence](/modern.d20.srd/basics/ability.scores) have simple, instinctual thoughts
+that the manifester can pick up.
+
+Each round, the manifester can turn to detect thoughts in a new area. The
+power can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a
+thin sheet of lead, or 3 feet of wood or dirt blocks it.
+

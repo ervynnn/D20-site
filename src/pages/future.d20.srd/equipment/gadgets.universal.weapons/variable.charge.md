@@ -1,0 +1,24 @@
+---
+title: Variable Charge
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Weapon Gadgets ](/future.d20.srd/equipment/gadgets.universal.weapons) > Variable Charge
+
+##  Variable Charge
+
+As with the stun module gadget, the variable charge gadget takes advantage of
+an energy weapon’s ability to modify the damage caused by its own shots. This
+gadget gives the user the ability to “power up” his or her shots by focusing
+more energy into a single blast. A weapon with the variable charge gadget may
+be primed as an attack action, increasing the damage of its next shot by +1
+die. For example, a weapon that normally deals 2d6 points of damage deals 3d6
+points of damage after being primed for one round. A weapon may be primed for
+up to three rounds. If primed for more than three rounds, it becomes unstable;
+on the fourth round the weapon must be fired or else it explodes and deals the
+fully charged damage (normal weapon damage, +4 dice) to the user. When this
+occurs, the weapon is completely destroyed.
+
+**Restrictions** : Ranged energy weapons only.  
+**Purchase DC Modifier** : +6.
+

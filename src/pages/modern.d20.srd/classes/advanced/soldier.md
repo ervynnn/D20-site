@@ -1,0 +1,113 @@
+---
+title: Soldier
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Classes](/modern.d20.srd/classes) > [Advanced Classes](/modern.d20.srd/classes/advanced) > Soldier
+
+## Soldier
+
+### Requirements
+
+To qualify to become a Soldier, a character must fulfill the following
+criteria.
+
+Base Attack Bonus: +3.
+
+Skill: Knowledge (tactics) 3 ranks.
+
+Feat: Personal Firearms Proficiency.
+
+### Class Information
+
+Hit Die: 1d10
+
+Action Points: 6 + one-half character level, rounded down, every time the
+character attains a new level in this class.
+
+### Class Skills
+
+The Soldier’s class skills (and the key ability for each skill) are:
+Demolitions [(Int)](/modern.d20.srd/basics/ability.scores), Drive
+[(Dex)](/modern.d20.srd/basics/ability.scores), Intimidate
+[(Cha)](/modern.d20.srd/basics/ability.scores), Jump
+[(Str)](/modern.d20.srd/basics/ability.scores), Knowledge (current events,
+history, popular culture, tactics)
+[(Int)](/modern.d20.srd/basics/ability.scores), Listen
+[(Wis)](/modern.d20.srd/basics/ability.scores), Navigate
+[(Int)](/modern.d20.srd/basics/ability.scores), Profession
+[(Wis)](/modern.d20.srd/basics/ability.scores), Read/Write Language (none),
+Speak Language (none), Spot [(Wis)](/modern.d20.srd/basics/ability.scores),
+Survival [(Wis)](/modern.d20.srd/basics/ability.scores), Swim
+[(Str)](/modern.d20.srd/basics/ability.scores).
+
+Skill Points at Each Level: 5 + Int modifier.
+
+
+<table> <tr><th colspan="8">Table: The Soldier</th> </tr> <tr> <th>Class Level</th><th>Base Attack Bonus</th><th>Fort Save</th><th>Ref Save</th><th>Will Save</th><th>Class Features</th><th>Defense Bonus</th><th>Reputation Bonus</th> </tr><tr><td>1st</td><td>+0</td><td>+1</td><td>+1</td><td>+0</td><td>Weapon Focus</td><td>+1</td><td>+0</td></tr> <tr class="shaded"><td>2nd</td><td>+1</td><td>+2</td><td>+2</td><td>+0</td><td>Weapon specialization</td><td>+1</td><td>+0</td></tr> <tr><td>3rd</td><td>+2</td><td>+2</td><td>+2</td><td>+1</td><td>Bonus feat</td><td>+2</td><td>+0</td></tr> <tr class="shaded"><td>4th</td><td>+3</td><td>+2</td><td>+2</td><td>+1</td><td>Tactical aid</td><td>+2</td><td>+0</td></tr> <tr><td>5th</td><td>+3</td><td>+3</td><td>+3</td><td>+1</td><td>Improved critical</td><td>+3</td><td>+1</td></tr> <tr class="shaded"><td>6th</td><td>+4</td><td>+3</td><td>+3</td><td>+2</td><td>Bonus feat</td><td>+3</td><td>+1</td></tr> <tr><td>7th</td><td>+5</td><td>+4</td><td>+4</td><td>+2</td><td>Improved reaction</td><td>+4</td><td>+1</td></tr> <tr class="shaded"><td>8th</td><td>+6</td><td>+4</td><td>+4</td><td>+2</td><td>Greater weapon specialization</td><td>+4</td><td>+1</td></tr> <tr><td>9th</td><td>+6</td><td>+4</td><td>+4</td><td>+3</td><td>Bonus feat</td><td>+5</td><td>+2</td></tr> <tr class="shaded"><td>10th</td><td>+7</td><td>+5</td><td>+5</td><td>+3</td><td>Critical strike</td><td>+5</td><td>+2</td></tr> </table>
+
+
+### Class Features
+
+The following features pertain to the Soldier advanced class.
+
+### Weapon Focus
+
+At 1st level, a Soldier gains the Weapon Focus class feature, providing the
+benefit of the feat with the same name. The Soldier chooses a specific weapon.
+The soldier can choose unarmed strike or grapple as the weapon. The soldier
+must be proficient with the chosen weapon.
+
+The soldier adds +1 to all attack rolls made using the selected weapon.
+
+### Weapon Specialization
+
+At 2nd level, a Soldier gains weapon specialization with a specific melee or
+ranged weapon that he or she also has applied the Weapon Focus feat or class
+feature to. The soldier gets a +2 bonus on damage rolls with the chosen
+weapon.
+
+### Bonus Feats
+
+At 3rd, 6th, and 9th level, the Soldier gets a bonus feat. The bonus feat must
+be selected from the following list, and the Soldier must meet all the
+prerequisites of the feat to select it.
+
+Advanced Firearms Proficiency, Archaic Weapons Proficiency, Armor Proficiency
+(light), Armor Proficiency (medium), Armor Proficiency (heavy), Brawl, Burst
+Fire, Cleave, Combat Reflexes, Exotic Firearms Proficiency, Exotic Melee
+Weapon Proficiency, Far Shot, Great Cleave, Im­proved Brawl, Improved Knockout
+Punch, Knockout Punch, Power Attack.
+
+### Tactical Aid
+
+As a full-round action, the Soldier provides tactical aid to all of his allies
+(including himself) within sight and voice range of his position. This use of
+tactical aid requires an action point.
+
+This aid provides a +1 competence bonus on attack rolls. The bonus lasts for a
+number of rounds equal to one-half of the Soldier’s level in the advanced
+class, rounded down.
+
+### Improved Critical
+
+For the weapon the Soldier has applied weapon specialization to the Soldier’s
+threat range increases by one.
+
+### Improved Reaction
+
+At 7th level, a Soldier gains a +2 competence bonus on initiative checks.
+
+### Greater Weapon Specialization
+
+At 8th level, a Soldier gains greater weapon specialization with the weapon he
+or she selected at 2nd level. This ability increases the bonus on damage rolls
+to +4 when using the selected weapon.
+
+### Critical Strike
+
+At 10th level, a Soldier gains the ability to automatically confirm a threat
+as a critical hit when attacking with the weapon he or she has applied weapon
+specialization to, eliminating the need to make a roll to confirm the critical
+hit.
+

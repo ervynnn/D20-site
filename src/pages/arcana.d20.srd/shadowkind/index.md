@@ -1,0 +1,57 @@
+---
+title: Shadowkind
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > Shadowkind
+
+## Shadowkind
+
+Most characters who are not native to the mundane world hail from a place
+beyond Shadow, and they are known to “mundanes” as Shadowkind.
+
+You can also play characters native to Earth who are the offspring or
+descendants of Shadowkind.
+
+Characters who enter our world through Shadow have no way of returning home
+and are forced to adapt to their new environment. Moreover, they retain only a
+few hazy memories of the place from whence they came.
+
+### Playing a Shadowkind
+
+Shadowkind characters share several traits, as noted below.
+
+[Creature of Shadow](/arcana.d20.srd/shadowkind/creature.of.shadow)  
+[Skill Points Per Level](/arcana.d20.srd/shadowkind/skill.points.per.level)  
+[Native Shadowkind vs. New Arrivals](/arcana.d20.srd/shadowkind/native.shadowkind.vs.new.arrivals)  
+[Starting Occupation](/arcana.d20.srd/shadowkind/starting.occupation)  
+[Starting Wealth Bonus](/arcana.d20.srd/shadowkind/starting.wealth.bonus)  
+[Languages Known](/arcana.d20.srd/shadowkind/languages.known)
+
+### | [Shadowkind Species](/arcana.d20.srd/shadowkind/shadowkind.species) | [Small Characters](/arcana.d20.srd/shadowkind/small.characters) |
+|---|---|
+| [Dwarf](/arcana.d20.srd/shadowkind/dwarf) | [Elf](/arcana.d20.srd/shadowkind/elf) |
+| [Gnome](/arcana.d20.srd/shadowkind/gnome) | [Goblin](/arcana.d20.srd/shadowkind/goblin) |
+| [Half-Elf](/arcana.d20.srd/shadowkind/half.elf) | [Half-Orc](/arcana.d20.srd/shadowkind/half.orc) |
+| [Halfling](/arcana.d20.srd/shadowkind/halfling) | [Orc](/arcana.d20.srd/shadowkind/orc) |
+| [Shadowkind Human](/arcana.d20.srd/shadowkind/shadowkind.human) |
+### More Powerful Shadowkind
+
+Level Adjustment and Challenge Rating  
+Experience
+
+[Aasimar](/arcana.d20.srd/shadowkind/aasimar)  
+[Bugbear](/arcana.d20.srd/shadowkind/bugbear)  
+[Dragonblooded Human](/arcana.d20.srd/shadowkind/dragonblooded.human)  
+[Drow (Dark Elf)](/arcana.d20.srd/shadowkind/drow.dark.elf)  
+[Gnoll](/arcana.d20.srd/shadowkind/gnoll)  
+[Half-Dragon](/arcana.d20.srd/shadowkind/half.dragon)  
+[Half-Ogre](/arcana.d20.srd/shadowkind/half.ogre)  
+[Tiefling](/arcana.d20.srd/shadowkind/tiefling)
+
+### [Large Characters](/arcana.d20.srd/shadowkind/large.characters)
+
+[Ogre](/arcana.d20.srd/shadowkind/ogre)
+
+[Languages of Shadow](/arcana.d20.srd/shadowkind/languages.of.shadow)
+

@@ -1,0 +1,55 @@
+---
+title: Lizard
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Lizard
+
+##  Lizard
+
+###  Species Traits
+
+Lizards have the following traits:
+
+Poison (Ex): Some species of giant lizard have a poisonous bite. Bite:
+Fortitude save (DC 14); initial and secondary 1d3 Strength damage.
+
+Low-Light Vision (Ex): Lizards can see twice as far as a human in starlight,
+moonlight, torchlight, and similar conditions of poor illumination. They
+retain the ability to distinguish color and detail under these conditions.
+
+Skill Bonuses: Lizards use their Dexterity modifier for Climb checks. They
+gain a +8 species bonus on Balance checks and a +4 species bonus on Hide and
+Move Silently checks. In wooded or overgrown areas, the species bonus on Hide
+checks improves to +8.
+
+Bonus Feat: Lizards gain the bonus feat Weapon Finesse (bite).
+
+Lizard: CR 1/6; Tiny animal; HD 1/2 d8; hp 2; Mas 10; Init +2; Spd 20 ft.,
+climb 20 ft.; Defense 14, touch 14, flat-footed 12 (+2 size, +2 Dex); BAB +0;
+Grap –12; Atk +4 melee (1d3–4, bite); Full Atk +4 melee (1d3–4, bite); FS 2
+1/2 ft. by 2 1/2 ft.; Reach 0 ft.; SQ low-light vision; AL none; SV Fort +2,
+Ref +4, Will +1; AP 0; Rep +0; Str 3, Dex 15, Con 10, Int 2, Wis 12, Cha 2.
+
+Skills: Balance +10, Climb +6, Hide +14 (+18 in wooded or overgrown areas),
+Listen +5, Move Silently +6, Spot +5.
+
+Feats: Weapon Finesse (bite).
+
+Advancement: None.
+
+Giant Lizard: CR 2; Medium animal; HD 3d8+9; hp 22; Mas 17; Init +2; Spd 30
+ft., climb 30 ft., swim 30 ft.; Defense 15, touch 12, flat-footed 13 (+2 Dex,
++3 natural); BAB +2; Grap +5; Atk +5 melee (1d8+4, bite); Full Atk +5 melee
+(1d8+4, bite); FS 5 ft. by 5 ft.; Reach 5 ft.; SQ Poison, low-light vision; AL
+none; SV Fort +6, Ref +5, Will +2; AP 0; Rep +0; Str 17, Dex 15, Con 17, Int
+2, Wis 12, Cha 2.
+
+Skills: Balance +10, Climb +13, Hide +6 (+10 in wooded or overgrown areas),
+Listen +5, Move Silently +6, Spot +5, Swim +11.
+
+Feats: None.
+
+Advancement: 4–5 HD (Medium); 6–18 HD (Large); 19–32 HD (Huge); 33–45 HD
+(Gargantuan).
+

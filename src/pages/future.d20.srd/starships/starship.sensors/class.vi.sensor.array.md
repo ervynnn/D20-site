@@ -1,0 +1,29 @@
+---
+title: Class VI Sensor Array
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Sensors](/future.d20.srd/starships/starship) > Class VI Sensor Array
+
+## Class VI Sensor Array (PL 8)
+
+This array includes hi-res video, electromagnetic sensors, spectroanalyzers,
+multiphase radar, and mass detectors.
+
+As a move action, a Class VI sensor array can perform any one of the following
+functions with a successful Computer Use check (DC 15):
+
+  * Ascertain the location, type (ultralight, light, and so on), subtype (fighter, destroyer, and so on), and mass of all ships on the battlefield.
+  * Identify and ascertain the location of all hazards on the battlefield (such as asteroids and mines).
+  * Determine a specific ship’s PL 5, PL 6, PL 7, and PL 8 design specs (engines, defensive systems, sensor systems, communication systems, and weapons, including fire-linked weapons and batteries).
+  * Detect the presence and location of ships and mines using active cloaking screens (targets still gain the benefits of total concealment).
+  * Determine the number and type of life forms aboard a specific ship (“type” refers to the creature type).
+  * Analyze the chemical composition of a planet’s atmosphere (the ship must be orbiting the planet).
+  * Determine the number and type of life forms within a 4,000-square mile region on a planet’s surface (the ship must be orbiting the planet, and “type” refers to the creature type).
+  * Analyze and chart the topography of a 4,000-square-mile area on a planet’s surface (the ship must be orbiting the planet).
+  * Determine a planet’s prevailing meteorological conditions and weather patterns (the ship must be orbiting the planet).
+
+Purchase DC: 39.
+
+Restriction: None.
+

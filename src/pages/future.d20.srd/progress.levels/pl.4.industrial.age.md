@@ -1,0 +1,28 @@
+---
+title: PL 0: Stone Age
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Progress Levels](/future.d20.srd/progress) > PL 0: Stone Age
+
+## PL 4: Industrial Age
+
+In the fourth Progress Level, the theoretical knowledge of the previous era
+matures into widespread practical application. The harnessing of hydraulic,
+steam, and electric power creates an explosion of commerce and industry.
+Developments such as the telegraph, the telephone, and the radio make true
+global communication possible. Breakthroughs in manufacturing techniques allow
+the construction of heavy ironclad vessels, rail transportation, and
+architecture of previously unimaginable size. Pioneers venture high into the
+atmosphere and descend into the sea’s depths.
+
+Urbanization is complete as individuals gather in smaller environments where
+they can more easily exchange goods and information. Corporations expand in
+power, many establishing themselves throughout the explored world. Governments
+are based on political and economic factors.
+
+The means of war change swiftly through the period. Aircraft and submersibles
+join the list of military assets. Reliable and accurate rifles, pistols, and
+machine guns become common. Mechanized war machines herald the first great
+change in the art of battle since the end of the knight.
+

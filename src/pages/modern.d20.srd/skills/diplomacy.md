@@ -1,0 +1,78 @@
+---
+title: Diplomacy
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Diplomacy
+
+## Diplomacy ([Cha](/modern.d20.srd/basics/ability.scores))
+
+[Check](/modern.d20.srd/skills/skill.basics.php#skill): A character can change
+others’ attitudes with a successful
+[check](/modern.d20.srd/skills/skill.basics.php#skill) (see the table below.
+In negotiations, participants roll opposed Diplomacy
+[checks](/modern.d20.srd/skills/skill.basics.php#skill) to see who gains the
+advantage. Opposed [checks](/modern.d20.srd/wealth/wealth.check) also resolve
+cases where two advocates or diplomats plead opposing cases before a third
+party.
+
+Diplomacy can be used to influence a GM character’s attitude. The GM chooses
+the character’s initial attitude based on circumstances. Most of the time, the
+people the heroes meet are indifferent toward them, but a specific situation
+may call for a different initial attitude. The DCs given in the accompanying
+table show what it takes to change someone’s attitude with the use of the
+Diplomacy skill. The character doesn’t declare a specific outcome he or she is
+trying for; instead, make the
+[check](/modern.d20.srd/skills/skill.basics.php#skill) and compare the result
+to the table on the next page.
+
+Try Again?: Generally, trying again doesn’t work. Even if the initial check
+succeeds, the other character can only be persuaded so far. If the initial
+check fails, the other character has probably become more firmly committed to
+his or her position, and trying again is futile.
+
+Special: A character can [take 10](/modern.d20.srd/skills/skill.basics.php#take10) when making a Diplomacy
+check, but can’t [take 20](/modern.d20.srd/skills/skill.basics.php#take20).
+
+A character with the [Trustworthy](/modern.d20.srd/feats/trustworthy) feat
+gets a +2 bonus on all Diplomacy
+[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+
+Time: Diplomacy is at least a [full-round action](/modern.d20.srd/combat/full.round.actions). The GM may determine that
+some negotiations require a longer period of time.
+
+
+<table> <tr><th> Attitude</th><th> Means</th><th> Possible Actions </th></tr> <tr><td> Hostile</td><td> Will take risks to hurt or avoid you</td><td> Attack, interfere, berate, flee </td></tr> <tr class="shaded"><td> Unfriendly</td><td> Wishes you ill</td><td> Mislead, gossip, avoid, watch suspiciously, insult </td></tr> <tr><td> Indifferent</td><td> Doesn’t much care</td><td> Act as socially expected </td></tr> <tr class="shaded"><td> Friendly</td><td> Wishes you well</td><td> Chat, advise, offer limited help, advocate </td></tr> <tr><td> Helpful</td><td> Will take risks to help you</td><td> Protect, back up, heal, aid </td></tr> </table>
+ 
+<table> <tr><th rowspan="2"> Initial Attitude</th><th colspan="5"> ———————— New Attitude ————————</th> </tr> <tr> <th>Hostile</th> <th>Unf.</th> <th>Indif.</th> <th>Friendly</th> <th>Helpful</th> </tr> <tr> <th>Hostile</th> <td>19 or less</td> <td>20</td> <td>25</td> <td>35</td> <td>45</td> </tr> <tr> <th>Unfriendly</th> <td>4 or less</td> <td>5</td> <td>15</td> <td>25</td> <td>35</td> </tr> <tr> <th>Indifferent</th> <td>—</td> <td>0 or less</td> <td>1</td> <td>15</td> <td>25</td> </tr> <tr> <th>Friendly</th> <td>—</td> <td>—</td> <td>0 or less</td> <td>1</td> <td>15</td> </tr> </table>
+
+
+Bribery and Diplomacy
+
+
+<table style="float:right"> <tr> <th>Bribe Target</th> <th>Purchase DC</th> </tr> <tr> <td>Bouncer</td><td> 6 </td></tr> <tr class="shaded"><td> Bureaucrat</td><td> 10 </td></tr> <tr><td>Informant</td><td> 7 </td></tr> <tr class="shaded"><td>Police officer</td><td> 10 </td></tr></table>
+
+
+Offering money or another form of favor can, in the right situation, improve a
+character’s chances with a Diplomacy skill
+[check](/modern.d20.srd/skills/skill.basics.php#skill). Bribery allows a
+character to circumvent various official obstacles when a person in a position
+of trust or authority is willing to accept such an offering.
+
+An illegal act, bribery requires two willing participants—one to offer a bribe
+and the other to accept it. When a character requires a bribe to render
+services, then a hero’s Diplomacy
+[check](/modern.d20.srd/skills/skill.basics.php#skill) automatically fails if
+a bribe isn’t attached to it. If a bribe isn’t required, a hero can add a
+bribe to get a bonus on his or her skill
+[check](/modern.d20.srd/skills/skill.basics.php#skill). This can backfire, as
+some characters will be insulted by a bribe offer (their attitude changes one
+step for the worse) and others will report the hero to the proper authorities.
+
+To bribe a character, make a [Wealth check](/modern.d20.srd/wealth/wealth.check). Typical DCs are shown on below,
+but the GM may modify the DC as he or she sees fit. If the hero succeeds in
+the [check](/modern.d20.srd/wealth/wealth.check), he or she gains a +2 bonus
+on the Diplomacy [check](/modern.d20.srd/equipment/equipment.general). For
+every point by which the hero beats the DC, increase the bonus by +1 (to a
+total maximum bonus of +10).
+

@@ -1,0 +1,28 @@
+---
+title: Wall of Force
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX ](/modern.d20.srd/fx) > Wall of Force
+
+##  Wall of Force
+
+Evocation [Force]
+
+[ Level ](/modern.d20.srd/fx/level) : [ Mage](/modern.d20.srd/classes/advanced/mage) 5; [ Components](/modern.d20.srd/fx/components) : V, S, M; [ Casting Time](/modern.d20.srd/fx/casting.time) ; [ Attack action](/modern.d20.srd/combat/attack.actions) [ Range ](/modern.d20.srd/fx/range) :
+Close (25 ft. + 5 ft./2 levels); Effect: Wall whose area is up to one 10-ft.
+square/level or a sphere or hemisphere with a radius of up to 1 ft./level; [Duration ](/modern.d20.srd/fx/duration) : 1 minute/level (D); [ Saving Throw](/modern.d20.srd/basics/saving.throws) : None; [ Spell Resistance](/modern.d20.srd/special.abilities/spell.resistance) : No
+
+A wall of force spell creates an invisible wall of force. The wall of force
+cannot move, it is immune to [ damage ](/modern.d20.srd/combat/damage) of all
+kinds, and it is unaffected by [ dispel magic](/modern.d20.srd/fx/dispel.magic) . Spells, breath weapons, and flamethrowers
+cannot pass through the wall in either direction, although [ dimension door](/modern.d20.srd/fx/dimension.door) can bypass the barrier. [ Gaze attacks](/modern.d20.srd/special.abilities/gaze) can operate through the wall of
+force.
+
+The caster can form the wall into a flat, vertical plane whose area is up to
+one 10-foot square per level, or into a sphere or hemisphere with a radius of
+up to 1 foot per level.
+
+The wall of force must be continuous and unbroken when formed. If its surface
+is broken by any object or creature, the spell fails.
+

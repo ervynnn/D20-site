@@ -1,0 +1,23 @@
+---
+title: Armor Proficiency (Light)
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Armor Proficiency (Light)
+
+## Armor Proficiency (Light)
+
+Benefit: When a character wears a type of armor with which he or she is
+proficient, the character gets to add the armor’s equipment bonus to his or
+her [Defense](/modern.d20.srd/combat/defense). Also, the [armor check penalty](/modern.d20.srd/equipment/armor.general) applies only to
+[Balance](/modern.d20.srd/skills/balance),
+[Climb](/modern.d20.srd/skills/climb), [Escape Artist](/modern.d20.srd/skills/escape.artist),
+[Hide](/modern.d20.srd/skills/hide), [Jump](/modern.d20.srd/skills/jump),
+[Move Silently](/modern.d20.srd/skills/move.silently), and
+[Tumble](/modern.d20.srd/skills/tumble)
+[checks](/modern.d20.srd/skills/skill.basics.php#skill).
+
+Normal: A character who wears armor with which he or she is not proficient
+adds only the armor’s nonproficient equipment bonus to his or her
+[Defense](/modern.d20.srd/combat/defense). Also, he or she suffers its [armor check penalty](/modern.d20.srd/equipment/armor.general) on [attack rolls](/modern.d20.srd/combat/attack.roll) and on all [skill checks](/modern.d20.srd/skills/skill.basics.php#skill) that involve moving.
+

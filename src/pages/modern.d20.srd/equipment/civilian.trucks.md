@@ -1,0 +1,63 @@
+---
+title: Civilian Trucks
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > [Vehicles](/modern.d20.srd/equipment/equipment.vehicles) > Civilian Trucks
+
+## Civilian Trucks
+
+
+<table> <tr> <th>Name</th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Crew</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Pass</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Cargo</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Init</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Maneuver</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Top Speed</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Defense</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Hardness</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Hit Points</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Size</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Purchase DC</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Restriction</a></th> </tr> <tr><td> AM General Hummer (SUV)</td><td> 1</td><td> 3</td><td> 1,000 lb.</td><td> –2</td><td> –2</td><td> 140 (14)</td><td> 8</td><td> 5</td><td> 38</td><td> H</td><td> 34</td><td> Lic (+1) </td></tr> <tr><td> Chevrolet Suburban (SUV)</td><td> 1</td><td> 8</td><td> 500 lb.</td><td> –2</td><td> –2</td><td> 175 (17)</td><td> 8</td><td> 5</td><td> 38</td><td> H</td><td> 30</td><td> Lic (+1) </td></tr> <tr><td> Dodge Caravan (minivan)</td><td> 1</td><td> 4</td><td> 325 lb.</td><td> –2</td><td> –2</td><td> 195 (19)</td><td> 8</td><td> 5</td><td> 34</td><td> H</td><td> 28</td><td> Lic (+1) </td></tr> <tr><td> Ford Escape XLT (SUV)</td><td> 1</td><td> 4</td><td> 300 lb.</td><td> –2</td><td> –2</td><td> 200 (20)</td><td> 8</td><td> 5</td><td> 32</td><td> H</td><td> 29</td><td> Lic (+1) </td></tr> <tr><td> Ford F-150 XL (pickup)</td><td> 1</td><td> 2</td><td> 1,700 lb.</td><td> –2</td><td> –2</td><td> 175 (17)</td><td> 8</td><td> 5</td><td> 36</td><td> H</td><td> 28</td><td> Lic (+1) </td></tr> <tr><td> Toyota Tacoma Xtracab (pickup)</td><td> 1</td><td> 3</td><td> 1,600 lb.</td><td> –2</td><td> –2</td><td> 185 (18)</td><td> 8</td><td> 5</td><td> 34</td><td> H</td><td> 27</td><td> Lic (+1) </td></tr></table>
+
+
+Trucks include pickups, sport utility vehicles, vans, and minivans. They
+generally have the same features as civilian cars.
+
+Like cars, trucks generally provide three-quarters
+[cover](/modern.d20.srd/combat/cover) to their occupants. The rear bed of a
+pickup truck, however, provides only one-half
+[cover](/modern.d20.srd/combat/cover).
+
+### AM General Hummer
+
+The four-door Hummer is a civilian version of the military’s all-terrain
+“humvee” utility vehicle. It comes equipped with a powerful 6.5-liter,
+195-horsepower V8 turbo diesel engine. The hummer is decked out like a luxury
+vehicle inside, but this vehicle is every bit as rugged as the military
+version.
+
+The military version can be configured in a variety of ways, including a two-
+door pickup, a four-door pickup with a short bed, and a completely enclosed,
+SUV-like body with a hatchback and four doors. It lacks the luxury accessories
+of the civilian version, but it is equipped with puncture-resistant tires.
+
+A Hummer is two squares wide and four squares long.
+
+### Chevrolet Suburban
+
+One of the largest sport utility vans on the market, the Suburban is a four-
+door truck equipped with a standard 6.0-liter, 320-horsepower V8 engine. It is
+two squares wide and four squares long.
+
+### Dodge Caravan
+
+The Caravan is a minivan with two conventional doors up front, sliding doors
+on the side, and a rear hatch-style door. It is two squares wide and four
+squares long.
+
+### Ford Escape XLT
+
+The Escape is a four-door SUV with a 3.0-liter, 201-horsepower V6 engine. It
+is two squares wide and three squares long.
+
+### Ford F-150 XL
+
+This two-door pickup truck has a 4.2-liter, 202-horsepower V6 engine. The
+F-150 is two squares wide and four squares long.
+
+### Toyota Tacoma Xtracab
+
+The Tacoma is a two-door pickup with a back seat in its extended cab. It is
+two squares wide and four squares long.
+

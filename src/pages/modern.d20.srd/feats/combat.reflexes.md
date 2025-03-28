@@ -1,0 +1,23 @@
+---
+title: Combat Reflexes
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Combat Reflexes
+
+## Combat Reflexes
+
+Benefit: The maximum number of [attacks of opportunity](/modern.d20.srd/combat/attacks.of.opportunity) the character may
+make each round is equal to the character’s
+[Dexterity](/modern.d20.srd/basics/ability.scores) modifier + 1. The character
+can still only make one [attack of opportunity](/modern.d20.srd/combat/attacks.of.opportunity) on a single
+opponent.
+
+With this feat, the character may also make [attacks of opportunity](/modern.d20.srd/combat/attacks.of.opportunity) when flat-footed.
+
+Normal: A character without the Combat Reflexes feat can make only one [attack of opportunity](/modern.d20.srd/combat/attacks.of.opportunity) per round and
+can’t make [attacks of opportunity](/modern.d20.srd/combat/attacks.of.opportunity) when flat-footed.
+
+Special: The Combat Reflexes feat doesn’t allow a [Fast hero](/modern.d20.srd/classes/basic/fast.hero) with the opportunist talent to
+use that talent more than once per round.
+

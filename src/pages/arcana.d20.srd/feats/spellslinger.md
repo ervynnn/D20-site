@@ -1,0 +1,23 @@
+---
+title: Spellslinger
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Spellslinger
+
+##  Spellslinger
+
+You have a gift for magic that allows you to cast more spells than normal.
+
+**Prerequisite:** Intelligence 13 (for arcane spellcasters) or Wisdom 13 (for
+divine spellcasters).
+
+**Benefit:** For any one spellcasting advanced class in which you have levels,
+you can prepare and cast one additional spell per spell level known. For
+instance, Lily Parrish, a 3rd-level Dedicated Hero/3rd-level Acolyte, can
+prepare and cast an additional 0-level, 1st-level, and 2nd-level divine spell
+per day (since she can cast up to and including 2nd-level divine spells).
+
+**Special:** You may gain this feat multiple times. Each time you take the
+feat, it applies to a new spellcasting class.
+

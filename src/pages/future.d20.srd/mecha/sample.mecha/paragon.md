@@ -1,0 +1,41 @@
+---
+title: Paragon
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Sample Mecha](/future.d20.srd/mecha/sample) > Paragon
+
+## Paragon (PL 8)
+
+Nothing less than a mobile weapons platform, the Paragon dominates any
+battlefield and can lay waste to entire armies. In space, it can fight toe-to-
+toe with armed starships.
+
+A Paragon installed with the standard equipment package (see below) has a
+purchase DC of 61.
+
+**Size** : Colossal (–8 size)  
+**Bonus Hit Points** : 900  
+**Superstructure** : Megatanium  
+**Hardness** : 30  
+**Armor** : Megatanium  
+**Bonus to Defense** : +12  
+**Armor Penalty** : –10  
+**Reach** : 15 ft.  
+**Strength Bonus** : +32  
+**Dexterity Penalty** : –4  
+**Speed** : 50 ft., fly 200 ft. (poor)  
+**Base Purchase DC** : 60
+
+Standard Equipment Package: Advanced diagnostics (helmet), Class V sensor
+system (helmet), Crackerjack neural link (cranium), Mark IV Oracle targeting
+system (visor), jet-assist wings (back), Avenger electro-scimitar (left hand),
+Barricade tactical shield (right arm), M-300 Rhino mass cannon (right hand and
+right arm), M-87 Talon missile launcher (left shoulder), 2 4-packs of M-87
+Talon missiles (left arm), M-70 EMP rocket launcher (right shoulder), 2
+6-packs of M-70 EMP rockets (torso), HV-5 Haven escape pod (torso), zero-G
+stabilizer (torso), Mark II deflection field (belt), life support system (left
+leg), ramjet thruster boots (boots), 100-hp structural enhancement (2 slots
+equivalent), light fortification (1 slot equivalent), space skin (1 slot
+equivalent).
+

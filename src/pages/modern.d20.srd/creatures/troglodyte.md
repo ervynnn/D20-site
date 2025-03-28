@@ -1,0 +1,118 @@
+---
+title: Troglodyte
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Troglodyte
+
+## Troglodyte
+
+### Species Traits
+
+Stench (Ex): When a troglodyte is angry or frightened, it secretes an oily,
+musklike chemical that most animal life finds offensive. All living creatures
+(except troglodytes) within 30 feet of the troglodyte must succeed on a
+[Fortitude save](/modern.d20.srd/basics/saving.throws) (DC 13) or take a –2
+morale penalty on [attack rolls](/modern.d20.srd/combat/attack.roll), weapon
+[damage](/modern.d20.srd/combat/damage) rolls, [ability checks](/modern.d20.srd/basics/ability.scores), [skill checks](/modern.d20.srd/skills/skill.basics.php#skill), and [saving throws](/modern.d20.srd/basics/saving.throws) for 10 rounds. Characters
+subjected to stench from multiple troglodytes make only one [saving throw](/modern.d20.srd/basics/saving.throws). Characters affected by a
+troglodyte’s stench cannot be affected again by any troglodyte’s stench until
+the current effect expires.
+
+Species Bonus: A troglodyte’s skin changes color somewhat, allowing it to
+blend in with its surroundings like a chameleon. A troglodyte gains a +4
+species bonus on [Hide](/modern.d20.srd/skills/hide) checks (+8 in a rocky or
+subterranean setting).
+
+Bonus Feat: Troglodytes receive the bonus feat [Simple Weapons Proficiency](/modern.d20.srd/feats/simple.weapons.proficiency).
+
+Automatic Language: Troglodytes
+[read](/modern.d20.srd/skills/read.write.language),
+[write](/modern.d20.srd/skills/read.write.language), and
+[speak](/modern.d20.srd/skills/speak.language) Draconic.
+
+Troglodyte: CR 1; Medium-size
+[humanoid](/modern.d20.srd/creature.types/humanoid); HD 2d8+4;
+[hp](/modern.d20.srd/combat/hit.points) 13;
+[Mas](/modern.d20.srd/creatures/creature.overview) 14;
+[Init](/modern.d20.srd/combat/initiative) –1; Spd 30 ft.;
+[Defense](/modern.d20.srd/combat/defense) 15,
+[touch](/modern.d20.srd/combat/attack.actions) 9, [flat- footed](/modern.d20.srd/combat/surprise) 15 (–1
+[Dex](/modern.d20.srd/basics/ability.scores), +6 natural); BAB +1;
+[Grap](/modern.d20.srd/combat/grapple) +1;
+[Atk](/modern.d20.srd/combat/attack.roll) +1
+[melee](/modern.d20.srd/combat/attack.roll) (1d4, claw); Full Atk +1
+[melee](/modern.d20.srd/combat/attack.roll) (1d4, 2 claws), –1
+[melee](/modern.d20.srd/combat/attack.roll) (1d4, bite), or +1
+[melee](/modern.d20.srd/combat/attack.roll) (1d6 nonlethal, sap), –4
+[melee](/modern.d20.srd/combat/attack.roll) (1d4, bite), or +0 ranged (1d6,
+javelin); [FS](/modern.d20.srd/creatures/creature.overview) 5 ft. by 5 ft.;
+Reach 5 ft.; [SQ](/modern.d20.srd/creatures/creature.overview) stench,
+[darkvision](/modern.d20.srd/special.abilities/darkvision) 90 ft.;
+[AL](/modern.d20.srd/basics/allegiances) chaos, evil;
+[SV](/modern.d20.srd/basics/saving.throws) Fort +5, Ref –1, Will +0;
+[AP](/modern.d20.srd/creatures/creature.overview) 0;
+[Rep](/modern.d20.srd/creatures/creature.overview) +0;
+[Str](/modern.d20.srd/basics/ability.scores) 10,
+[Dex](/modern.d20.srd/basics/ability.scores) 9,
+[Con](/modern.d20.srd/basics/ability.scores) 14,
+[Int](/modern.d20.srd/basics/ability.scores) 8,
+[Wis](/modern.d20.srd/basics/ability.scores) 10,
+[Cha](/modern.d20.srd/basics/ability.scores) 10.
+
+[Skills](/modern.d20.srd/skills): [Hide](/modern.d20.srd/skills/hide) +6,
+[Listen](/modern.d20.srd/skills/listen) +3.
+
+[Feats](/modern.d20.srd/feats): Multiattack, [Simple Weapons Proficiency](/modern.d20.srd/feats/simple.weapons.proficiency).
+
+Possessions: Sap, 1d4 javelins, backpack containing food and assorted items.
+
+Advancement: By character class.
+
+Troglodyte [Dedicated Hero](/modern.d20.srd/classes/basic/dedicated.hero)
+3/[Field Medic](/modern.d20.srd/classes/advanced/field.medic) 1: CR 5; Medium-
+size [humanoid](/modern.d20.srd/creature.types/humanoid); HD 2d8+4 plus 3d6+6
+plus 1d8+2; [hp](/modern.d20.srd/combat/hit.points) 35;
+[Mas](/modern.d20.srd/creatures/creature.overview) 14;
+[Init](/modern.d20.srd/combat/initiative) +0; Spd 30 ft.;
+[Defense](/modern.d20.srd/combat/defense) 19,
+[touch](/modern.d20.srd/combat/attack.actions) 13, [flat- footed](/modern.d20.srd/combat/surprise) 19 (+3 class, +6 natural); BAB +3;
+[Grap](/modern.d20.srd/combat/grapple) +3;
+[Atk](/modern.d20.srd/combat/attack.roll) +3
+[melee](/modern.d20.srd/combat/attack.roll) (1d4, claw); Full Atk +3
+[melee](/modern.d20.srd/combat/attack.roll) (1d4, 2 claws), +1
+[melee](/modern.d20.srd/combat/attack.roll) (1d4, bite), or +3
+[melee](/modern.d20.srd/combat/attack.roll) (1d6 nonlethal, sap), –2
+[melee](/modern.d20.srd/combat/attack.roll) (1d4, bite), or +4 ranged (1d4
+electricity plus paralysis, taser);
+[FS](/modern.d20.srd/creatures/creature.overview) 5 ft. by 5 ft.; Reach 5 ft.;
+[SQ](/modern.d20.srd/creatures/creature.overview) stench,
+[darkvision](/modern.d20.srd/special.abilities/darkvision) 90 ft.;
+[AL](/modern.d20.srd/basics/allegiances) chaos, evil;
+[SV](/modern.d20.srd/basics/saving.throws) Fort +9, Ref +2, Will +3;
+[AP](/modern.d20.srd/creatures/creature.overview) 2;
+[Rep](/modern.d20.srd/creatures/creature.overview) +2;
+[Str](/modern.d20.srd/basics/ability.scores) 10,
+[Dex](/modern.d20.srd/basics/ability.scores) 10,
+[Con](/modern.d20.srd/basics/ability.scores) 14,
+[Int](/modern.d20.srd/basics/ability.scores) 8,
+[Wis](/modern.d20.srd/basics/ability.scores) 10,
+[Cha](/modern.d20.srd/basics/ability.scores) 10.
+
+[Skills](/modern.d20.srd/skills): [Craft (pharmaceutical)](/modern.d20.srd/skills/craft.pharmaceutical) +1,
+[Hide](/modern.d20.srd/skills/hide) +7,
+[Listen](/modern.d20.srd/skills/listen) +3,
+[Spot](/modern.d20.srd/skills/spot) +3, [Treat Injury](/modern.d20.srd/skills/treat.injury) +10.
+
+[Feats](/modern.d20.srd/feats): [Armor Proficiency (light)](/modern.d20.srd/feats/armor.proficiency.light), Multiattack, [Simple Weapons Proficiency](/modern.d20.srd/feats/simple.weapons.proficiency),
+[Surgery](/modern.d20.srd/feats/surgery), [Weapon Focus](/modern.d20.srd/feats/weapon.focus) (taser).
+
+Talents ([Dedicated Hero](/modern.d20.srd/classes/basic/dedicated.hero)):
+Healing knack, healing touch 1.
+
+Talents ([Field Medic](/modern.d20.srd/classes/advanced/field.medic)): Medical
+specialist +1.
+
+Possessions: Sap, taser, medical kit, first aid kit, backpack containing food
+and assorted items.
+

@@ -1,0 +1,29 @@
+---
+title: A Question Of Identity
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > A Question Of Identity
+
+## A Question Of Identity
+
+If a person is the sum of all his experiences, a clone is no more the person
+whose genetic structure he shares than he is a photograph or sculpture of that
+person. To transform a clone into that person, a way needs to be found to make
+the clone’s mind identical to the person’s mind.
+
+In many campaign worlds, the person involved makes a recording of his brain
+pattern and transfers the pattern to the clone while it is still in a
+formative stage. (Exactly how this is accomplished varies widely from setting
+to setting.) The clone awakens with all the memories and experiences of the
+person up to the point of the recording—anything that happens to the person
+after the recording is not part of the pattern.
+
+In settings where clones are kept as organic life insurance, people
+periodically record their brain patterns so their clone has the most up to
+date memory possible. In settings such as this, it is possible to use
+technology in unusual ways. One could imprint the mind of a clone with the
+brain pattern of another person. Alternatively, an elderly person on his
+deathbed could have his brain pattern recorded and, after he passes away,
+implanted on a clone of himself as a young man.
+

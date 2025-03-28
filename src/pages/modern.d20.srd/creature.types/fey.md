@@ -1,0 +1,41 @@
+---
+title: Fey
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Creature Types ](/modern.d20.srd/creature.types) > Fey
+
+##  Fey
+
+A fey is a creature with supernatural abilities and connections to nature or
+some other force or place. Fey are usually human-shaped. See Table: Fey for
+physical ability scores, recommended minimum Hit Dice, and damage based on
+size.
+
+Hit Die: d6.
+
+Base Attack Bonus: 1/2 of total Hit Dice (see [ Table: Creature Saves and Base Attack Bonuses ](/modern.d20.srd/creature.types/index) ).
+
+Good [ Saving Throws ](/modern.d20.srd/basics/saving.throws) : Will.
+
+Skill Points: 3 x [ Int ](/modern.d20.srd/basics/ability.scores) score, plus 2
+points per Hit Dice beyond 1 HD.
+
+Feats: 1 + [ Int ](/modern.d20.srd/basics/ability.scores) modifier (minimum
+0), plus 1 feat per 4 Hit Dice beyond 1 HD.
+
+Fey share the following additional traits.
+
+Weapon and Armor Proficiency: A fey receives either [ Archaic Weapons Proficiency ](/modern.d20.srd/feats/archaic.weapons.proficiency) or [ Simple Weapons Proficiency ](/modern.d20.srd/feats/simple.weapons.proficiency) as a
+bonus feat. Fey are proficient with any weapon mentioned in their entries. Fey
+noted for wearing armor gain the bonus feat Armor Proficiency with whatever
+type of armor they are accustomed to wearing ( [ light](/modern.d20.srd/feats/armor.proficiency.light) , [ medium](/modern.d20.srd/feats/armor.proficiency.medium) , [ heavy](/modern.d20.srd/feats/armor.proficiency.heavy) ), as well as all lighter
+types.
+
+[ Low-Light Vision ](/modern.d20.srd/special.abilities/low.light.vision) (Ex):
+Most fey have [ low-light vision](/modern.d20.srd/special.abilities/low.light.vision) .
+
+
+<table> <th colspan="9"> Table: Fey </th> <tr> <th> Size </th> <th> Str </th> <th> Dex </th> <th> Con </th> <th> Minimum HD </th> <th> Slam </th> <th> Bite </th> <th> Claw </th> <th> Gore </th> </tr> <tr> <td> Colossal </td> <td> 42–43 </td> <td> 8–9 </td> <td> 26–27 </td> <td> 32d6 </td> <td> 2d6 </td> <td> 2d8 </td> <td> 2d8 </td> <td> 4d6 </td> </tr> <tr class="shaded"> <td> Gargantuan </td> <td> 34–35 </td> <td> 8–9 </td> <td> 22–23 </td> <td> 16d6 </td> <td> 1d8 </td> <td> 2d6 </td> <td> 2d6 </td> <td> 2d8 </td> </tr> <tr> <td> Huge </td> <td> 26–27 </td> <td> 8–9 </td> <td> 18–19 </td> <td> 8d6 </td> <td> 1d6 </td> <td> 1d8 </td> <td> 2d4 </td> <td> 2d6 </td> </tr> <tr class="shaded"> <td> Large </td> <td> 18–19 </td> <td> 10–11 </td> <td> 14–15 </td> <td> 2d6 </td> <td> 1d4 </td> <td> 1d6 </td> <td> 1d6 </td> <td> 1d8 </td> </tr> <tr> <td> Medium-size </td> <td> 10–11 </td> <td> 12–13 </td> <td> 10–11 </td> <td> 1d6 </td> <td> 1d3 </td> <td> 1d4 </td> <td> 1d4 </td> <td> 1d6 </td> </tr> <tr class="shaded"> <td> Small </td> <td> 6–7 </td> <td> 14–16 </td> <td> 8–9 </td> <td> 1/2 d6 </td> <td> 1d2 </td> <td> 1d3 </td> <td> 1d3 </td> <td> 1d4 </td> </tr> <tr> <td> Tiny </td> <td> 2–3 </td> <td> 16–17 </td> <td> 8–9 </td> <td> 1/4 d6 </td> <td> 1 </td> <td> 1d2 </td> <td> 1d2 </td> <td> 1d3 </td> </tr> <tr class="shaded"> <td> Diminutive </td> <td> 1 </td> <td> 18–19 </td> <td> 8–9 </td> <td> 1/8 d6 </td> <td> — </td> <td> 1 </td> <td> 1 </td> <td> 1d2 </td> </tr> <tr> <td> Fine </td> <td> 1 </td> <td> 20–21 </td> <td> 8–9 </td> <td> 1/16 d6 </td> <td> — </td> <td> — </td> <td> — </td> <td> 1 </td> </tr> </table>
+
+

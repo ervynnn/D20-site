@@ -1,0 +1,82 @@
+---
+title: Harriken (Headsnatcher Fiend)
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > [ Fiend](/menaces.d20/menaces/fiend) > Harriken (Headsnatcher Fiend)
+
+##  Harriken (Headsnatcher Fiend)
+
+A harriken can detach its head from its body and replace it with the
+decapitated head of any humanoid creature. In so doing, it can assume the dead
+creature’s form.
+
+To kill a harriken, one must destroy its head. While wearing the head and
+assuming the form of another creature, a harriken will usually entrust its
+detached head to loyal underlings or hide it somewhere safe.
+
+Attach Head (Ex): As an attack or move action, a harriken can attach a head
+(either its own detached head or the severed head of any Medium-size humanoid
+creature) to its headless body. It gains the visual, auditory, and olfactory
+senses of the creature whose head it wears; if the creature had low-light
+vision, for instance, the harriken gains this ability for as long as the head
+is worn.
+
+The creature from which the head is taken must have died within the past 24
+hours; otherwise, any attempt by the harriken to graft the head onto its body
+fails.
+
+Body Blindsight (Ex): A harriken’s headless body can sense its surroundings as
+though it has the blindsight ability with a range of 30 feet. However, without
+its own head, the harriken loses its darkvision.
+
+Detach Head (Ex): As an attack or move action, a harriken can detach the head
+(either its own head or the severed head of any Medium-size humanoid creature)
+from its body.
+
+Disguise Self (Su): The harriken can assume the appearance of a specific
+Medium-size humanoid creature by attaching the creature’s severed head to its
+body. The illusion lasts as long as the head remains attached. The harriken
+does not gain any of the creature’s abilities, mannerisms, or knowledge, but
+it gains a +10 bonus on Disguise checks. Other creatures get a Will save (DC
+10 + 1/2 the harriken’s Hit Dice + its Charisma modifier) to pierce the
+illusion if they interact with it (such as by touching the harriken and having
+that sensory input not match what they see). A true seeing spell reveals the
+harriken’s actual horrific appearance.
+
+Electrical Rejuvenation (Ex): A harriken is immune to electricity.
+Furthermore, it heals 1 point of damage for every die of electricity damage it
+would take normally. For example, a 6d6 lightning bolt heals 6 points of
+damage to the harriken.
+
+Fire Resistance 10 (Ex): A harriken ignores the first 10 points of damage from
+any attack that deals fire damage.
+
+Indestructible Body (Su): While its head is attached to its body, a harriken
+can be killed. However, if its head is detached, the body stops taking damage
+when reduced to 1 hit point. Any damage dealt to the body that would knock it
+below 1 hit point is ignored. If the harriken’s detached head is found and
+destroyed (Defense 7; hp 5), the harriken’s body is instantly slain.
+
+Telepathy (Su): A harriken can communicate telepathically with any creature
+within 100 feet that has a language.
+
+Harriken (headsnatcher fiend): CR 4; Medium-size outsider; HD 4d8+4; hp 22;
+Mas 13; Init +0; Spd 30 ft.; Defense 21 (+9 natural, +2 leather armor), touch
+10, flatfooted 21; BAB +4; Grap +5; Atk +5 melee (1d6+1, slam) or +5 melee
+(1d8+1/19–20, longsword); Full Atk +5 melee (1d6+1, slam) or +5 melee
+(1d8+1/19–20, longsword) or +4 ranged; FS 5 ft. by 5 ft.; Reach 5 ft.; SQ
+Attach head, body blindsight, darkvision 60 ft., detach head, disguise self
+(DC 15), electrical rejuvenation, fire resistance 10, indestructible body,
+telepathy; AL evil; SV Fort +5, Ref +4, Will +6; AP 0; Rep +0; Str 13, Dex 11,
+Con 13, Int 16, Wis 15, Cha 16.
+
+Skills: Bluff +10, Disguise +10 (+20 when using disguise self ability), Hide
++6, Intimidate +9, Listen +6, Move Silently +6, Read/Write Abyssal, Read/Write
+Languages (any three), Sense Motive +6, Speak Abyssal, Speak Languages (any
+three), Spot +6.
+
+Feat: Heroic Surge (1/day).
+
+Advancement: By character class.
+

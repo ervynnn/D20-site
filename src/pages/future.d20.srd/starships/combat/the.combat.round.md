@@ -1,0 +1,20 @@
+---
+title: The Combat Round
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > The Combat Round
+
+## The Combat Round
+
+As with character-scale combat, each round of starship combat represents about
+6 seconds in the game world.
+
+Each round’s activity begins with the starship with the highest initiative
+result and then proceeds, in order, from there.
+
+Each round of a combat uses the same initiative order. When a starship’s turn
+comes up in the initiative sequence, that ship performs its entire round’s
+worth of actions. (For exceptions, see Attacks of Opportunity and Special
+Initiative Actions.)
+

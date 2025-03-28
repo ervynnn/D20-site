@@ -1,0 +1,23 @@
+---
+title: Extra Arms
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mutations](/future.d20.srd/mutations) > Extra Arms
+
+## Extra Arms [MAJOR]
+
+You grow an additional pair of arms. The extra arms look and behave exactly
+like your other arms.
+
+MP Cost: 6.
+
+Benefit: As a creature with more than two arms, you gain a +4 mutation bonus
+on Climb checks and grapple checks. For the purposes of combat, both extra
+arms are treated as “off hands” (that is, you still have only one primary
+hand).
+
+Special: If you have three or more natural claw attacks, you meet the
+prerequisites for the Multiattack feat. This mutation does not give you
+Multiattack as a bonus feat, however.
+

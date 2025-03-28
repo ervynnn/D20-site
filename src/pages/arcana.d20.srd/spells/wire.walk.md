@@ -1,0 +1,27 @@
+---
+title: Wire Walk
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Wire Walk
+
+##  Wire Walk
+
+Conjuration (Teleporting)
+
+Level: Arcane 4; Components: V; Casting Time: Attack action; Range: Personal
+and touch; Target: You and touched objects or other touched willing creatures
+weighing up to 25 lb./level; Duration: Instantaneous; Saving Throw: None and
+Will negates (object); Spell Resistance: No and yes (object)
+
+You and any other objects or creatures targeted by the spell teleport
+instantly to the location of a telephone you call. The telephone must be
+answered; the spell only works over an open line. You arrive adjacent to the
+device (within 5 feet of it), and any other creatures transported by the spell
+appear next to you.
+
+For example, you might use a cell phone to call home. As soon as anyone
+answers the phone (including an answering machine), you could use the spell to
+teleport home. Willing subjects of the spell (and the objects they carry) need
+not make a saving throw, nor does spell resistance apply in this instance.
+

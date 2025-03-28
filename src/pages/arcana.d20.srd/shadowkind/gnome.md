@@ -1,0 +1,57 @@
+---
+title: Gnome
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Shadowkind ](/arcana.d20.srd/shadowkind) > Gnome
+
+##  Gnome
+
+Size: Small. Gnomes gain a +1 size bonus to Defense, a +1 size bonus on attack
+rolls, and a +4 size bonus on Hide checks. They suffer a –4 size penalty on
+grapple checks. Gnomes must use smaller weapons than humans use, and their
+lifting and carrying limits are three-quarters of those of a Medium character.
+
+Ability Modifiers: –2 Strength, +2 Constitution.
+
+Base Speed: 20 feet.
+
+Special Combat Bonuses: Gnomes gain a +1 species bonus on attack rolls against
+bugbears, goblins (and other goblinoids), and kobolds. Gnomes also gain a +4
+dodge bonus to their Defense against giant creatures (such as ogres and
+trolls); this bonus represents special training that gnomes undergo, during
+which they learn tricks that previous generations developed in their battles
+with giants. Note that any time a gnome loses his positive Dexterity bonus to
+Defense, such as when he’s caught flat-footed, he loses this dodge bonus, too.
+
+Illusion Mastery: Add +1 to the Difficulty Class for all saving throws against
+Illusion spells cast by gnomes.
+
+Speak with Animals: Once per day, a gnome can use speak with animals to speak
+with a burrowing mammal (a mole, gopher, ground hog, and so forth). It has a
+duration of 1 minute, and the gnome is considered a 1st-level caster when he
+uses this spell-like ability, regardless of his actual level.
+
+Low-Light Vision: Gnomes can see twice as far as a human in starlight,
+moonlight, torchlight, and similar conditions of poor illumination. They
+retain the ability to distinguish color and detail under these conditions.
+
+Saving Throw Bonus: Gnomes gain a +2 species bonus on saving throws against
+illusions.
+
+Skill Bonuses: Gnomes gain a +2 species bonus on Listen checks. Gnomes who
+have one or more ranks in the Craft (pharmaceutical) skill also gain a +2
+species bonus on Craft (pharmaceutical) checks.
+
+Bonus Feats: Gnomes gain the bonus feat Archaic Weapons Proficiency. They may
+treat gnome hooked hammers (see Chapter Two: Equipment) as archaic weapons
+instead of exotic weapons.
+
+Gnomes with Charisma scores of 10 or higher gain the bonus feat Magical
+Heritage.
+
+Free Language Skills: Read/Write Common (or local language), Read/Write Gnome,
+Speak Common (or local language), Speak Gnome.
+
+Other Languages: Draconic, Dwarven, Elven, Giant, Goblin, Orc.
+

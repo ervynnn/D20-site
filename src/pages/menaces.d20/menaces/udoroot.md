@@ -1,0 +1,69 @@
+---
+title: Udoroot
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Udoroot
+
+##  Udoroot
+
+Udoroots are enormous carnivorous plants that possess psionic powers. The bulk
+of an udoroot lies beneath the soil. Its massive, bulbous root system can
+reach down as far as 30 feet below the surface. The above-ground portion of
+the plant consists of six stalks, each topped by a single flower crown. These
+crowns resemble mature sunflowers with red seeds, white petals, and tough,
+woody stalks. They grow in a circle that can reach 20 feet in diameter.
+
+An udoroot can be killed only by digging up or otherwise exposing its root,
+then burning it, hacking it apart, or totally destroying it in some other
+manner. Severing or psionically disabling all six crowns negates the plant’s
+ability to attack and makes excavation of the root easier. To sever a crown,
+an opponent must penetrate the woody bark of the stalk (hardness 5, hp 7). A
+severed crown dies, but the udoroot suffers no ill effects other than its
+absence. As long as the creature’s root remains intact, any severed crowns
+regrow in about a month. A psionic creature can also overcome a crown in
+psionic combat by reducing any one of the creature’s ability scores to 0. This
+attack does not harm the main root or any other crowns, which must be attacked
+separately to deal any damage.
+
+###  Species Traits
+
+Blindsight (Ex): An udoroot is blind but can ascertain all creatures and
+objects within 40 feet just as a sighted creature would. Beyond that range,
+all targets have total concealment with respect to the udoroot
+
+Cold Resistance 20 (Ex): An udoroot ignores the first 20 points of cold damage
+from any single attack.
+
+Immunities (Ex): An udoroot is immune to electricity and fire damage.
+
+Plant: Udoroots have the traits and immunities common to plants.
+
+Psionics (Sp): At will—false sensory input, lesser body adjustment, lightning
+strike, telekinesis. Manifester level 10th; save DC 10 + udoroot’s key ability
+modifier + power level.
+
+Udoroot: CR 5; Huge plant; HD 6d8+18; hp 45; Mas —; Init +0; Spd 0 ft.;
+Defense 14, touch 8, flat-footed 14 (–2 size, +6 natural); BAB +4; Grap —; Atk
+none; Full Atk none; FS 5 ft. by 5 ft. per stalk; Reach 10 ft. per stalk; SQ
+blindsight 40 ft., cold resistance 20, immunities, plant, psionics; AL none;
+SV Fort +8, Ref +2, Will +3; AP 0; Rep +0; Str 3, Dex 10, Con 16, Int —, Wis
+13, Cha 9.
+
+**Skills:** None.
+
+**Feats:** None.
+
+**Advancement:** 7–16 HD (Huge); 17–32 HD (Gargantuan).
+
+Advanced Udoroot: CR 8; Gargantuan plant; HD 17d8+85; hp 161; Mas —; Init +0;
+Spd 0 ft.; Defense 16, touch 6, flat-footed 16 (–4 size, +10 natural); BAB
++12; Grap —; Atk none; Full Atk none; FS 5 ft. by 5 ft. per stalk; Reach 15
+ft. per stalk; SQ cold resistance 20, blindsight 40 ft., immunities, plant,
+psionics; AL none; SV Fort +15, Ref +5, Will +6; AP 0; Rep +0; Str 11, Dex 10,
+Con 20, Int —, Wis 13, Cha 9.
+
+**Skills:** None.
+
+**Feats:** None.
+

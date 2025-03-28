@@ -1,0 +1,37 @@
+---
+title: Move Actions
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Move Actions
+
+## Move Actions
+
+With the exception of specific movement-related skills, most move actions
+don’t require a check. In some cases, ability checks might be required.
+
+### Movement
+
+The simplest move action is moving the character’s speed. If a character takes
+this kind of move action during his or her turn, the character cannot also
+take a 5-foot step.
+
+Many nonstandard modes of movement are also covered under this category,
+including climbing and swimming (up to one-quarter the character’s speed),
+crawling (up to 5 feet), and entering a vehicle.
+
+### Manipulating Objects
+
+In most cases, moving or manipulating an object is a move action. This
+includes drawing or holstering a weapon, retrieving or putting away a stored
+object, picking up an object, moving a heavy object, and opening a door.
+
+If the character has a base attack bonus of +1 or higher, he or she can draw a
+weapon as part of his or her normal movement.
+
+### Standing Up
+
+Standing up from a prone position requires a move action. It provokes an
+[attack of opportunity](/modern.d20.srd/combat/attacks.of.opportunity) from
+opponents who threaten the character.
+

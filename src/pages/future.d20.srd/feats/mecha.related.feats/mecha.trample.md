@@ -1,0 +1,18 @@
+---
+title: Feats
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > Feats
+
+##  Mecha Trample
+
+Your mecha can knock down and crush opponents.
+
+Prerequisite: Mecha Operation, base attack bonus +4.
+
+Benefit: When you attempt to overrun an opponent while operating a mecha, the
+target may not choose to avoid your mecha. If your mecha knocks down the
+target, your mecha may make one free slam attack against the target, gaining a
++4 bonus on the attack roll because the target is prone.
+

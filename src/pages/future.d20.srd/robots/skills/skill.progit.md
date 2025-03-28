@@ -1,0 +1,22 @@
+---
+title: Skill Progit
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > [Skills](/future.d20.srd/robots/skills) > Skill Progit
+
+## Skill Progit (PL 6)
+
+Sophisticated emulation software encased in a thin but durable plastic casing,
+a skill progit enables a robot to gain ranks in a single skill. The number of
+ranks cannot exceed the programmer’s ranks in the skill being emulated. A
+factory-built progit typically holds 4, 8, or 12 ranks of a particular skill.
+A robot can have multiple skill progits. However, skill progits do not allow a
+robot to benefit from skill synergy.
+
+A skill progit can be erased and reprogrammed with 12 hours of work and a
+successful Computer Use check (DC 20 + number of skill ranks emulated by the
+software).
+
+Purchase DC: 3 × number of skill ranks.
+

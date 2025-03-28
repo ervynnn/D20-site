@@ -1,0 +1,187 @@
+---
+title: Mecha Defense Systems
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > Mecha Defense Systems
+
+## Mecha Defense Systems
+
+Defense systems include energy shields, life support systems, and other
+equipment intended to protect the mecha and its operator from harm.
+
+To build a defense system from scratch, a character must succeed at a Craft
+(mechanical) check (DC 30) after investing 60 hours in its assembly. A
+character without a mechanical tool kit takes a –4 penalty on the skill check.
+The character must also make a Wealth check against the defense system’s
+purchase DC.
+
+### Bulwark Tactical Shield (PL 5)
+
+The Bulwark tactical shield—a high-tech version of the shields carried by
+knights of old—is worn on one of the mecha’s arms. It improves the mecha’s
+equipment bonus to Defense by +4.
+
+**Equipment Slots** : 1, must be arm.  
+**Activation** : None.  
+**Range** : Touch.  
+**Target** : You.  
+**Duration** : Persistent.  
+**Saving Throw** : None.  
+**Purchase DC** : 5 + one-quarter the mecha’s base purchase DC.  
+**Restriction** : None.
+
+### Bastion Tactical Shield (PL 6)
+
+The Bastion tactical shield improves upon the Bulwark tactical shield (see
+above). It improves the mecha’s equipment bonus to Defense by +6.
+
+When not deployed, the Bastion tactical shield can retract into the mecha’s
+arm. Deploying or retracting the shield is a move action.
+
+**Equipment Slots** : 1, must be arm.  
+**Activation** : None or move action (see text).  
+**Range** : Touch.  
+**Target** : You.  
+**Duration** : Persistent.  
+**Saving Throw** : None.  
+**Purchase DC** : 5 + one-quarter the mecha’s base purchase DC.  
+**Restriction** : None.
+
+### LX-10 Antishock Array (PL 6)
+
+The LX-10 antishock array grounds the mecha and protects it against electrical
+attacks. The mecha gains electricity resistance 10.
+
+**Equipment Slots** : 1.  
+**Activation** : None.  
+**Range** : Personal.  
+**Target** : You.  
+**Duration** : Persistent.  
+**Saving Throw** : None.  
+**Purchase DC** : 21.  
+**Restriction** : None.
+
+### Barricade Tactical Shield (PL 7)
+
+A larger version of the Bastion tactical shield, the Barricade shield not only
+improves the mecha’s equipment bonus to Defense by +8, but its superior
+ceramic coating grants the mecha fire resistance 10.
+
+When not deployed, the Barricade tactical shield can retract into the mecha’s
+arm. Deploying or retracting the shield is a move action.
+
+**Equipment Slots** : 1, must be arm.  
+**Activation** : None or move action (see text).  
+**Range** : Touch.  
+**Target** : You.  
+**Duration** : Persistent.  
+**Saving Throw** : None.  
+**Purchase DC** : 8 + one-quarter the mecha’s base purchase DC.  
+**Restriction** : None.
+
+### Delphi Defense Suite (PL 7)
+
+The Delphi defense suite consists of a heuristic collision avoidance system,
+enhanced crew restraints, and a series of adrenal and nonadrenal autoinjectors
+for the mecha operator. The Delphi defense suite grants the operator a
+resistance bonus on all saving throws for 1 minute: +1 for the Mark I version
+and up to +5 for the Mark V version.
+
+**Equipment Slots** : 1 (Mark I and Mark II versions), 2 (Mark III, Mark IV,
+and Mark V versions).  
+**Activation** : Attack action.  
+**Range** : Personal.  
+**Target** : You.  
+**Duration** : 1 minute.  
+**Saving Throw** : None.  
+**Purchase DC** : 21 for Mark I (+1), 23 for Mark II (+2), 25 for Mark III
+(+3), 27 for Mark IV (+4), 29 for Mark V (+5).  
+**Restriction** : None.
+
+### Light Fortification (PL 7)
+
+The mecha’s structural integrity is reinforced so it can shake off attacks
+that would cripple it otherwise. Light fortification converts 25% of all
+critical hits into regular hits.
+
+Installing light fortification requires a Craft (structural) check instead of
+a Craft (mechanical) check. Light fortification takes the place of one of the
+mecha’s equipment slots.
+
+**Equipment Slots** : 1 (equivalent).  
+**Activation** : None.  
+**Range** : Personal.  
+**Target** : You.  
+**Duration** : Persistent.  
+**Saving Throw** : None.  
+**Purchase DC** : 10 + one-half the mecha’s base purchase DC.  
+**Restriction** : Licensed (+1).
+
+### Lx-20 Antishock Array (PL 7)
+
+Similar to the LX-10 antishock array, the LX-20 antishock array grants the
+mecha electricity resistance 20. In addition, it insulates and protects the
+crew from the collateral dazing effect of an electromagnetic pulse, such as
+the type caused by an M-70 EMP rocket launcher (page 163).
+
+### Cloaking Screen (PL 8)
+
+The cloaking screen warps light and energy around the mecha, rendering it
+invisible to visual and electronic sensors.
+
+A cloaked mecha has total concealment. To attack a cloaked mecha, an attacker
+must guess in which square the mecha currently is (or determine its position
+based on where it attacked last), and even if the guess is accurate, there is
+a 50% chance that the attack misses. A cloaked mecha gains a +40 bonus on Hide
+checks if immobile, or a +20 bonus on Hide checks if moving. Pinpointing the
+location of a cloaked mecha that isn’t attempting to hide requires a Spot
+check against DC 40 if immobile or DC 20 if moving (as if the mecha operator
+had rolled a 0 on the Hide check).
+
+**Equipment Slots** : 1. **Activation** : Attack or move action.  
+**Range** : Personal.  
+**Target** : You.  
+**Duration** : Persistent.  
+**Saving Throw** : None.  
+**Purchase DC** : 20 + one-quarter the mecha’s base purchase DC.  
+**Restriction** : Military (+3).
+
+### Deflection Field (PL 8)
+
+The deflection field uses broadcast magnetics to provide a semipermeable
+energy field around the mecha. It provides a +1 to +5 deflection bonus to the
+mecha’s Defense. The purchase DC of the system is based on the type of field
+(denoted Mark I through Mark V).
+
+The operator can activate or deactivate the deflection field once per round as
+a free action.
+
+**Equipment Slots** : 1.  
+**Activation** : None or free action (see text).  
+**Range** : Touch.  
+**Target** : You.  
+**Duration** : Persistent.  
+**Saving Throw** : None.  
+**Purchase DC** : 24 for Mark I (+1), 27 for Mark II (+2), 30 for Mark III
+(+3), 33 for Mark IV (+4), 36 for Mark V (+5).  
+**Restriction** : Licensed (+1).
+
+### Medium Fortification (PL 8)
+
+Similar to the light fortification system, the medium fortification system
+converts 75% of all critical hits into regular hits.
+
+Medium fortification takes the place of two of the mecha’s equipment slots.
+
+**Equipment Slots** : 2 (equivalent).
+
+### Heavy Fortification (PL 9)
+
+Similar to the light fortification system, the heavy fortification system
+converts all critical hits into regular hits.
+
+Heavy fortification takes the place of three of the mecha’s equipment slots.
+
+**Equipment Slots** : 3 (equivalent).
+

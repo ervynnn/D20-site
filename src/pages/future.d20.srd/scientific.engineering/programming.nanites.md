@@ -1,0 +1,23 @@
+---
+title: Programming Nanites
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > Programming Nanites
+
+## Programming Nanites
+
+Since nanites are small machines controlled by small computers, they can be
+programmed and reprogrammed accordingly. Reprogramming a nanocolony requires a
+special computer that can broadcast signals on a frequency the nanocolony
+recognizes; such computers require a Wealth check (purchase DC 30) to purchase
+and, depending on the setting, are frequently restricted by the government.
+Nanocolonies are programmed using the Computer Use skill as normal.
+
+Typical commands given to a nanocolony include activation and deactivation,
+movement (both internal and external), as well as instructions to follow
+orders only from particular computers or individuals. Though hacking a
+nanocolony is possible, changing a nanocolony’s purpose can be quite
+difficult. The hacker must not only overcome the nanocolony’s programming, but
+also must find a way to use the nanite’s hardware to serve a new function.
+

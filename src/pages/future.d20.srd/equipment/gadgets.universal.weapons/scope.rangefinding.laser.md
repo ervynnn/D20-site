@@ -1,0 +1,26 @@
+---
+title: Scope, Rangefinding Laser
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Weapon Gadgets ](/future.d20.srd/equipment/gadgets.universal.weapons) > Scope, Rangefinding Laser
+
+##  Scope, Rangefinding Laser
+
+One of the most valuable additions to any weapon is a scope, allowing the
+bearer to target opponents farther away than normal. What makes the
+rangefinding laser scope gadget so valuable is that it serves two purposes.
+First, a weapon with this gadget increases its range increment by one-half
+(multiply by 1.5).
+
+Additionally, the scope also sends out an invisible laser that can determine
+the exact range to a target, and then relay that information via a computer
+link. If that information is relayed to another weapon with the rangefinding
+laser scope gadget targeting the same character or object, the second attacker
+gains a +1 equipment bonus on his first attack roll against the target. This
+allows multiple characters with rangefinding laser scope gadgets to
+triangulate the exact position of a target and ensures greater accuracy.
+
+**Restrictions** : Ranged weapons only.  
+**Purchase DC Modifier** : +1.
+

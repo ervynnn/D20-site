@@ -1,0 +1,29 @@
+---
+title: Feats
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > Feats
+
+## Thruster Blast
+
+By directing your vectored thrusters all around your mecha, you can kick up a
+cloud of dust and debris that obscures the battlefield.
+
+Prerequisite: Pilot 10 ranks, mecha flight system (either jetpack, thruster
+boots, or ramjet thruster boots).
+
+Benefit: You can aim your thruster exhaust toward the ground to create a
+hemispherical cloud. If you are within 30 feet of the ground and there is
+loose debris or dust, you can create a cloud with a 50-foot radius centered
+directly below you. The generated winds snuff out small fires and give guided
+missiles attacking you a –4 penalty on their attack rolls. Creatures without
+eye protection caught within the debris cloud are blinded while inside it and
+for 1 round after emerging from it. The debris cloud grants anyone inside it
+one-half concealment (20% miss chance). Mecha with sensor systems ignore the
+concealment effects.
+
+Because some mecha have vectored thrust systems, their flight path isn’t
+affected by the aim of the exhaust. They don’t have to hover or fly upward to
+create the cloud.
+

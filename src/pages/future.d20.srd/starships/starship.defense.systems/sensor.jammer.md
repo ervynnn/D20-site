@@ -1,0 +1,23 @@
+---
+title: Sensor Jammer
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Defense Systems](/future.d20.srd/starships/starship.defense) > Sensor Jammer
+
+## Sensor Jammer (PL 5)
+
+A sensor jammer interferes with radar and enemy sensor scans. It also
+confounds missile guidance systems.
+
+Sensor checks made against a ship with an active sensor jammer take a –5
+penalty. In addition, the ship gains one-half concealment against missile
+attacks (20% miss chance).
+
+Any ship with a Class III sensor system (or better) is not subject to the
+effects of the sensor jammer, ignoring the penalty and miss chance.
+
+Purchase DC: 5 + one-half the base purchase DC of the starship.
+
+Restriction: Military (+3).
+

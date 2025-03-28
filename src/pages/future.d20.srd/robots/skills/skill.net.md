@@ -1,0 +1,24 @@
+---
+title: Skill Net
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > [Skills](/future.d20.srd/robots/skills) > Skill Net
+
+## Skill Net (PL 7)
+
+A skill net consists of a series of interlocking programs that allow the robot
+to acquire ranks in multiple skills. The number of ranks in any given skill
+cannot exceed the programmer’s ranks in the skill being emulated. A factory-
+built skill net typically holds 4, 8, or 12 ranks in as many as four different
+skills. A robot can have multiple skill nets. Skill nets allow a robot to
+benefit from skill synergy.
+
+A skill net can be reprogrammed one skill at a time. Replacing one skill with
+another or increasing the number of ranks of an already existing skill
+requires 1 hour of work and a successful Computer Use check (DC 20 + number of
+skill ranks emulated by the software).
+
+Purchase DC: 18 (four skills at 4 ranks each), 21 (four skills at 8 ranks
+each), or 23 (four skills at 12 ranks each).
+

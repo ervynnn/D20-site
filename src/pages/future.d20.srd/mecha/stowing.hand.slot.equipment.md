@@ -1,0 +1,18 @@
+---
+title: Stowing Hand Slot Equipment
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > Stowing Hand Slot Equipment
+
+## Stowing Hand Slot Equipment
+
+Any piece of mecha equipment integrated into a mecha’s hand slot—and only the
+hand slot—can be stowed magnetically against the mecha or in a storage
+compartment as a move action. This frees up the hand to perform more delicate
+manipulation (such as opening a door or pressing a button) or grabbing another
+piece of mecha equipment.
+
+A mecha may have more pieces of equipment for its hand slots than it has hand
+slots available; it just can’t use them all at once.
+

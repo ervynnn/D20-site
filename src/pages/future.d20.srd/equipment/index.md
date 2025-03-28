@@ -1,0 +1,48 @@
+---
+title: Equipment
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > Equipment
+
+##  Equipment
+
+[ The Gadget System ](/future.d20.srd/equipment/the.gadget.system)
+
+  * [ Universal Weapon Gadgets ](/future.d20.srd/equipment/gadgets.universal.weapons)
+  * [ Universal Armor Gadgets ](/future.d20.srd/equipment/gadgets.universal.armor)
+  * [ Universal Equipment Gadgets ](/future.d20.srd/equipment/gadgets.universal.equipment)
+
+[ Progress Level 5 Gear ](/future.d20.srd/equipment/progress.level.5.gear)
+
+  * [ Information Age Weapons ](/future.d20.srd/equipment/information.age.weapons)
+  * [ Information Age Armor ](/future.d20.srd/equipment/information.age.armor)
+  * [ Information Age Equipment ](/future.d20.srd/equipment/information.age.equipment)
+
+[ Progress Level 6 Gear ](/future.d20.srd/equipment/progress.level.6.gear)
+
+  * [ Fusion Age Weapons ](/future.d20.srd/equipment/fusion.age.weapons)
+  * [ Fusion Age Weapon Gadgets ](/future.d20.srd/equipment/fusion.age.weapon.gadgets)
+  * [ Fusion Age Armor ](/future.d20.srd/equipment/fusion.age.armor)
+  * [ Fusion Age Armor Gadgets ](/future.d20.srd/equipment/fusion.age.armor.gadgets)
+  * [ Fusion Age Equipment ](/future.d20.srd/equipment/fusion.age.equipment)
+  * [ Fusion Age Equipment Gadgets ](/future.d20.srd/equipment/fusion.age.equipment.gadgets)
+
+[ Progress Level 7 Gear ](/future.d20.srd/equipment/progress.level.7.gear)
+
+  * [ Gravity Age Weapons ](/future.d20.srd/equipment/gravity.age.weapons)
+  * [ Gravity Age Weapon Gadgets ](/future.d20.srd/equipment/gravity.age.weapon.gadgets)
+  * [ Gravity Age Armor ](/future.d20.srd/equipment/gravity.age.armor)
+  * [ Gravity Age Armor Gadgets ](/future.d20.srd/equipment/gravity.age.armor.gadgets)
+  * [ Gravity Age Equipment ](/future.d20.srd/equipment/gravity.age.equipment)
+  * [ Gravity Age Equipment Gadgets ](/future.d20.srd/equipment/gravity.age.equipment.gadgets)
+
+[ Progress Level 8 Gear ](/future.d20.srd/equipment/progress.level.8.gear)
+
+  * [ Energy Age Weapons ](/future.d20.srd/equipment/energy.age.weapons)
+  * [ Energy Age Weapon Gadgets ](/future.d20.srd/equipment/energy.age.weapon.gadgets)
+  * [ Energy Age Armor ](/future.d20.srd/equipment/energy.age.armor)
+  * [ Energy Age Armor Gadgets ](/future.d20.srd/equipment/energy.age.armor.gadgets)
+  * [ Energy Age Equipment ](/future.d20.srd/equipment/energy.age.equipment)
+  * [ Energy Age Equipment Gadgets ](/future.d20.srd/equipment/energy.age.equipment.gadgets)
+

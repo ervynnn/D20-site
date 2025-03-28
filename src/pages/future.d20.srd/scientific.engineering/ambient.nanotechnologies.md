@@ -1,0 +1,26 @@
+---
+title: Ambient Nanocolonies
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > Ambient Nanocolonies
+
+## Ambient Nanocolonies
+
+In addition to the independent and internal nanocolonies, a third type of
+nanocolony exists. The ambient nanocolony floats in the air with no fixed
+location or purpose. Most ambient nanocolonies exist in areas where nanotech
+has either grown out of control or where civilization has declined, leaving
+behind only microscopic remnants of its technology. Often referred to as
+“zombie nanites,” these nanocolonies float around aimlessly until some outside
+stimulus reactivates them. In some cases, ambient nanocolonies even try to
+continue to fill their intended purpose long after the conditions necessary to
+do so have passed; ambient utility fog (described below) might continue to try
+and build roads where no roads have been needed for years, while an inert
+ambient nanocolony of gray goo (also described below) might suddenly
+reactivate, essentially becoming a nanite minefield.
+
+Only in rare cases are internal nanocolonies found in ambient situations,
+usually having been removed from (or drained from the decaying body of) a
+character or creature that once made use of them.
+

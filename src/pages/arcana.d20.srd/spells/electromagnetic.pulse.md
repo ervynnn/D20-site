@@ -1,0 +1,42 @@
+---
+title: Electromagnetic Pulse
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Electromagnetic Pulse
+
+## Electromagnetic Pulse
+
+Evocation [Electricity]
+
+Level: Arcane 3; Components: V, S; Casting Time: Attack action; Range: Short
+(25 ft. + 5 ft./2 levels); Area: 20-ft. burst; Duration: Instantaneous; Saving
+Throw: Will negates (object); Spell Resistance: Yes (object)
+
+When you cast electromagnetic pulse, you send a powerful burst of energy that
+ruins electronic circuitry within the spell’s area. Any computer, telephone,
+television, or other device with a computer processor inside ceases to
+function immediately, and the contents of hard drives and other storage media
+are scrambled.
+
+The electromagnetic pulse affects only devices with extensive circuitry, not
+everything that uses electricity. Ordinarily the lights stay on, although
+their electronic switches might not function. Automobiles continue to run,
+although their engines will run more roughly without electronic guidance. Most
+cars manufactured after the 1980s won’t start after an electromagnetic pulse
+because they have electronic ignition systems.
+
+Devices affected by an electromagnetic pulse can be fixed according to the
+following table.
+
+
+<table> <tr><th>Repair Task (Example)</th><th>Relevant Skill</th><th>Purchase DC</th><th>Repair DC</th><th>Time</th></tr> <tr><td>Simple processors (cars, elevator controls)</td><td>Repair</td><td>7</td><td>15</td><td>10 min.</td></tr> <tr class="shaded"><td>Complex processors (computers, home theaters)</td><td>Repair</td><td>10</td><td>20</td><td>1 hr.</td></tr> <tr><td>Data recovery (scrambled hard drive)</td><td>Computer Use</td><td>4</td><td>25</td><td>2 hr.</td></tr> </table>
+
+
+You can jury-rig repairs more quickly and cheaply, but the repairs may not
+last. See the description of the Repair skill for details.
+
+Some military gear is immune to energy effects such as electromagnetic pulse
+thanks to a process called tempest hardening. Tempest hardening adds +1 to the
+purchase DC of an item and makes it Restricted (+2).
+

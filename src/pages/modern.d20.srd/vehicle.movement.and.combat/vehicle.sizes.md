@@ -1,0 +1,20 @@
+---
+title: Vehicle Sizes
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Vehicle Movement and Combat](/modern.d20.srd/vehicle.movement.and.combat) > Vehicle Sizes
+
+##  Vehicle Sizes
+
+[ Vehicles ](/modern.d20.srd/equipment/equipment.vehicles) use the same size
+categories as characters and creatures, as shown on Table: Vehicle Sizes. The
+[ vehicle’s ](/modern.d20.srd/equipment/equipment.vehicles) size modifier
+applies to its [ initiative ](/modern.d20.srd/combat/initiative) modifier, [maneuver ](/modern.d20.srd/vehicle.movement.and.combat/simple.maneuvers)
+modifier, and [ Defense ](/modern.d20.srd/combat/defense) . (The size modifier
+is already included in the vehicle statistics on [ Table: Vehicles](/modern.d20.srd/equipment/equipment.vehicles) )
+
+
+<table> <tr> <th colspan="3"> Table: Vehicle Sizes </th> </tr> <tr> <th> Vehicle Size </th> <th> Size Modifier </th> <th> Examples </th> </tr> <tr> <td> Colossal </td> <td> –8 </td> <td> Yacht, semi with trailer </td> </tr> <tr class="shaded"> <td> Gargantuan </td> <td> –4 </td> <td> Tank, limousine </td> </tr> <tr> <td> Huge </td> <td> –2 </td> <td> Luxury car, SUV, armored car </td> </tr> <tr class="shaded"> <td> Large </td> <td> –1 </td> <td> Economy car, Harley </td> </tr> <tr> <td> Medium-size </td> <td> +0 </td> <td> Racing bike, dirt bike </td> </tr> </table>
+
+

@@ -1,0 +1,30 @@
+---
+title: Feats
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > Feats
+
+## Mecha Fling
+
+You can pick up an opponent with your mecha and fling it.
+
+Prerequisite: Mecha Operation, at least one free hand slot.
+
+Benefit: Your mecha can make a grapple check at a –20 penalty against an
+opponent at least two size categories smaller than it. If the grapple
+succeeds, you can use an attack action to fling the held opponent on your next
+action. The range increment for the thrown foe is 10 feet, and the maximum
+range is 100 feet.
+
+A creature may be thrown horizontally or vertically. If thrown vertically, it
+takes normal falling damage. If thrown horizontally, it takes damage as though
+it had fallen half the distance thrown (rounded down), and you may apply your
+mecha-modified Strength bonus to the damage.
+
+Your mecha may also fling your opponent at another mecha, vehicle, or
+creature. To do so, make an attack roll at a –4 penalty, with appropriate
+range penalties, against the target. If you hit, both the thrown creature and
+the target take the amount of damage that the thrown creature would have
+otherwise taken, as given above.
+

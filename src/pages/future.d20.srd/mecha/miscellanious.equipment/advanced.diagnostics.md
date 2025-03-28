@@ -1,0 +1,24 @@
+---
+title: Advanced Diagnositcs
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Miscellanious Equipment](/future.d20.srd/mecha/miscellanious) > Advanced Diagnositcs
+
+## Advanced Diagnostics (PL 7)
+
+Multiple redundant systems coupled with the ability to detect and correct
+minor system faults allow the mecha to repair moderate damage. Advanced
+diagnostics restores 1d10 points of damage per hour, during which time the
+mecha cannot move or attack. Only the mecha’s bonus hit points are repaired,
+not damage to the mecha’s operator.
+
+**Equipment Slots** : 1.  
+**Activation** : Move action.  
+**Range** : Personal.  
+**Target** : You.  
+**Duration** : 1 round.  
+**Saving Throw** : None.  
+**Purchase DC** : 15 + one-quarter the mecha’s base purchase DC.  
+**Restriction** : None.
+

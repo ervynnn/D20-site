@@ -1,0 +1,28 @@
+---
+title: Integrated Equipment
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Weapon Gadgets ](/future.d20.srd/equipment/gadgets.universal.weapons) > Integrated Equipment
+
+##  Integrated Equipment
+
+A particular piece of nonweapon equipment has been integrated into the weapon
+and can be used by the weapon’s bearer at any time. This gadget is often used
+to give ranged weapons features like glow-lamps or flares, though it is not
+limited to those applications. Some weapons may use the integrated equipment
+gadget to incorporate a small computer or sensor module, reducing the amount
+of equipment the character has to carry.
+
+When selecting the integrated equipment gadget, choose a piece of equipment.
+That equipment is integrated into the base weapon and can be used at any time.
+Additionally, you must choose whether or not the equipment may be physically
+separated from the base weapon or not at the time of purchase. This gadget may
+be selected multiple times, each time adding a single additional piece of
+equipment to the base model.
+
+**Restrictions** : The character must also purchase the piece of equipment to
+be integrated separately from the weapon, before the gadget modification is
+made.  
+**Purchase DC Modifier** : +1.
+

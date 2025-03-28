@@ -1,0 +1,68 @@
+---
+title: Institute for Continuous Education
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Organizations ](/arcana.d20.srd/organizations) > Institute for Continuous Education
+
+##  Institute for Continuous Education
+
+Adult education is a thriving business. In this modern world there are always
+new skills to learn and information to master. This is even truer since the
+recent rise of Shadow. Although most mundane folk do not recognize Shadow
+entities for what they are, some do and they are understandably curious.
+
+The Institute for Continuous Education is dedicated to the premise that the
+more mundane folks understand at least the basic facts about magic, monsters,
+species from beyond Shadow, the better life will be for everyone. Classes are
+scheduled in convenient evening and weekend hours, and are taught by local
+experts in the field.
+
+The classes offered by the Institute are bare bones basic. They mostly give
+mundane humans the vocabulary necessary to intelligently discuss creatures and
+effects of Shadow. However, if students stay with the program for several
+years, they eventually progress to the point of being able to cast spells,
+speak Shadow languages, and move relatively unobtrusively among creatures and
+species from other realms.
+
+There is little of value for heroes in the Institute’s classes. But the
+instructors are often former-heroes or Shadow creatures and so make good
+contacts. They are usually in touch with various aspects of the local Shadow
+communities and make excellent sources of information.
+
+The only way heroes would fit in with this organization would be if they hired
+on as instructors. In that case, they would be able to requisition equipment
+from the Institute with an appropriate level check. These checks receive a +2
+bonus if they are valid requests for the course a character is teaching, or a
+–5 penalty if they are frivolous.
+
+**Dr. Allison’s Guide to the Mystic Arts**
+
+The primary text for all courses taught at the Institute for Continuous
+Education, this book by Rose Allison, PhD has also become an international
+best seller.
+
+Until a few years ago, Dr. Allison was an obscure parapsychologist with a
+weekly syndicated talk radio show that was barely kept on the air through
+grants from various occult foundations and eccentric individuals. With the
+rise of Shadow, however, she quickly became the popular figure most literate
+in the ways of magic and creatures from beyond reality. Unlike most people in
+her field, though, Dr. Allison had been engaged in serious research, delving
+into the past and gathering useful and accurate information about previous
+Shadow incursions. She was quickly able to turn her years of notes into a
+cohesive and entertainingly written book. It serves as a perfect primer for
+mundane folk who want to learn about spellcasting, potion brewing, and other
+magic processes. It also is an invaluable aid to those doing serious research
+on spells effects, components, and the process of creating magic items.
+
+The Institute for Continuous Education hosts a website with an interactive
+version of Dr. Allison’s Guide. This is a private site, though, and is only
+accessible to current students whose tuition is paid in full. (It is possible
+for non-students to access the website by succeeding at a DC 20 Computer Use
+check.
+
+Anyone using Dr. Allison’s Guide to the Mystic Arts gets a +5 equipment bonus
+on Research and Knowledge (Arcane Lore) checks. Users also receive a +2
+equipment bonus on Craft (chemical), Craft (visual arts), and Craft (writing)
+checks when brewing potions and scribing tattoos or scrolls.
+

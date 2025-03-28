@@ -1,0 +1,68 @@
+---
+title: Archaic Weapons
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > [Melee Weapons](/modern.d20.srd/equipment/weapons.melee) > Archaic Weapons
+
+## Archaic Weapons
+
+(require the Archaic Weapons Proficiency feat)
+
+
+<table> <tr><th> Weapon</th><th> <a href="/modern.d20.srd/equipment/weapons.melee">Damage</a></th><th> <a href="/modern.d20.srd/equipment/weapons.melee">Critical</a></th><th> <a href="/modern.d20.srd/equipment/weapons.melee">Damage Type</a></th><th> <a href="/modern.d20.srd/equipment/weapons.melee">Range Increment</a></th><th> <a href="/modern.d20.srd/equipment/weapons.melee">Size</a></th><th> <a href="/modern.d20.srd/equipment/weapons.melee">Weight</a></th><th> <a href="/modern.d20.srd/equipment/weapons.melee">Purchase DC</a></th><th> <a href="/modern.d20.srd/equipment/weapons.melee">Restriction </a></th> </tr> <tr><td> Bayonet (fixed)<sup>1</sup></td><td> 1d4/1d6</td><td> 20</td><td> Piercing</td><td> —</td><td> Large</td><td> 1 lb.</td><td> 7</td><td> — </td></tr> <tr><td> Hatchet</td><td> 1d6</td><td> 20</td><td> Slashing</td><td> 10 ft.</td><td> Small</td><td> 4 lb.</td><td> 4</td><td> — </td></tr> <tr><td> Longsword</td><td> 1d8</td><td> 19–20</td><td> Slashing</td><td> —</td><td> Med</td><td> 4 lb.</td><td> 11</td><td> — </td></tr> <tr><td> Machete</td><td> 1d6</td><td> 19–20</td><td> Slashing</td><td> —</td><td> Small</td><td> 2 lb.</td><td> 5</td><td> — </td></tr> <tr><td> Rapier</td><td> 1d6</td><td> 18–20</td><td> Piercing</td><td> —</td><td> Med</td><td> 3 lb.</td><td> 10</td><td> — </td></tr> <tr><td> Spear</td><td> 1d8</td><td> 20</td><td> Piercing</td><td> —</td><td> Large</td><td> 9 lb.</td><td> 6</td><td> — </td></tr> <tr><td> Straight razor</td><td> 1d4</td><td> 19–20</td><td> Slashing</td><td> —</td><td> Tiny</td><td> 0.5 lb.</td><td> 4</td><td> — </td></tr> <tr><td> Sword cane<sup>1</sup></td><td> 1d6</td><td> 18–20</td><td> Piercing</td><td> —</td><td> Med</td><td> 3 lb.</td><td> 9</td><td> — </td></tr> <tr><td colspan="9" style="text-align: left; font-size: .8em;"> <sup>1</sup> See the description of this weapon for special rules. </td></tr> </table>
+
+
+Most of these weapons deal damage by means of a blade or a sharp point. Some
+of them are moderately expensive, reflecting their archaic nature in modern-
+day society.
+
+### Bayonet (Fixed)
+
+The statistics given describe a bayonet fixed at the end of a longarm with an
+appropriate mount. With the bayonet fixed, the longarm becomes a double
+weapon—clublike at one end and spearlike at the other. A character can fight
+with it as if fighting with two weapons, but if the character does so, he or
+she incurs all the normal attack penalties associated with fighting with two
+weapons, as if using a one-handed weapon and a light weapon.
+
+### Hatchet
+
+This light axe is a chopping tool that deals slashing damage when employed as
+a weapon.
+
+### Longsword
+
+This classic, straight blade is the weapon of knighthood and valor.
+
+### Machete
+
+This long-bladed tool looks much like a short, lightweight sword.
+
+### Rapier
+
+The rapier is a lightweight sword with a thin blade. A character can select
+the [Weapon Finesse](/modern.d20.srd/feats/weapon.finesse) feat to apply his
+or her [Dexterity](/modern.d20.srd/basics/ability.scores) modifier instead of
+[Strength](/modern.d20.srd/basics/ability.scores) modifier to attack rolls
+with a rapier.
+
+### Spear
+
+This primitive device is a reach weapon. A character can strike opponents 10
+feet away with it, but can’t use it against an adjacent foe.
+
+### Straight Razor
+
+Favored by old-school organized crime “mechanics,” this item can still be
+found in some barbershops and shaving kits.
+
+### Sword Cane
+
+This is a lightweight, concealed sword that hides its blade in the shaft of a
+walking stick or umbrella. Because of this special construction, a sword cane
+is always considered to be concealed; it is noticed only with a
+[Spot](/modern.d20.srd/skills/spot)
+[check](/modern.d20.srd/skills/skill.basics.php#skill) (DC 18). (The walking
+stick or umbrella is not concealed, only the blade within.)
+

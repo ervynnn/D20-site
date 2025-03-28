@@ -1,0 +1,39 @@
+---
+title: Speed
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > [Combat Statistics](/future.d20.srd/starships/combat/combat) > Speed
+
+## Speed
+
+Starships have two basic speeds: tactical speed and cruising speed.
+
+### Tactical Speed
+
+Tactical speed only comes into play when two or more starships engage in
+battle or otherwise interact with each other. A ship’s tactical speed is
+measured in 500-foot squares and tells how far a starship can move in a move
+action. A starship’s tactical speed depends on the type of ship and the type
+of engines (see Starship Engines). Certain types of armor can reduce a
+starship’s tactical speed (see Starship Armor).
+
+A starship normally moves as a move action, leaving an attack action to
+attack. It can, however, use its attack action as a second move action (see
+Starship Actions, below). This could let the ship move again, for a total
+movement of up to double its normal tactical speed. Another option is to surge
+forward (a full-round action). This lets the ship move up to four times its
+normal speed, but it can only surge forward in a straight line, and doing so
+affects its Defense (see Surge Forward).
+
+### Cruising Speed
+
+Cruising speed determines how quickly a ship moves across vast distances, such
+as between planets or star systems. A ship’s cruising speed depends on the
+type of ship and its engines (see Starship Engines).
+
+A ship can enter or leave a battle at cruising speed, but once it enters
+battle, it automatically drops to tactical speed. Cruising speed does not come
+into play during starship battles or in any other situation where two or more
+starships interact.
+

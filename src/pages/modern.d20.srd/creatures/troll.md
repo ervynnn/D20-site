@@ -1,0 +1,122 @@
+---
+title: Troll
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Troll
+
+## Troll
+
+### Species Traits
+
+Rend (Ex): If a troll hits with both claw attacks, it latches onto the
+opponent’s body and tears the flesh. This attack automatically deals an
+additional 2d6+9 points of [damage](/modern.d20.srd/combat/damage).
+
+[Regeneration](/modern.d20.srd/special.abilities/regeneration) (Ex): A troll
+regenerates 5 points of [damage](/modern.d20.srd/combat/damage) each round but
+cannot regenerate acid or fire [damage](/modern.d20.srd/combat/damage). If a
+troll loses a limb or body part, the lost portion regrows in 3d6 minutes. The
+creature can reattach the severed member instantly by holding it to the stump.
+
+[Scent](/modern.d20.srd/special.abilities/scent) (Ex): This ability allows a
+troll to detect approaching enemies, sniff out hidden foes, and track by sense
+of smell.
+
+[Darkvision](/modern.d20.srd/special.abilities/darkvision) (Ex): Instead of
+the low-light vision normally possessed by creatures of the
+[giant](/modern.d20.srd/creature.types/giant) type, trolls have
+[darkvision](/modern.d20.srd/special.abilities/darkvision) with a range of 90
+feet.
+
+Bonus Feat: A troll gains either [Archaic Weapons Proficiency](/modern.d20.srd/feats/archaic.weapons.proficiency) or [Simple Weapons Proficiency](/modern.d20.srd/feats/simple.weapons.proficiency) as a
+bonus feat.
+
+Automatic Language: Trolls [speak](/modern.d20.srd/skills/speak.language) (but
+neither [read](/modern.d20.srd/skills/read.write.language) nor
+[write](/modern.d20.srd/skills/read.write.language)) Giant or one other
+language.
+
+Troll: CR 5; Large [giant](/modern.d20.srd/creature.types/giant); HD 6d8+36;
+[hp](/modern.d20.srd/combat/hit.points) 63;
+[Mas](/modern.d20.srd/creatures/creature.overview) 23;
+[Init](/modern.d20.srd/combat/initiative) +2; Spd 30 ft.;
+[Defense](/modern.d20.srd/combat/defense) 18,
+[touch](/modern.d20.srd/combat/attack.actions) 11, [flat- footed](/modern.d20.srd/combat/surprise) 15 (–1 size, +2
+[Dex](/modern.d20.srd/basics/ability.scores), +7 natural); BAB +4;
+[Grap](/modern.d20.srd/combat/grapple) +14;
+[Atk](/modern.d20.srd/combat/attack.roll) +9
+[melee](/modern.d20.srd/combat/attack.roll) (1d6+6, claw); Full Atk +9
+[melee](/modern.d20.srd/combat/attack.roll) (1d6+6, 2 claws), +7
+[melee](/modern.d20.srd/combat/attack.roll) (1d6+3 bite), or +5 ranged;
+[FS](/modern.d20.srd/creatures/creature.overview) 10 ft. by 10 ft.; Reach 10
+ft.; [SQ](/modern.d20.srd/creatures/creature.overview) rend 2d6+9,
+[regeneration](/modern.d20.srd/special.abilities/regeneration) 5 (cannot
+regenerate acid or fire damage), scent,
+[darkvision](/modern.d20.srd/special.abilities/darkvision) 90 ft.;
+[AL](/modern.d20.srd/basics/allegiances) chaos, evil;
+[SV](/modern.d20.srd/basics/saving.throws) Fort +11, Ref +4, Will +1;
+[AP](/modern.d20.srd/creatures/creature.overview) 0;
+[Rep](/modern.d20.srd/creatures/creature.overview) +0;
+[Str](/modern.d20.srd/basics/ability.scores) 23,
+[Dex](/modern.d20.srd/basics/ability.scores) 14,
+[Con](/modern.d20.srd/basics/ability.scores) 23,
+[Int](/modern.d20.srd/basics/ability.scores) 6,
+[Wis](/modern.d20.srd/basics/ability.scores) 9,
+[Cha](/modern.d20.srd/basics/ability.scores) 6.
+
+[Skills](/modern.d20.srd/skills): [Listen](/modern.d20.srd/skills/listen) +5,
+[Speak](/modern.d20.srd/skills/speak.language) Giant,
+[Spot](/modern.d20.srd/skills/spot) +5.
+
+[Feats](/modern.d20.srd/feats): [Alertness](/modern.d20.srd/feats/alertness),
+Multiattack, [Simple Weapons Proficiency](/modern.d20.srd/feats/simple.weapons.proficiency).
+
+Advancement: By character class.
+
+Troll [Tough Hero](/modern.d20.srd/classes/basic/tough.hero) 7: CR 12; Large
+[giant](/modern.d20.srd/creature.types/giant); HD 6d8+42 plus 7d10+49 plus 7
+(robust); [hp](/modern.d20.srd/combat/hit.points) 163;
+[Mas](/modern.d20.srd/creatures/creature.overview) 25;
+[Init](/modern.d20.srd/combat/initiative) +2; Spd 30 ft.;
+[Defense](/modern.d20.srd/combat/defense) 22,
+[touch](/modern.d20.srd/combat/attack.actions) 15, [flat- footed](/modern.d20.srd/combat/surprise) 19 (–1 size, +2
+[Dex](/modern.d20.srd/basics/ability.scores), +4 class, +7 natural); BAB +9;
+[Grap](/modern.d20.srd/combat/grapple) +19;
+[Atk](/modern.d20.srd/combat/attack.roll) +14
+[melee](/modern.d20.srd/combat/attack.roll) (1d6+6, claw); Full Atk +14
+[melee](/modern.d20.srd/combat/attack.roll) (1d6+6, 2 claws), +12
+[melee](/modern.d20.srd/combat/attack.roll) (1d6+3 bite), or +10/+5 ranged
+(2d8, M16A2); [FS](/modern.d20.srd/creatures/creature.overview) 10 ft. by 10
+ft.; Reach 10 ft.; [SQ](/modern.d20.srd/creatures/creature.overview) rend
+2d6+9, [regeneration](/modern.d20.srd/special.abilities/regeneration) 5
+(cannot regenerate acid or fire damage), scent,
+[darkvision](/modern.d20.srd/special.abilities/darkvision) 90 ft.;
+[AL](/modern.d20.srd/basics/allegiances) chaos, evil;
+[SV](/modern.d20.srd/basics/saving.throws) Fort +15, Ref +6, Will +3;
+[AP](/modern.d20.srd/creatures/creature.overview) 3;
+[Rep](/modern.d20.srd/creatures/creature.overview) +2;
+[Str](/modern.d20.srd/basics/ability.scores) 23,
+[Dex](/modern.d20.srd/basics/ability.scores) 14,
+[Con](/modern.d20.srd/basics/ability.scores) 25,
+[Int](/modern.d20.srd/basics/ability.scores) 6,
+[Wis](/modern.d20.srd/basics/ability.scores) 9,
+[Cha](/modern.d20.srd/basics/ability.scores) 6.
+
+[Skills](/modern.d20.srd/skills): [Climb](/modern.d20.srd/skills/climb) +8,
+[Drive](/modern.d20.srd/skills/drive) +7,
+[Listen](/modern.d20.srd/skills/listen) +5,
+[Read/Write](/modern.d20.srd/skills/read.write.language) English,
+[Speak](/modern.d20.srd/skills/speak.language) English,
+[Speak](/modern.d20.srd/skills/speak.language) Giant,
+[Spot](/modern.d20.srd/skills/spot) +5.
+
+[Feats](/modern.d20.srd/feats): [Advanced Firearms Proficiency](/modern.d20.srd/feats/advanced.firearms.proficiency),
+[Alertness](/modern.d20.srd/feats/alertness), [Heroic Surge](/modern.d20.srd/feats/heroic.surge), [Improved Bull Rush](/modern.d20.srd/feats/improved.bull.rush), Multiattack, [Power Attack](/modern.d20.srd/feats/power.attack), [Simple Weapons Proficiency](/modern.d20.srd/feats/simple.weapons.proficiency), [Vehicle Expert](/modern.d20.srd/feats/vehicle.expert).
+
+Talents ([Tough Hero](/modern.d20.srd/classes/basic/tough.hero)): Acid
+resistance 7, fire resistance 7, robust, second wind.
+
+Possessions: M16A2 (5.56mm assault rifle), 200 rounds of 5.56mm ammunition,
+mesh vest, 8-person dome tent in backpack.
+

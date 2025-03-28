@@ -1,0 +1,49 @@
+---
+title: Teleport
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Teleport
+
+##  Teleport
+
+Conjuration (Teleporting)
+
+Skill Check: Knowledge (arcane lore) DC 31, 5 successes, and Navigate DC 31, 1
+success; Failure: Two consecutive failed skill checks; Components: V, S, SC,
+B; Casting Time: 60 minutes (minimum); Range: Personal and Touch; Target: You,
+up to six touched willing creatures, and touched objects weighing up to 500
+lb./level; Duration: Instantaneous; Saving Throw: None; Spell Resistance: No
+
+This incantation instantly transports you to a designated destination up to
+1,000 miles away. You can bring along up to 500 pounds of touched objects and
+up to six additional willing creatures (and their gear or objects up to their
+maximum load). All creatures to be transported must be in contact with one
+another, and at least one of those creatures must be in contact with you. The
+creatures may be the secondary casters of the incantation, but they don’t need
+to be.
+
+You must have some clear idea of the location and layout of the destination.
+The clearer your mental image, the more likely the teleportation works. Areas
+of strong physical or magical energies may make teleportation more hazardous
+or even impossible.
+
+Options: If you have global positioning system coordinates for your
+destination, decrease the Knowledge (arcane lore) and Navigate check DCs by
+–2.
+
+Secondary Casters: Three required (not including primary caster).
+
+Backlash: All casters take 2d6 points of damage.
+
+Failure: Mirrorcast. If the second consecutive Knowledge (arcane lore) check
+fails by 5 or less, you arrive off target, appearing safely a random distance
+away from the destination in a random direction. Distance off target is 1d10 x
+1d10% of the distance that was to be traveled. The GM determines the direction
+off target randomly, such as by rolling 1d8 and designating 1 as north, 2 as
+northeast, and so forth.
+
+If the second Knowledge (arcane lore) check fails by 6 or more, you wind up in
+an area that’s visually or thematically opposite to the destination. The GM
+determines the point of arrival.
+

@@ -1,0 +1,34 @@
+---
+title: Mecha Weapons
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > Mecha Weapons
+
+## Mecha Weapons
+
+Mecha use both melee and ranged weapons to dispatch foes. In addition, a
+weapon can either be handheld or integrated into the mecha’s superstructure;
+each version has its benefits.
+
+Handheld Weapons: A handheld weapon does not cost an equipment slot. However,
+a mecha with a handheld weapon can be disarmed.
+
+Integrated Weapons: An integrated weapon takes up one or more of the mecha’s
+equipment slots, but the mecha cannot be disarmed of the weapon. Table: Mecha
+Weapons summarizes each weapon’s statistics.
+
+To build a handheld or integrated weapon from scratch, a character must
+succeed at a Craft (mechanical) check (DC 30) after investing 60 hours in its
+assembly. A character without a mechanical tool kit takes a –4 penalty on the
+skill check. The character must also make a Wealth check against the weapon’s
+purchase DC.
+
+[Progress Level 5](/future.d20.srd/mecha/mecha.weapons/mecha.weapons.progress.level.5)
+
+[Progress Level 6](/future.d20.srd/mecha/mecha.weapons/mecha.weapons.progress.level.6)
+
+[Progress Level 7](/future.d20.srd/mecha/mecha.weapons/mecha.weapons.progress.level.7)
+
+[Progress Level 8](/future.d20.srd/mecha/mecha.weapons/mecha.weapons.progress.level.8)
+

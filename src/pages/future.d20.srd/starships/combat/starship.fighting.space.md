@@ -1,0 +1,32 @@
+---
+title: Starship Fighting Space
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > Starship Fighting Space
+
+## Starship Fighting Space
+
+Each square in starship scale measures 500 feet along a side (instead of 5
+feet, as in character-scale combat). All starships, regardless of size, have a
+square fighting space. Some starships occupy a single 500-foot square, while
+others have a larger fighting space, as noted below.
+
+An ultralight starship can be up to 250 feet long. It occupies a 250-foot-
+by-250-foot fighting space, and up to four ultralight starships can occupy a
+single 500-foot square.
+
+A light starship measures 251–500 feet in length. It has a 500-foot-
+by-500-foot fighting space and occupies a single 500-foot square.
+
+A mediumweight starship measures 501–1,000 feet in length. It occupies a
+1,000-foot-by-1,000-foot fighting space (4 500-foot squares).
+
+A heavy starship measures 1,001–1,500 feet long. It has a 1,500-foot-
+by-1,500-foot fighting space (9 500-foot squares).
+
+A superheavy starship is 1,501 feet long or longer. The smallest superheavy
+starships (measuring 1,501–2,000 feet long) have a 2,000-foot-by-2,000-foot
+fighting space (16 500-foot squares), although larger fighting spaces are
+possible.
+

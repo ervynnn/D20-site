@@ -1,0 +1,79 @@
+---
+title: Malleable Creature (Template)
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Malleable Creature (Template)
+
+##  Malleable Creature (Template)
+
+###  Template Traits
+
+“Malleable creature” is an acquired template that can be added to any
+corporeal humanoid or monstrous humanoid (referred to hereafter as the “base
+creature”). The creature retains its original type. It uses the base
+creature’s statistics and special abilities except as noted here.
+
+Challenge Rating: Same as base creature +1.
+
+Grapple Bonus: A malleable creature gains a +4 species bonus on grapple
+checks.
+
+Special Qualities: A malleable creature retains all the special qualities of
+the base creature and gains the additional special qualities described below.
+
+Bludgeoning Resistance 5 (Ex): A malleable creature ignores the first 5 points
+of bludgeoning damage from any single attack.
+
+Increased Reach (Ex): The reach of a malleable creature increases by 5 feet.
+
+Malleable Form (Ex): This ability allows a malleable creature to make itself
+look different. It can appear 1 foot shorter or taller than its normal height,
+and it can seem thinner or fatter. It cannot change its skin, hair color, body
+type, or number of limbs. This ability does not allow the malleable creature
+to mimic the appearance of specific individuals.
+
+As a full-round action, a malleable creature can squeeze through an opening as
+small as 6 inches square. In the case of an enclosed space, such as a
+drainpipe or airshaft, the malleable creature moves at one-third of its normal
+speed, but it can take no other actions until at least half of its body mass
+has emerged from the enclosure. Objects and clothing worn by the malleable
+creature may or may not be small enough to fit through the opening—objects
+larger than Tiny are left behind unless every part of the opening is large
+enough to accommodate them.
+
+Saves: Same as the base creature, with a +1 species bonus on Fortitude saves,
+and modified by new ability scores.
+
+Ability Scores: A malleable creature’s ability scores change as follows: Con
++2, Dex –4.
+
+Skill Bonuses: A malleable creature’s pliant body grants it a +4 species bonus
+on Disguise checks and a +10 species bonus on Escape Artist checks.
+
+Bonus Feat: A malleable creature gains Nimble as a bonus feat.
+
+Malleable Human Tough Hero 4/Dedicated Hero 3: CR 8; Medium-size humanoid; HD
+4d10+16 plus 3d6+12 plus 3 (Toughness); hp 63; Mas 19; Init –2; Spd 30 ft.;
+Defense 16, touch 13, flat-footed 16 (–2 Dex, +5 class, +3 undercover vest);
+BAB +5; Grap +10; Atk +6 melee (1d4+1, unarmed strike) or +3 ranged (2d6,
+Beretta 92F); Full Atk +6 melee (1d4+1, unarmed strike) or +3 ranged (2d6,
+Beretta 92F); FS 5 ft. by 5 ft.; Reach 10 ft.; SQ bludgeoning resistance 5,
+increased reach, malleable form; AL any; SV Fort +11, Ref +0, Will +6; AP 3;
+Rep +2; Str 12, Dex 6, Con 19, Int 10, Wis 16, Cha 11.
+
+**Skills:** Bluff +8, Climb +3, Concentration +6, Disguise +13, Escape Artist
++14, Knowledge (current events) +2, Read/ Write English, Speak English, Spot
++7, Survival +7.
+
+**Feats:** Armor Proficiency (light), Combat Martial Arts, Defensive Martial
+Arts, Great Fortitude, Improved Combat Martial Arts, Nimble, Simple Weapons
+Proficiency, Toughness.
+
+Talents (Tough Hero): Damage reduction 1/–, remain conscious.
+
+Talents (Dedicated Hero): Intuition, skill emphasis (Disguise).
+
+Possessions: Undercover vest, Beretta 92F (9mm autoloader), 50 rounds of 9mm
+ammunition, disguise kit.
+

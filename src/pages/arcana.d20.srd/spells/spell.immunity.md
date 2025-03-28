@@ -1,0 +1,29 @@
+---
+title: Spell Immunity
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Spell Immunity
+
+##  Spell Immunity
+
+Abjuration
+
+Level: Divine 4; Components: V, S, DF; Casting Time: Attack action; Range:
+Touch; Target: Creature touched; Duration: 10 minutes/level; Saving Throw:
+Will negates (harmless); Spell Resistance: Yes (harmless)
+
+The warded creature is immune to the effects of one specified spell for every
+four levels you have. The spells must be of 4th level or lower. The warded
+creature effectively has unbeatable spell resistance regarding the specified
+spell or spells. Naturally, such immunity doesn’t protect a creature from
+spells for which spell resistance doesn’t apply.
+
+Spell immunity protects against spells, spell-like effects of magic items, and
+innate spell-like abilities of creatures. It does not protect against
+supernatural or extraordinary abilities, such as breath weapons or gaze
+attacks. Only a particular spell can be protected against, not a school of
+spells or a group of spells that are similar in effect.
+
+A creature can have only one spell immunity spell in effect on it at a time.
+

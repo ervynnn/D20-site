@@ -1,0 +1,21 @@
+---
+title: Feats
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > Feats
+
+## Mecha Operation
+
+You know how to operate a mecha.
+
+Benefit: You do not suffer the restrictions on movement and penalties on skill
+checks for being unfamiliar with mecha controls. You can move normally in a
+mecha and generally perform any action as if you weren’t inside a mecha,
+subject to the obvious limitations of size. You threaten areas within your
+reach even if unarmed.
+
+Normal: Characters without this feat take a –4 penalty on Balance, Climb,
+Drive, Escape Artist, Hide, Move Silently, Pilot, and Tumble checks when
+operating a mecha. Furthermore, they cannot run or charge.
+

@@ -1,0 +1,72 @@
+---
+title: Move Actions
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > Move Actions
+
+## Move Actions
+
+Unless otherwise noted, move actions don’t require a Pilot check to perform.
+
+### Move at Tactical Speed
+
+A starship can move its tactical speed as a move action. If it takes this kind
+of move action during its turn, it cannot also take a 500- foot shift.
+
+Attacks of Opportunity: Moving through a threatened square provokes an attack
+of opportunity if the enemy ship has a point defense system (see Starship
+Defense Systems).
+
+### Damage Control
+
+A starship equipped with a damage control system can perform damage control as
+a move action (see Starship Defense Systems).
+
+Damage control cannot be performed if the ship has been reduced to negative
+hit points.
+
+### Operate Sensors
+
+See the expanded Computer Use skill description and Starship Sensors for
+details.
+
+### Ram
+
+Ramming is considered part of a move action. A pilot can use her starship to
+ram an object, including another starship. First, the pilot must enter the
+target’s square or fighting space and declare her attempt to ram the target.
+If the target has point-defense systems, it can make an attack of opportunity
+against the ramming starship. Second, the pilot must make a Pilot check (DC =
+5 + the target’s Defense). If the Pilot check fails, the ship misses the
+target and may finish its move. If the check succeeds, the starship collides
+with the intended target, dealing damage both to itself and the target
+(reduced by hardness, if applicable).
+
+A pilot cannot ram the same ship or object more than once during a given
+round. However, a pilot that fails to ram a target may attempt to ram a
+different target if her starship has sufficient movement left to reach the new
+target.
+
+Table: Collision Damage shows the amount of damage dealt to both colliding
+forces, based on the size of the smaller of the two colliding objects.
+
+
+<table> <tr><th colspan="2">Table: Collision Damage</th></tr> <tr><th>Size of Smaller Ship or Object</th><th>Collision Damage<sup>1</sup></th></tr> <tr><td>Colossal</td><td>12d6×10</td></tr> <tr class="shaded"><td>Gargantuan</td><td>6d6×10</td></tr> <tr><td>Huge</td><td>3d6×10</td></tr> <tr class="shaded"><td>Large</td><td>1d6×10</td></tr> <tr><td>Medium-size or smaller</td><td>—</td></tr> <tr><td colspan="2" style="font-size: .8em; text-align: left"> <sup>1</sup>Damage is applied to the ramming starship and its target. </td></tr> </table>
+
+
+### Sending/Jamming a Transmission
+
+See the expanded Computer Use skill description for details.
+
+### Start/Complete Full-Round Action
+
+The “start/complete full-round action” move action lets a starship begin
+undertaking a full-round action (such as those listed on Table: Starship
+Actions) at the end of its turn, or complete a full-round action by using a
+move action at the beginning of its turn in the round following the round when
+it started the full-round action. If a starship starts a full-round action at
+the end of its turn, the next action it takes must be to complete the full-
+round action—it can’t take another type of action before finishing what it
+started.
+

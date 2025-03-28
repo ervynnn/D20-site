@@ -1,0 +1,20 @@
+---
+title: Inflict Minor Wounds
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX ](/modern.d20.srd/fx) > Inflict Minor Wounds
+
+##  Inflict Minor Wounds
+
+Necromancy
+
+[ Level ](/modern.d20.srd/fx/level) : [ Acolyte](/modern.d20.srd/classes/advanced/acolyte) 0; [ Components](/modern.d20.srd/fx/components) : V, S; [ Casting Time](/modern.d20.srd/fx/casting.time) ; [ Attack action](/modern.d20.srd/combat/attack.actions) [ Range ](/modern.d20.srd/fx/range) :
+Touch; [ Target ](/modern.d20.srd/fx/target) : Creature touched; [ Duration](/modern.d20.srd/fx/duration) : Instantaneous; [ Saving Throw](/modern.d20.srd/basics/saving.throws) : Will negates; [ Spell Resistance](/modern.d20.srd/special.abilities/spell.resistance) : Yes
+
+The caster lays his or her hand upon a creature and channels negative energy
+that deals 1 point of [ damage ](/modern.d20.srd/combat/damage) .
+
+Since [ undead ](/modern.d20.srd/creature.types/undead) are powered by
+negative energy, this spell cures them of a like amount of [ damage](/modern.d20.srd/combat/damage) rather than harming them.
+

@@ -1,0 +1,33 @@
+---
+title: Seed: Transport
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Seed: Transport
+
+##  Seed: Transport
+
+Conjuration (Teleporting)
+
+Knowledge (arcane lore) DC: 32; Range: Touch; Target: You and touched objects
+or other touched willing creatures weighing up to 500 lb.; Duration:
+Instantaneous; Saving Throw: None and Will negates (object, subject); Spell
+Resistance: No and Yes (object, subject) Incantations using the transport seed
+instantly transport you to a designated destination up to 1,000 miles away.
+For each additional 500 miles you wish to travel, increase the Knowledge
+(arcane lore) check DC by +2.
+
+For each additional 50 pounds in objects (beyond the base 500 pounds),
+increase the Knowledge (arcane lore) check DC by +2. To bring along willing
+creatures, increase the Knowledge (arcane lore) check DC by +2 per three
+additional creatures.
+
+You need not make a saving throw, nor is spell resistance applicable to you.
+Only objects worn or carried (attended) by another unwilling creature receive
+saving throws and spell resistance. For an incantation intended to transport
+unwilling creatures, increase the Knowledge (arcane lore) check DC by +6. You
+must have at least a reliable description of the place to which you are
+transporting. If you attempt to use the transport seed with insufficient or
+misleading information, you disappear and simply reappear in your original
+location.
+

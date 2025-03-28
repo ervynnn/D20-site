@@ -1,0 +1,46 @@
+---
+title: Control Weather
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Control Weather
+
+##  Control Weather
+
+Evocation
+
+Skill Check: Knowledge (arcane lore) DC 34, 6 successes; Failure: Two
+consecutive failed skill checks; Components: V, S, SC; Casting Time: 60
+minutes (minimum); Range: Two miles; Area: Two-mile-radius circle, centered on
+you; Duration: 24 hours (D); Saving Throw: None; Spell Resistance: No
+
+You change the weather in the local area. It takes 10 minutes for the effects
+to manifest after the incantation is completed. The current, natural weather
+conditions are determined by the GM. You can call forth weather appropriate to
+the climate and season of the area you are in.
+
+
+<table> <tr> <th> Season </th> <th> Possible Weather </th> </tr> <tr> <td> Spring </td> <td> Tornado, thunderstorm, sleet storm, or hot weather </td> </tr> <tr class="shaded"> <td> Summer </td> <td> Torrential rain, heat wave, or hailstorm </td> </tr> <tr> <td> Autumn </td> <td> Hot or cold weather, fog, or sleet </td> </tr> <tr class="shaded"> <td> Winter </td> <td> Frigid cold, blizzard, or thaw </td> </tr> <tr> <td> Late winter </td> <td> Hurricane-force winds or early spring (coastal area) </td> </tr> </table>
+
+
+You control the general tendencies of the weather, such as the direction and
+intensity of the wind. You cannot control specific applications of the
+weather—where lightning strikes, for example, or the exact path of a tornado.
+When you select a certain weather condition to occur, the weather assumes that
+condition 10 minutes later (changing gradually, not abruptly). The weather
+continues as you left it for the duration, or until you use an attack action
+to designate a new kind of weather (which fully manifests itself 10 minutes
+later).
+
+Contradictory conditions are not possible simultaneously— fog and strong wind,
+for example.
+
+Control weather can do away with atmospheric phenomena (naturally occurring or
+otherwise) as well as create them.
+
+Secondary Casters: 12 required (not including the primary caster).
+
+Failure: Mirrorcast. The opposite weather effect manifests over the course of
+10 minutes (rain rather than a heat wave, for example, or a thaw rather than a
+blizzard). This weather persists for 4d12 hours and cannot be dismissed.
+

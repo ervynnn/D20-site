@@ -1,0 +1,33 @@
+---
+title: Moving Through Occupied Squares
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > Moving Through Occupied Squares
+
+## Moving Through Occupied Squares
+
+A starship can pass through a square occupied by another starship or object.
+
+Ally or Nonopposing Starship: You can safely move through a square occupied by
+an ally or nonopposing starship.
+
+Enemy Starship: Moving through a square occupied by an enemy provokes an
+attack of opportunity if the enemy has a point-defense system (see Starship
+Defense Systems). You can move safely through a square occupied by an enemy
+that doesn’t resist—such as one that is disabled—as if the enemy was
+nonopposing.
+
+Hazard: Safely moving through a square occupied by a hazard—such as a cloud of
+space debris or an asteroid— requires a successful Pilot check (see Avoiding
+Hazards).
+
+### Crossfire
+
+If two allied starships are on opposite sides of an enemy and each within
+1,000 feet (2 squares) of that opponent, they can catch the enemy ship in
+their crossfire. Because the enemy is forced to defend itself on two fronts,
+the allied starships gain a +2 bonus on attack rolls made against the ship
+caught in their crossfire. The enemy ship must be directly between the two
+allied ships, however.
+

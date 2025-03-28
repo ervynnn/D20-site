@@ -1,0 +1,65 @@
+---
+title: Alien Probe
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Alien Probe
+
+##  Alien Probe
+
+###  Species Traits
+
+Actinic Light (Sp): As an attack action, an alien probe can produce an
+extremely bright, blue-white light in a 60-foot cone. This light is not so
+much an attack form as a side effect of the means by which the creature
+gathers data. Nevertheless, exposure to the effect can cause mild discomfort
+or even harm to carbon-based life forms. Each creature within the area of the
+light takes 1d4 points of fire damage and is nauseated for 1d4 rounds; a
+successful Reflex save (DC 10 + 1/2 the alien probe’s Hit Dice + its Charisma
+modifier) halves the damage and negates the nauseating effect. A creature that
+fails the saving throw by 5 or more is also paralyzed until removed from the
+area. A creature that fails the save by 10 or more experiences such severe
+swelling of the flesh that it is blinded as well as paralyzed. The paralysis
+and blindness last for 2d4 days, or until the victim receives medical
+attention (Treat Injury DC 15).
+
+Construct: An alien probe has the traits and immunities common to constructs.
+
+Invisibility (Su): As a free action, an alien probe can become invisible by
+shifting its light display to a wavelength beyond other creatures’ ability to
+perceive. This ability is usable at will, and the effect lasts until dismissed
+(also a free action).
+
+Psionics (Sp): At will—brain lock, daze, detect psionics, tailor memory,
+telekinesis. Manifester level 10th; save DC 10 + alien probe’s key ability
+modifier + power level.
+
+Dimension Door (Sp): As an attack action, an alien probe can psionically
+transfer itself plus up to 300 pounds of additional material and/or creatures
+up to 600 feet; creatures can resist with a successful Will save (DC 10 + 1/2
+the alien probe’s Hit Dice + its Charisma modifier). The probe must be in
+physical contact with the materials or creatures that it wishes to transfer.
+This ability is usable at will.
+
+Shock (Ex): With a successful ranged touch attack, an alien probe can deal 2d6
+points of electricity damage.
+
+Supersonic Speed (Ex): At will, an alien probe can shift into an accelerated
+mode of travel that exceeds supersonic speed. Its fly speed changes to 4,000
+feet (good). It can maintain this increased speed for up to 6 hours per day,
+though it need not use the entire duration at once.
+
+Alien Probe: CR 5; Small construct; HD 6d10+5; hp 38; Mas —; Init +9; Spd fly
+400 ft. (perfect); Defense 20, touch 20, flat-footed 11 (+1 size, +9 Dex); BAB
++4; Grap +3; Atk +14 ranged touch (2d6 electricity, shock); Full Atk +14
+ranged touch (2d6 electricity, shock); FS 5 ft. by 5 ft.; Reach 5 ft.; SQ
+actinic light (DC 14), construct, darkvision 60 ft., dimension door (DC 14),
+invisibility, psionics, shock, supersonic speed; AL creator; SV Fort +2, Ref
++11, Will +5; AP 0; Rep +0; Str 1, Dex 28, Con —, Int 15, Wis 16, Cha 12.
+
+**Skills:** Listen +12, Spot +12.
+
+**Feats:** None.
+
+**Advancement:** None.
+

@@ -1,0 +1,36 @@
+---
+title: Magic Missle
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX](/modern.d20.srd/fx) > Magic Missle
+
+## Magic Missile
+
+Evocation [Force]
+
+[Level](/modern.d20.srd/fx/level):
+[Mage](/modern.d20.srd/classes/advanced/mage) 1;
+[Components](/modern.d20.srd/fx/components): V, S; [Casting Time](/modern.d20.srd/fx/casting.time); [Attack action](/modern.d20.srd/combat/attack.actions)
+[Range](/modern.d20.srd/fx/range): Medium (100 ft. + 10 ft./level);
+[Targets](/modern.d20.srd/fx/target): Up to five creatures, no two of which
+can be more than 15 ft. apart; [Duration](/modern.d20.srd/fx/duration):
+Instantaneous; [Saving Throw](/modern.d20.srd/basics/saving.throws): None;
+[Spell Resistance](/modern.d20.srd/special.abilities/spell.resistance): Yes
+
+A missile of magical energy shoots from the caster and unerringly strikes its
+target, dealing 1d4+1 points of [damage](/modern.d20.srd/combat/damage). The
+missile strikes unerringly, even if the target is in melee or has anything
+less than total [cover](/modern.d20.srd/combat/cover) or
+[concealment](/modern.d20.srd/combat/concealment). Specific parts of a
+creature can’t be singled out. In­an­imate objects are not damaged by the
+spell.
+
+For every two levels of experience past 1st, the caster gains an additional
+missile. He or she has two at 3rd level, three at 5th level, four at 7th
+level, and the maximum of five missiles at 9th level. If the caster shoots
+multiple missiles, they can be targeted at a single creature or several
+creatures. A single missile can strike only one creature. The caster must
+designate targets before rolling for [spell resistance](/modern.d20.srd/special.abilities/spell.resistance) or roll
+[damage](/modern.d20.srd/combat/damage).
+

@@ -1,0 +1,42 @@
+---
+title: Morphean
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > [Gene Therapy Templates](/future.d20.srd/scientific.engineering/gene.therapy.templates) > Morphean
+
+## Morphean (Template)
+
+“Morphean” is an acquired template that can be added to any humanoid or
+monstrous humanoid (referred to hereafter as the character). It uses all the
+character’s statistics and special abilities except as noted here.
+
+The morphean template allows the character to go for long periods without
+sleep and still function normally. It also allows the character to enter into
+a sleeplike trance that lasts for many days without suffering the effects of
+dehydration or starvation. A character acquires the morphean template by
+undergoing a course of gene therapy (see More Human than Human). The regimen
+requires 25 successful Fortitude saving throws (DC 20).
+
+Special Qualities: A morphean retains all the special qualities of the
+character and gains the additional special qualities listed below.
+
+Hibernate (Ex): A morphean can enter into a sleeplike state that lasts for an
+extended period. While in this state, the morphean does not suffer the effects
+of dehydration or starvation. Hibernation can last up to a number of days
+equal to twice the character’s Constitution. The morphean decides how long the
+hibernation will last before entering into the sleeplike state. If outside
+forces disturb or try to awaken the character, the morphean must succeed at a
+Will saving throw (DC 15) to end the hibernation prematurely.
+
+Sleepless (Ex): The morphean does not suffer the detrimental effects of sleep
+deprivation. Once per day, the morphean can spend 10 minutes meditating and
+receive all the benefits of a full 8 hours of sleep. However, morpheans cannot
+go indefinitely without sleep. Once every 30 days, the character must get 2
+full days of uninterrupted sleep or hibernation. Failure to do so makes the
+morphean fatigued.
+
+Saving Throws: A morphean gains a +2 species bonus on all Will saving throws.
+
+Advancement: By character class.
+

@@ -1,0 +1,25 @@
+---
+title: Stinger
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mutations](/future.d20.srd/mutations) > Stinger
+
+## Stinger [MAJOR]
+
+A poisonous stinger erupts from some part of your body—usually a needlelike
+barb protruding from an arm or leg joint, or a scorpionlike stinger on the end
+of a tail or similar appendage.
+
+MP Cost: 4.
+
+Benefit: Your sharp stinger deals piercing damage dependent on your size:
+Small 1d4, Medium-size 1d6, Large 1d8. If you get multiple attacks in a round,
+you can sting multiple times. The stinger is treated as a natural weapon and
+does not provoke attacks of opportunity. In addition, the stinger injects
+poison into the target, with effects similar to puffer poison.
+
+Special: This mutation can be used in conjunction with the Tail mutation, but
+the tail cannot be used as a bludgeoning weapon during the same round the
+stinger is used.
+

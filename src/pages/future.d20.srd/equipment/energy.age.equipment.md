@@ -1,0 +1,202 @@
+---
+title: Energy Age Equipment
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Equipment](/future.d20.srd/equipment) > Energy Age Equipment
+
+## Energy Age Equipment
+
+The following equipment is available at PL 8.
+
+
+<table> <tr><th colspan="5">Table: Progress Level 8 Equipment</th></tr> <tr><th>Name</th><th>Size</th><th>Weight</th><th>Purchase DC</th><th>Restriction</th></tr> <tr><th colspan="5" style="text-align: left">Chemical and Medical Equipment</th></tr> <tr><td>Chemical, plastiflesh</td><td>Tiny</td><td>0.5 lb.</td><td>6</td><td>—</td></tr> <tr class="shaded"><td>Chemical, truthtell</td><td>Diminutive</td><td>—</td><td>8</td><td>Lic (+1)</td></tr> <tr><td>Regen wand</td><td>Small</td><td>1 lb.</td><td>18</td><td>—</td></tr> <tr><th colspan="5" style="text-align: left">Computer Equipment</th></tr> <tr><td>Neural computer link</td><td>Fine</td><td>—</td><td>25</td><td>—</td></tr> <tr class="shaded"><td>Neural network jack, wireless</td><td>Fine</td><td>—</td><td>12</td><td>—</td></tr> <tr><th colspan="5" style="text-align: left">Miscellaneous Equipment</th></tr> <tr><td>Energy shield</td><td>Tiny</td><td>0.5 lb.</td><td>16</td><td>—</td></tr> <tr class="shaded"><td>Force field, personal (DR 5/–)</td><td>Tiny</td><td>0.5 lb.</td><td>18</td><td>Mil (+3)</td></tr> <tr><td>Force field, personal (DR 10/–)</td><td>Tiny</td><td>0.5 lb.</td><td>22</td><td>Mil (+3)</td></tr> <tr class="shaded"><td>Hologram player</td><td>Small</td><td>2 lb.</td><td>6</td><td>—</td></tr> <tr><td>Hologram recorder</td><td>Diminutive</td><td>—</td><td>9</td><td>—</td></tr> <tr class="shaded"><td>Hologuise</td><td>Small</td><td>1 lb.</td><td>15</td><td>—</td></tr> <tr><td>Matter shield</td><td>Tiny</td><td>0.5 lb.</td><td>20</td><td>Mil (+3)</td></tr> <tr class="shaded"><td>Micro-aural communicator</td><td>Fine</td><td>—</td><td>6</td><td>—</td></tr> <tr><td>Neural recorder</td><td>Small</td><td>1 lb.</td><td>15</td><td>Lic (+1)</td></tr> <tr class="shaded"><td>Photon shield</td><td>Small</td><td>2 lb.</td><td>24</td><td>Mil (+3)</td></tr> <tr><td>Polyvox</td><td>Tiny</td><td>0.5 lb.</td><td>10</td><td>—</td></tr> <tr><th colspan="5" style="text-align: left">Sensor Equipment</th></tr> <tr><td>Sensor, robocomp</td><td>Small</td><td>1 lb.</td><td>18</td><td>—</td></tr> </table>
+
+
+### Chemical, Plastiflesh
+
+Contained in a small spray can, plastiflesh bonds with human skin on contact
+and accelerates the healing process by providing a layer of artificial skin to
+seal the wound. The target of the spray immediately recovers 1d4 hit points.
+No Treat Injury check is required to use plastiflesh.
+
+### Chemical, Truthtell
+
+Truthtell is a specially formulated chemical that targets areas of the brain
+that handle creativity and, particularly, lying. By temporarily neutralizing
+these areas of the brain, truthtell makes it impossible for a character to lie
+while under the drug’s influence.
+
+A character injected with truthtell may make a Will save (DC 18) to negate its
+effects. On a failed save, the character is compelled to speak truthfully for
+the next 3d10 minutes. A subject under the effect of truthtell is aware of its
+influence and may still refuse to answer questions.
+
+### Energy Shield
+
+The energy shield is a potent defense mechanism that protects the user from
+dangerous energy.
+
+An energy shield grants its wearer one of the following types of energy
+resistance, as determined by the wearer upon activation: cold resistance 5,
+electricity resistance 5, fire resistance 5, or sonic/ concussion resistance
+5. As a move action, the wearer can adjust the shield to provide a different
+type of energy resistance, selected from the list above.
+
+### Force Field, Personal
+
+The most reliable and powerful personal defense mechanism in the Energy Age,
+the personal force field projects a defensive bubble around a single Medium-
+size or smaller character or item. The personal force field comes in two
+varieties, one that provides a DR of 5/— and another that provides DR 10/—.
+The device contains a power pack that provides up to 2 hours of use. A power
+backpack may be used to extend this duration to 8 hours.
+
+### Hologram Player
+
+A hologram player is a small disc with several small light projectors arranged
+around its outer edge. When activated, the device projects a three-dimensional
+image in full color as small as three inches in height or as large as a
+Medium-size character. The hologram player can be hooked into a hologram
+recorder (capable of storing three-dimensional images), or even to a unicom to
+receive three-dimensional images for real-time communications.
+
+### Hologram Recorder
+
+A hologram recorder is a cylinder no larger than a pen with a bulbous,
+transparent cap on one end. The device can make a three-dimensional recording
+of anything within its cone-shaped recording area. Hologram recorders can
+store up to one hour of three-dimensional images to be played back on a
+hologram player or transferred to a computer as video data. Most hologram
+recorders can also be attached to a unicom to serve as a video input device
+for real-time holographic communications. The hologram recorder is commonly
+carried by law enforcement agents, as it allows for the accurate collection of
+evidence and can prevent abuse on the part of the authorities.
+
+### Hologuise
+
+The hologuise is a combination hologram projector and digital imaging computer
+system that is worn like a headband over the forehead. When activated, the
+hologuise projects a three-dimensional image over the face that completely
+obscures the character’s natural features. This image is commonly a different
+face, but can be a black veil or some other decorative image instead. With
+practical and fashionable uses, hologuises are employed by the wealthy elite
+as well as by criminals and spies. An active hologuise grants the wearer a +10
+equipment bonus on all Disguise checks.
+
+### Matter Shield
+
+Designed to protect off-world miners from micrometeorites and the debris of
+mining explosions, matter shields were quickly adapted for military and law
+enforcement use.
+
+The matter shield grants its wearer DR 5/— against ballistic, bludgeoning,
+piercing, and slashing attacks.
+
+### Micro-Aural Communicator (Microcom)
+
+The micro-aural communicator consists of three components. A tiny earpiece
+transmits incoming communications directly into the ear, at a volume far too
+low to allow others to hear. A small node placed on the inside of the lip
+allows the user to broadcast while speaking no louder than a whisper. Finally,
+a wristband functions as the input/output port for hooking other devices into
+the microcom.
+
+Using a microcom does not provoke a normal Listen check and cannot be heard by
+any normal means.
+
+### Neural Computer Link
+
+The most advanced form of computer interface in the Energy Age, the neural
+computer link creates a direct connection between the brain and a computer
+system. The neural computer link eliminates the need for a physical interface.
+Instead, the user simply “thinks” commands to the computer. Output from the
+computer is sent straight to the user’s brain, tapping into the visualization
+centers to project images and displays directly into the user’s mind,
+eliminating the need for any sort of display device. In all other ways, the
+neural computer link allows the user to access the computer as if used
+conventionally. The neural computer link connects to a computer system via a
+network jack built into the base of the skull.
+
+One advantage this gives a character is that information may be downloaded
+directly into the brain. The character’s own mind becomes a hard drive for
+basic information, granting the character direct knowledge of a particular
+subject almost instantaneously.
+
+Though this does not allow the character to gain skill ranks, it does reduce
+the time required for Computer Use and Research checks to free actions. This
+applies only when the user is connected to a specific computer used for the
+Computer Use or Research check.
+
+The neural computer link can be connected, via the body’s central nervous
+system, directly into the user’s shepherd chip (see Progress Level 5
+Equipment). Whenever data is transferred via the shepherd chip, such as a
+person’s identity, that knowledge is immediately loaded into the character’s
+brain. Essentially, this means that any two characters with shepherd chips and
+neural computer links may instantly know one another simply by shaking hands.
+Neural computer links can also be connected to nanites in a character’s
+bloodstream. As in the case of piloting and driving assisting nanites, these
+nanites interface directly with the neural link and allow the character to
+give commands simply by thinking them.
+
+### Neural Network Jack, Wireless
+
+A natural extension of neural computing technology, the wireless neural
+network jack plugs into the neural computer link and allows for remote access
+to computer networks. Additionally, the wireless neural network jack with the
+satellite datalink gadget can connect to any global or galaxy-spanning
+computer network instantaneously. If the neural computer link is the basic
+means of connecting the human mind to a computer, the wireless neural network
+jack is the means of connecting the human mind to massive computer networks. A
+wireless neural network jack is useless unless the user also has a neural
+computer link.
+
+### Neural Recorder
+
+A flexible cap that resembles a grasping clawed hand, the neural recorder can
+collect data directly from the human mind. Any visual or auditory memories or
+thoughts can be transmitted through the neural recorder and stored in its
+memory. Capable of storing up to two hours of data, the neural recorder
+requires a Computer Use check (DC 15) to activate and operate. If the subject
+of the neural recording is willing, the neural recorder collects images and
+sounds from the subject’s mind and stores them as either two-dimensional or
+three-dimensional recordings. An unwilling subject may make a Will save (DC
+17) to prevent the recorder from functioning.
+
+### Photon Shield
+
+The photon shield is a technology loosely based on the light-bending
+properties of black holes. By using controlled gravity waves to create
+millions of microscopic black holes around the user, the photon shield bends
+light renders him invisible.
+
+A photon shield can cover a Medium-size or smaller creature or a Huge or
+smaller object. It grants a +40 equipment bonus on Hide checks if the subject
+is standing still, or a +20 equipment bonus if the subject is moving.
+Pinpointing the location of a character wearing a photon shield that isn’t
+attempting to hide requires a Spot check (DC 40 if the character is not
+moving, DC 20 if he or she is moving). Additionally, a character wearing a
+photon shield gains total concealment (50% miss chance) against attacks, even
+if the attackers correctly pinpoint its fighting space.
+
+### Polyvox
+
+The polyvox translates the languages of different cultures and species.
+
+### Regen Wand
+
+A regen wand is a tubular device roughly fifteen inches long. It emits waves
+of energy that promote cellular growth and healing. A character can use a
+regen wand as a first aid kit or medical kit. Because of the device’s
+simplicity, Treat Injury checks made with the regen wand gain a +4 equipment
+bonus.
+
+### Sensor, Robocomp
+
+The robocomp sensor is a hand-held computer or computerized gauntlet designed
+to assist in the evaluation and repairs of robots and robotic life forms. The
+robocomp can identify a robot’s current and maximum hit points. Additionally,
+thanks to the robocomp’s extensive library of robotic blueprints, any repairs
+made using the robocomp as a reference are more efficient, granting a +4
+equipment bonus on all Repair checks made to robots.
+

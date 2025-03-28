@@ -1,0 +1,21 @@
+---
+title: Progress Level 6 Gear
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > Progress Level 6 Gear
+
+##  Progress Level 6 Gear
+
+The Fusion Age is the first step to technology that seems to be beyond the
+reach of current scientific knowledge. Gear from this Progress Level is
+typically a stretch of the imagination, but could eventually be derived from
+current technology.
+
+  * [ Fusion Age Weapons ](/future.d20.srd/equipment/fusion.age.weapons)
+  * [ Fusion Age Weapon Gadgets ](/future.d20.srd/equipment/fusion.age.weapon.gadgets)
+  * [ Fusion Age Armor ](/future.d20.srd/equipment/fusion.age.armor)
+  * [ Fusion Age Armor Gadgets ](/future.d20.srd/equipment/fusion.age.armor.gadgets)
+  * [ Fusion Age Equipment ](/future.d20.srd/equipment/fusion.age.equipment)
+  * [ Fusion Age Equipment Gadgets ](/future.d20.srd/equipment/fusion.age.equipment.gadgets)
+

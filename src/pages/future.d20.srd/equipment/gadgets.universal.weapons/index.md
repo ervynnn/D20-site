@@ -1,0 +1,22 @@
+---
+title: Universal Weapon Gadgets
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > Universal Weapon Gadgets
+
+##  Universal Weapon Gadgets
+
+The following gadgets are universal and can apply to weapons found in any era,
+provided all gadget-specific restrictions are observed.
+
+| [ Alternate Weapon](/future.d20.srd/equipment/gadgets.universal.weapons/alternate.weapon) | [ Autofire Module](/future.d20.srd/equipment/gadgets.universal.weapons/autofire.module) |
+|---|---|
+| [ Autoloader Module](/future.d20.srd/equipment/gadgets.universal.weapons/autoloader.module) | [ Booby Trapped](/future.d20.srd/equipment/gadgets.universal.weapons/booby.trapped) |
+| [ Collapsible](/future.d20.srd/equipment/gadgets.universal.weapons/collapsible) | [ Compact ](/future.d20.srd/equipment/gadgets.universal.weapons/compact) |
+| [ Expanded Magazine](/future.d20.srd/equipment/gadgets.universal.weapons/expanded.magazine) | [ Genetic Tags](/future.d20.srd/equipment/gadgets.universal.weapons/genetic.tags) |
+| [ Integrated Equipment](/future.d20.srd/equipment/gadgets.universal.weapons/integrated.equipment) | [ Miniaturized](/future.d20.srd/equipment/gadgets.universal.weapons/miniaturized) |
+| [ Scope, Rangefinding Laser](/future.d20.srd/equipment/gadgets.universal.weapons/scope.rangefinding.laser) | [ Sensor, Baffling](/future.d20.srd/equipment/gadgets.universal.weapons/sensor.baffling) |
+| [ Spring-Loaded](/future.d20.srd/equipment/gadgets.universal.weapons/spring.loaded) | [ Stun Module](/future.d20.srd/equipment/gadgets.universal.weapons/stun.module) |
+| [ Techno-Organic Makeup](/future.d20.srd/equipment/gadgets.universal.weapons/techno.organic.makeup) | [ Variable Ammunition](/future.d20.srd/equipment/gadgets.universal.weapons/variable.ammunition) |
+| [ Variable Charge](/future.d20.srd/equipment/gadgets.universal.weapons/variable.charge) | [ Voice Recognition System](/future.d20.srd/equipment/gadgets.universal.weapons/voice.recognition.system) |

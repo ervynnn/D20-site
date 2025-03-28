@@ -1,0 +1,34 @@
+---
+title: Civilian Motorcycles
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > [Vehicles](/modern.d20.srd/equipment/equipment.vehicles) > Civilian Motorcycles
+
+## Civilian Motorcycles
+
+
+<table> <tr> <th>Name</th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Crew</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Pass</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Cargo</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Init</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Maneuver</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Top Speed</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Defense</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Hardness</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Hit Points</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Size</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Purchase DC</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Restriction</a></th> </tr> <tr><td> Ducati 998R (racing bike)</td><td> 1</td><td> 0</td><td> 0 lb.</td><td> +0</td><td> +3</td><td> 370 (37)</td><td> 10</td><td> 5</td><td> 18</td><td> M</td><td> 27</td><td> Lic (+1) </td></tr> <tr><td> Harley Davidson FLSTF (street bike)</td><td> 1</td><td> 1</td><td> 0 lb.</td><td> –1</td><td> +1</td><td> 275 (27)</td><td> 9</td><td> 5</td><td> 22</td><td> L</td><td> 26</td><td> Lic (+1) </td></tr> <tr><td> Yamaha YZ250F (dirt bike)</td><td> 1</td><td> 1</td><td> 0 lb.</td><td> +0</td><td> +2</td><td> 165 (16)</td><td> 10</td><td> 5</td><td> 18</td><td> M</td><td> 23</td><td> Lic (+1) </td></tr></table>
+
+
+Unlike getting into a car, mounting a motorcycle is a [free action](/modern.d20.srd/combat/action.types). Motorcycles tend to perform
+better than automobiles, but they provide no
+[cover](/modern.d20.srd/combat/cover) to their occupants.
+
+### Ducati 998R
+
+This is a top-of-the-line street bike with a strong heritage of winning races.
+The 998R is one square wide and two squares long.
+
+### Harley-Davidson FLSTF Fat Boy
+
+This huge motorcycle sports a 1,450cc engine. It’s designed to look cool and
+compete for space on the roads with automobiles. It is one square wide and two
+squares long.
+
+### Yamaha YZ250F
+
+A classic dirt bike, this is very similar to the motorcycle used by United
+States Army cavalry scouts. The YZ250F is one square wide and two squares
+long.
+
