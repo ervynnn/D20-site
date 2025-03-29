@@ -14,6 +14,7 @@ without engaging in serious combat.
 <table> <tr> <td> Type: Ultralight </td> <td> Size: Colossal (–8 size) </td> </tr> <tr class="shaded"> <td> Subtype: Scout </td> <td> Tactical Speed: 3,500 ft. (7 sq.) </td> </tr> <tr> <td> Defense: 7 </td> <td> Length: 150 feet </td> </tr> <tr class="shaded"> <td> Flat-footed Defense: 5 </td> <td> Weight: 600 tons </td> </tr> <tr> <td> Autopilot Defense: 5 </td> <td> Targeting System Bonus: +3 </td> </tr> <tr class="shaded"> <td> Hardness: 30 </td> <td> Crew: 8 (trained +4) </td> </tr> <tr> <td> Hit Dice: 15d20 (300 hp) </td> <td> Passenger Capacity: 8 </td> </tr> <tr class="shaded"> <td> Initiative Modifier: +2 </td> <td> Cargo Capacity: 30 tons </td> </tr> <tr> <td> Pilot’s Class Bonus: +3 </td> <td> Grapple Modifier: +16 </td> </tr> <tr class="shaded"> <td> Pilot’s Dex Modifier: +2 </td> <td> Base Purchase DC: 52 </td> </tr> <tr> <td> Gunner’s Attack Bonus: +2 </td> <td> Restriction: Military (+3) </td> </tr> </table>
 
 
+
 Attack: 2 fire-linked heavy neutron guns –3 ranged (15d8) and 2 CHE missiles
 –8 ranged (6d12/19–20)
 

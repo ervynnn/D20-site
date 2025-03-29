@@ -26,3 +26,4 @@ Restriction: None.
 <table> <tr><th colspan="3">Table: Driver Autocomps</th></tr> <tr><th>Driver Autocomp</th><th>Drive or Pilot Check Modifier</th><th>Purchase DC</th></tr> <tr><td>Roadlord AI-DA </td><td>+0</td><td>12</td></tr> <tr class="shaded"><td>Pegasus AI-200 </td><td>+2</td><td>15</td></tr> <tr><td>Dervish AI-400 </td><td>+4</td><td>18</td></tr> <tr class="shaded"><td>Twister AI-800 </td><td>+8</td><td>21</td></tr> <tr><td>Zephyr AI-1200 </td><td>+12</td><td>24</td></tr> </table>
 
 
+

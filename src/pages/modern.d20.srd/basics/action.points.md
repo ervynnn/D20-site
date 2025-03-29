@@ -41,3 +41,4 @@ character does so, apply the highest result and disregard the other rolls.
 <table> <tr><th>Character Level</th><th>Action Point Dice Rolled</th></tr> <tr><td>1st–7th</td><td>1d6</td></tr> <tr class="shaded"><td>8th–14th</td><td>2d6</td></tr> <tr><td>15th–20th</td><td>3d6</td></tr> </table>
 
 
+

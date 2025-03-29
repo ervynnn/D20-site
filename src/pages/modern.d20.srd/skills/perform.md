@@ -55,6 +55,7 @@ instruments, such as flute, bugle, trumpet, tuba, bagpipes, and trombone.
 <table> <tr><th>Result</th> <th>Performance</th></tr> <tr><td> 10</td><td> Amateur performance. Audience may appreciate your performance, but isn’t impressed. </td></tr> <tr class="shaded"><td> 15</td><td> Routine performance. Audience enjoys your performance, but it isn’t exceptional. </td></tr> <tr><td> 20</td><td> Great performance. Audience highly impressed. </td></tr> <tr class="shaded"><td> 25</td><td> Memorable performance. Audience enthusiastic. </td></tr> <tr><td> 30</td><td> Masterful performance. Audience awed. </td></tr> </table>
 
 
+
 Try Again?: Not for the same performance and audience.
 
 Special: A character can [take 10](/modern.d20.srd/skills/skill.basics) when making a Perform

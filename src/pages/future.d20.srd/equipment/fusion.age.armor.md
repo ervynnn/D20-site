@@ -13,6 +13,7 @@ The following armors are available at PL 6 and later.
 <table> <tr><th colspan="10">Table: Progress Level 6 Armor</th></tr> <tr><th>Armor</th><th>Type</th><th>Equipment Bonus</th><th>Nonprof. Bonus</th><th>Max Dex Bonus</th><th>Armor Penalty</th><th>Speed (30 ft./20 ft.)</th><th>Weight</th><th>Purchase DC</th><th>Restriction</th></tr> <tr><th colspan="10" style="text-align: left">Light Armor</th></tr> <tr><td>Light Combat Armor</td><td>Tactical</td><td>+3</td><td>+1</td><td>+5</td><td>–2</td><td>30 ft./20 ft.</td><td>6 lb.</td><td>12</td><td>Lic (+1)</td></tr> <tr class="shaded"><td>Scout Armor</td><td>Tactical</td><td>+2</td><td>+1</td><td>+6</td><td>–1</td><td>30 ft./20 ft.</td><td>4 lb.</td><td>11</td><td>Lic (+1)</td></tr> <tr><td>Survival Suit</td><td>Concealable</td><td>+1</td><td>+1</td><td>+7</td><td>–0</td><td>30 ft./20 ft.</td><td>3 lb.</td><td>16</td><td>—</td></tr> </table>
 
 
+
 ### Light Combat Armor
 
 Light combat armor provides less protection than later, heavier types, but

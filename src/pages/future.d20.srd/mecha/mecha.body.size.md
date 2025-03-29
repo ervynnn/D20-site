@@ -32,6 +32,7 @@ and other equipment.
 <table> <tr><th colspan="11">Table: Mecha Sizes</th></tr> <tr><th>Size</th><th>Size Modifier</th><th>Equipment Slots</th><th>Hit Points</th><th>Base Speed</th><th>Height</th><th>Weight</th><th>Fighting Space</th><th>Reach</th><th>Purchase DC</th><th>Restriction</th></tr> <tr><td>Colossal</td><td>–8</td><td>25</td><td>800</td><td>60 ft.</td><td>64–128 ft.</td><td>250,000 lb. or more</td><td>30 ft. by 30 ft.</td><td>15 ft.</td><td>60</td><td>Mil (+3)</td></tr> <tr class="shaded"><td>Gargantuan</td><td>–4</td><td>17</td><td>400</td><td>50 ft.</td><td>32–64 ft.</td><td>32,000–250,000 lb.</td><td>20 ft. by 20 ft.</td><td>15 ft.</td><td>48</td><td>Mil (+3)</td></tr> <tr><td>Huge</td><td>–2</td><td>11</td><td>200</td><td>40 ft.</td><td>16–32 ft.</td><td>4,000–32,000 lb.</td><td>15 ft. by 15 ft.</td><td>10 ft.</td><td>44</td><td>Mil (+3)</td></tr> <tr class="shaded"><td>Large</td><td>–1</td><td>7</td><td>100</td><td>30 ft.</td><td>8–16 ft.</td><td>500–4,000 lb.</td><td>10 ft. by 10 ft.</td><td>10 ft.</td><td>40</td><td>Res (+2)</td></tr> </table>
 
 
+
 ### Large Mecha
 
 Essentially big suits of armor, Large mecha excel in urban battlefields and

@@ -11,6 +11,7 @@ layout: '~/layouts/MarkdownLayout.astro'
 <table> <tr><th>Weapon</th><th>Damage</th><th>Critical</th><th>Damage Type</th><th>Range Increment</th><th>Rate of Fire</th><th>Magazine</th><th>Size</th><th>Weight</th><th>Purchase DC</th><th>Restriction</th></tr> <tr><td>Avenger electro-scimitar<sup>3</sup></td><td>Varies<sup>1</sup></td><td>18–20</td><td>Slashing/ Electricity</td><td>—</td><td>—</td><td>—</td><td>Varies<sup>1</sup></td><td>—</td><td>Varies<sup>1</sup></td><td> —</td></tr> <tr class="shaded"><td>LT-5 Longshot mass driver</td><td>15d6</td><td>20</td><td>Ballistic</td><td>120 ft.</td><td>Single</td><td>10 box</td><td>Huge</td><td>90 lb.</td><td>24</td><td>Mil (+3)</td></tr> <tr><td>RP-91 Reaper laser scythe<sup>3</sup></td><td>Varies<sup>1</sup></td><td>4</td><td>Slashing/ Fire</td><td>—</td><td>—</td><td>—</td><td>Varies<sup>1</sup></td><td>—</td><td>Varies<sup>1</sup></td><td>—</td></tr> <tr><td colspan="11" style="text-align:left; font-size: .8em"> <sup>1</sup> See the weapon’s description for details.<br/> <sup>2</sup> See the weapon’s description for collateral effects to crew and passengers.<br/> <sup>3</sup> This mastercraft weapon grants a +1 bonus on attack rolls.<br/> </td></tr> </table>
 
 
+
 ### Avenger Electro-Scimitar (PL 8)
 
 The Avenger electro-scimitar is a lightweight and efficient one-handed melee

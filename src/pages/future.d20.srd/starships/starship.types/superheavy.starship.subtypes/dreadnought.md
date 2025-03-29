@@ -16,6 +16,7 @@ by-6-square area).
 <table> <tr> <td> Type: Superheavy </td> <td> Size: Colossal (–8 size) </td> </tr> <tr class="shaded"> <td> Subtype: Dreadnought </td> <td> Tactical Speed: 3,500 ft. (7 sq.) </td> </tr> <tr> <td> Defense: 11 </td> <td> Length: 2,750 feet </td> </tr> <tr class="shaded"> <td> Flat-footed Defense: 7 </td> <td> Weight: 540,000 tons </td> </tr> <tr> <td> Autopilot Defense: 7 </td> <td> Targeting System Bonus: +5 </td> </tr> <tr class="shaded"> <td> Hardness: 40 </td> <td> : 2,000 (expert +8) </td> </tr> <tr> <td> Hit Dice: 1,200d20 (24,000 hp) </td> <td> Passenger Capacity: 1,600 </td> </tr> <tr class="shaded"> <td> Initiative Modifier: +6 </td> <td> Cargo Capacity: 120,000 tons </td> </tr> <tr> <td> Pilot’s Class Bonus: +5 </td> <td> Grapple Modifier: +16 </td> </tr> <tr class="shaded"> <td> Pilot’s Dex Modifier: +4 </td> <td> Base Purchase DC: 80 </td> </tr> <tr> <td> Gunner’s Attack Bonus: +4 </td> <td> Restriction: Military (+3) </td> </tr> </table>
 
 
+
 Attack: 4 fire-linked quantum cannons +1 ranged (32d8) and battery of 4 heavy
 mass cannons –1 ranged (10d12/19–20) and 2 fire-linked mass reaction missiles
 –4 ranged (20d8/18–20)

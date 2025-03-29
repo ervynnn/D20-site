@@ -116,7 +116,9 @@ Restriction: Restricted (+2).
 
 
 <table> <tr><th colspan="2">Table: Transport Booth Purchase DC Modifiers</th></tr> <tr><th>Transport Booth’s Purchase DC</th><th>Communication System Modifier</th></tr> <tr><th colspan="2" style="text-align: left">Progress Level 5: Information Age</th></tr> <tr><td>Radio Transceiver</td><td>+0</td></tr> <tr><th colspan="2" style="text-align: left">Progress Level 6: Fusion Age</th></tr> <tr><td>Laser Transceiver</td><td>+3</td></tr> <tr><th colspan="2" style="text-align: left">Progress Level 7: Gravity Age</th></tr> <tr><td>Mass Transceiver</td><td>+5</td></tr> <tr><th colspan="2" style="text-align: left">Progress Level 8: Energy Age</th></tr> <tr><td>Drive Transceiver</td><td>+8</td></tr> <tr><th colspan="2" style="text-align: left">Progress Level 9: Matter Age</th></tr> <tr><td>Ansible</td><td>+13</td></tr> </table>
+
  
 <table> <tr><th colspan="3">Table: Check DCs For Transport Disks</th></tr> <tr><th>Distance</th><th>Navigate Check DC</th><th>Computer Use DC</th></tr> <tr><td>Planetary</td><td>15</td><td>20</td></tr> <tr class="shaded"><td>Interplanetary</td><td>20</td><td>25</td></tr> <tr><td>Interstellar</td><td>25</td><td>30</td></tr> </table>
+
 
 

@@ -25,6 +25,7 @@ given in the table below.
 <table> <tr><th> Type of Information</th><th> DC</th><th> Purchase DC </th></tr> <tr><td> General</td><td> 10</td><td> 5 </td></tr> <tr class="shaded"><td> Specific</td><td> 15</td><td> 10 </td></tr> <tr><td> Restricted</td><td> 20</td><td> 15 </td></tr> <tr class="shaded"><td> Protected</td><td> 25</td><td> 20 </td></tr> </table>
 
 
+
 General information concerns local happenings, rumors, gossip, and the like.
 Specific information usually relates to a particular question. Restricted
 information includes facts that aren’t generally known and requires that the

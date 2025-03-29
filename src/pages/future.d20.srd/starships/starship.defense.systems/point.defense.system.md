@@ -35,3 +35,4 @@ Restriction: Licensed (+1).
 <table> <tr><th colspan="3">Table: Point-Defense Systems</th></tr> <tr><th>Starship Type</th><th>Point-Defense Damage</th><th>Purchase DC</th></tr> <tr><td>Ultralight</td><td>1d12×10</td><td>31</td></tr> <tr class="shaded"><td>Light</td><td>2d12×10</td><td>34</td></tr> <tr><td>Mediumweight</td><td>3d12×10</td><td>36</td></tr> <tr class="shaded"><td>Heavy</td><td>4d12×10</td><td>38</td></tr> <tr><td>Superheavy</td><td>5d12×10</td><td>40</td></tr> </table>
 
 
+

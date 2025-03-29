@@ -22,6 +22,7 @@ determine the total damage for the attack.
 <table> <tr><th>Mecha Size</th><th>Damage</th></tr> <tr><td>Large</td><td>2d6</td></tr> <tr class="shaded"><td>Huge</td><td>2d8</td></tr> <tr><td>Gargantuan</td><td>4d6</td></tr> <tr class="shaded"><td>Colossal</td><td>4d8</td></tr> </table>
 
 
+
 A crush attack deals bludgeoning damage and affects as many creatures as can
 fit under your mecha’s body. Each creature in the affected area must succeed
 on a Reflex save (DC 10 + your mecha’s size modifier for grapple attacks). On

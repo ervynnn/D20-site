@@ -18,3 +18,4 @@ compartments.
 <table> <tr> <th colspan="3"> Table: Mecha Cargo Capacity </th> </tr> <tr> <th> Mecha Size </th> <th> Cargo Capacity </th> <th> Maximum Object Size </th> </tr> <tr> <td> Colossal </td> <td> 1,250 lb. </td> <td> Huge </td> </tr> <tr class="shaded"> <td> Gargantuan </td> <td> 500 lb. </td> <td> Large </td> </tr> <tr> <td> Huge </td> <td> 250 lb. </td> <td> Medium-size </td> </tr> <tr class="shaded"> <td> Large </td> <td> 50 lb. </td> <td> Small </td> </tr> </table>
 
 
+

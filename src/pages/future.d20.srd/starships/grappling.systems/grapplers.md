@@ -39,3 +39,4 @@ Restriction: None.
 <table> <tr><th colspan="2">Table: Grappler Pilot Check DCs</th></tr> <tr><th>Size of Target</th><th>Pilot Check DC</th></tr> <tr><td>Colossal</td><td>5 + target’s Defense</td></tr> <tr class="shaded"><td>Gargantuan</td><td>10 + target’s Defense</td></tr> <tr><td>Huge</td><td>15 + target’s Defense</td></tr> <tr class="shaded"><td>Large</td><td>20 + target’s Defense</td></tr> <tr><td>Medium-size</td><td>25 + target’s Defense</td></tr> <tr class="shaded"><td>Small</td><td>30 + target’s Defense</td></tr> </table>
 
 
+

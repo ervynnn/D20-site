@@ -14,6 +14,7 @@ get an effect and the DC depend on what the character is trying to do.
 <table> <tr><th>Task</th> <th>Time</th> <th>DC</th> </tr> <tr><td> Handle an animal</td><td> <a href="/modern.d20.srd/combat/move.actions">Move action</a></td> <td> 10 </td></tr> <tr class="shaded"><td> “Push” an animal</td><td> <a href="/modern.d20.srd/combat/full.round.actions">Full-round action</a></td> <td> 25 </td></tr> <tr><td> Teach an animal a trick</td><td> 1 week</td><td> See text </td></tr> <tr class="shaded"><td> Train an animal for a purpose</td><td> See text</td><td> See text </td></tr> </table>
 
 
+
 Handle an Animal: This means to command an animal to perform a task or trick
 that it knows. If the animal is wounded or has taken any [ability score](/modern.d20.srd/basics/ability.scores) damage, the DC increases by +5.
 If the [check](/modern.d20.srd/skills/skill.basics) is successful,

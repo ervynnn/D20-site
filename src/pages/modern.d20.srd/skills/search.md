@@ -20,6 +20,7 @@ or creatures went or came from.
 <table> <tr> <th> DC </th> <th> Task </th> </tr> <tr> <td> 10 </td> <td> Ransack an area to find a certain object. </td> </tr> <tr class="shaded"> <td> 20 </td> <td> Notice a typical secret compartment, a simple trap, or an obscure clue. </td> </tr> <tr> <td> 25+ </td> <td> Find a complex or well-hidden secret compartment or trap; notice an extremely obscure clue. </td> </tr> </table>
 
 
+
 Special: A character can [ take 10](/modern.d20.srd/skills/skill.basics) or [ take 20](/modern.d20.srd/skills/skill.basics) when making a Search [ check](/modern.d20.srd/skills/skill.basics) .
 
 A character with the [ Meticulous ](/modern.d20.srd/feats/meticulous) feat

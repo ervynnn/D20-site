@@ -18,6 +18,7 @@ exotic, so weapon proficiency [feats](/modern.d20.srd/feats) cannot offset the
 <table> <tr><th colspan="3">Table: Improvised Weapon Damage by Size</th></tr> <tr><th> Object Size</th><th> Examples</th><th> Damage </th></tr> <tr><td> Diminutive</td><td> Ashtray, CD disk case, crystal paperweight</td><td> 1 </td></tr> <tr><td> Tiny</td><td> Fist-sized rock, mug, screwdriver, softball, flashlight, wrench</td><td> 1d2 </td></tr> <tr><td> Small</td><td> Bottle, drill, fire extinguisher, flower pot, helmet, metal hubcap, vase</td><td> 1d3 </td></tr> <tr><td> Medium-size</td><td> Bar stool, brick, briefcase, bowling ball, garbage can lid, hockey stick, nail gun</td><td> 1d4 </td></tr> <tr><td> Large</td><td> Empty garbage can, guitar, computer monitor, office chair, tire iron</td><td> 1d6 </td></tr> <tr><td> Huge</td><td> 10-foot ladder, mailbox, oil barrel, park bench, sawhorse</td><td> 1d8 </td></tr> <tr><td> Gargantuan</td><td> Desk, dumpster, file cabinet, large sofa, soda machine</td><td> 2d6 </td></tr> <tr><td> Colossal</td><td> Junked vehicle, stoplight, telephone pole</td><td> 2d8 </td></tr> </table>
 
 
+
 A character can effectively wield or throw an object of his or her size
 category or smaller using one hand. A character can effectively wield or throw
 an object one size category larger than him or herself using two hands. An

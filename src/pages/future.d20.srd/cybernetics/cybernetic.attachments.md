@@ -104,6 +104,7 @@ determine what happens.
 <table> <tr><th colspan="2">Table: Massive Damage Effects</th></tr> <tr><th>d% Roll</th><th>Effect of Failed Fortitude Save</th></tr> <tr><td>01–30</td><td>Normal Effect</td></tr> <tr class="shaded"><td>31–60</td><td>Attachment Disabled</td></tr> <tr><td>61–80</td><td>Normal Effect and Attachment Disabled</td></tr> <tr class="shaded"><td>81–100</td><td>Attachment Damaged and Side Effect</td></tr> </table>
 
 
+
 Normal Effect: The character immediately drops to –1 hit points and is dying.
 
 Attachment Disabled: One cybernetic attachment (determined randomly or chosen
@@ -123,5 +124,6 @@ Effects.
 
 
 <table> <tr><th colspan="2">Table: Side Effects</th></tr> <tr><th>d% Roll</th><th>Side Effect</th></tr> <tr><td>01–08</td><td>Blurred Vision: Character suffers a 20% miss chance on all attacks.</td></tr> <tr class="shaded"><td>09–17</td><td>Constant Trembling: Character takes a –2 penalty on Dexterity-based skill checks.</td></tr> <tr><td>18–25</td><td>Cybernetic Rejection: Character suffers 1d4 points of Constitution damage per day.</td></tr> <tr class="shaded"><td>26–34</td><td>Dizziness: Character takes a –1 penalty on attack rolls, saving throws, ability checks, and skill checks.</td></tr> <tr><td>35–42</td><td>Impaired Hearing: Static distortion imposes a –2 penalty on all Listen checks.</td></tr> <tr class="shaded"><td>43–50</td><td>Impaired Vision: Distorted images impose a –2 penalty on Spot checks.</td></tr> <tr><td>51–59</td><td>Insomnia: Character can only sleep for minutes at a time and gains insufficient rest to heal naturally.</td></tr> <tr class="shaded"><td>60–67</td><td>Muscle Cramps: Character moves at half speed.</td></tr> <tr><td>68–76</td><td>Muscle Fatigue: Character takes a –2 penalty on Strength-based skill checks.</td></tr> <tr class="shaded"><td>77–84</td><td>Power Surge: Character is shaken for 1 round if wounded; a successful Fortitude save (DC 12) negates.</td></tr> <tr><td>85–93</td><td>Psychosis: Character suffers 1d4 points of Charisma damage per day, lapsing into a coma if the score drops to 0.</td></tr> <tr class="shaded"><td>94–100</td><td>Sensory Overload: Character is stunned for 1 round if wounded; a successful Fortitude save (DC 15) negates.</td></tr> </table>
+
 
 

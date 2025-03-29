@@ -34,3 +34,4 @@ and the difference in Progress Level, as shown below:
 <table> <tr> <th> Unfamiliar Item </th> <th> DC </th> </tr> <tr> <td> Basic tool or instrument </td> <td> 10 </td> </tr> <tr class="shaded"> <td> Robotic or vehicular component </td> <td> 15 </td> </tr> <tr> <td> Cybernetic attachment </td> <td> 20 </td> </tr> <tr class="shaded"> <td> Alien weapon or nanotechnology </td> <td> 25 </td> </tr> <tr> <td> Alien artifact </td> <td> 30 </td> </tr> <tr class="shaded"> <td> Each step in Progress Level (up or down) </td> <td> +5 </td> </tr> </table>
 
 
+

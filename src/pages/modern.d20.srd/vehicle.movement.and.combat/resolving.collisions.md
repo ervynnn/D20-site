@@ -14,8 +14,10 @@ size of the two colliding objects and refer to Table: Collision Damage.
 
 
 <table style="float: left"> <tr> <th colspan="2"> Table: Collision Damage </th> </tr> <tr> <th> Highest Speed </th> <th> Damage Die Type </th> </tr> <tr> <td> <a href="/modern.d20.srd/vehicle.movement.and.combat/vehicle.speed"> Alley speed </a> </td> <td> d2 </td> </tr> <tr class="shaded"> <td> <a href="/modern.d20.srd/vehicle.movement.and.combat/vehicle.speed"> Street speed </a> </td> <td> d4 </td> </tr> <tr> <td> <a href="/modern.d20.srd/vehicle.movement.and.combat/vehicle.speed"> Highway speed </a> </td> <td> d8 </td> </tr> <tr class="shaded"> <td> <a href="/modern.d20.srd/vehicle.movement.and.combat/vehicle.speed"> All-out </a> </td> <td> d12 </td> </tr> </table>
+
  
 <table> <tr> <th> Smallest Object or Creature Size </th> <th> Number of Dice </th> </tr> <tr> <td> Colossal </td> <td> 20 </td> </tr> <tr class="shaded"> <td> Gargantuan </td> <td> 16 </td> </tr> <tr> <td> Huge </td> <td> 12 </td> </tr> <tr class="shaded"> <td> Large </td> <td> 8 </td> </tr> <tr> <td> Medium-size </td> <td> 4 </td> </tr> <tr class="shaded"> <td> Small </td> <td> 2 </td> </tr> <tr> <td> Tiny </td> <td> 1 </td> </tr> <tr class="shaded"> <td> Smaller than Tiny </td> <td> 0 </td> </tr> </table>
+
 
 
 After finding the base [ damage](/modern.d20.srd/vehicle.movement.and.combat/damaging.vehicles) , determine
@@ -32,6 +34,7 @@ and continues until it has moved the minimum number of squares for its new [spee
 
 
 <table> <tr> <th colspan="2"> Table: Collision Direction </th> </tr> <tr> <th> Colliding Vehicle’s Target </th> <th> Multiplier </th> </tr> <tr> <td> A stationary object </td> <td> x 1 </td> </tr> <tr class="shaded"> <td> A moving vehicle, striking head-on or 45 degrees from head-on </td> <td> x 2 </td> </tr> <tr> <td> A moving vehicle, striking perpendicular </td> <td> x 1 </td> </tr> <tr class="shaded"> <td> A moving vehicle, striking from the rear or 45 degrees from the rear </td> <td> x 1/2 </td> </tr> <tr> <td> A vehicle being sideswiped (see Sideswipe) </td> <td> x 1/4 </td> </tr> </table>
+
 
 
 The driver of the [ vehicle ](/modern.d20.srd/equipment/equipment.vehicles)

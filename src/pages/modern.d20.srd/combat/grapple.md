@@ -49,6 +49,7 @@ Base attack bonus + [Strength](/modern.d20.srd/basics/ability.scores) modifier
 <table style="float: right"><tr><th colspan="2"> Table: Grapple Modifiers</th></tr> <tr><th> Size (Example)</th><th> Grapple Modifier</th></tr> <tr><td> Colossal (blue whale [90 ft. long])</td><td> +16</td></tr><tr class="shaded"><td> Gargantuan (gray whale [40 ft. long])</td><td> +12</td></tr><tr><td> Huge (elephant)</td><td> +8</td></tr><tr class="shaded"><td> Large (lion)</td><td> +4</td></tr><tr><td> Medium-size (human)</td><td> +0</td></tr><tr class="shaded"><td> Small (German shepherd)</td><td> –4</td></tr><tr><td> Tiny (housecat)</td><td> –8</td></tr><tr class="shaded"><td> Diminutive (rat)</td><td> –12</td></tr><tr><td> Fine (horsefly)</td><td> –16 </td></tr></table>
 
 
+
 A creature’s size works in its favor when grappling, if that creature is Large
 or larger in size. Conversely, a creature of Small or smaller size is at a
 disadvantage because of its size when grappling. Instead of using a creature’s

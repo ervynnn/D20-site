@@ -16,6 +16,7 @@ fair fight.
 <table> <tr> <td> Type: Heavy </td> <td> Size: Colossal (–8 size) </td> </tr> <tr class="shaded"> <td> Subtype: Battle Cruiser </td> <td> Tactical Speed: 4,000 ft. (8 sq.) </td> </tr> <tr> <td> Defense: 11 </td> <td> Length: 1,360 feet </td> </tr> <tr class="shaded"> <td> Flat-footed Defense: 7 </td> <td> Weight: 140,000 tons </td> </tr> <tr> <td> Autopilot Defense: 7 </td> <td> Targeting System Bonus: +5 </td> </tr> <tr class="shaded"> <td> Hardness: 30 </td> <td> Crew: 320 (expert +8) </td> </tr> <tr> <td> Hit Dice: 450d20 (9,000 hp) </td> <td> Passenger Capacity: 160 </td> </tr> <tr class="shaded"> <td> Initiative Modifier: +4 </td> <td> Cargo Capacity: 50,000 tons </td> </tr> <tr> <td> Pilot’s Class Bonus: +5 </td> <td> Grapple Modifier: +16 </td> </tr> <tr class="shaded"> <td> Pilot’s Dex Modifier: +4 </td> <td> Base Purchase DC: 72 </td> </tr> <tr> <td> Gunner’s Attack Bonus: +4 </td> <td> Restriction: Military (+3) </td> </tr> </table>
 
 
+
 Attack: 4 fire-linked heavy particle beams +1 ranged (32d8) and 1 battery of 3
 plasma missiles –2 ranged (18d8/18–20)
 

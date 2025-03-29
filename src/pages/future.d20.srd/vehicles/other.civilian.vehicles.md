@@ -15,6 +15,7 @@ otherwise noted.
 <table> <tr><th colspan="13">Table: Other Civilian Vehicles</th></tr> <tr><th>Name</th><th>Crew</th><th>Pass</th><th>Cargo</th><th>Init</th><th>Maneuver</th><th>Top Speed</th><th>Defense</th><th>Hard</th><th>Hit Points</th><th>Size</th><th>Purchase DC</th><th>Restriction</th></tr> <tr><th colspan="13" style="text-align: left">Progress Level 7: Gravity Age</th></tr> <tr><td>AutoDyn hoverboard</td><td>1</td><td>0</td><td>F</td><td>+2</td><td>+4</td><td>50 (5)</td><td>14</td><td>2</td><td>8</td><td>D</td><td>17</td><td>Lic (+1)</td></tr> <tr class="shaded"><td>WGM Wyoming</td><td>1</td><td>0</td><td>D</td><td>+1</td><td>+2</td><td>120 (12)</td><td>9</td><td>5</td><td>25</td><td>L</td><td>26</td><td>Lic (+1)</td></tr> </table>
 
 
+
 ### Autodyn Hoverboard (PL 7)
 
 The AutoDyn hoverboard is a 3-foot-long board held aloft by a tiny but

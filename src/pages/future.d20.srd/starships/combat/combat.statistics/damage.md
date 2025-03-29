@@ -48,6 +48,7 @@ critical hit on the target.
 <table> <tr><th colspan="2">Table: Optional Critical Hit Results</th></tr> <tr><th>d% Roll</th><th>Effect(s)</th></tr> <tr><td>01–35</td><td>Normal critical hit</td></tr> <tr class="shaded"><td>36–50</td><td>Normal critical hit, crew casualties</td></tr> <tr><td>51–55</td><td>Severe critical hit, artificial gravity disabled</td></tr> <tr class="shaded"><td>56–60</td><td>Severe critical hit, crew casualties</td></tr> <tr><td>61–65</td><td>Damaged system: comm system</td></tr> <tr class="shaded"><td>66–70</td><td>Damaged system: defense system</td></tr> <tr><td>71–75</td><td>Damaged system: engines</td></tr> <tr class="shaded"><td>76–80</td><td>Damaged system: sensors</td></tr> <tr><td>81–85</td><td>Damaged system: targeting system</td></tr> <tr class="shaded"><td>86–90</td><td>Damaged system: weapon</td></tr> <tr><td>91–95</td><td>Destroyed defensive system</td></tr> <tr class="shaded"><td>96–100</td><td>Destroyed weapon</td></tr> </table>
 
 
+
 Normal Critical Hit: Roll critical hit damage normally.
 
 Crew Casualties: A number of crewmembers and passengers are killed (this

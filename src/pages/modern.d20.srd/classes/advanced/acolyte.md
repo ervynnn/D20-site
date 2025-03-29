@@ -61,6 +61,7 @@ Skill Points at Each Level: 5 + Int modifier.
 <table> <tr> <th colspan="8"> Table: The Acolyte </th> </tr> <tr> <th> Class Level </th> <th> Base Attack Bonus </th> <th> Fort Save </th> <th> Ref Save </th> <th> Will Save </th> <th> Class Features </th> <th> Defense Bonus </th> <th> Reputation Bonus </th> </tr> <tr> <td> 1st </td> <td> +0 </td> <td> +2 </td> <td> +0 </td> <td> +2 </td> <td> Divine skills, divine spells </td> <td> +1 </td> <td> +2 </td> </tr> <tr class="shaded"> <td> 2nd </td> <td> +1 </td> <td> +3 </td> <td> +0 </td> <td> +3 </td> <td> Turn or rebuke undead, divine spells </td> <td> +1 </td> <td> +2 </td> </tr> <tr> <td> 3rd </td> <td> +2 </td> <td> +3 </td> <td> +1 </td> <td> +3 </td> <td> Bonus feat, divine spells </td> <td> +2 </td> <td> +2 </td> </tr> <tr class="shaded"> <td> 4th </td> <td> +3 </td> <td> +4 </td> <td> +1 </td> <td> +4 </td> <td> Spontaneous cast, divine spells </td> <td> +2 </td> <td> +3 </td> </tr> <tr> <td> 5th </td> <td> +3 </td> <td> +4 </td> <td> +1 </td> <td> +4 </td> <td> Combat casting, divine spells </td> <td> +3 </td> <td> +3 </td> </tr> <tr class="shaded"> <td> 6th </td> <td> +4 </td> <td> +5 </td> <td> +2 </td> <td> +5 </td> <td> Bonus feat, divine spells </td> <td> +3 </td> <td> +3 </td> </tr> <tr> <td> 7th </td> <td> +5 </td> <td> +5 </td> <td> +2 </td> <td> +5 </td> <td> Turn or rebuke magical beast, divine spells </td> <td> +4 </td> <td> +4 </td> </tr> <tr class="shaded"> <td> 8th </td> <td> +6 </td> <td> +6 </td> <td> +2 </td> <td> +6 </td> <td> Turn or rebuke outsider, divine spells </td> <td> +4 </td> <td> +4 </td> </tr> <tr> <td> 9th </td> <td> +6 </td> <td> +6 </td> <td> +3 </td> <td> +6 </td> <td> Bonus feat, divine spells </td> <td> +5 </td> <td> +4 </td> </tr> <tr class="shaded"> <td> 10th </td> <td> +7 </td> <td> +7 </td> <td> +3 </td> <td> +7 </td> <td> Maximize spell, divine spells </td> <td> +5 </td> <td> +5 </td> </tr> </table>
 
 
+
 ###  Class Features
 
 All of the following features pertain to the Acolyte advanced class.
@@ -114,6 +115,7 @@ Time: Unless otherwise indicated, Spellcraft is a move action.
 <table> <tr> <th> DC </th> <th> Task </th> </tr> <tr> <td> 15 + spell level </td> <td> Identify a spell being cast. (You must see or hear the spell’s verbal or somatic components.) You can’t try again. </td> </tr> <tr class="shaded"> <td> 15 + spell level </td> <td> When casting detect magical aura, determine the school of magic involved in the aura of a single item or creature you can see. (If the aura isn’t a spell effect, the DC is 15 + one-half caster level.) </td> </tr> <tr> <td> 20 + spell level </td> <td> Identify a spell that’s already in place and in effect. (You must be able to see or detect the effects of the spell.) You can’t try again. </td> </tr> <tr class="shaded"> <td> 20 + spell level </td> <td> Identify materials created or shaped by magic, such as noting that an iron wall is the result of a wall of iron spell. You can’t try again. </td> </tr> <tr> <td> 20 + spell level </td> <td> Decipher a written spell (such as a scroll) without using read magic. One try per day. </td> </tr> <tr class="shaded"> <td> 25 + spell level </td> <td> After rolling a <a href="/modern.d20.srd/basics/saving.throws"> saving throw </a> against a spell targeted at you, determine what spell was cast upon you. This is a reaction. </td> </tr> <tr> <td> 25 </td> <td> Identify a potion. This takes 1 minute. </td> </tr> <tr class="shaded"> <td> 30 or higher </td> <td> Understand a strange or unique magical effect. You can’t try again. </td> </tr> </table>
 
 
+
 ###  Divine Spells
 
 The Acolyte’s key characteristic is the ability to cast [ divine spells](/modern.d20.srd/fx/divine.spells) .
@@ -128,8 +130,10 @@ the two tables below.
 
 
 <table style="float: left;"> <tr> <th colspan="7"> ———— Spells per Day by Spell Level ———— </th> </tr> <tr> <th> Acolyte Level </th> <th> 0 </th> <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> </tr> <tr> <td> 1st </td> <td> 3 </td> <td> 2 </td> <td> — </td> <td> — </td> <td> — </td> <td> — </td> </tr> <tr class="shaded"> <td> 2nd </td> <td> 4 </td> <td> 3 </td> <td> — </td> <td> — </td> <td> — </td> <td> — </td> </tr> <tr> <td> 3rd </td> <td> 4 </td> <td> 3 </td> <td> 2 </td> <td> — </td> <td> — </td> <td> — </td> </tr> <tr class="shaded"> <td> 4th </td> <td> 5 </td> <td> 4 </td> <td> 3 </td> <td> — </td> <td> — </td> <td> — </td> </tr> <tr> <td> 5th </td> <td> 5 </td> <td> 4 </td> <td> 3 </td> <td> 2 </td> <td> — </td> <td> — </td> </tr> <tr class="shaded"> <td> 6th </td> <td> 5 </td> <td> 4 </td> <td> 4 </td> <td> 3 </td> <td> — </td> <td> — </td> </tr> <tr> <td> 7th </td> <td> 6 </td> <td> 5 </td> <td> 4 </td> <td> 3 </td> <td> 2 </td> <td> — </td> </tr> <tr class="shaded"> <td> 8th </td> <td> 6 </td> <td> 5 </td> <td> 4 </td> <td> 4 </td> <td> 3 </td> <td> — </td> </tr> <tr> <td> 9th </td> <td> 6 </td> <td> 5 </td> <td> 5 </td> <td> 4 </td> <td> 3 </td> <td> 2 </td> </tr> <tr class="shaded"> <td> 10th </td> <td> 6 </td> <td> 5 </td> <td> 5 </td> <td> 4 </td> <td> 4 </td> <td> 3 </td> </tr> </table>
+
  
 <table> <tr> <th colspan="7"> ———— Bonus Spells by Spell Level ———— </th> </tr> <tr> <th> Wis Score </th> <th> 0 </th> <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> </tr> <tr> <td> 12–13 </td> <td> — </td> <td> 1 </td> <td> — </td> <td> — </td> <td> — </td> <td> — </td> </tr> <tr class="shaded"> <td> 14–15 </td> <td> — </td> <td> 1 </td> <td> 1 </td> <td> — </td> <td> — </td> <td> — </td> </tr> <tr> <td> 16–17 </td> <td> — </td> <td> 1 </td> <td> 1 </td> <td> 1 </td> <td> — </td> <td> — </td> </tr> <tr class="shaded"> <td> 18–19 </td> <td> — </td> <td> 1 </td> <td> 1 </td> <td> 1 </td> <td> 1 </td> <td> — </td> </tr> <tr> <td> 20–21 </td> <td> — </td> <td> 2 </td> <td> 1 </td> <td> 1 </td> <td> 1 </td> <td> 1 </td> </tr> <tr class="shaded"> <td> 22–23 </td> <td> — </td> <td> 2 </td> <td> 2 </td> <td> 1 </td> <td> 1 </td> <td> 1 </td> </tr> </table>
+
 
 
 The Acolyte meditates or prays for her spells, receiving them through her own
@@ -180,6 +184,7 @@ Hit Dice exceeds the result of your turning check.
 
 
 <table> <tr> <th> Turning Check Result </th> <th> Most Powerful Creature Affected (Maximum Hit Dice) </th> </tr> <tr> <td> 0 or lower </td> <td> Acolyte level –4 </td> </tr> <tr class="shaded"> <td> 1–3 </td> <td> Acolyte level –3 </td> </tr> <tr> <td> 4–6 </td> <td> Acolyte level –2 </td> </tr> <tr class="shaded"> <td> 7–9 </td> <td> Acolyte level –1 </td> </tr> <tr> <td> 10–12 </td> <td> Acolyte level </td> </tr> <tr class="shaded"> <td> 13–15 </td> <td> Acolyte level +1 </td> </tr> <tr> <td> 16–18 </td> <td> Acolyte level +2 </td> </tr> <tr class="shaded"> <td> 19–21 </td> <td> Acolyte level +3 </td> </tr> <tr> <td> 22 or higher </td> <td> Acolyte level +4 </td> </tr> </table>
+
 
 
 Turning Damage: If your turning check result is high enough to let you turn at

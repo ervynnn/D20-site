@@ -16,6 +16,7 @@ throughout the long trip to a new world.
 <table> <tr> <td> Type: Superheavy </td> <td> Size: Colossal (–8 size) </td> </tr> <tr class="shaded"> <td> Subtype: Colony ship </td> <td> Tactical Speed: 4,000 ft. (8 sq.) </td> </tr> <tr> <td> Defense: 7 </td> <td> Length: 2,000 feet </td> </tr> <tr class="shaded"> <td> Flat-footed Defense: 5 </td> <td> Weight: 400,000 tons </td> </tr> <tr> <td> Autopilot Defense: 7 </td> <td> Targeting System Bonus: +5 </td> </tr> <tr class="shaded"> <td> Hardness: 30 </td> <td> Crew: 400 (trained +4) </td> </tr> <tr> <td> Hit Dice: 800d20 (16,000 hp) </td> <td> Passenger Capacity: 2,000 </td> </tr> <tr class="shaded"> <td> Initiative Modifier: +2 </td> <td> Cargo Capacity: 100,000 tons </td> </tr> <tr> <td> Pilot’s Class Bonus: +3 </td> <td> Grapple Modifier: +16 </td> </tr> <tr class="shaded"> <td> Pilot’s Dex Modifier: +2 </td> <td> Base Purchase DC: 72 </td> </tr> <tr> <td> Gunner’s Attack Bonus: +2 </td> <td> Restriction: Restricted (+2) </td> </tr> </table>
 
 
+
 Attack: Battery of 4 particle beams +2 ranged (12d8/19–20) and battery of 2
 plasma missiles –5 ranged (18d8/18–20); or Battery of 2 plasma missiles +0
 ranged (18d8/18–20) and battery of 4 particle beams –3 ranged (12d8/19–20)

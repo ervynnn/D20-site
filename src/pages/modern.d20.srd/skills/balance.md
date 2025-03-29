@@ -20,6 +20,7 @@ The difficulty varies with the conditions of the surface.
 <table> <tr><th>Narrow Surface</th> <th>DC*</th><th> Difficult Surface</th> <th> DC</th> </tr> <tr><td> 7–12 in. wide</td><td> 10</td><td> Uneven or angled</td><td> 10 </td></tr> <tr class="shaded"><td> 2–6 in. wide</td><td> 15</td><td> Slippery surface</td><td> 10 </td></tr> <tr><td> Less than 2 in. wide</td><td> 20</td><td> </td><td> </td></tr> </table>
 
 
+
 *Add +5 to the DC if the narrow surface is slippery or angled; add +10 if it is both slippery and angled.
 
 Being Attacked While Balancing: While balancing, the character is flat-footed

@@ -17,6 +17,7 @@ turn a serious blow into a less serious one.
 <table><tr><th> Effects of <a href="/modern.d20.srd/combat/hit.points">Hit Point</a> Damage</th> </tr> <tr><td>At 0 <a href="/modern.d20.srd/combat/hit.points">hit points</a>, a character is disabled.</td> </tr> <tr class="shaded"><td>At from –1 to –9 hit points, a character is dying.</td></tr> <tr><td>At –10 or lower, a character is dead. </td></tr></table>
 
 
+
 ### Massive Damage
 
 Any time a character takes damage from a single hit that exceeds the

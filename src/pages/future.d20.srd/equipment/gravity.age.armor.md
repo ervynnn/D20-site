@@ -13,6 +13,7 @@ The following armors are available at PL 7 and later.
 <table> <tr><th colspan="10">Table: Progress Level 7 Armor</th></tr> <tr><th>Armor</th><th>Type</th><th>Equipment Bonus</th><th>Nonprof. Bonus</th><th>Max Dex Bonus</th><th>Armor Penalty</th><th>Speed (30 ft./20 ft.)</th><th>Weight</th><th>Purchase DC</th><th>Restriction</th></tr> <tr><th colspan="10" style="text-align: left">Medium Armor</th></tr> <tr><td>Medium combat armor</td><td>Tactical</td><td>+4</td><td>+2</td><td>+4</td><td>–2</td><td>20 ft./15 ft.</td><td>8 lb.</td><td>14</td><td>Lic (+1)</td></tr> <tr class="shaded"><td>Silent suit</td><td>Concealable</td><td>+1</td><td>+1</td><td>+8</td><td>–0</td><td>30 ft./20 ft.</td><td>1 lb.</td><td>18</td><td>—</td></tr> <tr><th colspan="10" style="text-align: left">Powered Armor</th></tr> <tr><td>Space combat suit</td><td>Tactical</td><td>+9</td><td>+3</td><td>+1</td><td>–7</td><td>15 ft./10 ft.</td><td>40 lb.</td><td>17</td><td>Lic (+1)</td></tr> </table>
 
 
+
 ### Medium Combat Armor
 
 Designed for heavy warfare and dangerous situations, medium combat armor

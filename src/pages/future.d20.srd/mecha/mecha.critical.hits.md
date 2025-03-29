@@ -16,6 +16,7 @@ results of the roll, even if those results are less than desirable.
 <table> <tr><th colspan="2">Table: Mecha Critical Hits</th></tr> <tr><th>d%</th><th>Roll Effect(s)</th></tr> <tr><td>01–15</td><td>Normal damage, crew dazed</td></tr> <tr class="shaded"><td>16–35</td><td>Normal critical hit, crew dazed</td></tr> <tr><td>36–45</td><td>Normal critical hit, mecha knocked prone</td></tr> <tr class="shaded"><td>46–50</td><td>Severe critical hit, crew dazed, mecha stunned</td></tr> <tr><td>51–55</td><td>Severe critical hit, mecha knocked prone</td></tr> <tr class="shaded"><td>56–60</td><td>Crew hit (normal damage)</td></tr> <tr><td>61–70</td><td>Normal damage, equipment damaged</td></tr> <tr class="shaded"><td>71–80</td><td>Normal damage, equipment destroyed</td></tr> <tr><td>81–90</td><td>Normal critical hit, slot damaged</td></tr> <tr class="shaded"><td>91–100</td><td>Normal critical hit, slot destroyed</td></tr> </table>
 
 
+
 Normal Damage: The attack deals normal damage (do not apply critical hit
 multipliers).
 

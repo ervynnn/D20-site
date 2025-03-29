@@ -24,6 +24,7 @@ surface and the prevailing conditions.
 <table> <tr> <th>Surface</th> <th>Track DC</th> </tr> <tr><td> Very soft</td><td> 5 </td></tr> <tr><td> Soft</td><td> 10 </td></tr> <tr><td> Firm</td><td> 15 </td></tr> <tr><td> Hard</td><td> 20 </td></tr> </table>
 
 
+
 Very Soft: Any surface (fresh snow, thick dust, wet mud) that holds deep,
 clear impressions of footprints.
 
@@ -50,5 +51,6 @@ but cannot follow tracks using [Search](/modern.d20.srd/skills/search).
 
 
 <table> <tr><th>Condition</th><th> DC Modifier</th></tr> <tr><td> Every three targets in the group being tracked</td><td> –1 </td></tr> <tr class="shaded"><td colspan="2"> Size of targets being tracked: <sup>1</sup> </td></tr> <tr class="shaded2"><td> Fine</td><td> +8 </td></tr> <tr class="shaded2"><td> Diminutive</td><td> +4 </td></tr> <tr class="shaded2"><td> Tiny</td><td> +2 </td></tr> <tr class="shaded2"><td> Small</td><td> +1 </td></tr> <tr class="shaded2"><td> Medium-size</td><td> +0 </td></tr> <tr class="shaded2"><td> Large</td><td> –1 </td></tr> <tr class="shaded2"><td> Huge</td><td> –2 </td></tr> <tr class="shaded2"><td> Gargantuan</td><td> –4 </td></tr> <tr class="shaded2"><td> Colossal</td><td> -8 </td></tr> <tr><td> Every 24 hours since the trail was made</td><td> +1 </td></tr> <tr><td> Every hour of rain since the trail was made</td><td> +1 </td></tr> <tr><td> Fresh snow cover since the trail was made</td><td> +10 </td></tr> <tr class="shaded"><td colspan="2"> Poor visibility: <sup>2</sup> </td></tr> <tr class="shaded2"><td> Overcast or moonless night</td><td> +6 </td></tr> <tr class="shaded2"><td> Moonlight</td><td> +3 </td></tr> <tr class="shaded2"><td> Fog or precipitation</td><td> +3 </td></tr> <tr><td> Tracked target hides trail (and moves at half speed)</td><td> +5 </td></tr> <tr><td colspan="2"> <sup>1</sup> For a group of mixed sizes, apply only the modifier for the largest size category represented.<br/> <sup>2</sup> Apply only the largest modifier from this category. </td></tr> </table>
+
 
 

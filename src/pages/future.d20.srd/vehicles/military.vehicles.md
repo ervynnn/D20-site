@@ -17,6 +17,7 @@ the vehicle flies or hovers, Pilot is the operative skill.
 <table> <tr><th colspan="13">Table: Military Vehicles</th></tr> <tr><th>Name</th><th>Crew</th><th>Pass</th><th>Cargo</th><th>Init</th><th>Maneuver</th><th>Top Speed</th><th>Defense</th><th>Hard</th><th>Hit Points</th><th>Size</th><th>Purchase DC</th><th>Restriction</th></tr> <tr><th colspan="13" style="text-align: left">Progress Level 6: Fusion Age</th></tr> <tr><td>Appel-Siems Gyrocopter</td><td>1</td><td>0</td><td>F</td><td>–3</td><td>–2</td><td>360 (36)</td><td>8</td><td>5</td><td>23</td><td>L</td><td>38</td><td>Mil (+3)</td></tr> <tr class="shaded"><td>EU2A1 Mendez APC</td><td>3</td><td>8</td><td>M</td><td>–1</td><td>–1</td><td>95 (9)</td><td>6</td><td>15</td><td>56</td><td>G</td><td>42<sup>1</sup></td><td>Mil (+3)</td></tr> <tr><td>UN-500 Turtledove</td><td>3</td><td>12</td><td>L</td><td>–3</td><td>–2</td><td>360 (36)</td><td>6</td><td>10</td><td>46</td><td>G</td><td>48</td><td>Mil (+3)</td></tr> <tr><th colspan="13" style="text-align: left">Progress Level 7: Gravity Age</th></tr> <tr><td>IS-2000 Ifrit APC</td><td>4</td><td>11</td><td>L</td><td>–3</td><td>–3</td><td>100 (10)</td><td>6</td><td>15</td><td>58</td><td>G</td><td>46<sup>1</sup></td><td>Mil (+3)</td></tr> <tr class="shaded"><td>M-300 Hovertank</td><td>4</td><td>0</td><td>M</td><td>–4</td><td>–3</td><td>120 (12)</td><td>6</td><td>20</td><td>62</td><td>G</td><td>50<sup>1</sup></td><td>Mil (+3)</td></tr> <tr><td colspan="13" style="text-align: left; font-size: .8em"><sup>1</sup> The vehicle’s purchase DC does not include its mounted weapons.</td></tr> </table>
 
 
+
 ### Appel-Siems Gyrocopter (PL 6)
 
 Appel-Siems created its one-seat helicopter for the military, but many exist
@@ -75,5 +76,6 @@ chaingun are presented in Table: M-300 Hovertank Weapons.
 
 
 <table> <tr><th colspan="12">Table: M-300 Hovertank Weapons</th></tr> <tr><th>Weapon</th><th>Damage</th><th>Critical</th><th>Damage Type</th><th>Range Increment</th><th>Rate of Fire</th><td>Magazine</td><th>Size</th><th>Weight</th><th>Purchase DC</th><th>Restriction</th></tr> <tr><th colspan="12" style="text-align: left">Progress Level 6: Fusion Age</th></tr> <tr><td>T-95 Cavalcade chain gun </td><td>7d6</td><td>20</td><td>Ballistic</td><td>60 feet</td><td>S, A</td><td>Linked</td><td>Huge</td><td>185 lb.</td><td>21</td><td>Mil (+3)</td></tr> <tr><th colspan="12" style="text-align: left">Progress Level 7: Gravity Age </th></tr><tr><td>M-300 Rhino mass cannon </td><td>8d12</td><td>20</td><td>Ballistic</td><td>100 feet</td><td>S</td><td>—</td><td>Huge</td><td>450 lb.</td><td>29</td><td>Mil (+3)</td></tr> </table>
+
 
 

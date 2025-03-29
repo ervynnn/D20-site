@@ -34,3 +34,4 @@ Restriction: None.
 <table> <tr><th colspan="3">Table: Robot Weapon Mounts</th></tr> <tr><th>Robot’s Frame Size</th><th>Maximum Weapon Mounts</th><th>Purchase DC</th></tr> <tr><td>Diminutive or Tiny</td><td>1</td><td>4</td></tr> <tr class="shaded"><td>Small or Medium-size</td><td>2</td><td>6</td></tr> <tr><td>Large</td><td>3</td><td>8</td></tr> <tr class="shaded"><td>Huge</td><td>4</td><td>10</td></tr> <tr><td>Gargantuan</td><td>5</td><td>12</td></tr> <tr class="shaded"><td>Colossal</td><td>6</td><td>14</td></tr> </table>
 
 
+

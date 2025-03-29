@@ -32,6 +32,7 @@ which the character is not familiar.
 <table> <tr><th>Size of Site</th> <th>DC</th> <th>Time</th></tr> <tr><td> Personal computer</td><td> 10</td><td> 1 round </td></tr> <tr class="shaded"><td> Small office network</td><td> 15</td><td> 2 rounds </td></tr> <tr><td> Large office network</td><td> 20</td><td> 1 minute </td></tr> <tr class="shaded"><td> Massive corporate network</td><td> 25</td><td> 10 minutes </td></tr> </table>
 
 
+
 Defeat Computer Security: This application of Computer Use can’t be used
 untrained. The DC is determined by the quality of the security program
 installed to defend the system. If the
@@ -48,6 +49,7 @@ the end of the character’s session (see Computer Hacking below).
 
 
 <table> <tr><th>Level of Security</th> <th>DC</th></tr> <tr><td> Minimum</td><td> 20 </td></tr> <tr class="shaded"><td> Average</td><td> 25 </td></tr> <tr><td> Exceptional</td><td> 35 </td></tr> <tr class="shaded"><td> Maximum</td><td> 40 </td></tr> </table>
+
 
 
 Computer Hacking
@@ -166,6 +168,7 @@ site; doing so adds +2 to the DC for each additional computer.
 <table> <tr><th>Scope of Alteration</th> <th>DC</th> <th>Time</th></tr> <tr><td> Crash computer</td><td> 10</td><td> 1 minute </td></tr> <tr class="shaded"><td> Destroy programming</td><td> 15</td><td> 10 minutes </td></tr> <tr><td> Damage programming</td><td> 20</td><td> 10 minutes </td></tr> </table>
 
 
+
 Fixing the degraded programming requires 1 hour and a Computer Use
 [check](/modern.d20.srd/skills/skill.basics) against a DC equal to
 the DC for degrading it + 5.
@@ -187,6 +190,7 @@ identify the character or cut off his or her access to the system.
 
 
 <table> <tr><th>Type of Operation</th> <th> DC</th> <th> Time</th> </tr> <tr><td> Shut down passive remote (including cameras and door locks)</td><td> 20</td><td> 1 round per remote </td></tr> <tr class="shaded"><td> Shut down active remote (including motion detectors and alarms)</td><td> 25</td><td> 1 round per remote </td></tr> <tr><td> Reset parameters</td><td> 30</td><td> 1 minute per remote </td></tr> <tr class="shaded"><td> Change passcodes</td><td> 25</td><td> 1 minute </td></tr> <tr><td> Hide evidence of alteration</td><td> +10</td><td> 1 minute </td></tr> <tr class="shaded"><td> Minimum security</td><td> –5</td><td> — </td></tr> <tr><td> Exceptional security</td><td> +10</td><td> — </td></tr> <tr class="shaded"><td> Maximum security</td><td> +15</td><td> — </td></tr> </table>
+
 
 
 Special: A character can [take 10](/modern.d20.srd/skills/skill.basics) when using the Computer

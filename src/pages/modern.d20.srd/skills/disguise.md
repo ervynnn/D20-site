@@ -34,6 +34,7 @@ character is attempting to change his or her appearance.
 <table> <tr><th>Disguise</th> <th>Modifier</th></tr> <tr><td> Minor details only</td><td> +5 </td></tr> <tr class="shaded"><td> Appropriate uniform or costume</td><td> +2 </td></tr> <tr><td> Disguised as different sex</td><td> –2 </td></tr> <tr class="shaded"><td> Disguised as different age category</td><td> –2 <sup>1</sup> </td></tr> <tr><td colspan="2" style="font-size: .8em; text-align: left"> <sup>1</sup> Per step of difference between the character’s age category and the disguised age category (child, young adult, adult, middle age, old, or venerable). </td></tr></table>
 
 
+
 If the character is impersonating a particular individual, those who know what
 that person looks like automatically get to make
 [Spot](/modern.d20.srd/skills/spot)
@@ -43,6 +44,7 @@ a bonus on their [Spot](/modern.d20.srd/skills/spot)
 
 
 <table> <tr><th> Familiarity</th><th> Bonus </th></tr> <tr><td> Recognizes on sight</td><td> +4 </td></tr> <tr class="shaded"><td> Friend or associate</td><td> +6 </td></tr> <tr><td> Close friend</td><td> +8 </td></tr> <tr class="shaded"><td> Intimate</td><td> +10 </td></tr> </table>
+
 
 
 Usually, an individual makes a [Spot](/modern.d20.srd/skills/spot)

@@ -16,3 +16,4 @@ below), but never more than once per round.
 <table> <tr><th>Character Level</th> <th>Times per Day</th></tr> <tr><td> 1st–4th</td><td> 1 </td></tr> <tr class="shaded"><td> 5th–8th</td><td> 2 </td></tr> <tr><td> 9th–12th</td><td> 3 </td></tr> <tr class="shaded"><td> 13th–16th</td><td> 4 </td></tr> <tr><td> 17th–20th</td><td> 5 </td></tr></table>
 
 
+

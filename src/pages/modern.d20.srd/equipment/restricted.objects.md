@@ -35,6 +35,7 @@ circumstances.
 <table> <tr><th colspan="4">Table: Restricted Objects</th></tr> <tr><th> Registration Rating</th><th> License or Fee Purchase DC</th><th> Black Market Purchase DC<sup>1</sup></th><th> Time Required </th></tr> <tr><td> Licensed</td><td> 10</td><td> +1</td><td> 1 day </td></tr> <tr class="shaded"><td> Restricted</td><td> 15</td><td> +2</td><td> 2 days </td></tr> <tr><td> Military</td><td> 20</td><td> +3</td><td> 3 days </td></tr> <tr class="shaded"><td> Illegal</td><td> 25</td><td> +4</td><td> 4 days </td></tr> <tr><td colspan="4" style="font-size: .8em; text-align: left:"> <sup>1</sup> Add to the object’s purchase DC if the character tries to buy it on the black market without first obtaining a license; see The Black Market, below. </td></tr></table>
 
 
+
 ### Purchasing a License
 
 To purchase a license or pay necessary fees, make a [Wealth check](/modern.d20.srd/wealth/wealth.check) against the purchase DC given in

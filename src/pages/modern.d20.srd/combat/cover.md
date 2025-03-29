@@ -67,3 +67,4 @@ bonus, if the character so desires.
 <table><tr><th colspan="3"> Table: Cover</th></tr> <tr><th> Degree of Cover (Example)</th><th> Cover Bonus to Defense</th><th> Reflex Saves </th></tr> <tr><td> One-quarter (standing behind a 3-ft. high wall)</td><td> +2</td><td> +1 </td></tr> <tr class="shaded"><td> One-half (fighting from around a corner or a tree; standing at an open window; behind a creature of same size)</td><td> +4</td><td> +2 </td></tr> <tr><td>Three-quarters (peering around a corner or a big tree)</td><td> +7</td><td> +3 </td></tr> <tr class="shaded"><td>Nine-tenths (standing at an arrow slit; behind a door that’s slightly ajar)</td><td> +10</td><td> +4<sup>1</sup> </td></tr> <tr><td>Total (on the other side of a solid wall)</td><td> —</td><td> — </td></tr> <tr><td colspan="3"><p style="text-align: left; font-size: .8em"><sup>1</sup> Half damage if save is failed; no damage if successful.</p> </td></tr></table>
 
 
+

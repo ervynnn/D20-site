@@ -31,5 +31,6 @@ point cost is also greater.
 <table> <tr><th>Level</th><th>Weapons</th><th>Example</th><th>Power Points</th></tr> <tr><td>1�3</td><td>Simple melee</td><td>Knife</td><td>1</td></tr> <tr class="shaded"><td>4�6</td><td>Handgun</td><td>Colt Python</td><td>3</td></tr> <tr><td>7�9</td><td>SMG, rifle, shotgun</td><td>Winchester 94</td><td>7</td></tr> <tr class="shaded"><td>10</td><td>Exotic or Archaic melee</td><td>Katana</td><td>11</td></tr> </table>
 
 
+
 Weapons gained by call weaponry are distinctive due to the low hum they emit.
 

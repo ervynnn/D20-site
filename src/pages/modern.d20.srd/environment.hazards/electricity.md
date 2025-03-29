@@ -18,3 +18,4 @@ damage is suffered.
 <table> <tr> <th colspan="4"> Table: Electricity Damage </th> </tr> <tr> <th> Type </th> <th> Examples </th> <th> Damage </th> <th> Fort DC </th> </tr> <tr> <td> Jolt </td> <td> Car battery, stun gun </td> <td> 1d3 </td> <td> 10 </td> </tr> <tr class="shaded"> <td> Low voltage </td> <td> Fuse box, electrical socket </td> <td> 2d6 </td> <td> 15 </td> </tr> <tr> <td> Medium voltage </td> <td> Industrial transformer, electric fence </td> <td> 4d6 </td> <td> 15 </td> </tr> <tr class="shaded"> <td> High voltage </td> <td> Power line, electric chair, lightning </td> <td> 8d6 </td> <td> 20 </td> </tr> </table>
 
 
+

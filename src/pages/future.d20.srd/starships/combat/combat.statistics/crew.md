@@ -33,6 +33,7 @@ in to the base purchase DCs of the ships presented below.)
 <table> <tr><th colspan="6">Table: Crew Quality</th></tr> <tr><th>Crew Quality</th><th>Skill Check Modifier<sup>1</sup></th><th>Pilot’s Class Bonus to Defense</th><th>Pilot’s Dexterity Modifier</th><th>Gunner’s Modifier to Attack Bonus</th><th>Starship’s Base Purchase DC</th></tr> <tr><td>Untrained</td><td>+0</td><td>+1</td><td>+0</td><td>–4</td><td>–4</td></tr> <tr class="shaded"><td>Trained</td><td>+4</td><td>+3</td><td>+2</td><td>+2</td><td>0</td></tr> <tr><td>Expert</td><td>+8</td><td>+5</td><td>+4</td><td>+4</td><td>+4</td></tr> <tr class="shaded"><td>Ace</td><td>+12</td><td>+7</td><td>+6</td><td>+8/+3</td><td>+8</td></tr> <tr><td colspan="6" style="font-size: .8em; text-align: left"><sup>1</sup>This includes Pilot checks.</td></tr> </table>
 
 
+
 ### Crew Improvement
 
 To improve in quality, a starship’s crew of nonheroic characters must “put in
@@ -45,5 +46,6 @@ experience.
 
 
 <table> <tr><th colspan="3">Table: Crew Improvement</th></tr> <tr><th>Crew Quality</th><th>Length of Tour of Duty</th><th>Starship Battles Survived</th></tr> <tr><td>Untrained</td><td>0–5 months</td><td>0</td></tr> <tr class="shaded"><td>Trained</td><td>6–11 months</td><td>0–3</td></tr> <tr><td>Expert</td><td>12–35 months</td><td>4–11</td></tr> <tr class="shaded"><td>Ace</td><td>3 years or more</td><td>12+</td></tr> </table>
+
 
 

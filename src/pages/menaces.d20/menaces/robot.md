@@ -42,6 +42,7 @@ starting construction.
 <table> <tr> <th> Size </th> <th> Purchase DC </th> </tr> <tr> <td> Small </td> <td> 21 </td> </tr> <tr class="shaded"> <td> Medium-size </td> <td> 24 </td> </tr> </table>
 
 
+
 2\. Construct Frame: The robot’s body determines its size, shape, locomotion,
 and hit points. The DC of the required Craft (mechanical) check is set by the
 robot’s size and modified by the mode of locomotion selected (see the Techie
@@ -51,6 +52,7 @@ advanced class description).
 <table> <tr> <th> Size </th> <th> Craft (mechanical) DC </th> </tr> <tr> <td> Small </td> <td> 18 </td> </tr> <tr class="shaded"> <td> Medium-size </td> <td> 21 </td> </tr> </table>
 
 
+
 In addition to the external components noted in the Techie advanced class
 description, a Techie can add additional components, weapons, and armor
 plating to a robot. Refer to the table below to find the DC modifier for
@@ -58,6 +60,7 @@ adding new components to a robot.
 
 
 <table> <tr> <th> Components </th> <th> DC Modifier </th> </tr> <tr> <th colspan="2"> Frame Shape and Locomotion </th> </tr> <tr> <td> Articulated frame </td> <td> +5 </td> </tr> <tr> <th colspan="2"> External Components </th> </tr> <tr> <td> Accessory mount </td> <td> +1 </td> </tr> <tr class="shaded"> <td> Loading mechanism </td> <td> +2 </td> </tr> <tr> <td> Basic toolkit </td> <td> +2 </td> </tr> <tr class="shaded"> <td> Basic electrical kit </td> <td> +2 </td> </tr> <tr> <td> Searchlight </td> <td> +1 </td> </tr> <tr> <th colspan="2"> Armor </th> </tr> <tr> <td> Natural armor bonus +2 </td> <td> +2* </td> </tr> </table>
+
 
 
 *This component can be purchased a number of times equal to the robot’s size category (counted up from Diminutive). 

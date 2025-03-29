@@ -24,6 +24,7 @@ the next 16 hours, as indicated on the following table:
 <table> <tr> <th> 1d10 </th> <th> Behavior </th> </tr> <tr> <td> 1 </td> <td> Wander away for 1 minute (unless prevented) </td> </tr> <tr class="shaded"> <td> 2–6 </td> <td> Do nothing for 1 round </td> </tr> <tr> <td> 7–9 </td> <td> Attack nearest creature for 1 round </td> </tr> <tr class="shaded"> <td> 10 </td> <td> Act normally for 1 round </td> </tr> </table>
 
 
+
 Except on a result of 1, roll again each round on the creature’s turn to see
 what the subject does that round. Wandering creatures leave the scene as if
 disinterested. Attackers are not at any special advantage when attacking them.

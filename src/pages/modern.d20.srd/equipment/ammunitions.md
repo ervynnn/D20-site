@@ -14,6 +14,7 @@ Ammunition.
 <table> <tr> <th> Ammunition Type (Quantity) </th> <th> Purchase DC </th> </tr> <tr> <td> 5.56mm (20) </td> <td> 4 </td> </tr> <tr> <td> 7.62mm (20) </td> <td> 4 </td> </tr> <tr> <td> 7.62mmR (20) </td> <td> 4 </td> </tr> <tr> <td> .444 caliber (20) </td> <td> 6 </td> </tr> <tr> <td> .50 caliber (20) </td> <td> 6 </td> </tr> <tr> <td> 9mm (50) </td> <td> 5 </td> </tr> <tr> <td> 10mm (50) </td> <td> 5 </td> </tr> <tr> <td> .22 caliber (50) </td> <td> 4 </td> </tr> <tr> <td> .32 caliber (50) </td> <td> 5 </td> </tr> <tr> <td> .38 special (50) </td> <td> 5 </td> </tr> <tr> <td> .357 caliber (50) </td> <td> 5 </td> </tr> <tr> <td> .44 caliber (50) </td> <td> 5 </td> </tr> <tr> <td> .45 caliber (50) </td> <td> 5 </td> </tr> <tr> <td> .50AE caliber (50) </td> <td> 6 </td> </tr> <tr> <td> 10-gauge buckshot (10) </td> <td> 5 </td> </tr> <tr> <td> 12-gauge buckshot (10) </td> <td> 4 </td> </tr> <tr> <td> Arrow (12) </td> <td> 8 </td> </tr> <tr> <td> Crossbow bolt (12) </td> <td> 7 </td> </tr> </table>
 
 
+
 ###  5.56mm, 7.62mm, 7.62mmR, .444, .50
 
 These calibers of ammunition are generally used in [ rifles](/modern.d20.srd/equipment/weapons.longarms) , [ assault rifles](/modern.d20.srd/equipment/weapons.longarms) , or [ machine guns](/modern.d20.srd/equipment/weapons.longarms) , and are sold in boxes of 20
@@ -51,5 +52,6 @@ heavier; use the weight value for one damage step higher.
 
 
 <table> <tr> <th colspan="7"> Weight per Number of Rounds </th> </tr> <tr> <th> Damage </th> <th> 10 </th> <th> 20 </th> <th> 30 </th> <th> 40 </th> <th> 50 </th> <th> 100 </th> </tr> <tr> <td> 2d4 </td> <td> 0.5lb </td> <td> 0.5lb </td> <td> 0.5lb </td> <td> 0.5lb </td> <td> 1.0lb </td> <td> 1.5lb </td> </tr> <tr> <td> 2d6 </td> <td> 0.5lb </td> <td> 0.5lb </td> <td> 0.5lb </td> <td> 1.0lb </td> <td> 1.0lb </td> <td> 2.0lb </td> </tr> <tr> <td> 2d8 </td> <td> 0.5lb </td> <td> 0.5lb </td> <td> 0.5lb </td> <td> 1.0lb </td> <td> 1.0lb </td> <td> 2.0lb </td> </tr> <tr> <td> 2d10 </td> <td> 0.5lb </td> <td> 1.0lb </td> <td> 1.0lb </td> <td> 1.5lb </td> <td> 1.5lb </td> <td> 3.0lb </td> </tr> <tr> <td> 2d12 </td> <td> 1.0lb </td> <td> 2.0lb </td> <td> 3.0lb </td> <td> 4.0lb </td> <td> 5.0lb </td> <td> 10.0lb </td> </tr> </table>
+
 
 

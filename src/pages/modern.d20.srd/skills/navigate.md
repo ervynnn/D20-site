@@ -39,6 +39,7 @@ for each failure.
 <table> <tr><th>Length of Trip</th><th> DC</th></tr> <tr><td> Short (a few hours)</td><td> 20 </td></tr> <tr class="shaded"><td> Moderate (a day or two)</td><td> 22 </td></tr> <tr><td> Long (up to a week)</td><td> 25 </td></tr> <tr class="shaded"><td> Extreme (more than a week)</td><td> 28 </td></tr></table>
 
 
+
 When faced with multiple choices, such as at a branch in a tunnel, a character
 can make a Navigate [check](/modern.d20.srd/skills/skill.basics) (DC
 20) to intuit the choice that takes the character toward a known destination.

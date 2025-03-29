@@ -15,6 +15,7 @@ Carrying Capacity.
 <table> <tr><th colspan="4"> Table: Carrying Capacity</th></tr> <tr> <th><a href="/modern.d20.srd/basics/ability.scores">Strength</a></th> <th> Light Load</th><th> Medium Load</th><th> Heavy Load </th></tr> <tr><td> 1</td><td> up to 3 lb.</td><td> 4–6 lb.</td><td> 7–10 lb. </td></tr> <tr class="shaded"><td> 2</td><td> up to 6 lb.</td><td> 7–13 lb.</td><td> 14–20 lb. </td></tr> <tr><td> 3</td><td> up to 10 lb.</td><td> 11–20 lb.</td><td> 21–30 lb. </td></tr> <tr class="shaded"><td> 4</td><td> up to 13 lb.</td><td> 14–26 lb.</td><td> 27–40 lb. </td></tr> <tr><td> 5</td><td> up to 16 lb.</td><td> 17–33 lb.</td><td> 34–50 lb. </td></tr> <tr class="shaded"><td> 6</td><td> up to 20 lb.</td><td> 21–40 lb.</td><td> 41–60 lb. </td></tr> <tr><td> 7</td><td> up to 23 lb.</td><td> 24–46 lb.</td><td> 47–70 lb. </td></tr> <tr class="shaded"><td> 8</td><td> up to 26 lb.</td><td> 27–53 lb.</td><td> 54–80 lb. </td></tr> <tr><td> 9</td><td> up to 30 lb.</td><td> 31–60 lb.</td><td> 61–90 lb. </td></tr> <tr class="shaded"><td> 10</td><td> up to 33 lb.</td><td> 34–66 lb.</td><td> 67–100 lb. </td></tr> <tr><td> 11</td><td> up to 38 lb.</td><td> 39–76 lb.</td><td> 77–115 lb. </td></tr> <tr class="shaded"><td> 12</td><td> up to 43 lb.</td><td> 44–86 lb.</td><td> 87–130 lb. </td></tr> <tr><td> 13</td><td> up to 50 lb.</td><td> 51–100 lb.</td><td> 101–150 lb. </td></tr> <tr class="shaded"><td> 14</td><td> up to 58 lb.</td><td> 59–116 lb.</td><td> 117–175 lb. </td></tr> <tr><td> 15</td><td> up to 66 lb.</td><td> 67–133 lb.</td><td> 134–200 lb. </td></tr> <tr class="shaded"><td> 16</td><td> up to 76 lb.</td><td> 77–153 lb.</td><td> 154–230 lb. </td></tr> <tr><td> 17</td><td> up to 86 lb.</td><td> 87–173 lb.</td><td> 174–260 lb. </td></tr> <tr class="shaded"><td> 18</td><td> up to 100 lb.</td><td> 101–200 lb.</td><td> 201–300 lb. </td></tr> <tr><td> 19</td><td> up to 116 lb.</td><td> 117–233 lb.</td><td> 234–350 lb. </td></tr> <tr class="shaded"><td> 20</td><td> up to 133 lb.</td><td> 134–266 lb.</td><td> 267–400 lb. </td></tr> <tr><td> 21</td><td> up to 153 lb.</td><td> 154–306 lb.</td><td> 307–460 lb. </td></tr> <tr class="shaded"><td> 22</td><td> up to 173 lb.</td><td> 174–346 lb.</td><td> 347–520 lb. </td></tr> <tr><td> 23</td><td> up to 200 lb.</td><td> 201–400 lb.</td><td> 401–600 lb. </td></tr> <tr class="shaded"><td> 24</td><td> up to 233 lb.</td><td> 234–466 lb.</td><td> 467–700 lb. </td></tr> <tr><td> 25</td><td> up to 266 lb.</td><td> 267–533 lb.</td><td> 534–800 lb. </td></tr> <tr class="shaded"><td> 26</td><td> up to 306 lb.</td><td> 307–613 lb.</td><td> 614–920 lb. </td></tr> <tr><td> 27</td><td> up to 346 lb.</td><td> 347–693 lb.</td><td> 694–1,040 lb. </td></tr> <tr class="shaded"><td> 28</td><td> up to 400 lb.</td><td> 401–800 lb.</td><td> 801–1,200 lb. </td></tr> <tr><td> 29</td><td> up to 466 lb.</td><td> 467–933 lb.</td><td> 934–1,400 lb. </td></tr> <tr class="shaded"><td> +10</td><td> x4</td><td> x4</td><td> x4 </td></tr> </table>
 
 
+
 If the weight of everything a character is wearing or carrying amounts to no
 more than his or her light load figure, the character can move and perform any
 actions normally (though the character’s speed might already be slowed by the
@@ -27,6 +28,7 @@ that speed for some other reason.
 
 
 <table> <tr><th>Previous Speed</th> <th>Current Speed</th></tr> <tr><td> 20 ft.</td><td> 15 ft. </td></tr> <tr class="shaded"><td> 30 ft.</td><td> 20 ft. </td></tr> <tr><td> 40 ft.</td><td> 30 ft. </td></tr> <tr class="shaded"><td> 50 ft.</td><td> 40 ft. </td></tr> <tr><td> 60 ft.</td><td> 50 ft. </td></tr> </table>
+
 
 
 An encumbered character performs as if his or her
@@ -46,6 +48,7 @@ slowed to that speed for some other reason.
 
 
 <table> <tr><th>Previous Speed</th> <th>Current Speed</th></tr> <tr><td> 20 ft.</td><td> 10 ft. </td></tr> <tr class="shaded"><td> 30 ft.</td><td> 15 ft. </td></tr> <tr><td> 40 ft.</td><td> 20 ft. </td></tr> <tr class="shaded"><td> 50 ft.</td><td> 25 ft. </td></tr> <tr><td> 60 ft.</td><td> 30 ft. </td></tr> </table>
+
 
 
 A heavily encumbered character performs as if his or her Dexterity modifier

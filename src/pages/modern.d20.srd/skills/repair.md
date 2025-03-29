@@ -20,6 +20,7 @@ necessary for the type of repair the character is attempting, then no [Wealth ch
 <table> <tr> <th>Repair Task (Example)</th> <th>Purchase DC</th> <th>Repair DC</th> <th>Time</th> </tr> <tr><td> Simple (tool, simple weapon)</td><td> 4</td><td> 10</td><td> 1 min. </td></tr> <tr class="shaded"><td> Moderate (mechanical or electronic component)</td><td> 7</td><td> 15</td><td> 10 min. </td></tr> <tr><td> Complex (mechanical or electronic device)</td><td> 10</td><td> 20</td><td> 1 hr. </td></tr> <tr class="shaded"><td> Advanced (cutting-edge mechanical or electronic device)</td><td> 13</td><td> 25</td><td> 10 hr. </td></tr> </table>
 
 
+
 Jury-Rig: A character can choose to attempt jury-rigged, or temporary,
 repairs. Doing this reduces the purchase DC by 3 and the Repair
 [check](/modern.d20.srd/skills/skill.basics) DC by 5, and allows the

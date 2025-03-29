@@ -65,6 +65,7 @@ Skill Points at Each Level: 3 + Int modifier.
 <table><tr> <th colspan="8">Table: The Battle Mind</th> </tr> <tr> <th>Class Level</th><th>Base Attack Bonus</th><th>Fort Save</th><th>Ref Save</th><th>Will Save</th><th>Class Features</th><th>Defense Bonus</th><th>Reputation Bonus</th> </tr> <tr> <td> 1st</td><td>+0</td><td>+2</td><td>+0</td><td>+0</td><td>Psionic skills, psionic powers</td><td>+1</td><td>+0</td></tr> <tr class="shaded"> <td>2nd</td><td>+1</td><td>+3</td><td>+0</td><td>+0</td><td>Psi-blade, imprint tattoo, psionic powers</td><td>+2</td><td>+0</td></tr> <tr> <td>3rd</td><td>+2</td><td>+3</td><td>+1</td><td>+1</td><td>Bonus feat, psionic powers</td><td>+2</td><td>+0</td></tr> <tr class="shaded"> <td>4th</td><td>+3</td><td>+4</td><td>+1</td><td>+1</td><td>Psychic shield, psionic powers</td><td>+3</td><td>+0</td></tr> <tr> <td>5th</td><td>+3</td><td>+4</td><td>+1</td><td>+1</td><td>Combat manifestation, psionic powers</td><td>+4</td><td>+1</td></tr> <tr class="shaded"> <td>6th</td><td>+4</td><td>+5</td><td>+2</td><td>+2</td><td>Bonus feat, psionic powers</td><td>+4</td><td>+1</td></tr> <tr> <td>7th</td><td>+5</td><td>+5</td><td>+2</td><td>+2</td><td>Improved psi-blade, psionic powers</td><td>+5</td><td>+1</td></tr> <tr class="shaded"> <td>8th</td><td>+6</td><td>+6</td><td>+2</td><td>+2</td><td>Improved psychic shield, psionic powers</td><td>+6</td><td>+1</td></tr> <tr> <td>9th</td><td>+6</td><td>+6</td><td>+3</td><td>+3</td><td>Bonus feat, psionic powers</td><td>+6</td><td>+2</td></tr> <tr class="shaded"> <td>10th</td><td>+7</td><td>+7</td><td>+3</td><td>+3</td><td>Ultimate psi-blade, psionic powers</td><td>+7</td><td>+2</td></tr> </table>
 
 
+
 ### Class Features
 
 All of the following features pertain to the Battle Mind advanced class.
@@ -82,6 +83,7 @@ threats while also gaining a few select benefits.
 
 
 <table style="float: right;"> <tr><th>Task</th><th>DC</th></tr> <tr><td>Resist fear</td><td>15</td></tr> <tr class="shaded"><td>Memorize</td><td>15</td></tr> <tr><td>Tolerate poison</td><td>Poison’s DC</td></tr> <tr class="shaded"><td>Willpower</td><td>20</td></tr> </table>
+
 
 
 Check: The DC and effect depend on the task you attempt.
@@ -143,6 +145,7 @@ opportunity.
 
 
 <table style="float:right"> <tr><th colspan="7">Powers Discovered by Level</th></tr> <tr><th>Battle Mind Level</th><th>Pts/Day</th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th></tr> <tr><td>1st</td><td>2</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr> <tr class="shaded"><td>2nd</td><td>3</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td></tr> <tr><td>3rd</td><td>4</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td></tr> <tr class="shaded"><td>4th</td><td>5</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td></tr> <tr><td>5th</td><td>8</td><td>3</td><td>3</td><td>1</td><td>—</td><td>—</td></tr> <tr class="shaded"><td>6th</td><td>11</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td></tr> <tr><td>7th</td><td>16</td><td>3</td><td>3</td><td>2</td><td>1</td><td>—</td></tr> <tr class="shaded"><td>8th</td><td>21</td><td>3</td><td>3</td><td>3</td><td>1</td><td>—</td></tr> <tr><td>9th</td><td>26</td><td>3</td><td>3</td><td>3</td><td>2</td><td>—</td></tr> <tr class="shaded"><td>10th</td><td>33</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td></tr> </table>
+
 
 
 ### Psionic Powers

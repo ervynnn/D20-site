@@ -74,6 +74,7 @@ must make an additional Research check to determine how long the search took.
 
 
 <table> <tr> <th> DC </th> <th> Time Required </th> </tr> <tr> <td> 9 or less </td> <td> 1d6 + 6 hours with no information found </td> </tr> <tr class="shaded"> <td> 10 –14 </td> <td> 1d6 + 6 hours </td> </tr> <tr> <td> 15 –19 </td> <td> 1d6 hours </td> </tr> <tr class="shaded"> <td> 20 –24 </td> <td> 3d10 + 30 minutes </td> </tr> <tr> <td> 25 –29 </td> <td> 2d10 + 20 minutes </td> </tr> <tr class="shaded"> <td> 30 + </td> <td> 1d10 + 10 minutes </td> </tr> </table>
+
  **Anastasia Markova**
 
 The halls of government and ivory towers of finance are not the only places

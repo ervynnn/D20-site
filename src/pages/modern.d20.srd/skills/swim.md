@@ -35,6 +35,7 @@ depends on the water:
 <table> <tr><th> Water</th><th> DC </th></tr> <tr><td> Calm water</td><td> 10 </td></tr> <tr class="shaded"><td> Rough water</td><td> 15 </td></tr> <tr><td> Stormy water</td><td> 20 </td></tr> </table>
 
 
+
 Each hour that the character swims, make a Swim
 [check](/modern.d20.srd/skills/skill.basics) against DC 20. If the
 character fails, he or she becomes fatigued. If the character fails a

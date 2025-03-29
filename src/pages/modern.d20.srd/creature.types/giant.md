@@ -40,3 +40,4 @@ Most giants have [ low-light vision](/modern.d20.srd/special.abilities/low.light
 <table> <th colspan="9"> Table: Giants </th> <tr> <th> Size </th> <th> Str </th> <th> Dex </th> <th> Con </th> <th> Minimum HD </th> <th> Slam </th> <th> Bite </th> <th> Claw </th> <th> Gore </th> </tr> <tr> <td> Colossal </td> <td> 46–47 </td> <td> 6–7 </td> <td> 28–31 </td> <td> 32d8 </td> <td> 2d6 </td> <td> 2d8 </td> <td> 2d8 </td> <td> 4d6 </td> </tr> <tr class="shaded"> <td> Gargantuan </td> <td> 38–39 </td> <td> 6–7 </td> <td> 24–27 </td> <td> 16d8 </td> <td> 1d8 </td> <td> 2d6 </td> <td> 2d6 </td> <td> 2d8 </td> </tr> <tr> <td> Huge </td> <td> 30–31 </td> <td> 6–7 </td> <td> 20–23 </td> <td> 8d8 </td> <td> 1d6 </td> <td> 1d8 </td> <td> 2d4 </td> <td> 2d6 </td> </tr> <tr class="shaded"> <td> Large </td> <td> 22–23 </td> <td> 8–9 </td> <td> 16–19 </td> <td> 2d8 </td> <td> 1d4 </td> <td> 1d6 </td> <td> 1d6 </td> <td> 1d8 </td> </tr> </table>
 
 
+

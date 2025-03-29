@@ -19,6 +19,7 @@ manipulators, as determined by their size:
 <table> <tr><th>Robot’s Frame Size</th><th>Manipulators</th></tr> <tr><td>Medium-size or smaller</td><td>Up to 2</td></tr> <tr><td>Large</td><td>Up to 4</td></tr> <tr><td>Huge or larger</td><td>Up to 8</td></tr> </table>
 
 
+
 To build a manipulator from scratch, a character must succeed at a Craft
 (mechanical) check (DC 25) after investing 24 hours in its construction. A
 character without a mechanical tool kit takes a –4 penalty on the skill check.
@@ -41,6 +42,7 @@ of the base purchase DC of the robot’s frame (see Frame, above).
 
 
 <table> <tr><th colspan="10">Table: Manipulator Damage</th></tr><tr> </tr><tr><th colspan="10">——————————————— Robot Size ———————————————</th></tr><tr> </tr><tr><th>Manipulator Type</th><th>Fine</th><th>Diminutive</th><th>Tiny</th><th>Small</th><th>Medium-size</th><th>Large</th><th>Huge</th><th>Gargantuan</th><th>Colossal</th></tr><tr> </tr><tr><td>Advanced Hand<sup>1</sup></td><td>—</td><td>—</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td></tr> <tr class="shaded"><td>Claw</td><td>—</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td><td>2d8</td></tr> <tr><td>Hand<sup>1</sup></td><td>—</td><td>—</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td></tr> <tr class="shaded"><td>Jaws</td><td>—</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td><td>2d8</td></tr> <tr><td>Pincer</td><td>—</td><td>—</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td></tr> <tr class="shaded"><td>Probe</td><td>—</td><td>—</td><td>—</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td></tr> <tr><td>Special-Use Gripper<sup>1</sup></td><td>—</td><td>—</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td></tr> <tr class="shaded"><td>Task Hand<sup>1</sup></td><td>—</td><td>—</td><td>1</td><td>1d2</td><td>1d3</td><td>1d4</td><td>1d6</td><td>1d8</td><td>2d6</td></tr> <tr><td colspan="10" style="text-align: left; font-size: .8em"><sup>1</sup>This type of manipulator deals nonlethal damage only.</td></tr> </table>
+
 
 
 ### Claw (PL 5)

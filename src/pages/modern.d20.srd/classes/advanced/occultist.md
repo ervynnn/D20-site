@@ -68,6 +68,7 @@ Skill Points at Each Level: 5 + Int modifier.
 <table><tr> <th colspan="8">Table: The Occultist</th> </tr> <tr> <th>Class Level</th><th>Base Attack Bonus</th><th>Fort Save</th><th>Ref Save</th><th>Will Save</th><th>Class Features</th><th>Defense Bonus</th><th>Reputation Bonus</th> </tr><tr><td>1st</td><td>+0</td><td>+0</td><td>+0</td><td>+1</td><td>Arcane skills, spell resistance</td><td>+0</td><td>+0</td></tr> <tr class="shaded"><td>2nd</td><td>+1</td><td>+0</td><td>+0</td><td>+2</td><td>Arcane research (scrolls)</td><td>+1</td><td>+0</td></tr> <tr><td>3rd</td><td>+1</td><td>+1</td><td>+1</td><td>+2</td><td>Bonus feat</td><td>+1</td><td>+1</td></tr> <tr class="shaded"><td>4th</td><td>+2</td><td>+1</td><td>+1</td><td>+2</td><td>Shadow contact</td><td>+1</td><td>+1</td></tr> <tr><td>5th</td><td>+2</td><td>+1</td><td>+1</td><td>+3</td><td>Bind Shadow creature</td><td>+2</td><td>+1</td></tr> <tr class="shaded"><td>6th</td><td>+3</td><td>+2</td><td>+2</td><td>+3</td><td>Bonus feat</td><td>+2</td><td>+2</td></tr> <tr><td>7th</td><td>+3</td><td>+2</td><td>+2</td><td>+4</td><td>Arcane research (items)</td><td>+2</td><td>+2</td></tr> <tr class="shaded"><td>8th</td><td>+4</td><td>+2</td><td>+2</td><td>+4</td><td>Bind Shadow creature</td><td>+3</td><td>+2</td></tr> <tr><td>9th</td><td>+4</td><td>+3</td><td>+3</td><td>+4</td><td>Bonus feat</td><td>+3</td><td>+3</td></tr> <tr class="shaded"><td>10th</td><td>+5</td><td>+3</td><td>+3</td><td>+5</td><td>Banish</td><td>+3</td><td>+3</td></tr> </table>
 
 
+
 ### Class Features
 
 The following features pertain to the Occultist advanced class.
@@ -111,6 +112,7 @@ only.
 
 
 <table style="float: right"><tr><th>Task</th><th>DC</th></tr> <tr><td>Activate blindly</td><td> 25</td></tr> <tr class="shaded"><td>Decipher a written spell</td><td> 25 + spell level</td></tr> <tr><td>Emulate class feature</td><td> 20</td></tr> <tr class="shaded"><td>Emulate ability score</td><td> See text</td></tr> <tr><td>Emulate allegiance</td><td> 30</td></tr> <tr class="shaded"><td>Use a scroll</td><td> 20 + caster level</td></tr> <tr><td>Use a wand</td><td> 20</td></tr> </table>
+
 
 
 Use this skill to activate [magic devices](/modern.d20.srd/fx.items),
@@ -226,6 +228,7 @@ resistance at any time.
 
 
 <table style="float:right;"> <tr><th>Level</th><th>1</th><th>2</th><th>3</th><th>4</th><th>Research</th></tr> <tr><td>2nd</td><td>3</td><td>—</td><td>—</td><td>—</td><td>1 (DC 20)</td></tr> <tr><td>3rd</td><td>4</td><td>—</td><td>—</td><td>—</td><td>2 (DC 23)</td></tr> <tr><td>4th</td><td>5</td><td>2</td><td>—</td><td>—</td><td>3 (DC 25)</td></tr> <tr><td>5th</td><td>5</td><td>3</td><td>—</td><td>—</td><td>4 (DC 28)</td></tr> <tr><td>6th</td><td>5</td><td>4</td><td>—</td><td>—</td><td>5 (DC 30)</td></tr> <tr><td>7th</td><td>6</td><td>5</td><td>2</td><td>—</td><td>6 (DC 33)</td></tr> <tr><td>8th</td><td>6</td><td>5</td><td>3</td><td>—</td><td>7 (DC 35)</td></tr> <tr><td>9th</td><td>6</td><td>5</td><td>4</td><td>—</td><td>8 (DC 38)</td></tr> <tr><td>10th</td><td>7</td><td>6</td><td>5</td><td>2</td><td>9 (DC 40)</td></tr> </table>
+
 
 
 Starting at 2nd level, an Occultist can research spells and scribe

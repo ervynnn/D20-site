@@ -11,8 +11,10 @@ The following weapons are available at PL 5 and later.
 
 
 <table> <tr><th colspan="11">Table: Progress Level 5 Ranged Weapons</th></tr> <tr><th>Weapon<sup>1</sup></th><th>Damage</th><th>Critical</th><th>Damage Type</th><th>Range Increment</th><th>Rate of Fire</th><th>Magazine</th><th>Size</th><th>Weight</th><th>Purchase DC</th><th>Restriction</th></tr> <tr><td>Falcon .45</td><td>2d6</td><td>20</td><td>Ballistic</td><td>40 feet</td><td>S, A</td><td>20 box</td><td>Medium</td><td>2.5 lb.</td><td>18 </td><td>Lic (+1)</td></tr> <tr class="shaded"><td>OICW assault rifle</td><td>2d8</td><td>20</td><td>Ballistic</td><td>70 feet</td><td>S</td><td>30 box</td><td>Large</td><td>18 lb.</td><td>26 </td><td>Mil (+3)</td></tr> <tr><td>TacMil sniper rifle</td><td>2d10</td><td>20</td><td>Ballistic</td><td>120 feet</td><td>S</td><td>15 box</td><td>Large</td><td>14 lb.</td><td>21 </td><td>Res (+2)</td></tr> <tr class="shaded"><td>Twin thunder machine gun</td><td>2d10</td><td>20</td><td>Ballistic</td><td>100 feet</td><td>A</td><td>Linked</td><td>Huge</td><td>42 lb.</td><td>22 </td><td>Mil (+3)</td></tr> <tr><td colspan="11" style="text-align: left; font-size: .8em"><sup>1</sup> All weapons listed in this table require the Personal Firearms Proficiency feat.</td></tr> </table>
+
  
 <table> <tr><th colspan="11">Table: Progress Level 5 Explosives And Splash Weapons</th></tr> <tr><td>Grenade, shrapnel</td><td>5d6</td><td>—</td><td>Slashing</td><td>20 ft.</td><td>15</td><td>10 ft.</td><td>Tiny</td><td>1 lb.</td><td>18</td><td>Mil (+3)</td></tr> <tr class="shaded"><td>Grenade, sonic pulse</td><td>3d6 nonlethal plus special<sup>1</sup></td><td>—</td><td>Sonic</td><td>15 ft.</td><td>12</td><td>10 ft.</td><td>Tiny</td><td>1 lb.</td><td>15</td><td>Res (+2)</td></tr> <tr><td colspan="11" style="text-align: left; font-size: .8em"><sup>1</sup> See the weapon description for details.</td></tr> </table>
+
 
 
 ### Falcon .45

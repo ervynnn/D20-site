@@ -30,6 +30,7 @@ creature’s base damage, whichever is greater.
 <table> <tr><th>Size</th><th>Bite Damage</th><th>Claw Damage</th></tr> <tr><td>Fine </td><td>1</td><td>—</td></tr> <tr class="shaded"><td>Diminutive </td><td>1d2</td><td>—</td></tr> <tr><td>Tiny </td><td>1d3</td><td>1</td></tr> <tr class="shaded"><td>Small </td><td>1d4</td><td>1d2</td></tr> <tr><td>Medium-size </td><td>1d6</td><td>1d3</td></tr> <tr class="shaded"><td>Large </td><td>1d8</td><td>1d4</td></tr> <tr><td>Huge </td><td>2d6</td><td>1d6</td></tr> <tr class="shaded"><td>Gargantuan </td><td>2d8</td><td>2d4</td></tr> <tr><td>Colossal </td><td>4d6</td><td>2d6</td></tr> </table>
 
 
+
 Special Qualities: A ghoul retains all the special qualities of the base
 creature and gains the additional special qualities described below.
 

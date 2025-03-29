@@ -18,6 +18,7 @@ about 450 to 600 feet long and masses about 8,000 tons. It carries a crew of
 <table> <tr><td>Type: Light</td><td>Size: Colossal (–8 size)</td></tr> <tr class="shaded"><td>Subtype: Destroyer</td><td>Tactical Speed: 3,000 ft. (6 sq.)</td></tr> <tr><td>Defense: 11</td><td>Length: 450 feet</td></tr> <tr class="shaded"><td>Flat-footed Defense: 7</td><td>Weight: 8,000 tons</td></tr> <tr><td>Autopilot Defense: 7</td><td>Targeting System Bonus: +3</td></tr> <tr class="shaded"><td>Hardness: 30</td><td>Crew: 80 (expert +8)</td></tr> <tr><td>Hit Dice: 80d20 (1,600 hp)</td><td>Passenger Capacity: 48</td></tr> <tr class="shaded"><td>Initiative Modifier: +4</td><td>Cargo Capacity: 400 tons</td></tr> <tr><td>Pilot’s Class Bonus: +5</td><td>Grapple Modifier: +16</td></tr> <tr class="shaded"><td>Pilot’s Dex Modifier: +4</td><td>Base Purchase DC: 60</td></tr> <tr><td>Gunner’s Attack Bonus: +4</td><td>Restriction: Military (+3)</td></tr> </table>
 
 
+
 Attack: 4 fire-linked heavy neutron guns –1 ranged (20d8) and 2 fire-linked
 nuclear missiles –6 melee (24d8/19–20) and needle driver –6 melee (8d12); or 4
 fire-linked nuclear missiles –1 ranged (24d8/19–20) and 2 fire-linked heavy

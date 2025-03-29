@@ -47,6 +47,7 @@ Skill Points at Each Level: 7 + Intelligence modifier.
 <table> <tr><th colspan="8">Table: The Techno Mage</th></tr> <tr><th>Level</th><th>Base Attack Bonus</th><th>Fort Save</th><th>Ref Save</th><th>Will Save</th><th>Special</th><th>Defense Bonus</th><th>Reputation Bonus</th></tr> <tr><td>1st</td><td>+0</td><td>+0</td><td>+1</td><td>+0</td><td>Arcane skills, arcane spells</td><td>+1</td><td>+0</td></tr> <tr class="shaded"><td>2nd</td><td>+1</td><td>+0</td><td>+2</td><td>+0</td><td>Machine empathy, arcane spells</td><td>+1</td><td>+0</td></tr> <tr><td>3rd</td><td>+1</td><td>+1</td><td>+2</td><td>+1</td><td>Bonus feat, arcane spells, program spell</td><td>+2</td><td>+1</td></tr> <tr class="shaded"><td>4th</td><td>+2</td><td>+1</td><td>+2</td><td>+1</td><td>Create homunculus, arcane spells</td><td>+2</td><td>+1</td></tr> <tr><td>5th</td><td>+2</td><td>+1</td><td>+3</td><td>+1</td><td>Arcane spontaneous casting, arcane spells</td><td>+3</td><td>+1</td></tr> <tr class="shaded"><td>6th</td><td>+3</td><td>+2</td><td>+3</td><td>+2</td><td>Bonus feat, arcane spells</td><td>+3</td><td>+2</td></tr> <tr><td>7th</td><td>+3</td><td>+2</td><td>+4</td><td>+2</td><td>Spell focus, arcane spells</td><td>+4</td><td>+2</td></tr> <tr class="shaded"><td>8th</td><td>+4</td><td>+2</td><td>+4</td><td>+2</td><td>Online casting, arcane spells</td><td>+4</td><td>+2</td></tr> <tr><td>9th</td><td>+4</td><td>+3</td><td>+4</td><td>+3</td><td>Bonus feat, arcane spells</td><td>+5</td><td>+3</td></tr> <tr class="shaded"><td>10th</td><td>+5</td><td>+3</td><td>+5</td><td>+3</td><td>Quicken spells, arcane spells</td><td>+5</td><td>+3</td></tr> </table>
 
 
+
 ### Class Features
 
 The following features pertain to the Techno Mage advanced class.
@@ -63,6 +64,7 @@ shown below.
 
 
 <table> <tr><th>Armor Type</th><th>Arcane Spell Failure, Proficient</th><th>Arcane Spell Failure, Nonproficient</th></tr> <tr><td>Light</td><td>0%</td><td>10%</td></tr> <tr class="shaded"><td>Medium</td><td>10%</td><td>20%</td></tr> <tr><td>Heavy</td><td>20%</td><td>30%</td></tr> </table>
+
  **Spellfiles**
 
 The Techno Mage must study her spellfiles each day to prepare her spells. The
@@ -106,8 +108,10 @@ score, as shown below.
 
 
 <table> <tr><th>Int Score</th><th colspan="5">—Bonus Spells by Spell Level—</th></tr> <tr><th> </th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr> <tr><td>12–13</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr> <tr class="shaded"><td>14–15</td><td>1</td><td>1</td><td>—</td><td>—</td><td>—</td></tr> <tr><td>16–17</td><td>1</td><td>1</td><td>1</td><td>—</td><td>—</td></tr> <tr class="shaded"><td>18–19</td><td>1</td><td>1</td><td>1</td><td>1</td><td>—</td></tr> <tr><td>20–21</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td></tr> <tr class="shaded"><td>22–23</td><td>2</td><td>2</td><td>1</td><td>1</td><td>1</td></tr> </table>
+
  
 <table> <tr><th>Techno Mage Level</th><th colspan="6">—Spells per Day by Spell Level—</th></tr> <tr><th> </th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr> <tr><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr> <tr class="shaded"><td>2</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr> <tr><td>3</td><td>4</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td></tr> <tr class="shaded"><td>4</td><td>4</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td></tr> <tr><td>5</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td></tr> <tr class="shaded"><td>6</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td></tr> <tr><td>7</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td></tr> <tr class="shaded"><td>8</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td></tr> <tr><td>9</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td></tr> <tr class="shaded"><td>10</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td></tr> </table>
+
  **Machine Empathy**
 
 At 2nd Level, the Techno Mage is so comfortable with technology that she gains

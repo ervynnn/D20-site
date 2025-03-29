@@ -37,3 +37,4 @@ Restriction: Military (+3).
 <table> <tr><th colspan="3">Table: Robot Self-Destruct Systems</th></tr> <tr><th>Robot Size</th><th>Collateral Damage</th><th>Purchase DC</th></tr> <tr><td>Colossal</td><td>12d6</td><td>27</td></tr> <tr class="shaded"><td>Gargantuan</td><td>9d6</td><td>24</td></tr> <tr><td>Huge</td><td>6d6</td><td>21</td></tr> <tr class="shaded"><td>Large</td><td>4d6</td><td>19</td></tr> <tr><td>Medium-size</td><td>2d6</td><td>17</td></tr> <tr class="shaded"><td>Small</td><td>1d6</td><td>16</td></tr> <tr><td>Tiny</td><td>—</td><td>15</td></tr> <tr class="shaded"><td>Diminutive</td><td>—</td><td>15</td></tr> <tr><td>Fine</td><td>—</td><td>15</td></tr> </table>
 
 
+

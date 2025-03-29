@@ -24,3 +24,4 @@ starship and the hazard occupy the same square.
 <table> <tr><th colspan="2">Table: Avoid Hazard DCs</th></tr> <tr><th>Hazard Size</th><th>Pilot Check DC</th></tr> <tr><td>Colossal</td><td>5</td></tr> <tr class="shaded"><td>Gargantuan</td><td>20</td></tr> <tr><td>Huge</td><td>15</td></tr> <tr class="shaded"><td>Large</td><td>10</td></tr> </table>
 
 
+

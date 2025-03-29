@@ -20,6 +20,7 @@ current technology.
 <table> <tr><th>Type of Scratch-Built Electronics (Examples)</th> <th>Purchase DC</th> <th>Craft DC</th> <th>Time</th> </tr> <tr><td> Simple (timer or detonator)</td><td> 8</td><td> 15</td><td> 1 hr. </td></tr> <tr class="shaded"><td> Moderate (radio direction finder, electronic lock)</td><td> 12</td><td> 20</td><td> 12 hr. </td></tr> <tr><td> Complex (cell phone)</td><td> 16</td><td> 25</td><td> 24 hr. </td></tr> <tr class="shaded"><td> Advanced (computer)</td><td> 22</td><td> 30</td><td> 60 hr. </td></tr> </table>
 
 
+
 Special: A character without an [electrical tool kit](/modern.d20.srd/equipment/professional.equipment) takes a –4 penalty on
 Craft (electronic) [checks](/modern.d20.srd/skills/skill.basics).
 

@@ -26,3 +26,4 @@ pod.
 <table> <tr><th colspan="3">Table: Evacuation Times</th></tr> <tr><th>Ship Type</th><th>Untrained Crew Evacuation Time</th><th>Trained Crew Evacuation Time<sup>1</sup></th></tr> <tr><td>Ultralight</td><td>1d3 rounds</td><td>Move action</td></tr> <tr class="shaded"><td>Light</td><td>1d6 rounds</td><td>Full-round action</td></tr> <tr><td>Mediumweight</td><td>2d6 rounds</td><td>1d4 rounds</td></tr> <tr class="shaded"><td>Heavy</td><td>3d6 rounds</td><td>2d4 rounds</td></tr> <tr><td>Superheavy</td><td>4d6 rounds</td><td>3d4 rounds</td></tr> <tr><td colspan="3" style="font-size: .8em; text-align: left"><sup>1</sup> Includes expert and ace crews.</td></tr> </table>
 
 
+

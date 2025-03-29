@@ -41,6 +41,7 @@ other objects occupy a single 500-foot square.
 <table> <tr><th colspan="4">Table: Space Objects</th></tr> <tr><th>Object</th><th>Defense</th><th>Hardness</th><th>Hit Points</th></tr> <tr><td>Asteroid, Colossal</td><td>–3</td><td>8</td><td>36,000</td></tr> <tr class="shaded"><td>Asteroid, Gargantuan</td><td>1</td><td>8</td><td>9,000</td></tr> <tr><td>Asteroid, Huge</td><td>3</td><td>8</td><td>4,500</td></tr> <tr class="shaded"><td>Asteroid, Large</td><td>4</td><td>8</td><td>1,125</td></tr> <tr><td>Debris cloud, Colossal</td><td>–3</td><td>0</td><td>1,600</td></tr> <tr class="shaded"><td>Debris cloud, Gargantuan</td><td>1</td><td>0</td><td>400</td></tr> <tr><td>Iceball, Colossal</td><td>–3</td><td>0</td><td>7,200</td></tr> <tr class="shaded"><td>Iceball, Gargantuan</td><td>1</td><td>0</td><td>1,800</td></tr> <tr><td>Iceball, Huge</td><td>3</td><td>0</td><td>900</td></tr> <tr class="shaded"><td>Iceball, Large</td><td>4</td><td>0</td><td>225</td></tr> <tr><td>Mine (Medium-size)</td><td>5</td><td>10</td><td>50</td></tr> <tr class="shaded"><td>Space hulk, Colossal</td><td>–3</td><td>10</td><td>3,600</td></tr> <tr><td>Space hulk, Gargantuan</td><td>1</td><td>10</td><td>900</td></tr> <tr class="shaded"><td>Space hulk, Huge</td><td>3</td><td>10</td><td>450</td></tr> </table>
 
 
+
 ### Grapple Another Ship
 
 For rules on using grapplers and tractor beams to hold and immobilize

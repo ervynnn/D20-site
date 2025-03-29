@@ -45,6 +45,7 @@ Skill Points at Each Level: 5 + Int modifier.
 <table> <tr> <th colspan="8"> Table: The Telepath </th> </tr> <tr> <th> Class Level </th> <th> Base Attack Bonus </th> <th> Fort Save </th> <th> Ref Save </th> <th> Will Save </th> <th> Class Features </th> <th> Defense Bonus </th> <th> Reputation Bonus </th> </tr><tr> <td> 1st </td> <td> +0 </td> <td> +0 </td> <td> +0 </td> <td> +2 </td> <td> Psionic skills, psionic powers </td> <td> +0 </td> <td> +1 </td> </tr> <tr class="shaded"> <td> 2nd </td> <td> +1 </td> <td> +0 </td> <td> +0 </td> <td> +3 </td> <td> Trigger power, psionic powers </td> <td> +1 </td> <td> +1 </td> </tr> <tr> <td> 3rd </td> <td> +1 </td> <td> +1 </td> <td> +1 </td> <td> +3 </td> <td> Bonus feat, psionic powers </td> <td> +1 </td> <td> +1 </td> </tr> <tr class="shaded"> <td> 4th </td> <td> +2 </td> <td> +1 </td> <td> +1 </td> <td> +4 </td> <td> Power crystal, psionic powers </td> <td> +1 </td> <td> +2 </td> </tr> <tr> <td> 5th </td> <td> +2 </td> <td> +1 </td> <td> +1 </td> <td> +4 </td> <td> Trigger power, psionic powers </td> <td> +2 </td> <td> +2 </td> </tr> <tr class="shaded"> <td> 6th </td> <td> +3 </td> <td> +2 </td> <td> +2 </td> <td> +5 </td> <td> Bonus feat, psionic powers </td> <td> +2 </td> <td> +2 </td> </tr> <tr> <td> 7th </td> <td> +3 </td> <td> +2 </td> <td> +2 </td> <td> +5 </td> <td> Combat manifestation, psionic powers </td> <td> +2 </td> <td> +3 </td> </tr> <tr class="shaded"> <td> 8th </td> <td> +4 </td> <td> +2 </td> <td> +2 </td> <td> +6 </td> <td> Trigger power, psionic powers </td> <td> +3 </td> <td> +3 </td> </tr> <tr> <td> 9th </td> <td> +4 </td> <td> +3 </td> <td> +3 </td> <td> +6 </td> <td> Bonus feat, psionic powers </td> <td> +3 </td> <td> +3 </td> </tr> <tr class="shaded"> <td> 10th </td> <td> +5 </td> <td> +3 </td> <td> +3 </td> <td> +7 </td> <td> Maximize power, psionic powers </td> <td> +3 </td> <td> +4 </td> </tr> </table>
 
 
+
 ###  Class Features
 
 All of the following features pertain to the Telepath advanced class.
@@ -53,6 +54,7 @@ All of the following features pertain to the Telepath advanced class.
 
 
 <table style="float: right"> <tr> <th> Task </th> <th> DC </th> </tr> <tr> <td> Resist fear </td> <td> 15 </td> </tr> <tr class="shaded"> <td> Memorize </td> <td> 15 </td> </tr> <tr> <td> Tolerate poison </td> <td> Poison’s DC </td> </tr> <tr class="shaded"> <td> Willpower </td> <td> 20 </td> </tr> </table>
+
 
 
 A Telepath has access to the following psionic skills. These skills are
@@ -132,6 +134,7 @@ effects.
 <table> <tr> <th> DC </th> <th> Task </th> </tr> <tr> <td> 15 + power level </td> <td> Identify a <a href="/modern.d20.srd/psionics"> psionic power </a> as it manifests. (You must sense the power’s display or see some visible effect to identify a power.) You can’t try again. </td> </tr> <tr class="shaded"> <td> 20 + power level </td> <td> Identify a power that’s already in place and in effect. (You must be able to see or detect the effects of the power.) You can’t try again. </td> </tr> <tr> <td> 20 + power level </td> <td> Identify materials created or shaped by <a href="/modern.d20.srd/psionics"> psionics </a> . You can’t try again. </td> </tr> <tr class="shaded"> <td> 30 or higher </td> <td> Understand a strange or unique <a href="/modern.d20.srd/psionics"> psionic </a> effect. You can’t try again. </td> </tr> </table>
 
 
+
 Try Again?: See above.
 
 Time: Unless otherwise indicated, Psicraft is a [ move action](/modern.d20.srd/combat/move.actions) .
@@ -140,6 +143,7 @@ Time: Unless otherwise indicated, Psicraft is a [ move action](/modern.d20.srd/c
 
 
 <table style="float: right"> <tr> <th colspan="8"> —— Powers Discovered by Level —— </th> </tr> <tr> <th> Telepath Level </th> <th> Pts/Day </th> <th> 0 </th> <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> </tr> <tr> <td> 1st </td> <td> 2 </td> <td> 3 </td> <td> 1 </td> <td> — </td> <td> — </td> <td> — </td> <td> — </td> </tr> <tr class="shaded"> <td> 2nd </td> <td> 3 </td> <td> 3 </td> <td> 2 </td> <td> — </td> <td> — </td> <td> — </td> <td> — </td> </tr> <tr> <td> 3rd </td> <td> 4 </td> <td> 3 </td> <td> 3 </td> <td> — </td> <td> — </td> <td> — </td> <td> — </td> </tr> <tr class="shaded"> <td> 4th </td> <td> 7 </td> <td> 4 </td> <td> 3 </td> <td> 1 </td> <td> — </td> <td> — </td> <td> — </td> </tr> <tr> <td> 5th </td> <td> 10 </td> <td> 4 </td> <td> 3 </td> <td> 2 </td> <td> — </td> <td> — </td> <td> — </td> </tr> <tr class="shaded"> <td> 6th </td> <td> 15 </td> <td> 4 </td> <td> 3 </td> <td> 2 </td> <td> 1 </td> <td> — </td> <td> — </td> </tr> <tr> <td> 7th </td> <td> 20 </td> <td> 5 </td> <td> 4 </td> <td> 3 </td> <td> 2 </td> <td> — </td> <td> — </td> </tr> <tr class="shaded"> <td> 8th </td> <td> 27 </td> <td> 5 </td> <td> 4 </td> <td> 3 </td> <td> 2 </td> <td> 1 </td> <td> — </td> </tr> <tr> <td> 9th </td> <td> 34 </td> <td> 5 </td> <td> 4 </td> <td> 3 </td> <td> 3 </td> <td> 2 </td> <td> — </td> </tr> <tr class="shaded"> <td> 10th </td> <td> 43 </td> <td> 6 </td> <td> 4 </td> <td> 3 </td> <td> 3 </td> <td> 2 </td> <td> 1 </td> </tr> </table>
+
 
 
 The Telepath’s main strength is his ability to manifest [ psionic powers](/modern.d20.srd/psionics) .
@@ -165,6 +169,7 @@ Telepath’s key [ ability modifier ](/modern.d20.srd/basics/ability.scores) .
 
 
 <table style="float:right"> <tr> <th> Cha Score </th> <th> Bonus Power Points per Day </th> </tr> <tr> <td> 12–13 </td> <td> 1 </td> </tr> <tr class="shaded"> <td> 14–15 </td> <td> 3 </td> </tr> <tr> <td> 16–17 </td> <td> 5 </td> </tr> <tr class="shaded"> <td> 18–19 </td> <td> 7 </td> </tr> <tr> <td> 20–21 </td> <td> 9 </td> </tr> <tr class="shaded"> <td> 22–23 </td> <td> 11 </td> </tr> </table>
+
 
 
 A Telepath can manifest a certain number of [ powers](/modern.d20.srd/psionics) per day based on his available power points.

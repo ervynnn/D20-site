@@ -40,3 +40,4 @@ Restriction: Restricted (+2).
 <table> <tr> <th colspan="3"> Table: Starship Self-Destruct Systems </th> </tr> <tr> <th> Starship Type </th> <th> Collateral Damage </th> <th> Purchase DC </th> </tr> <tr> <td> Ultralight </td> <td> 1d6×10 </td> <td> 26 </td> </tr> <tr class="shaded"> <td> Light </td> <td> 2d6×10 </td> <td> 32 </td> </tr> <tr> <td> Mediumweight </td> <td> 3d6×10 </td> <td> 38 </td> </tr> <tr class="shaded"> <td> Heavy </td> <td> 4d6×10 </td> <td> 44 </td> </tr> <tr> <td> Superheavy </td> <td> 5d6×10 </td> <td> 50 </td> </tr> </table>
 
 
+

@@ -29,6 +29,7 @@ widely.
 <table> <tr><th>Creature Size</th><th>Frequency</th></tr> <tr><td>Fine</td><td>Once every round</td></tr> <tr class="shaded"><td>Diminutive</td><td>Once every minute</td></tr> <tr><td>Tiny</td><td>Once every hour</td></tr> <tr class="shaded"><td>Small</td><td>Once every 4 hours</td></tr> <tr><td>Medium-size</td><td>Once every 6 hours</td></tr> <tr class="shaded"><td>Large</td><td>Once every 8 hours</td></tr> <tr><td>Huge</td><td>Once every 12 hours</td></tr> <tr class="shaded"><td>Gargantuan</td><td>Once every 24 hours</td></tr> </table>
 
 
+
 If the organism’s dependent need is not met, it suffers 1d4 points of
 Constitution damage each time the specified period passes.
 

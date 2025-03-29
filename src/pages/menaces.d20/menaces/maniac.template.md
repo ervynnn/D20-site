@@ -28,6 +28,7 @@ is greater.
 <table> <tr> <th> Size </th> <th> Slam Damage </th> </tr> <tr> <td> Fine </td> <td> 1 </td> </tr> <tr class="shaded"> <td> Diminutive </td> <td> 1d2 </td> </tr> <tr> <td> Tiny </td> <td> 1d3 </td> </tr> <tr class="shaded"> <td> Small </td> <td> 1d4 </td> </tr> <tr> <td> Medium-size </td> <td> 1d6 </td> </tr> <tr class="shaded"> <td> Large </td> <td> 1d8 </td> </tr> <tr> <td> Huge </td> <td> 2d6 </td> </tr> <tr class="shaded"> <td> Gargantuan </td> <td> 2d8 </td> </tr> <tr> <td> Colossal </td> <td> 4d6 </td> </tr> </table>
 
 
+
 Special Qualities: A maniac retains all the special qualities of the base
 creature and gains the additional qualities described below.
 

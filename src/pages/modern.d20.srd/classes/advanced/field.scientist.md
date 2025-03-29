@@ -66,6 +66,7 @@ Skill Points at Each Level: 7 + Int modifier.
 <table><th colspan="8">Table: The Field Scientist</th> <tr> <th>Class Level</th><th>Base Attack Bonus</th><th>Fort Save</th><th>Ref Save</th><th>Will Save</th><th>Class Features</th><th>Defense Bonus</th><th>Reputation Bonus</th> </tr> <tr><td>1st</td><td>+0</td><td>+1</td><td>+1</td><td>+0</td><td>Smart defense</td><td>+0</td><td>+0</td></tr> <tr class="shaded"><td>2nd</td><td>+1</td><td>+2</td><td>+2</td><td>+0</td><td>Scientific improvisation</td><td>+1</td><td>+0</td></tr> <tr><td>3rd</td><td>+1</td><td>+2</td><td>+2</td><td>+1</td><td>Bonus feat</td><td>+1</td><td>+1</td></tr> <tr class="shaded"><td>4th</td><td>+2</td><td>+2</td><td>+2</td><td>+1</td><td>Skill mastery</td><td>+1</td><td>+1</td></tr> <tr><td>5th</td><td>+2</td><td>+3</td><td>+3</td><td>+1</td><td>Minor breakthrough</td><td>+2</td><td>+1</td></tr> <tr class="shaded"><td>6th</td><td>+3</td><td>+3</td><td>+3</td><td>+2</td><td>Bonus feat</td><td>+2</td><td>+2</td></tr> <tr><td>7th</td><td>+3</td><td>+4</td><td>+4</td><td>+2</td><td>Smart survival</td><td>+2</td><td>+2</td></tr> <tr class="shaded"><td>8th</td><td>+4</td><td>+4</td><td>+4</td><td>+2</td><td>Smart weapon</td><td>+3</td><td>+2</td></tr> <tr><td>9th</td><td>+4</td><td>+4</td><td>+4</td><td>+3</td><td>Bonus feat</td><td>+3</td><td>+3</td></tr> <tr class="shaded"><td>10th</td><td>+5</td><td>+5</td><td>+5</td><td>+3</td><td>Major breakthrough</td><td>+3</td><td>+3</td></tr> </table>
 
 
+
 ### Class Features
 
 The following features pertain to the Field Scientist advanced class.

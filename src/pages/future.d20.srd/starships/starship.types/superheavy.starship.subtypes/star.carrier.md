@@ -21,6 +21,7 @@ action.
 <table> <tr> <td> Type: Superheavy </td> <td> Size: Colossal (–8 size) </td> </tr> <tr class="shaded"> <td> Subtype: Star carrier </td> <td> Tactical Speed: 3,500 ft. (7 sq.) </td> </tr> <tr> <td> Defense: 11 </td> <td> Length: 3,000 feet </td> </tr> <tr class="shaded"> <td> Flat-footed Defense: 7 </td> <td> Weight: 600,000 tons </td> </tr> <tr> <td> Autopilot Defense: 7 </td> <td> Targeting System Bonus: +5 </td> </tr> <tr class="shaded"> <td> Hardness: 40 </td> <td> Crew: 2,400 (expert +8) </td> </tr> <tr> <td> Hit Dice: 1,000d20 (20,000 hp) </td> <td> Passenger Capacity: 600 </td> </tr> <tr class="shaded"> <td> Initiative Modifier: +6 </td> <td> Cargo Capacity: 200,000 tons </td> </tr> <tr> <td> Pilot’s Class Bonus: +5 </td> <td> Grapple Modifier: +16 </td> </tr> <tr class="shaded"> <td> Pilot’s Dex Modifier: +4 </td> <td> Base Purchase DC: 80 </td> </tr> <tr> <td> Gunner’s Attack Bonus: +4 </td> <td> Restriction: Military (+3) </td> </tr> </table>
 
 
+
 Attack: Battery of 5 mass cannons +5 ranged (8d12/19–20) and battery of 4
 antimatter guns –1 ranged (10d8/19–20)
 

@@ -65,6 +65,7 @@ Skill Points at Each Level: 7 + Int modifier.
 <table> <th colspan="8">Table: The Mage</th> <tr> <th>Class Level</th><th>Base Attack Bonus</th><th>Fort Save</th><th>Ref Save</th><th>Will Save</th><th>Class Features</th><th>Defense Bonus</th><th>Reputation Bonus</th> </tr> <tr><td>1st</td><td>+0</td><td>+0</td><td>+0</td><td>+2</td><td>Arcane skills, <a href="/modern.d20.srd/fx/arcane.spells">arcane spells</a>, summon familiar</td> <td>+1</td><td>+1</td></tr> <tr class="shaded"><td>2nd</td><td>+1</td><td>+0</td><td>+0</td><td>+3</td><td>Scribe scroll, <a href="/modern.d20.srd/fx/arcane.spells">arcane spells</a></td> <td>+1</td><td>+1</td></tr> <tr><td>3rd</td><td>+1</td><td>+1</td><td>+1</td><td>+3</td><td>Bonus feat, <a href="/modern.d20.srd/fx/arcane.spells">arcane spells</a>, brew potion</td> <td>+2</td><td>+1</td></tr> <tr class="shaded"><td>4th</td><td>+2</td><td>+1</td><td>+1</td><td>+4</td><td>Scribe tattoo, <a href="/modern.d20.srd/fx/arcane.spells">arcane spells</a></td> <td>+2</td><td>+2</td></tr> <tr><td>5th</td><td>+2</td><td>+1</td><td>+1</td><td>+4</td><td>Spell mastery, <a href="/modern.d20.srd/fx/arcane.spells">arcane spells</a></td> <td>+3</td><td>+2</td></tr> <tr class="shaded"><td>6th</td><td>+3</td><td>+2</td><td>+2</td><td>+5</td><td>Bonus feat, <a href="/modern.d20.srd/fx/arcane.spells">arcane spells</a></td> <td>+3</td><td>+2</td></tr> <tr><td>7th</td><td>+3</td><td>+2</td><td>+2</td><td>+5</td><td>Combat casting, <a href="/modern.d20.srd/fx/arcane.spells">arcane spells</a></td> <td>+4</td><td>+3</td></tr> <tr class="shaded"><td>8th</td><td>+4</td><td>+2</td><td>+2</td><td>+6</td><td>Spell mastery, <a href="/modern.d20.srd/fx/arcane.spells">arcane spells</a></td> <td>+4</td><td>+3</td></tr> <tr><td>9th</td><td>+4</td><td>+3</td><td>+3</td><td>+6</td><td>Bonus feat, <a href="/modern.d20.srd/fx/arcane.spells">arcane spells</a></td> <td>+5</td><td>+3</td></tr> <tr class="shaded"><td>10th</td><td>+5</td><td>+3</td><td>+3</td><td>+7</td><td>Maximize spell, <a href="/modern.d20.srd/fx/arcane.spells">arcane spells</a></td> <td>+5</td><td>+4</td></tr> </table>
 
 
+
 ### Class Features
 
 All of the following features pertain to the Mage advanced class.
@@ -120,6 +121,7 @@ Time: Unless otherwise indicated, using the Spellcraft skill is a move action.
 <table><tr><th>DC</th><th>Task</th></tr> <tr><td>15 + spell level</td><td> Identify a spell being cast. (You must see or hear the spell’s verbal or somatic components.) You can’t try again.</td></tr> <tr class="shaded"><td>15 + spell level</td><td> Learn a spell from a spellbook or scroll. You can’t try again for that spell until you gain at least 1 rank in Spellcraft.</td></tr> <tr><td>15 + spell level</td><td> Prepare a spell from a borrowed spellbook. One try per day.</td></tr> <tr class="shaded"><td>15 + spell level</td><td> When casting detect magical aura, determine the school of magic involved in the aura of a single item or creature you can see. (If the aura isn’t a spell effect, the DC is 15 + one-half caster level.)</td></tr> <tr><td>20 + spell level</td><td> Identify a spell that’s already in place and in effect. (You must be able to see or detect the effects of the spell.) You can’t try again.</td></tr> <tr class="shaded"><td>20 + spell level</td><td> Identify materials created or shaped by magic, such as noting that an iron wall is the result of a wall of iron spell. You can’t try again.</td></tr> <tr><td>20 + spell level</td><td> Decipher a written spell (such as a scroll) without using read magic. One try per day.</td></tr> <tr class="shaded"><td>25 + spell level</td><td> After rolling a <a href="/modern.d20.srd/basics/saving.throws">saving throw</a> against a spell targeted at you, determine what spell was cast upon you. This is a reaction.</td></tr> <tr><td>25</td><td> Identify a potion. This takes 1 minute.</td></tr> <tr class="shaded"><td>30 or higher</td><td> Understand a strange or unique magical effect. You can’t try again.</td></tr> </table>
 
 
+
 ### Arcane Spells
 
 The Mage’s key characteristic is the ability to cast arcane spells. He is
@@ -130,8 +132,10 @@ Mage’s total number of spells per day by consulting the two tables below.
 
 
 <table style="float: left;"><tr><th colspan="7">———— Spells per Day by Spell Level ————</th></tr> <tr><th>Mage Level</th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr> <tr><td>1st</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr> <tr class="shaded"><td>2nd</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr> <tr><td>3rd</td><td>4</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td></tr> <tr class="shaded"><td>4th</td><td>4</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td></tr> <tr><td>5th</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td></tr> <tr class="shaded"><td>6th</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td></tr> <tr><td>7th</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td><td>—</td></tr> <tr class="shaded"><td>8th</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td></tr> <tr><td>9th</td><td>4</td><td>4</td><td>4</td><td>3</td><td>2</td><td>1</td></tr> <tr class="shaded"><td>10th</td><td>4</td><td>4</td><td>4</td><td>3</td><td>3</td><td>2</td></tr> </table>
+
  
 <table><tr><th colspan="7">———— Bonus Spells by Spell Level ————</th></tr> <tr><th>Int Score</th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr> <tr><td>12–13</td><td>—</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr> <tr class="shaded"><td>14–15</td><td>—</td><td>1</td><td>1</td><td>—</td><td>—</td><td>—</td></tr> <tr><td>16–17</td><td>—</td><td>1</td><td>1</td><td>1</td><td>—</td><td>—</td></tr> <tr class="shaded"><td>18–19</td><td>—</td><td>1</td><td>1</td><td>1</td><td>1</td><td>—</td></tr> <tr><td>20–21</td><td>—</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td></tr> <tr class="shaded"><td>22–23</td><td>—</td><td>2</td><td>2</td><td>1</td><td>1</td><td>1</td></tr> </table>
+
 
 
 The Mage must prepare spells ahead of time by resting for 8 hours and spending
@@ -159,6 +163,7 @@ being worn and whether the Mage has the appropriate Armor Proficiency
 
 
 <table> <tr><th>Armor Type</th><th>Arcane Spell Failure (Proficient)</th><th>Arcane Spell Failure (Nonproficient)</th></tr> <tr><td>Light</td><td>10%</td><td>20%</td></tr> <tr class="shaded"><td>Medium</td><td>20%</td><td>30%</td></tr> <tr><td>Heavy</td><td>30%</td><td>40%</td></tr> </table>
+
 
 
 ### Spellbooks
@@ -300,6 +305,7 @@ gains spell resistance equal to the Mage’s level + 5.
 
 
 <table> <tr><th>Familiar</th><th>Special Benefit</th></tr> <tr><td><a href="/modern.d20.srd/creatures/bat">Bat</a></td> <td>Mage gains +3 bonus on Listen checks</td></tr> <tr><td><a href="/modern.d20.srd/creatures/cat">Cat</a></td> <td>Mage gains +3 bonus on Move Silently checks</td></tr> <tr><td><a href="/modern.d20.srd/creatures/ferret">Ferret</a></td> <td>Mage gains +2 bonus on <a href="/modern.d20.srd/basics/saving.throws">Reflex save</a>s</td></tr> <tr><td><a href="/modern.d20.srd/creatures/hawk">Hawk</a></td> <td>Mage gains +3 bonus on Spot checks in daylight</td></tr> <tr><td><a href="/modern.d20.srd/creatures/owl">Owl</a></td> <td>Mage gains +3 bonus on Spot checks in dusk or darkness</td></tr> <tr><td><a href="/modern.d20.srd/creatures/rat">Rat</a></td> <td>Mage gains +2 bonus on <a href="/modern.d20.srd/basics/saving.throws">Fortitude save</a>s</td></tr> <tr><td><a href="/modern.d20.srd/creatures/snake">Snake</a> (Tiny viper)</td> <td>Mage gains +3 bonus on Bluff checks</td></tr> <tr><td><a href="/modern.d20.srd/creatures/toad">Toad</a></td> <td>Mage gains +3 hit points</td></tr> </table>
+
 
 
 ### Scribe [Scroll](/modern.d20.srd/fx.items/scrolls)

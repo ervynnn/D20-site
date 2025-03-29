@@ -50,6 +50,7 @@ Skill Points at Each Level: 5 + Int modifier.
 <table><tr><th colspan="8">Table: The Personality</th> </tr> <tr> <th>Class Level</th><th>Base Attack Bonus</th><th>Fort Save</th><th>Ref Save</th><th>Will Save</th><th>Class Features</th><th>Defense Bonus</th><th>Reputation Bonus</th> </tr><tr><td>1st</td><td>+0</td><td>+1</td><td>+1</td><td>+0</td><td>Unlimited access</td><td>+0</td><td>+2</td></tr> <tr class="shaded"><td>2nd</td><td>+1</td><td>+2</td><td>+2</td><td>+0</td><td>Bonus class skill</td><td>+1</td><td>+2</td></tr> <tr><td>3rd</td><td>+1</td><td>+2</td><td>+2</td><td>+1</td><td>Bonus feat</td><td>+1</td><td>+2</td></tr> <tr class="shaded"><td>4th</td><td>+2</td><td>+2</td><td>+2</td><td>+1</td><td>Royalty</td><td>+1</td><td>+3</td></tr> <tr><td>5th</td><td>+2</td><td>+3</td><td>+3</td><td>+1</td><td>Winning smile</td><td>+2</td><td>+3</td></tr> <tr class="shaded"><td>6th</td><td>+3</td><td>+3</td><td>+3</td><td>+2</td><td>Bonus feat</td><td>+2</td><td>+3</td></tr> <tr><td>7th</td><td>+3</td><td>+4</td><td>+4</td><td>+2</td><td>Bonus class skill</td><td>+2</td><td>+4</td></tr> <tr class="shaded"><td>8th</td><td>+4</td><td>+4</td><td>+4</td><td>+2</td><td>Royalty</td><td>+3</td><td>+4</td></tr> <tr><td>9th</td><td>+4</td><td>+4</td><td>+4</td><td>+3</td><td>Bonus feat</td><td>+3</td><td>+4</td></tr> <tr class="shaded"><td>10th</td><td>+5</td><td>+5</td><td>+5</td><td>+3</td><td>Compelling performance</td><td>+3</td><td>+5</td></tr> </table>
 
 
+
 ### Class Features
 
 The following features pertain to the Personality advanced class.
@@ -58,6 +59,7 @@ The following features pertain to the Personality advanced class.
 
 
 <table style="float: right"> <tr><th>Upgrade</th><th>Diplomacy DC</th></tr> <tr><td>Seat at sporting event to field pass</td><td> 10</td></tr> <tr class="shaded"><td>Hotel room to suite</td><td> 15</td></tr> <tr><td>Concert or theater ticket to backstage pass</td><td> 20</td></tr> <tr class="shaded"><td>Economy transportation to first-class</td><td> 25</td></tr> </table>
+
 
 
 When others would normally make a

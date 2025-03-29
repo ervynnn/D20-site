@@ -33,6 +33,7 @@ following table.
 <table> <tr><th>Repair Task (Example)</th><th>Relevant Skill</th><th>Purchase DC</th><th>Repair DC</th><th>Time</th></tr> <tr><td>Simple processors (cars, elevator controls)</td><td>Repair</td><td>7</td><td>15</td><td>10 min.</td></tr> <tr class="shaded"><td>Complex processors (computers, home theaters)</td><td>Repair</td><td>10</td><td>20</td><td>1 hr.</td></tr> <tr><td>Data recovery (scrambled hard drive)</td><td>Computer Use</td><td>4</td><td>25</td><td>2 hr.</td></tr> </table>
 
 
+
 You can jury-rig repairs more quickly and cheaply, but the repairs may not
 last. See the description of the Repair skill for details.
 

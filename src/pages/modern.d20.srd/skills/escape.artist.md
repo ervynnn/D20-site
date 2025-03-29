@@ -15,6 +15,7 @@ restraints or to squeeze through a tight space.
 <table> <tr><th> Restraint</th> <th>DC </th></tr> <tr><td> Ropes</td><td> Opponent’s Dex check +20 </td></tr> <tr class="shaded"><td> Net</td><td> 20 </td></tr> <tr><td> Handcuffs</td><td> 35 </td></tr> <tr class="shaded"><td> Tight space</td><td> 30</td></tr> <tr><td> <a href="/modern.d20.srd/combat/grapple">Grappler</a></td> <td> Opponent’s <a href="/modern.d20.srd/combat/grapple">grapple check</a></td> </tr> </table>
 
 
+
 For ropes, a character’s Escape Artist
 [check](/modern.d20.srd/skills/skill.basics) is opposed by the
 [Dexterity check](/modern.d20.srd/skills/skill.basics) result of the opponent

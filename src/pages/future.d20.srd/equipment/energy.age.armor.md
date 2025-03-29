@@ -13,6 +13,7 @@ The following armors are available at PL 8.
 <table> <tr><th colspan="10">Table: Progress Level 8 Armor</th></tr> <tr><th>Armor</th><th>Type</th><th>Equipment Bonus</th><th>Nonprof. Bonus</th><th>Max Dex Bonus</th><th>Armor Penalty</th><th>Speed (30 ft./20 ft.)</th><th>Weight</th><th>Purchase DC</th><th>Restriction</th></tr> <tr><th colspan="10" style="text-align: left">Heavy Armor</th></tr> <tr><td>Unisoldier Combat Armor</td><td>Tactical</td><td>+10</td><td>+3</td><td>+1</td><td>–6</td><td>20 ft./15 ft.</td><td>30 lb.</td><td>19</td><td>Lic (+1)</td></tr> <tr><th colspan="10" style="text-align: left">Powered Armor</th></tr> <tr><td>Boost Armor</td><td>Tactical</td><td>+7</td><td>+2</td><td>+4</td><td>–3</td><td>20 ft./15 ft.</td><td>20 lb.</td><td>18</td><td>Lic (+1)</td></tr> </table>
 
 
+
 ### Boost Armor
 
 Boost armor is powered armor that augments the character’s physical abilities.

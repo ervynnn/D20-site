@@ -19,8 +19,10 @@ quarry, depends on the community population and the conditions:
 
 
 <table> <tr><th>Population</th><th>DC</th><th>Checks Required</th></tr> <tr><td>Fewer than 2,000</td><td>5</td><td>1d4</td></tr> <tr class="shaded"><td>2,000–9,999</td><td>10</td><td>1d4+1</td></tr> <tr><td>10,000–49,999</td><td>15</td><td>2d4</td></tr> <tr class="shaded"><td>50,000–99,999</td><td>20</td><td>2d4+1</td></tr> <tr><td>100,000–499,999</td><td>25</td><td>3d4</td></tr> <tr class="shaded"><td>500,000+</td><td>30</td><td>3d4+1</td></tr> </table>
+
  
 <table> <tr><th>Condition</th><th>DC Modifier</th></tr> <tr><td>Every three creatures in the group being sought</td><td>–1</td></tr> <tr class="shaded"><td>Every 24 hours the quarry has been missing or sought</td><td>+1</td></tr> <tr><td>Tracked quarry “lies low”</td><td>+5</td></tr> </table>
+
 
 
 If you fail a Gather Information check, you can retry after 1 hour of

@@ -31,6 +31,7 @@ Every time a save fails, the subject suffers 2 points of Constitution damage.
 <table> <tr><th>Type of Special Quality</th><th>Fort Save DC</th><th>Number of Successes</th></tr> <tr><td>+1 to one ability score</td><td>15</td><td>10</td></tr> <tr class="shaded"><td>Extraordinary ability (Ex)</td><td>15</td><td>15</td></tr> <tr><td>Supernatural ability (Su)</td><td>20</td><td>25</td></tr> <tr class="shaded"><td>Spell-like ability (Sp)</td><td>20</td><td>50</td></tr> </table>
 
 
+
 During therapy, the ability remains latent, so the patient receives no
 benefits from the intended manipulation. Immediately upon completing the
 required number of Fortitude saves, the ability activates and becomes a

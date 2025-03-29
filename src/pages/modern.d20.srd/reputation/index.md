@@ -59,6 +59,7 @@ following skills for the duration of the encounter: [ Bluff](/modern.d20.srd/ski
 <table> <tr> <th colspan="2"> Reputation Check Modifier </th> </tr> <tr> <td> The hero is famous, known far and wide with either a positive or negative connotation </td> <td> +10 </td> </tr> <tr class="shaded"> <td> GM character is part of the hero’s professional or social circle </td> <td> +5 </td> </tr> <tr> <td> The hero has some small amount of fame or notoriety </td> <td> +2 </td> </tr> </table>
 
 
+
 The GM must decide that a character’s fame or infamy can come into play in a
 given situation to make a Reputation check necessary. A character who doesn’t
 know, or know of, the hero can’t be influenced by his or her reputation.

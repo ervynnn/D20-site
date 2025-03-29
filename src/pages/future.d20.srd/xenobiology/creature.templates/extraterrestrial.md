@@ -49,6 +49,7 @@ the following list:
 <table> <tr><th>Special Quality</th><th>CR Modifier</th></tr> <tr><td>Acidic blood</td><td>+1/3</td></tr> <tr class="shaded"><td>Blindsight</td><td>+1/3</td></tr> <tr><td>Breath weapon</td><td>+2/3</td></tr> <tr class="shaded"><td>Damage reduction 5/–</td><td>+2/3</td></tr> <tr><td>Death cloud</td><td>+2/3</td></tr> <tr class="shaded"><td>Energy resistance 10</td><td>+1/3</td></tr> <tr><td>Fast healing 5</td><td>+2/3</td></tr> <tr class="shaded"><td>Improved natural armor</td><td>+1/3</td></tr> <tr><td>Poisonous bite</td><td>+2/3</td></tr> <tr class="shaded"><td>Power resistance</td><td>+1/3</td></tr> <tr><td>Psionics</td><td>+1/3</td></tr> <tr class="shaded"><td>Scent</td><td>+1/3</td></tr> </table>
 
 
+
 Acidic Blood (Ex): The extraterrestrial has acidic blood. Each time it takes
 damage, it deals acid damage to all adjacent creatures and objects as it
 splatters its blood on them. The amount of damage equals 1d6 per 3 Hit Dice of
@@ -95,6 +96,7 @@ poisonous bite increases the creature’s CR by +2/3.
 
 
 <table> <tr><th>Roll d%</th><th>Initial Damage</th><th>Secondary Damage</th></tr> <tr><td>01–17</td><td>1d6 Str</td><td>1d6 Str</td></tr> <tr class="shaded"><td>18–34</td><td>1d6 Dex</td><td>1d6 Dex</td></tr> <tr><td>35–50</td><td>1d4 Con</td><td>1d4 Con</td></tr> <tr class="shaded"><td>51–67</td><td>2d4 Wis</td><td>2d4 Wis</td></tr> <tr><td>68–84</td><td>2d4 Cha</td><td>2d4 Cha</td></tr> <tr class="shaded"><td>85–100</td><td>None</td><td>Paralysis 1d6 hours</td></tr> </table>
+
 
 
 Power Resistance (Ex): The extraterrestrial gains power resistance equal to

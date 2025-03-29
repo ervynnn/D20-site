@@ -51,6 +51,7 @@ Skill Points at Each Level: 7 + Intelligence modifier.
 <table> <tr> <th colspan="8"> Table: The Archmage </th> </tr> <tr> <th> Level </th> <th> Base Attack Bonus </th> <th> Fort Save </th> <th> Ref Save </th> <th> Will Save </th> <th> Special </th> <th> Defense Bonus </th> <th> Reputation Bonus </th> </tr> <tr> <td> 1st </td> <td> +0 </td> <td> +0 </td> <td> +0 </td> <td> +2 </td> <td> Total spellcasting </td> <td> +1 </td> <td> +2 </td> </tr> <tr class="shaded"> <td> 2nd </td> <td> +1 </td> <td> +0 </td> <td> +0 </td> <td> +3 </td> <td> Increased spells/day </td> <td> +1 </td> <td> +2 </td> </tr> <tr> <td> 3rd </td> <td> +1 </td> <td> +1 </td> <td> +1 </td> <td> +3 </td> <td> Gifted incantations </td> <td> +2 </td> <td> +2 </td> </tr> <tr class="shaded"> <td> 4th </td> <td> +2 </td> <td> +1 </td> <td> +1 </td> <td> +4 </td> <td> Increased spells/day </td> <td> +2 </td> <td> +3 </td> </tr> <tr> <td> 5th </td> <td> +2 </td> <td> +1 </td> <td> +1 </td> <td> +4 </td> <td> Granted incantations </td> <td> +3 </td> <td> +3 </td> </tr> </table>
 
 
+
 ###  Class Features
 
 The following features pertain to the Archmage prestige class.

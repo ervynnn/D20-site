@@ -23,6 +23,7 @@ modified by the character’s size:
 <table> <tr><th>Size</th> <th>Modifier</th> <th>Size</th> <th>Modifier</th></tr> <tr><td> Fine</td><td> +16</td><td> Large</td><td> –4 </td></tr> <tr class="shaded"><td> Diminutive</td><td> +12</td><td> Huge</td><td> –8 </td></tr> <tr><td> Tiny</td><td> +8</td><td> Gargantuan</td><td> –12 </td></tr> <tr class="shaded"><td> Small</td><td> +4</td><td> Colossal</td><td> –16 </td></tr> <tr><td> Medium-size</td><td> +0</td><td> </td><td> </td><td> </td></tr></table>
 
 
+
 If people are observing the character, even casually, he or she can’t hide.
 The character can run around a corner so that he or she is out of sight and
 then hide, but the others then know at least where the character went.
@@ -36,6 +37,7 @@ below. Note that a character can’t hide if he or she has less than one-half
 
 
 <table> <tr><th> Cover or Concealment</th> <th>Circumstance Bonus</th> </tr> <tr><td> Three-quarters</td><td> +5 </td></tr> <tr class="shaded"><td> Nine-tenths</td><td> +10 </td></tr> </table>
+
 
 
 Creating a Diversion to Hide: A character can use the

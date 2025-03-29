@@ -33,6 +33,7 @@ number of ranks the character has in this skill increases his or her [Wealth bon
 <table> <tr><th>Ranks</th> <th>Wealth Bonus Increase</th> </tr> <tr><td> 1–5</td><td> +1 </td></tr> <tr class="shaded"><td> 6–10</td><td> +2 </td></tr> <tr><td> 11–15</td><td> +3 </td></tr> <tr class="shaded"><td> 16–20</td><td> +4 </td></tr> <tr><td> 21–23</td><td> +5 </td></tr> </table>
 
 
+
 Special: If the Gamemaster deems it appropriate, a character can add his or
 her Profession modifier when making a [Reputation](/modern.d20.srd/reputation)
 check to deal with a work- or career-related situation.

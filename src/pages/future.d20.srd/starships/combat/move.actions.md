@@ -55,6 +55,7 @@ forces, based on the size of the smaller of the two colliding objects.
 <table> <tr><th colspan="2">Table: Collision Damage</th></tr> <tr><th>Size of Smaller Ship or Object</th><th>Collision Damage<sup>1</sup></th></tr> <tr><td>Colossal</td><td>12d6×10</td></tr> <tr class="shaded"><td>Gargantuan</td><td>6d6×10</td></tr> <tr><td>Huge</td><td>3d6×10</td></tr> <tr class="shaded"><td>Large</td><td>1d6×10</td></tr> <tr><td>Medium-size or smaller</td><td>—</td></tr> <tr><td colspan="2" style="font-size: .8em; text-align: left"> <sup>1</sup>Damage is applied to the ramming starship and its target. </td></tr> </table>
 
 
+
 ### Sending/Jamming a Transmission
 
 See the expanded Computer Use skill description for details.

@@ -14,6 +14,7 @@ overview here. Services are identified on Table:Services.
 <table> <tr> <th>Item</th> <th>Purchase DC</th> </tr> <tr class="shaded"> <td colspan="2">Auto repair</td> </tr> <tr><td> 1 to 10 hp damage</td><td> 15 </td></tr> <tr><td> 11 to 20 hp damage</td><td> 18 </td></tr> <tr><td> 21 to 30 hp damage</td><td> 21 </td></tr> <tr><td> 30+ hp damage</td><td> 24 </td></tr> <tr><td> Towing</td><td> 8 </td></tr> <tr class="shaded"><td colspan="2"> Bail bonds </td></tr> <tr><td> Property crime</td><td> 13 </td></tr> <tr><td> Assault crime</td><td> 16 </td></tr> <tr><td> Death crime</td><td> 22 </td></tr> <tr class="shaded"><td colspan="2"> Bribery </td></tr> <tr><td> Bouncer</td><td> 6 </td></tr> <tr><td> Bureaucrat</td><td> 10 </td></tr> <tr><td> Informant</td><td> 7 </td></tr> <tr><td> Police officer</td><td> 10 </td></tr> <tr class="shaded"><td colspan="2"> Legal services</td></tr> <tr><td> Attorney</td><td> 10 + lawyer’s <a href="/modern.d20.srd/skills/knowledge">Knowledge</a> (civics) ranks </td> </tr> <tr class="shaded"><td colspan="2"> Medical services </td></tr> <tr><td> Long-term care</td><td> 10 </td></tr> <tr><td> Restore <a href="/modern.d20.srd/combat/hit.points">hit points</a></td> <td> 12 </td></tr> <tr><td> Surgery</td><td> 15 </td></tr> <tr><td> Treat poison/disease</td><td> 10 </td></tr> </table>
 
 
+
 ### Auto Repair
 
 Having a car repaired can be expensive; how expensive depends on the amount of

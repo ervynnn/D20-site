@@ -36,6 +36,7 @@ used for making them do not require special licenses to purchase.
 <table> <tr> <th colspan="6"> Table: Superstructure Materials </th> </tr> <tr> <th colspan="6"> ---- Modified Base Purchase DC ---- </th> </tr> <tr> <th> Superstructure Material </th> <th> Hardness </th> <th> Large </th> <th> Huge </th> <th> Gargantuan </th> <th> Colossal </th> </tr> <tr> <td> Alumisteel (PL 5) </td> <td> 10 </td> <td> 36 </td> <td> 40 </td> <td> 44 </td> <td> 56 </td> </tr> <tr class="shaded"> <td> Duralloy (PL 6) </td> <td> 15 </td> <td> 40 </td> <td> 44 </td> <td> 48 </td> <td> 60 </td> </tr> <tr> <td> Vanadium (PL 6) </td> <td> 20 </td> <td> 44 </td> <td> 48 </td> <td> 52 </td> <td> 64 </td> </tr> <tr class="shaded"> <td> Neovulcanium (PL 7) </td> <td> 20 </td> <td> 40 </td> <td> 44 </td> <td> 48 </td> <td> 60 </td> </tr> <tr> <td> Neutronite (PL 7) </td> <td> 25 </td> <td> 44 </td> <td> 48 </td> <td> 52 </td> <td> 64 </td> </tr> <tr class="shaded"> <td> Megatanium (PL 8) </td> <td> 30 </td> <td> 40 </td> <td> 40 </td> <td> 48 </td> <td> 60 </td> </tr> </table>
 
 
+
 ###  Alumisteel (PL 5)
 
 This easy-to-acquire alloy is lightweight and reasonably strong. Alumisteel

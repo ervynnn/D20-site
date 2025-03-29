@@ -16,6 +16,7 @@ carry some minor defensive armament.
 <table> <tr><td>Type: Ultralight</td><td>Size: Colossal (–8 size)</td></tr> <tr class="shaded"><td>Subtype: Fast freighter</td><td>Tactical Speed: 3,500 ft. (7 sq.)</td></tr> <tr><td>Defense: 7</td><td>Length: 110 feet</td></tr> <tr class="shaded"><td>Flat-footed Defense: 5</td><td>Weight: 450 tons</td></tr> <tr><td>Autopilot Defense: 5</td><td>Targeting System Bonus: +3</td></tr> <tr class="shaded"><td>Hardness: 20</td><td>Crew: 4 (trained +4)</td></tr> <tr><td>Hit Dice: 16d20 (320 hp)</td><td>Passenger Capacity: 4</td></tr> <tr class="shaded"><td>Initiative Modifier: +2</td><td>Cargo Capacity: 300 tons</td></tr> <tr><td>Pilot’s Class Bonus: +3</td><td>Grapple Modifier: +16</td></tr> <tr class="shaded"><td>Pilot’s Dex Modifier: +2</td><td>Base Purchase DC: 52</td></tr> <tr><td>Gunner’s Attack Bonus: +2</td><td>Restriction: Restricted (+2)</td></tr> </table>
 
 
+
 Attack: 2 fire-linked heavy lasers –3 ranged (12d8) and 2 fire-linked rail
 cannons –8 ranged (9d12)
 

@@ -47,6 +47,7 @@ Skill Points at Each Level: 5 + Intelligence modifier.
 <table> <tr> <th colspan="8"> Table: The Wildlord </th> </tr> <tr> <th> Level </th> <th> Base Attack Bonus </th> <th> Fort Save </th> <th> Ref Save </th> <th> Will Save </th> <th> Special </th> <th> Defense Bonus </th> <th> Reputation Bonus </th> </tr> <tr> <td> 1st </td> <td> +0 </td> <td> +2 </td> <td> +0 </td> <td> +2 </td> <td> Animal empathy </td> <td> +1 </td> <td> +1 </td> </tr> <tr class="shaded"> <td> 2nd </td> <td> +1 </td> <td> +3 </td> <td> +0 </td> <td> +3 </td> <td> Track, animal companion </td> <td> +1 </td> <td> +1 </td> </tr> <tr> <td> 3rd </td> <td> +2 </td> <td> +3 </td> <td> +1 </td> <td> +3 </td> <td> Bonus feat, fast climb </td> <td> +2 </td> <td> +1 </td> </tr> <tr class="shaded"> <td> 4th </td> <td> +3 </td> <td> +4 </td> <td> +1 </td> <td> +4 </td> <td> Resist venom, call companion </td> <td> +2 </td> <td> +2 </td> </tr> <tr> <td> 5th </td> <td> +3 </td> <td> +4 </td> <td> +1 </td> <td> +4 </td> <td> Skill mastery </td> <td> +3 </td> <td> +2 </td> </tr> <tr class="shaded"> <td> 6th </td> <td> +4 </td> <td> +5 </td> <td> +2 </td> <td> +5 </td> <td> Bonus feat </td> <td> +3 </td> <td> +2 </td> </tr> <tr> <td> 7th </td> <td> +5 </td> <td> +5 </td> <td> +2 </td> <td> +5 </td> <td> Expert in your field </td> <td> +4 </td> <td> +3 </td> </tr> <tr class="shaded"> <td> 8th </td> <td> +6 </td> <td> +6 </td> <td> +2 </td> <td> +6 </td> <td> Command/rebuke animals </td> <td> +4 </td> <td> +3 </td> </tr> <tr> <td> 9th </td> <td> +6 </td> <td> +6 </td> <td> +3 </td> <td> +6 </td> <td> Bonus feat, transform companion </td> <td> +5 </td> <td> +3 </td> </tr> <tr class="shaded"> <td> 10th </td> <td> +7 </td> <td> +7 </td> <td> +3 </td> <td> +7 </td> <td> Command/rebuke magical beasts </td> <td> +5 </td> <td> +4 </td> </tr> </table>
 
 
+
 ###  Class Features
 
 The following features pertain to the Wildlord advanced class.
@@ -171,6 +172,7 @@ animal companion.
 
 
 <table> <tr> <th> Class Level </th> <th> Bonus HD </th> <th> Natural Armor </th> <th> Str/DexAdj. </th> <th> Special </th> </tr> <tr> <td> 2-3 </td> <td> +0 </td> <td> 0 </td> <td> +0 </td> <td> Link, share spells </td> </tr> <tr class="shaded"> <td> 4–5 </td> <td> +2 </td> <td> 2 </td> <td> +1 </td> <td> Evasion </td> </tr> <tr> <td> 6 </td> <td> +4 </td> <td> 4 </td> <td> +2 </td> <td> Devotion </td> </tr> <tr class="shaded"> <td> 7 </td> <td> +6 </td> <td> 6 </td> <td> +3 </td> <td> Multiattack </td> </tr> <tr> <td> 8 </td> <td> +8 </td> <td> 8 </td> <td> +4 </td> <td> </td> </tr> <tr class="shaded"> <td> 9 </td> <td> +10 </td> <td> 10 </td> <td> +5 </td> <td> Improved evasion </td> </tr> <tr> <td> 10 </td> <td> +12 </td> <td> 12 </td> <td> +6 </td> <td> </td> </tr> </table>
+
 
 
 Class Level: The level of the Wildlord.

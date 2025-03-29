@@ -21,3 +21,4 @@ Restriction: None.
 <table> <tr> <th colspan="3"> Table: Damage Control System </th> </tr> <tr> <th> Ship Type </th> <th> Hit Points Restored </th> <th> Purchase DC </th> </tr> <tr> <td> Ultralight </td> <td> 1d10 </td> <td> 18 </td> </tr> <tr class="shaded"> <td> Light </td> <td> 2d10 </td> <td> 22 </td> </tr> <tr> <td> Mediumweight </td> <td> 3d10 </td> <td> 27 </td> </tr> <tr class="shaded"> <td> Heavy </td> <td> 4d10 </td> <td> 33 </td> </tr> <tr> <td> Superheavy </td> <td> 5d10 </td> <td> 40 </td> </tr> </table>
 
 
+

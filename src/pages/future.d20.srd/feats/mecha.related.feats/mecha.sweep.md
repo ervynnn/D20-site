@@ -25,6 +25,7 @@ determine the total damage for the attack.
 <table> <tr><th>Mecha Size</th><th>Damage</th></tr> <tr><td>Large</td><td>1d6</td></tr> <tr class="shaded"><td>Huge</td><td>1d8</td></tr> <tr><td>Gargantuan</td><td>2d6</td></tr> <tr class="shaded"><td>Colossal</td><td>2d8</td></tr> </table>
 
 
+
 Though it can deal significant damage, this form of attack is awkward and
 unbalancing. You take a –2 penalty to your mecha’s Defense and on Reflex saves
 until your next turn.

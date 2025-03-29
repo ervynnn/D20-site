@@ -13,6 +13,7 @@ The following armors are available at PL 5 and later.
 <table> <tr><th colspan="10">Table: Progress Level 5 Armor</th></tr> <tr><th>Armor</th><th>Type</th><th>Equipment Bonus</th><th>Nonprof. Bonus</th><th>Max Dex Bonus</th><th>Armor Penalty</th><th>Speed (30 ft./20 ft.)</th><th>Weight</th><th>Purchase DC</th><th>Restriction</th></tr> <tr><th colspan="10" style="text-align: left">Light Armor</th></tr> <tr><td>Flight Suit and Helmet</td><td>Tactical</td><td>+2</td><td>+1</td><td>+6</td><td>–0</td><td>30 ft./20 ft.</td><td>2 lb.</td><td>10</td><td>Lic (+1)</td></tr> <tr><th colspan="10" style="text-align: left">Heavy Armor</th></tr> <tr><td>Land Warrior Armor</td><td>Tactical</td><td>+6</td><td>+3</td><td>+3</td><td>–3</td><td>20 ft./15 ft.</td><td>10 lb.</td><td>20</td><td>Lic (+1)</td></tr> <tr class="shaded"><td>Space suit</td><td>Tactical</td><td>+7</td><td>+3</td><td>+0</td><td>–10</td><td>15 ft./10 ft.</td><td>50 lb.</td><td>26</td><td>Lic (+1)</td></tr> </table>
 
 
+
 ### Flight Suit And Helmet
 
 The flight suit and helmet combination worn by combat pilots doubles as body

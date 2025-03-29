@@ -50,6 +50,7 @@ modifier for nonhumans).
 <table> <tr><th colspan="9">Table: The Xenophile</th></tr> <tr><th>Class Level</th><th>Base Attack Bonus</th><th>Fort Save</th><th>Ref Save</th><th>Will Save</th><th>Special</th><th>Defense Bonus</th><th>Reputation Bonus</th></tr> <tr><td>1st</td><td>+0</td><td>+1</td><td>+0</td><td>+2</td><td>Xenolore, xenotype (1st)</td><td>+0</td><td>+0</td></tr> <tr class="shaded"><td>2nd</td><td>+1</td><td>+2</td><td>+0</td><td>+3</td><td>Xenoresistance (+1)</td><td>+1</td><td>+1</td></tr> <tr><td>3rd</td><td>+2</td><td>+2</td><td>+1</td><td>+3</td><td>Bonus feat</td><td>+1</td><td>+1</td></tr> <tr class="shaded"><td>4th</td><td>+3</td><td>+2</td><td>+1</td><td>+4</td><td>Xenotype (2nd)</td><td>+1</td><td>+1</td></tr> <tr><td>5th</td><td>+3</td><td>+3</td><td>+1</td><td>+4</td><td>Xenodefense (+1), xenoresistance (+2)</td><td>+2</td><td>+2</td></tr> <tr class="shaded"><td>6th</td><td>+4</td><td>+3</td><td>+2</td><td>+5</td><td>Bonus feat</td><td>+2</td><td>+2</td></tr> <tr><td>7th</td><td>+5</td><td>+4</td><td>+2</td><td>+5</td><td>Xenotype (3rd)</td><td>+2</td><td>+2</td></tr> <tr class="shaded"><td>8th</td><td>+6</td><td>+4</td><td>+2</td><td>+6</td><td>Xenoresistance (+3)</td><td>+3</td><td>+3</td></tr> <tr><td>9th</td><td>+6</td><td>+4</td><td>+3</td><td>+6</td><td>Bonus feat</td><td>+3</td><td>+3</td></tr> <tr class="shaded"><td>10th</td><td>+7</td><td>+5</td><td>+3</td><td>+7</td><td>Xenodefense (+2), xenotype (4th)</td><td>+3</td><td>+3</td></tr> </table>
 
 
+
 ### Class Features
 
 The following class features pertain to the Xenophile advanced class.
@@ -98,6 +99,7 @@ specify a particular species.
 
 
 <table> <tr><th colspan="2">Table: Xenotypes</th></tr> <tr><th>Selected Xenotype</th><th>Special Prerequisite</th></tr> <tr><td>Aberration</td><td>Knowledge (earth and life sciences) 12 ranks</td></tr> <tr class="shaded"><td>Animal</td><td>None</td></tr> <tr><td>Construct</td><td>Knowledge (technology) 9 ranks</td></tr> <tr class="shaded"><td>Dragon</td><td>Knowledge (earth and life sciences) 9 ranks</td></tr> <tr><td>Elemental</td><td>Knowledge (earth and life sciences) 9 ranks</td></tr> <tr class="shaded"><td>Fey</td><td>Knowledge (arcane lore) 6 ranks</td></tr> <tr><td>Giant</td><td>None</td></tr> <tr class="shaded"><td>Humanoid<sup>1</sup></td><td>None</td></tr> <tr><td>Magical beast</td><td>Knowledge (arcane lore) 9 ranks</td></tr> <tr class="shaded"><td>Monstrous humanoid</td><td>Knowledge (earth and life sciences) 9 ranks</td></tr> <tr><td>Ooze</td><td>Knowledge (earth and life sciences) 9 ranks</td></tr> <tr class="shaded"><td>Outsider</td><td>Knowledge (theology and philosophy) 9 ranks</td></tr> <tr><td>Plant</td><td>None</td></tr> <tr class="shaded"><td>Undead</td><td>Knowledge (theology and philosophy) 6 ranks</td></tr> <tr><td>Vermin</td><td>None</td></tr> <tr><td colspan="2" style="font-size: .8em; text-align: left"><sup>1</sup> Choose a specific humanoid species.</td></tr> </table>
+
  **Xenoresistance**
 
 At 2nd level, a Xenophile gains a +1 bonus on saving throws to resist the

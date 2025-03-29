@@ -48,6 +48,7 @@ Skill Points at Each Level: 7 + Int modifier (6 + Int modifier for nonhumans).
 <table> <tr><th colspan="9">Table: The Engineer</th></tr> <tr><th>Class Level</th><th>Base Attack Bonus</th><th>Fort Save</th><th>Ref Save</th><th>Will Save</th><th>Special</th><th>Defense Bonus</th><th>Reputation Bonus</th></tr> <tr><td>1st</td><td>+0</td><td>+1</td><td>+1</td><td>+0</td><td>Builder, improve kit (+1)</td><td>+0</td><td>+0</td></tr> <tr class="shaded"><td>2nd</td><td>+1</td><td>+2</td><td>+2</td><td>+0</td><td>Quick craft, superior repair</td><td>+1</td><td>+0</td></tr> <tr><td>3rd</td><td>+2</td><td>+2</td><td>+2</td><td>+1</td><td>Bonus feat</td><td>+1</td><td>+1</td></tr> <tr class="shaded"><td>4th</td><td>+3</td><td>+2</td><td>+2</td><td>+1</td><td>Improve kit (+2), reconfigure weapon, sabotage</td><td>+1</td><td>+1</td></tr> <tr><td>5th</td><td>+3</td><td>+3</td><td>+3</td><td>+1</td><td>Craft XP reserve, quick craft</td><td>+2</td><td>+1</td></tr> <tr class="shaded"><td>6th</td><td>+4</td><td>+3</td><td>+3</td><td>+2</td><td>Bonus feat, craft XP reserve</td><td>+2</td><td>+2</td></tr> <tr><td>7th</td><td>+5</td><td>+4</td><td>+4</td><td>+2</td><td>Craft XP reserve, improve kit (+3), quick fix</td><td>+2</td><td>+2</td></tr> <tr class="shaded"><td>8th</td><td>+6</td><td>+4</td><td>+4</td><td>+2</td><td>Craft XP reserve, weapon upgrade</td><td>+3</td><td>+2</td></tr> <tr><td>9th</td><td>+6</td><td>+4</td><td>+4</td><td>+3</td><td>Bonus feat, craft XP reserve</td><td>+3</td><td>+3</td></tr> <tr class="shaded"><td>10th</td><td>+7</td><td>+5</td><td>+5</td><td>+3</td><td>Craft XP reserve, unflustered</td><td>+3</td><td>+3</td></tr> </table>
 
 
+
 ### Class Features
 
 The following class features pertain to the Engineer advanced class.
@@ -109,6 +110,8 @@ damaged robot, vehicle, mecha, starship, or cybernetic attachment.
 
 
 <table> <tr><th colspan="2">Table: Superior Repair</th></tr> <tr><th>Repair Check Result</th><th>Damage Repaired</th></tr> <tr><td>Less than 20</td><td>None</td></tr> <tr><td class="shaded">20–29</td><td>2d6 + Engineer class level</td></tr> <tr><td>30–39</td><td>3d6 + Engineer class level</td></tr> <tr><td class="shaded">40+</td><td>4d6 + Engineer class level</td></tr> </table>
+
+
  **Bonus Feats**
 
 At 3rd, 6th, and 9th level, the Engineer gets a bonus feat. The bonus feat
@@ -213,6 +216,7 @@ well as weapon systems aboard vehicles, mecha, or starships.
 
 
 <table> <tr><th colspan="2">Table: Weapon Upgrade</th></tr> <tr><th>Handheld/Robot Weapon Upgrade</th><th>DC</th></tr> <tr class="shaded"><td>Weapon also dazes target for 1 round</td><td>25</td></tr> <tr><td>Weapon also knocks target prone</td><td>30</td></tr> <tr class="shaded"><td>Weapon leaves target shaken for 1d4 rounds</td><td>35</td></tr> <tr><td>Weapon also stuns target for 1d4 rounds</td><td>40</td></tr> <tr class="shaded"><th>Vehicle/Mecha/Starship Weapon Upgrade</th><th>DC</th></tr> <tr><td>Weapon deals an extra two dice of damage</td><td>25</td></tr> <tr class="shaded"><td>Weapon ignores 5 points of target’s hardness/DR</td><td>30</td></tr> <tr><td>Weapon’s critical hit multiplier increases by 1</td><td>35</td></tr> <tr class="shaded"><td>Weapon ignores 10 points of target’s hardness/DR</td><td>40</td></tr> </table>
+
 
 
 The Engineer must spend 1 hour tinkering with the weapon, after which he must

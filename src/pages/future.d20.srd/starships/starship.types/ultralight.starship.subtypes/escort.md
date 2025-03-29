@@ -15,6 +15,7 @@ could qualify as escorts.
 <table> <tr> <td> Type: Ultralight </td> <td> Size: Colossal (–8 size) </td> </tr> <tr class="shaded"> <td> Subtype: Escort </td> <td> Tactical Speed: 3,000 ft. (6 sq.) </td> </tr> <tr> <td> Defense: 7 </td> <td> Length: 180 feet </td> </tr> <tr class="shaded"> <td> Flat-footed Defense: 5 </td> <td> Weight: 900 tons </td> </tr> <tr> <td> Autopilot Defense: 5 </td> <td> Targeting System Bonus: +3 </td> </tr> <tr class="shaded"> <td> Hardness: 30 </td> <td> Crew: 8 (trained +4) </td> </tr> <tr> <td> Hit Dice: 20d20 (400 hp) </td> <td> Passenger Capacity: 24 </td> </tr> <tr class="shaded"> <td> Initiative Modifier: +4 </td> <td> Cargo Capacity: 30 tons </td> </tr> <tr> <td> Pilot’s Class Bonus: +3 </td> <td> Grapple Modifier: +16 </td> </tr> <tr class="shaded"> <td> Pilot’s Dex Modifier: +2 </td> <td> Base Purchase DC: 52 </td> </tr> <tr> <td> Gunner’s Attack Bonus: +2 </td> <td> Restriction: Restricted (+2) </td> </tr> </table>
 
 
+
 Attack: 2 fire-linked heavy neutron guns –3 ranged (15d8) and 2 fire-linked
 rail cannons –8 ranged (9d12) and CHE missile –8 ranged (6d12/19–20)
 

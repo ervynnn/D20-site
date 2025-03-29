@@ -32,6 +32,7 @@ base creature’s base damage, whichever is greater.
 <table> <tr> <th> Size </th> <th> Bite Damage </th> <th> Claw Damage </th> </tr> <tr> <td> Fine </td> <td> 1 </td> <td> — </td> </tr> <tr class="shaded"> <td> Diminutive </td> <td> 1d2 </td> <td> 1 </td> </tr> <tr> <td> Tiny </td> <td> 1d3 </td> <td> 1d2 </td> </tr> <tr class="shaded"> <td> Small </td> <td> 1d4 </td> <td> 1d3 </td> </tr> <tr> <td> Medium-size </td> <td> 1d6 </td> <td> 1d4 </td> </tr> <tr class="shaded"> <td> Large </td> <td> 1d8 </td> <td> 1d6 </td> </tr> <tr> <td> Huge </td> <td> 2d6 </td> <td> 1d8 </td> </tr> <tr class="shaded"> <td> Gargantuan </td> <td> 2d8 </td> <td> 2d6 </td> </tr> <tr> <td> Colossal </td> <td> 4d6 </td> <td> 2d8 </td> </tr> </table>
 
 
+
 Special Qualities: A half-fiend retains all the special qualities of the base
 creature and gains the additional special qualities described below.
 
@@ -63,6 +64,7 @@ once per day.
 
 
 <table> <tr> <th> Level </th> <th> Abilities </th> <th> Level </th> <th> Abilities </th> </tr> <tr> <td> 1–2 </td> <td> Mage hand 3/day </td> <td> 11–12 </td> <td> Levitate </td> </tr> <tr class="shaded"> <td> 3–4 </td> <td> Daze 3/day </td> <td> 13–14 </td> <td> Displacement </td> </tr> <tr> <td> 5–6 </td> <td> Change self </td> <td> 15–16 </td> <td> Tongues </td> </tr> <tr class="shaded"> <td> 7–8 </td> <td> Cause fear </td> <td> 17–18 </td> <td> Bestow curse </td> </tr> <tr> <td> 9–10 </td> <td> Blur </td> <td> 19+ </td> <td> Animate dead </td> </tr> </table>
+
 
 
 Telepathy (Su): A half-fiend with an Intelligence score of 12 or higher can

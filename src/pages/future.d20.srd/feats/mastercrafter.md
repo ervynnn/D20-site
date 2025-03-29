@@ -40,6 +40,7 @@ Apply the following modifiers to the Craft check DC for mastercraft items:
 <table> <tr><th>Mastercraft Feature</th><th>DC Modifier</th></tr> <tr><td>Mastercraft (+1)</td><td>+3</td></tr> <tr class="shaded"><td>Mastercraft (+2)</td><td>+5</td></tr> <tr><td>Mastercraft (+3)</td><td>+10</td></tr> </table>
 
 
+
 You can add the mastercraft feature to an existing ordinary object or a lower-
 grade mastercraft object by making a Wealth check and then making the Craft
 check as though you were constructing the object from scratch.

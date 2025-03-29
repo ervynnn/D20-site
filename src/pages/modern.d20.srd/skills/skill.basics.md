@@ -57,6 +57,7 @@ situation.
 <table> <tr><th colspan="3">Table: Skill Points per Level</th></tr> <tr><th>Class</th><th> 1st Level Skill Points</th><th> Higher Level Skill Points</th></tr> <tr><td> Strong</td><td> (3 + Int modifier) x4</td><td> 3 + Int modifier </td></tr> <tr class="shaded"><td> Fast</td><td> (5 + Int modifier) x4</td><td> 5 + Int modifier </td></tr> <tr><td> Tough</td><td> (3 + Int modifier) x4</td><td> 3 + Int modifier </td></tr> <tr class="shaded"><td> Smart</td><td> (9 + Int modifier) x4</td><td> 9 + Int modifier </td></tr> <tr><td> Dedicated</td><td> (5 + Int modifier) x4</td><td> 5 + Int modifier </td></tr> <tr class="shaded"><td> Charismatic</td><td> (7 + Int modifier) x4</td><td> 7 + Int modifier </td></tr></table>
 
 
+
 Skill Checks
 
 Unlike with attack rolls and saving throws, a natural roll of 20 on the d20 is
@@ -73,6 +74,7 @@ to succeed.
 <table> <tr><th colspan="2">Table: Difficulty Class Examples</th></tr> <tr><th> Difficulty (DC)</th><th> Example (Skill Used)</th></tr> <tr><td> Very easy (0)</td><td> Notice something large in plain sight (<a href="/modern.d20.srd/skills/spot">Spot</a>) </td> </tr> <tr class="shaded"><td> Easy (5)</td><td> Climb a knotted rope (<a href="/modern.d20.srd/skills/climb">Climb</a>) </td> </tr> <tr><td> Average (10)</td><td> Hear an approaching security guard (<a href="/modern.d20.srd/skills/listen">Listen</a>) </td> </tr> <tr class="shaded"><td> Tough (15)</td><td> Disarm an explosive (<a href="/modern.d20.srd/skills/demolitions">Demolitions</a>) </td> </tr> <tr><td> Challenging (20)</td><td> Swim against a strong current (<a href="/modern.d20.srd/skills/swim">Swim</a>) </td> </tr> <tr class="shaded"><td> Formidable (25)</td><td> Break into a secure computer system (<a href="/modern.d20.srd/skills/computer.use">Computer Use</a>) </td> </tr> <tr><td> Heroic (30)</td><td> Leap across a 30-foot chasm (<a href="/modern.d20.srd/skills/jump">Jump</a>) </td> </tr> <tr class="shaded"><td> Superheroic (35)</td><td> Convince the guards that even though you’re not wearing an ID badge and aren’t on their list, they should let you into the building (<a href="/modern.d20.srd/skills/bluff">Bluff</a>) </td> </tr> <tr><td> Nearly impossible (40)</td><td> Track a trained commando through the forests of Brazil on a moonless night after 12 days of rainfall (<a href="/modern.d20.srd/skills/survival">Survival</a>) </td> </tr> </table>
 
 
+
 Opposed Checks
 
 Some skill checks are opposed checks. They are made against a randomized
@@ -83,6 +85,7 @@ wins. If those scores are the same, roll again.
 
 
 <table> <tr><th colspan="3"> Table: Example Opposed Checks</th></tr> <tr><th> Task</th><th> Skill</th><th> Opposing Skill</th></tr> <tr><td> Sneak up on someone</td><td> <a href="/modern.d20.srd/skills/move.silently">Move Silently</a></td> <td> <a href="/modern.d20.srd/skills/listen">Listen </a></td> </tr> <tr class="shaded"><td> Con someone</td><td> <a href="/modern.d20.srd/skills/bluff">Bluff</a></td> <td> <a href="/modern.d20.srd/skills/sense.motive">Sense Motive</a></td> </tr> <tr><td> Hide from someone</td><td> <a href="/modern.d20.srd/skills/hide">Hide</a></td> <td> <a href="/modern.d20.srd/skills/spot">Spot </a></td> </tr> <tr class="shaded"><td> Win a car race</td><td> <a href="/modern.d20.srd/skills/drive">Drive</a></td> <td> <a href="/modern.d20.srd/skills/drive">Drive</a></td> </tr> <tr><td> Pretend to be someone else</td><td> <a href="/modern.d20.srd/skills/disguise">Disguise</a></td> <td> <a href="/modern.d20.srd/skills/spot">Spot </a></td> </tr> <tr class="shaded"><td> Steal a key chain</td><td> <a href="/modern.d20.srd/skills/sleight.of.hand">Sleight of Hand</a></td> <td> <a href="/modern.d20.srd/skills/spot">Spot </a></td> </tr> <tr><td> Create a fake ID</td><td> <a href="/modern.d20.srd/skills/forgery">Forgery</a></td> <td> <a href="/modern.d20.srd/skills/forgery">Forgery </a></td> </tr> </table>
+
 
 
 Trying Again
@@ -223,6 +226,7 @@ wins. In the case of identical scores, make opposed Strength checks.
 
 
 <table> <tr><th>Example Ability Check</th> <th>Key Ability</th></tr> <tr><td> Forcing open a jammed or locked door</td><td> Strength </td></tr> <tr class="shaded"><td> Tying a rope</td><td> Dexterity </td></tr> <tr><td> Holding one’s breath</td><td> Constitution </td></tr> <tr class="shaded"><td> Navigating a maze</td><td> Intelligence </td></tr> <tr><td> Recognize a stranger you’ve seen before</td><td> Wisdom </td></tr> <tr class="shaded"><td> Getting yourself noticed in a crowd</td><td> Charisma </td></tr> </table>
+
 
 
 Modifier Types and Stacking

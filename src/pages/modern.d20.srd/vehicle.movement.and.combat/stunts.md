@@ -33,6 +33,7 @@ moving.
 <table style="float: right"> <tr> <th>Hazard</th> <th>DC</th> </tr> <tr><td> Caltrops</td><td> 15 </td></tr> <tr><td> Oil slick</td><td> 15 </td></tr> <tr class="shaded"><th colspan="2"> Object </th></tr> <tr><td> Small (tire, light debris)</td><td> 5 </td></tr> <tr><td> Medium-size (crate)</td><td> 10 </td></tr> <tr><td> Large (pile of wreckage)</td><td> 15 </td></tr> <tr><td> Structure</td><td> Cannot be avoided </td></tr> </table>
 
 
+
 Structures simply cannot be avoided. Also, if a driver cannot make a
 [check](/modern.d20.srd/skills/skill.basics) (if he or she has used all his or
 her actions for the round in performing other stunts), he or she automatically
@@ -81,6 +82,7 @@ equal to the DC for the bootleg turn attempted (see [Losing Control](/modern.d20
 
 
 <table style="float: right"> <tr><th colspan="2">Table: Bootleg Turn DC</th></tr> <tr> <th> Facing Change</th><th> DC </th></tr> <tr><td> 45 degrees</td><td> 5 </td></tr> <tr class="shaded"><td> 90 degrees</td><td> 10 </td></tr> <tr><td> 135 degrees</td><td> 15 </td></tr> <tr class="shaded"><td> 180 degrees</td><td> 20 </td></tr> </table>
+
 
 
 Dash: With a dash stunt, a driver can increase the
@@ -166,8 +168,10 @@ with the far side). Determine damage as for a
 
 
 <table style="float: right"> <tr><th> Gap Width</th><th> DC </th></tr> <tr><td> 1–3 ft. (ditch)</td><td> 15 </td></tr> <tr class="shaded"><td> 4–8 ft. (culvert)</td><td> 20 </td></tr> <tr><td> 8–15 ft. (creek, small ravine)</td><td> 25 </td></tr> <tr class="shaded"><td> 16–25 ft. (narrow road, small pond)</td><td> 35 </td></tr> <tr><td> 26–40 ft. (wide road, small river)</td><td> 45 </td></tr> </table>
+
  
 <table style="float: right"> <tr><th> Vehicle Speed Category</th><th> DC Modifier </th></tr> <tr><td> Alley speed</td><td> +10 </td></tr> <tr class="shaded"><td> Street speed</td><td> +5 </td></tr> <tr><td> Highway speed</td><td> +0 </td></tr> <tr class="shaded"><td> All-out</td><td> –5 </td></tr> </table>
+
 
 
 A shallow gap (1 to 3 feet deep) is equivalent to a Medium-size object; the
@@ -234,6 +238,7 @@ the target.
 
 
 <table> <tr><th> Target Condition</th><th> DC Modifier</th></tr> <tr><td> Each size category larger</td><td> –5 </td></tr> <tr class="shaded"><td> Each size category smaller</td><td> +5 </td></tr> <tr><td> Each speed category of difference</td><td> –2 </td></tr> </table>
+
 
 
 On a failed [check](/modern.d20.srd/skills/skill.basics), both vehicles take

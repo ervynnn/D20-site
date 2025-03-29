@@ -28,3 +28,4 @@ solvent a character is at any given time, check the table below.
 <table> <tr><th>Wealth Bonus</th> <th>Financial Condition</th></tr> <tr><td> +0</td><td> Impoverished or in debt </td></tr> <tr class="shaded"><td> +1 to +4</td><td> Struggling </td></tr> <tr><td> +5 to +10</td><td> Middle class </td></tr> <tr class="shaded"><td> +11 to +15</td><td> Affluent </td></tr> <tr><td> +16 to +20</td><td> Wealthy </td></tr> <tr class="shaded"><td> +21 to +30</td><td> Rich </td></tr> <tr><td> +31 or higher</td><td> Very rich </td></tr> </table>
 
 
+

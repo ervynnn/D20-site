@@ -55,6 +55,7 @@ Skill Points at Each Level: 5 + Int modifier (4 + Int modifier for nonhumans).
 <table> <tr><th colspan="9">Table: The Ambassador</th></tr> <tr><th>Class Level</th><th>Base Attack Bonus</th><th>Fort Save</th><th>Ref Save</th><th>Will Save</th><th>Special</th><th>Defense Bonus</th><th>Reputation Bonus</th></tr> <tr><td>1st</td><td>+0</td><td>+0</td><td>+0</td><td>+2</td><td>Diplomatic immunity</td><td>+1</td><td>+1</td></tr> <tr class="shaded"><td>2nd</td><td>+1</td><td>+0</td><td>+0</td><td>+3</td><td>Open arms</td><td>+1</td><td>+1</td></tr> <tr><td>3rd</td><td>+2</td><td>+1</td><td>+1</td><td>+3</td><td>Bonus feat</td><td>+2</td><td>+1</td></tr> <tr class="shaded"><td>4th</td><td>+3</td><td>+1</td><td>+1</td><td>+4</td><td>Information access</td><td>+2</td><td>+2</td></tr> <tr><td>5th</td><td>+3</td><td>+1</td><td>+1</td><td>+4</td><td>Stipend</td><td>+3</td><td>+2</td></tr> <tr class="shaded"><td>6th</td><td>+4</td><td>+2</td><td>+2</td><td>+5</td><td>Bonus feat</td><td>+3</td><td>+2</td></tr> <tr><td>7th</td><td>+5</td><td>+2</td><td>+2</td><td>+5</td><td>Restricted access</td><td>+4</td><td>+3</td></tr> <tr class="shaded"><td>8th</td><td>+6</td><td>+2</td><td>+2</td><td>+6</td><td>Stipend</td><td>+4</td><td>+3</td></tr> <tr><td>9th</td><td>+6</td><td>+3</td><td>+3</td><td>+6</td><td>Bonus feat</td><td>+5</td><td>+3</td></tr> <tr class="shaded"><td>10th</td><td>+7</td><td>+3</td><td>+3</td><td>+7</td><td>Select consuls</td><td>+5</td><td>+4</td></tr> </table>
 
 
+
 ### Class Features
 
 The following class features pertain to the Ambassador advanced class.
@@ -78,6 +79,8 @@ represent.
 
 
 <table> <tr><th colspan="4">Table: Diplomatic Immunity</th></tr> <tr><th>Severity of Crime</th><th>Examples</th><th>DC</th><th>Effect of Successful Diplomacy Check</th></tr> <tr><td>Class 5</td><td>Disturbing the peace, public intoxication, noninjurious traffic violation</td><td>15</td><td>–2 penalty on subsequent Diplomacy checks in that area</td></tr> <tr class="shaded"><td>Class 4</td><td>Possession of controlled substance, injurious traffic violation, operating business without a license, operating a vehicle or starship without a license, assault without a deadly weapon</td><td>20</td><td>–5 penalty on subsequent Diplomacy a checks in that area</td></tr> <tr><td>Class 3</td><td>Attempted bribery of a public official, robbery or grand theft, aiding and abetting a known felon, assault with a deadly weapon, possession of a concealed weapon</td><td>25</td><td>–10 penalty on subsequent Diplomacy checks in the area</td></tr> <tr class="shaded"><td>Class 2</td><td>Murder or manslaughter, fraud, smuggling, assault against a public official, trafficking in controlled substances</td><td>30</td><td>Deportation within 2d6 hours</td></tr> <tr><td>Class 1</td><td>Conspiracy against the government, murder of a public official, sabotage of public utilities</td><td>35</td><td>Detention pending the diplomatic action by character’s affiliated government</td></tr> </table>
+
+
  **Open Arms**
 
 Beginning at 2nd level, the Ambassador is skilled at initiating peaceful

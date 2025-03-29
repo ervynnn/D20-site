@@ -14,6 +14,7 @@ equates 1 inch (or a 1 inch square) to 5 feet in the game world.
 <table><tr><th> Standard Scale</th></tr> <tr><td>One inch (or one square) = 5 feet</td></tr> <tr><td>“Next to” or “adjacent” = 1 inch (5 feet) away (or in adjacent square)</td></tr> <tr><td>30mm figure = A human-size creature</td></tr> <tr><td>A human-size creature occupies an area 1 inch (5 feet) across (or one square)</td></tr> <tr><td>One round = 6 seconds</td></tr> </table>
 
 
+
 ### Tactical Movement
 
 Where can a character move, how long it takes to get there, and whether he or

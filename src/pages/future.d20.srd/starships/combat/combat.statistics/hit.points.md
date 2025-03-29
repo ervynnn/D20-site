@@ -27,6 +27,7 @@ type, as shown in Table: Destruction Threshold.
 <table> <tr><th colspan="2">Table: Destruction Threshold</th></tr> <tr><th>Ship Type</th><th>Destroyed At</th></tr> <tr><td>Ultralight</td><td>–20 hp</td></tr> <tr class="shaded"><td>Light</td><td>–40 hp</td></tr> <tr><td>Mediumweight</td><td>–60 hp</td></tr> <tr class="shaded"><td>Heavy</td><td>–80 hp</td></tr> <tr><td>Superheavy</td><td>–100 hp</td></tr> </table>
 
 
+
 ### Disabled (0 Hit Points)
 
 When a starship’s current hit points drop to exactly 0, it’s disabled. The

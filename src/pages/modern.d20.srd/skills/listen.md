@@ -30,8 +30,10 @@ when there isn’t anything to hear results in the character hearing nothing.
 
 
 <table> <tr><th>DC</th> <th>Sound</th></tr> <tr><td> –20</td><td> Gunfire </td></tr> <tr class="shaded"><td> –10</td><td> A melee battle </td></tr> <tr><td> 0</td><td> People talking </td></tr> <tr class="shaded"><td> 5</td><td> A person in medium armor walking at a slow pace, trying not to make noise </td></tr> <tr><td> 10</td><td> An unarmored person walking at a slow pace, trying not to make any noise </td></tr> <tr class="shaded"><td> 15</td><td> A 1st-level Fast hero sneaking up on someone<sup>1</sup> </td></tr> <tr><td> 20</td> <td> A tiger stalking prey<sup>1</sup> </td> </tr> <tr class="shaded"><td> 30</td><td> A bird flying through the air </td></tr> <tr><td> +5</td><td> Through a door </td></tr> <tr class="shaded"><td> +15</td><td> Through a solid wall </td></tr> <tr><td colspan="2" style="font-size: .8em; text-align: left"> <sup>1</sup> This is actually an opposed check; the DC given is a typical <a href="/modern.d20.srd/skills/move.silently">Move Silently</a> check result for such a character or creature. </td> </tr> </table>
+
  
 <table> <tr><th> Condition</th><th> Check Penalty</th></tr> <tr><td> Per 10 feet of distance</td><td> –1 </td></tr> <tr class="shaded"><td> Listener distracted</td><td> –5 </td></tr> </table>
+
 
 
 Try Again?: A character can make a Listen
