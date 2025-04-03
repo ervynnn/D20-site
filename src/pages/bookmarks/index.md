@@ -3,7 +3,7 @@ title: Bookmarks
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](//) > [ Modern d20 SRD](/modern.d20) > Bookmarks
+[ Index ](/) > Bookmarks
 
 ## Navigating Dept7 with Downloadable Bookmarks
 
@@ -29,25 +29,11 @@ While these bookmarks work in any browser, we recommend using **Firefox** or **C
 
 #### **Step 2: Import Bookmarks into Your Browser**
 
-##### **Firefox Users:**
-1. Open Firefox and click on the **Bookmarks** menu.
-2. Select **Manage Bookmarks**.
-3. Click **Import and Backup** → **Import Bookmarks from HTML**.
-4. Navigate to the downloaded file and select **"Modern_D20_Bookmarks.html"**.
-5. Click **Open** to complete the import.
-
-##### **Chrome Users:**
-1. Open Chrome and click the **three-dot menu** in the top-right corner.
-2. Navigate to **Bookmarks** → **Bookmark Manager**.
-3. Click **Three-dot menu** in Bookmark Manager → **Import Bookmarks**.
+##### **Firefox, Chrome, and Edge Users:**
+1. Open your browser and click the **three-dot menu** (Firefox: **Bookmarks menu**).
+2. Navigate to **Bookmarks** → **Manage Bookmarks** (Firefox: **Manage Bookmarks**, Edge: **Manage Favorites**).
+3. Click **Import and Backup** → **Import Bookmarks from HTML** (Firefox) or **Import Bookmarks** (Chrome/Edge).
 4. Select **"Modern_D20_Bookmarks.html"** and click **Open**.
-
-##### **Edge Users:**
-1. Open Microsoft Edge and click the **three-dot menu** in the top-right corner.
-2. Select **Favorites** → **Manage Favorites**.
-3. Click **Import** → **Import from HTML file**.
-4. Locate and select **"Modern_D20_Bookmarks.html"**.
-5. Click **Open**.
 
 ##### **Safari Users (Mac):**
 1. Open Safari and go to **File** → **Import From** → **Bookmarks HTML File**.
@@ -57,8 +43,7 @@ While these bookmarks work in any browser, we recommend using **Firefox** or **C
 #### **Step 3: Access Bookmarks from the Sidebar**
 
 - **Firefox:** Click **View** → **Sidebar** → **Bookmarks**, or press **Ctrl+B** (Windows/Linux) or **Cmd+B** (Mac).
-- **Chrome:** Open the **Bookmark Manager** (`chrome://bookmarks/`) and navigate to the imported folder.
-- **Edge:** Open **Favorites** (`Ctrl+Shift+O`) and locate the imported bookmarks.
+- **Chrome & Edge:** Open the **Bookmark Manager** (`chrome://bookmarks/`) and navigate to the imported folder.
 - **Safari:** Open **Bookmarks** from the menu bar.
 
 ### Advanced User Instructions
