@@ -40,18 +40,22 @@ components, or other aspects that make them difficult to cast.
 | [Polymorph](/arcana.d20.srd/incantations/polymorph) | [Possession](/arcana.d20.srd/incantations/possession) |
 | [Quartz Compulsion](/arcana.d20.srd/incantations/quartz.compulsion) | [Satellite Tracking](/arcana.d20.srd/incantations/satellite.tracking) |
 | [Sigil of Algos](/arcana.d20.srd/incantations/sigil.of.algos) | [Sigil of Lyssa](/arcana.d20.srd/incantations/sigil.of.lyssa) |
-| [Subjugate Outsider](/arcana.d20.srd/incantations/subjugate.outsider) | [Teleport](/arcana.d20.srd/incantations/teleport) |
-| [Creating New Incantations](/arcana.d20.srd/incantations/creating.new.incantations) | [Seed Descriptions](/arcana.d20.srd/incantations/seed.descriptions) |
-### | [Incantation Definitions](/arcana.d20.srd/incantations/incantation.definitions) | [Seed: Aflict](/arcana.d20.srd/incantations/seed.afflict) |
+| [Subjugate Outsider](/arcana.d20.srd/incantations/subjugate.outsider) | [Teleport](/arcana.d20.srd/incantations/teleport) |       
+
+### [Creating New Incantations](/arcana.d20.srd/incantations/creating.new.incantations)     
+### [Seed Descriptions](/arcana.d20.srd/incantations/seed.descriptions)     
+
+### [Incantation Definitions](/arcana.d20.srd/incantations/incantation.definitions)
+
+| [Seed: Afflict](/arcana.d20.srd/incantations/seed.afflict) | [Seed: Armor](/arcana.d20.srd/incantations/seed.armor) |
 |---|---|
-| [Seed: Animate Dead](/arcana.d20.srd/incantations/seed.animate.dead) | [Seed: Armor](/arcana.d20.srd/incantations/seed.armor) |
-| [Seed: Compel](/arcana.d20.srd/incantations/seed.compel) | [Seed: Conceal](/arcana.d20.srd/incantations/seed.conceal) |
-| [Seed: Conjure](/arcana.d20.srd/incantations/seed.conjure) | [Seed: Contact](/arcana.d20.srd/incantations/seed.contact) |
-| [Seed: Delude](/arcana.d20.srd/incantations/seed.delude) | [Seed: Destroy](/arcana.d20.srd/incantations/seed.destroy) |
-| [Seed: Dispel](/arcana.d20.srd/incantations/seed.dispel) | [Seed: Energy](/arcana.d20.srd/incantations/seed.energy) |
-| [Seed: Foresee](/arcana.d20.srd/incantations/seed.foresee) | [Seed: Fortify](/arcana.d20.srd/incantations/seed.fortify) |
-| [Seed: Heal](/arcana.d20.srd/incantations/seed.heal) | [Seed: Life](/arcana.d20.srd/incantations/seed.life) |
-| [Seed: Reflect](/arcana.d20.srd/incantations/seed.reflect) | [Seed: Reveal](/arcana.d20.srd/incantations/seed.reveal) |
-| [Seed: Slay](/arcana.d20.srd/incantations/seed.slay) | [Seed: Summon](/arcana.d20.srd/incantations/seed.summon) |
-| [Seed: Transform](/arcana.d20.srd/incantations/seed.transform) | [Seed: Transport](/arcana.d20.srd/incantations/seed.transport) |
-| [Seed: Ward](/arcana.d20.srd/incantations/seed.ward) |
+| [Seed: Animate Dead](/arcana.d20.srd/incantations/seed.animate.dead) | [Seed: Conceal](/arcana.d20.srd/incantations/seed.conceal) |
+| [Seed: Compel](/arcana.d20.srd/incantations/seed.compel) | [Seed: Contact](/arcana.d20.srd/incantations/seed.contact) |
+| [Seed: Conjure](/arcana.d20.srd/incantations/seed.conjure) | [Seed: Destroy](/arcana.d20.srd/incantations/seed.destroy) |
+| [Seed: Delude](/arcana.d20.srd/incantations/seed.delude) | [Seed: Energy](/arcana.d20.srd/incantations/seed.energy) |
+| [Seed: Dispel](/arcana.d20.srd/incantations/seed.dispel) | [Seed: Fortify](/arcana.d20.srd/incantations/seed.fortify) |
+| [Seed: Foresee](/arcana.d20.srd/incantations/seed.foresee) | [Seed: Heal](/arcana.d20.srd/incantations/seed.heal) |
+| [Seed: Life](/arcana.d20.srd/incantations/seed.life) | [Seed: Reflect](/arcana.d20.srd/incantations/seed.reflect) |
+| [Seed: Reveal](/arcana.d20.srd/incantations/seed.reveal) | [Seed: Slay](/arcana.d20.srd/incantations/seed.slay) |
+| [Seed: Summon](/arcana.d20.srd/incantations/seed.summon) | [Seed: Transform](/arcana.d20.srd/incantations/seed.transform) |
+| [Seed: Transport](/arcana.d20.srd/incantations/seed.transport) | [Seed: Ward](/arcana.d20.srd/incantations/seed.ward) |

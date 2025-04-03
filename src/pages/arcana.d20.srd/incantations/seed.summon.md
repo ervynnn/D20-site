@@ -1,5 +1,5 @@
 ---
-title: Seed: Summon
+title: Seed Summon
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

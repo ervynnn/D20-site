@@ -13,8 +13,11 @@ layout: '~/layouts/MarkdownLayout.astro'
 | [ Weapons ](/arcana.d20.srd/fx.items/weapons) | [ Magic Weapon Special Abilities](/arcana.d20.srd/fx.items/magic.weapon.special.abilities) |
 | [ Staffs ](/arcana.d20.srd/fx.items/staffs) | [ Potions ](/arcana.d20.srd/fx.items/potions) |
 | [ Rings ](/arcana.d20.srd/fx.items/rings) | [ Tattoos ](/arcana.d20.srd/fx.items/tattoos) |
-| [ Wondrous Items ](/arcana.d20.srd/fx.items/wondrous.items) | [ Artifacts ](/arcana.d20.srd/fx.items/artifacts) |
-* [ Activating and Artifact ](/arcana.d20.srd/fx.items/artifacts/activating.an.artifact)
+| [ Wondrous Items ](/arcana.d20.srd/fx.items/wondrous.items) ||
+
+[ Artifacts ](/arcana.d20.srd/fx.items/artifacts)
+
+  * [ Activating and Artifact ](/arcana.d20.srd/fx.items/artifacts/activating.an.artifact)
   * [ Destroying and Artifact ](/arcana.d20.srd/fx.items/artifacts/destroying.an.artifact)
   * [ Artifact Purchase DCs ](/arcana.d20.srd/fx.items/artifacts/artifact.purchase.dcs)
   * [ Sample Artifacts ](/arcana.d20.srd/fx.items/artifacts/sample.artifacts)

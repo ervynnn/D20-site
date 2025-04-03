@@ -5,50 +5,29 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 [ Index ](/) > [ Menaces D20 ](/menaces.d20) > Menaces
 
-##  Menaces
+## Menaces
 
-| [ New Equipment ](/menaces.d20/menaces/new.equipment) | [ Acid Rainer ](/menaces.d20/menaces/acid.rainer) |
-|---|---|
-| [ Alien Probe ](/menaces.d20/menaces/alien.probe) | [ Anaconda, Giant ](/menaces.d20/menaces/anaconda.giant) |
-| [ Animated Object ](/menaces.d20/menaces/animated.object) | [ Boar, Wild Pig ](/menaces.d20/menaces/boar.wild.pig) |
-| [ Bodak ](/menaces.d20/menaces/bodak) | [ Bogeyman (Template) ](/menaces.d20/menaces/bogeyman.template) |
-| [ Cat Folk ](/menaces.d20/menaces/cat.folk) | [ Charred One ](/menaces.d20/menaces/charred.one) |
-| [ Chemical Golem ](/menaces.d20/menaces/chemical.golem) | [ Chimpanzee ](/menaces.d20/menaces/chimpanzee) |
-| [ Crawfordsville Monster ](/menaces.d20/menaces/crawfordsville.monster) | [ Crawling Claw ](/menaces.d20/menaces/crawling.claw) |
-| [ Demonic Machine ](/menaces.d20/menaces/demonic.machine) | [ Dimensional Horror ](/menaces.d20/menaces/dimensional.horror) |
-| [ Dinosaur, Plesiosaur ](/menaces.d20/menaces/dinosaur.plesiosaur) | [ Dinosaur, Pteradon ](/menaces.d20/menaces/dinosaur.pteradon) |
-| [ Dinosaur, Tyrannosaur ](/menaces.d20/menaces/dinosaur.tyrannosaur) | [ Doom Hag ](/menaces.d20/menaces/doom.hag) |
-| [ Dread Tree ](/menaces.d20/menaces/dread.tree) | [ Drop Bear ](/menaces.d20/menaces/drop.bear) |
-| [ Elohim ](/menaces.d20/menaces/elohim) | [ Etoile ](/menaces.d20/menaces/etoile) |
-| [ Fiend ](/menaces.d20/menaces/fiend) |
-* [ Baal ](/menaces.d20/menaces/fiend/baal)
-  * [ Fleshraker ](/menaces.d20/menaces/fiend/fleshraker)
-  * [ Harriken ](/menaces.d20/menaces/fiend/harriken)
-  * [ Jumping Jack ](/menaces.d20/menaces/fiend/jumping.jack)
-  * [ Kwevencha ](/menaces.d20/menaces/fiend/kwevencha)
-  * [ Murdergaunt ](/menaces.d20/menaces/fiend/murdergaunt)
-  * | [ Stygilor ](/menaces.d20/menaces/fiend/stygilor) | [ Fire Wisp ](/menaces.d20/menaces/fire.wisp) |
-|---|---|
-| [ Ghoul (Template) ](/menaces.d20/menaces/ghoul.template) | [ Grimlock ](/menaces.d20/menaces/grimlock) |
-| [ Half-Fiend (Template) ](/menaces.d20/menaces/half.fiend.template) | [ Harpy ](/menaces.d20/menaces/harpy) |
-| [ Hippopotamus ](/menaces.d20/menaces/hippopotamus) | [ Infester ](/menaces.d20/menaces/infester) |
-| [ Intellect Devourer ](/menaces.d20/menaces/intellect.devourer) | [ Jynx ](/menaces.d20/menaces/jynx) |
-| [ Kinori ](/menaces.d20/menaces/kinori) | [ Litter Brute ](/menaces.d20/menaces/litter.brute) |
-| [ Luciferan ](/menaces.d20/menaces/luciferan) | [ Malleable Creature (Template)](/menaces.d20/menaces/malleable.creature.template) |
-| [ Man-'o-War, Giant ](/menaces.d20/menaces/man.o.war.giant) | [ Maniac (Template) ](/menaces.d20/menaces/maniac.template) |
-| [ Mapinguari ](/menaces.d20/menaces/mapinguari) | [ Megalodon ](/menaces.d20/menaces/megalodon) |
-| [ Mongolian Death Worm ](/menaces.d20/menaces/mongolian.death.worm) | [ Monitor Lizard ](/menaces.d20/menaces/monitor.lizard) |
-| [ Montauk Monster ](/menaces.d20/menaces/montauk.monster) | [ Mothfolk ](/menaces.d20/menaces/mothfolk) |
-| [ Neothelid ](/menaces.d20/menaces/neothelid) | [ Night Terror ](/menaces.d20/menaces/night.terror) |
-| [ Revenant (Template) ](/menaces.d20/menaces/revenant.template) | [ Robot ](/menaces.d20/menaces/robot) |
-| [ Rod ](/menaces.d20/menaces/rod) | [ Rogue Tulpa ](/menaces.d20/menaces/rogue.tulpa) |
-| [ Sand Slave ](/menaces.d20/menaces/sand.slave) | [ Sasquatch ](/menaces.d20/menaces/sasquatch) |
-| [ Satanic Ichor ](/menaces.d20/menaces/satanic.ichor) | [ Scorpion ](/menaces.d20/menaces/scorpion) |
-| [ Sea Serpent ](/menaces.d20/menaces/sea.serpent) | [ Sewer Sludge ](/menaces.d20/menaces/sewer.sludge) |
-| [ Shark, Huge ](/menaces.d20/menaces/shark.huge) | [ Skin Feaster ](/menaces.d20/menaces/skin.feaster) |
-| [ Snake, Cobra ](/menaces.d20/menaces/snake.cobra) | [ Snake, Hoop ](/menaces.d20/menaces/snake.hoop) |
-| [ Star Doppleganger ](/menaces.d20/menaces/star.doppleganger) | [ Thought Eater ](/menaces.d20/menaces/thought.eater) |
-| [ Thunderbird ](/menaces.d20/menaces/thunderbird) | [ Toxic Sludge ](/menaces.d20/menaces/toxic.sludge) |
-| [ Udoroot ](/menaces.d20/menaces/udoroot) | [ Whisperer in the Dark ](/menaces.d20/menaces/whisperer.in.the.dark) |
-| [ Yeti ](/menaces.d20/menaces/yeti) | [ Zap ](/menaces.d20/menaces/zap) |
-| [ Zeikune ](/menaces.d20/menaces/zeikune) |
+|  |  |  |  |
+|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
+| [New Equipment](/menaces.d20/menaces/new.equipment) | [Acid Rainer](/menaces.d20/menaces/acid.rainer) | [Alien Probe](/menaces.d20/menaces/alien.probe) | [Anaconda, Giant](/menaces.d20/menaces/anaconda.giant) |
+| [Animated Object](/menaces.d20/menaces/animated.object) | [Boar, Wild Pig](/menaces.d20/menaces/boar.wild.pig) | [Bodak](/menaces.d20/menaces/bodak) | [Bogeyman (Template)](/menaces.d20/menaces/bogeyman.template) |
+| [Cat Folk](/menaces.d20/menaces/cat.folk) | [Charred One](/menaces.d20/menaces/charred.one) | [Chemical Golem](/menaces.d20/menaces/chemical.golem) | [Chimpanzee](/menaces.d20/menaces/chimpanzee) |
+| [Crawfordsville Monster](/menaces.d20/menaces/crawfordsville.monster) | [Crawling Claw](/menaces.d20/menaces/crawling.claw) | [Demonic Machine](/menaces.d20/menaces/demonic.machine) | [Dimensional Horror](/menaces.d20/menaces/dimensional.horror) |
+| [Dinosaur, Plesiosaur](/menaces.d20/menaces/dinosaur.plesiosaur) | [Dinosaur, Pteradon](/menaces.d20/menaces/dinosaur.pteradon) | [Dinosaur, Tyrannosaur](/menaces.d20/menaces/dinosaur.tyrannosaur) | [Doom Hag](/menaces.d20/menaces/doom.hag) |
+| [Dread Tree](/menaces.d20/menaces/dread.tree) | [Drop Bear](/menaces.d20/menaces/drop.bear) | [Elohim](/menaces.d20/menaces/elohim) | [Etoile](/menaces.d20/menaces/etoile) |
+
+### Fiends
+
+|  |  |  |  |
+|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
+| [ Fiend ](/menaces.d20/menaces/fiend) | [Baal](/menaces.d20/menaces/fiend/baal)| [Fleshraker](/menaces.d20/menaces/fiend/fleshraker)  | [Harriken](/menaces.d20/menaces/fiend/harriken) |
+| [Jumping Jack](/menaces.d20/menaces/fiend/jumping.jack) | [Kwevencha](/menaces.d20/menaces/fiend/kwevencha) | [Murdergaunt](/menaces.d20/menaces/fiend/murdergaunt) | [Stygilor](/menaces.d20/menaces/fiend/stygilor) |
+
+### Other Menaces
+
+|  |  |  |  |
+|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
+| [Fire Wisp](/menaces.d20/menaces/fire.wisp) | [Ghoul (Template)](/menaces.d20/menaces/ghoul.template) | [Grimlock](/menaces.d20/menaces/grimlock) | [Half-Fiend (Template)](/menaces.d20/menaces/half.fiend.template) |
+| [Harpy](/menaces.d20/menaces/harpy) | [Hippopotamus](/menaces.d20/menaces/hippopotamus) | [Infester](/menaces.d20/menaces/infester) | [Intellect Devourer](/menaces.d20/menaces/intellect.devourer) |
+| [Jynx](/menaces.d20/menaces/jynx) | [Kinori](/menaces.d20/menaces/kinori) |  |  |
+

@@ -1,5 +1,5 @@
 ---
-title: Seed: Transform
+title: Seed Transform
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Seed: Fortify
+title: Seed Fortify
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

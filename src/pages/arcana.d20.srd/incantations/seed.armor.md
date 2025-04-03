@@ -1,5 +1,5 @@
 ---
-title: Seed: Armor
+title: Seed Armor
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Seed: Destroy
+title: Seed Destroy
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

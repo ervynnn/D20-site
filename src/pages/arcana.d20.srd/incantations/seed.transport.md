@@ -1,5 +1,5 @@
 ---
-title: Seed: Transport
+title: Seed Transport
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

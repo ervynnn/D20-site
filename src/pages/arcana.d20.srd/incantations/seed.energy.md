@@ -1,5 +1,5 @@
 ---
-title: Seed: Energy
+title: Seed Energy
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

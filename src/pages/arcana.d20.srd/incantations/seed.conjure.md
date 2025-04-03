@@ -1,5 +1,5 @@
 ---
-title: Seed: Conjure
+title: Seed Conjure
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

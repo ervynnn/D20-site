@@ -1,5 +1,5 @@
 ---
-title: Seed: Dispel
+title: Seed Dispel
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

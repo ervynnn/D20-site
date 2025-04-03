@@ -1,5 +1,5 @@
 ---
-title: Seed: Foresee
+title: Seed Foresee
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
