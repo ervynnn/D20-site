@@ -73,7 +73,8 @@ or take 20 on this check.
 
 
 <table> <tr><th colspan="3">Table: Explorer Lore</th></tr> <tr><th>DC</th><th>Type of Knowledge</th><th>Examples</th></tr> <tr><td>10</td><td>Common, known by at least a substantial minority of the local population.</td><td>A local official’s hobbies and interests; common legends or rumors about a powerful place of mystery.</td></tr> <tr class="shaded"><td>20</td><td>Uncommon but available, known by only a few people in the area.</td><td>The coordinates of an known but uncharted world; legends or rumors about a powerful psionic artifact.</td></tr> <tr><td>25</td><td>Obscure, known by few, hard to come by.</td><td>The customs of a documented alien species; the true homeworld of an ancient royal dynasty.</td></tr> <tr class="shaded"><td>30</td><td>Extremely obscure, known by very few, possibly forgotten by most who once knew it, possibly known only by those who don’t understand the knowledge’s significance.</td><td>The most likely location of a long-lost pharaoh’s tomb; the history of a powerful artifact and its creator; the likely coordinates of a fabled but as-yet-undiscovered planet.</td></tr> </table>
- **Survivalist**
+
+**Survivalist**
 
 At 1st level, the Explorer gains the bonus feats Guide and Track.
 
