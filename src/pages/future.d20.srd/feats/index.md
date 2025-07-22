@@ -86,5 +86,6 @@ layout: '~/layouts/MarkdownLayout.astro'
   <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
     <a href="/future.d20.srd/feats/mecha.related.feats/stun.mecha" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Stun Mecha</a>
     <a href="/future.d20.srd/feats/mecha.related.feats/thruster.blast" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Thruster Blast</a>
+    <a href="" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700"></a>
   </div>
 </div>
