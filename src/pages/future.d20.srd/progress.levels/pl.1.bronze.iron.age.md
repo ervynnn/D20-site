@@ -1,5 +1,5 @@
 ---
-title: PL 0: Stone Age
+title: PL 0 Bronze Age
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
