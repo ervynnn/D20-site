@@ -44,8 +44,8 @@ Mecha technology can be found in societies of PL 6 or higher.
   </div>
 </div>
 
-[ Miscellanious Equipment ](/future.d20.srd/mecha/miscellanious.equipment)
-### Miscellaneous Equipment
+### [ Miscellanious Equipment ](/future.d20.srd/mecha/miscellanious.equipment)
+
 
 ### PL 5
 <div class="border-t border-slate-200 dark:border-slate-700">
