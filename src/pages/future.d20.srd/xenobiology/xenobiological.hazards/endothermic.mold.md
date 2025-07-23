@@ -3,7 +3,7 @@ title: Endothermic Mold
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Xenobiology ](/future.d20.srd/xenobiology) > [Xenobiological Hazards ](/future.d20.srd/xenobiology/xenobiological) > Endothermic Mold
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Xenobiology ](/future.d20.srd/xenobiology) > [Xenobiological Hazards ](/future.d20.srd/xenobiology/xenobiological.hazards) > Endothermic Mold
 
 ##  Endothermic Mold (CR 2)
 

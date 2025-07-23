@@ -3,7 +3,7 @@ title: Paragon
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Sample Mecha](/future.d20.srd/mecha/sample) > Paragon
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Sample Mecha](/future.d20.srd/mecha/sample.mecha) > Paragon
 
 ## Paragon (PL 8)
 

@@ -3,7 +3,7 @@ title: Nanorepair Unit
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Miscellanious Equipment](/future.d20.srd/mecha/miscellanious) > Nanorepair Unit
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Miscellanious Equipment](/future.d20.srd/mecha/miscellanious.equipment) > Nanorepair Unit
 
 ## Nanorepair Unit (PL 8)
 

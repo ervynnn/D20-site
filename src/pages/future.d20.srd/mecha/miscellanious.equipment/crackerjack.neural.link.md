@@ -3,7 +3,7 @@ title: Crackerjack Neural Link
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Miscellanious Equipment](/future.d20.srd/mecha/miscellanious) > Crackerjack Neural Link
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Miscellanious Equipment](/future.d20.srd/mecha/miscellanious.equipment) > Crackerjack Neural Link
 
 ## Crackerjack Neural Link (PL 8)
 

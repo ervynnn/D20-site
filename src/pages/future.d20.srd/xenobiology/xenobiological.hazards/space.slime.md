@@ -3,7 +3,7 @@ title: Space Slime
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Xenobiology](/future.d20.srd/xenobiology) > [Xenobiological Hazards](/future.d20.srd/xenobiology/xenobiological) > Space Slime
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Xenobiology](/future.d20.srd/xenobiology) > [Xenobiological Hazards](/future.d20.srd/xenobiology/xenobiological.hazards) > Space Slime
 
 ## Space Slime (CR 4)
 

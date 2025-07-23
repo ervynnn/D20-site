@@ -3,7 +3,7 @@ title: Manticore
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Sample Mecha](/future.d20.srd/mecha/sample) > Manticore
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Sample Mecha](/future.d20.srd/mecha/sample.mecha) > Manticore
 
 ## Manticore (PL 7)
 

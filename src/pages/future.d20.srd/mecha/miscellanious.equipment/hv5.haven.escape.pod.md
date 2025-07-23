@@ -3,7 +3,7 @@ title: HV-5 Haven Escape Pod
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Miscellanious Equipment](/future.d20.srd/mecha/miscellanious) > HV-5 Haven Escape Pod
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Miscellanious Equipment](/future.d20.srd/mecha/miscellanious.equipment) > HV-5 Haven Escape Pod
 
 ## HV-5 Haven Escape Pod (PL 6)
 

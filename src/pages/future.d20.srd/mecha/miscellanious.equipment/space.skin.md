@@ -3,7 +3,7 @@ title: Space Skin
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mecha ](/future.d20.srd/mecha) > [ Miscellanious Equipment](/future.d20.srd/mecha/miscellanious) > Space Skin
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mecha ](/future.d20.srd/mecha) > [ Miscellanious Equipment](/future.d20.srd/mecha/miscellanious.equipment) > Space Skin
 
 ##  Space Skin (PL 6)
 

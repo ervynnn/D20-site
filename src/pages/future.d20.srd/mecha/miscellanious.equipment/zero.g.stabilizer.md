@@ -3,7 +3,7 @@ title: Zero-G Stabilizer
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mecha ](/future.d20.srd/mecha) > [ Miscellanious Equipment](/future.d20.srd/mecha/miscellanious) > Zero-G Stabilizer
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mecha ](/future.d20.srd/mecha) > [ Miscellanious Equipment](/future.d20.srd/mecha/miscellanious.equipment) > Zero-G Stabilizer
 
 ##  Zero-G Stabilizer (PL 7)
 
