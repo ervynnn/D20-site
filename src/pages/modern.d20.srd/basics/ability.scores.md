@@ -9,17 +9,17 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 Every character has six basic Ability Scores:
 
-Strength (STR)
+<a href="#strength"> Strength (STR) </a>
 
-Dexterity (DEX)
+<a href="#dexterity"> Dexterity (DEX) </a>
 
-Constitution (CON)
+<a href="#constitution"> Constitution (CON) </a>
 
-Intelligence (INT)
+<a href="#intelligence"> Intelligence (INT) </a>
 
-Wisdom (WIS)
+<a href="#wisdom"> Wisdom (WIS) </a>
 
-Charisma (CHA)
+<a href="#charisma"> Charisma (CHA) </a>
 
 The Score of these Abilities ranges from 0 to infinity. A limit, if any, will
 be specified in the rules. The normal human range is 3 to 18. It is possible
@@ -48,6 +48,8 @@ is called a bonus, and a negative modifier is called a penalty.
 
 ### Use Of Ability Scores
 
+<div id="strength" style="position: relative; top: -80px;"></div>
+
 ### Strength
 
 Any creature that can physically manipulate other objects has at least 1 point
@@ -58,6 +60,8 @@ physical body or because it doesn't move. The creature automatically fails
 Strength checks. If the creature can attack, it applies its Dexterity modifier
 to its base attack instead of a Strength modifier.
 
+<div id="dexterity" style="position: relative; top: -80px;"></div>
+
 ### Dexterity
 
 Any creature that can move has at least 1 point of Dexterity.
@@ -65,6 +69,8 @@ Any creature that can move has at least 1 point of Dexterity.
 A creature with no Dexterity score can't move. If it can act, it applies its
 Intelligence modifier to initiative checks instead of a Dexterity modifier.
 The creature fails all Reflex saves and Dexterity checks.
+
+<div id="constitution" style="position: relative; top: -80px;"></div>
 
 ### Constitution
 
@@ -79,6 +85,8 @@ any effect that requires a Fortitude save unless the effect works on objects.
 The creature is also immune to ability damage, ability drain, energy drain,
 and massive damage, and always fails Constitution checks.
 
+<div id="intelligence" style="position: relative; top: -80px;"></div>
+
 ### Intelligence
 
 Any creature that can think, learn, or remember has at least 1 point of
@@ -89,6 +97,8 @@ instincts or programmed instructions. It is immune to all mind-influencing
 effects (charms, compulsions, phantasms, patterns and morale effects) and
 automatically fails Intelligence checks.
 
+<div id="wisdom" style="position: relative; top: -80px;"></div>
+
 ### Wisdom
 
 Any creature that can perceive its environment in any fashion has at least 1
@@ -96,6 +106,8 @@ point of Wisdom.
 
 Anything with no Wisdom score is an object, not a creature. Anything without a
 Wisdom score also has no Charisma score, and vice versa.
+
+<div id="charisma" style="position: relative; top: -80px;"></div>
 
 ### Charisma
 
