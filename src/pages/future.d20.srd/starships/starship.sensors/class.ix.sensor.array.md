@@ -3,7 +3,7 @@ title: Class IX Sensor Array
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Sensors](/future.d20.srd/starships/starship) > Class IX Sensor Array
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [Starship Sensors](/future.d20.srd/starships/starship.sensors) > Class IX Sensor Array
 
 ##  Class IX Sensor Array (PL 9)
 

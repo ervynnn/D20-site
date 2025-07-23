@@ -3,7 +3,7 @@ title: Targeting System, Improved
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Sensors](/future.d20.srd/starships/starship) > Targeting System, Improved
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [Starship Sensors](/future.d20.srd/starships/starship.sensors) > Targeting System, Improved
 
 ##  Targeting System, Improved (PL 7)
 

@@ -3,7 +3,7 @@ title: Drivesat Comm Array
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Comm Systems ](/future.d20.srd/starships/starship.comm) > Drivesat Comm Array
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Comm Systems ](/future.d20.srd/starships/starship.comm.systems) > Drivesat Comm Array
 
 ##  Drivesat Comm Array (PL 7)
 

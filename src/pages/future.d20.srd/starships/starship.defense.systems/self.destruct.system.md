@@ -3,7 +3,7 @@ title: Self-Destruct System
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Defense Systems ](/future.d20.srd/starships/starship.defense) > Self-Destruct System
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [Starship Defense Systems](/future.d20.srd/starships/starship.defense.systems) > Self-Destruct System
 
 ##  Self-Destruct System (PL 6)
 

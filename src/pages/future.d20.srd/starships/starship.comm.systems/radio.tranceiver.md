@@ -3,7 +3,7 @@ title: Radio Transceiver
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Comm Systems ](/future.d20.srd/starships/starship.comm) > Radio Transceiver
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Comm Systems ](/future.d20.srd/starships/starship.comm.systems) > Radio Transceiver
 
 ##  Radio Transceiver (PL 5)
 

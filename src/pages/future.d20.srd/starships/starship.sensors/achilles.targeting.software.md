@@ -3,7 +3,7 @@ title: Achilles Targeting Software
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Sensors](/future.d20.srd/starships/starship) > Achilles Targeting Software
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Sensors](/future.d20.srd/starships/starship.sensors) > Achilles Targeting Software
 
 ## Achilles Targeting Software (PL 8)
 

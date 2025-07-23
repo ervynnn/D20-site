@@ -3,7 +3,7 @@ title: Tractor Beam Emitter
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Grappling Systems ](/future.d20.srd/starships/grappling) > Tractor Beam Emitter
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [Grappling Systems](/future.d20.srd/starships/grappling.systems) > Tractor Beam Emitter
 
 ##  Tractor Beam Emitter (PL 7)
 

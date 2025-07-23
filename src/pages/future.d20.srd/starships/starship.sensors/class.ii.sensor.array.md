@@ -3,7 +3,7 @@ title: Class II Sensor Array
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Sensors](/future.d20.srd/starships/starship) > Class II Sensor Array
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Sensors](/future.d20.srd/starships/starship.sensors) > Class II Sensor Array
 
 ## Class II Sensor Array (PL 6)
 

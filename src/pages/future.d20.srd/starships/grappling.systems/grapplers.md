@@ -3,7 +3,7 @@ title: Grapplers
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Grappling Systems](/future.d20.srd/starships/grappling) > Grapplers
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Grappling Systems](/future.d20.srd/starships/grappling.systems) > Grapplers
 
 ## Grapplers (PL 5)
 
