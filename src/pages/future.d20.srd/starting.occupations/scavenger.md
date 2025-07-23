@@ -3,7 +3,7 @@ title: Scavenger
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starting Occupations](/future.d20.srd/starting) > Scavenger
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starting Occupations](/future.d20.srd/starting.occupations) > Scavenger
 
 ## Scavenger
 

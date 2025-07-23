@@ -3,7 +3,7 @@ title: Astronaut Trainee
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starting Occupations](/future.d20.srd/starting) > Astronaut Trainee
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starting Occupations](/future.d20.srd/starting.occupations) > Astronaut Trainee
 
 ## Astronaut Trainee
 
