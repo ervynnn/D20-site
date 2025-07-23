@@ -14,7 +14,7 @@ the character has ranks in [Profession](/modern.d20.srd/skills/profession).
 
 Over the course of play, the hero’s Wealth bonus will
 [decrease](/modern.d20.srd/wealth/losing.wealth) as the hero purchases
-expensive [items](/modern.d20.srd/equipment/index) and
+expensive [items](/modern.d20.srd/equipment) and
 [increase](/modern.d20.srd/wealth/regaining.wealth) as the hero gains levels.
 
 A character’s Wealth bonus can never fall below +0, and there is no limit to

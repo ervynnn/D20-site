@@ -13,8 +13,8 @@ Wealth and [decreases](/modern.d20.srd/wealth/losing.wealth) as the character
 makes purchases.
 
 If the character succeeds on the Wealth check, the character gains the
-[object](/modern.d20.srd/equipment/index). If the character fails, he or she
-can’t afford the [object](/modern.d20.srd/equipment/index) at the time.
+[object](/modern.d20.srd/equipment). If the character fails, he or she
+can’t afford the [object](/modern.d20.srd/equipment) at the time.
 
 If the character’s current [Wealth bonus](/modern.d20.srd/wealth/wealth.bonus)
 is equal to or greater than the DC, the character automatically succeeds.
