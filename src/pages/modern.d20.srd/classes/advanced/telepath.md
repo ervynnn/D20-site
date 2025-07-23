@@ -84,7 +84,7 @@ response to being [ poisoned ](/modern.d20.srd/environment.hazards/poison) ,
 you can make an Autohypnosis check on your next action. A successful check
 grants you a +4 morale bonus on your [ saving throw](/modern.d20.srd/basics/saving.throws) to resist the [ poison’s](/modern.d20.srd/environment.hazards/poison) secondary damage.
 
-**Willpower** : If reduced to 0 [ hit points](/modern.d20.srd/combat/hit.points) ( [ disabled](/modern.d20.srd/conditions/index) ), you may make an Autohypnosis check. If
+**Willpower** : If reduced to 0 [ hit points](/modern.d20.srd/combat/hit.points) ( [ disabled](/modern.d20.srd/conditions) ), you may make an Autohypnosis check. If
 successful, you can perform a strenuous action without taking 1 point of [damage ](/modern.d20.srd/combat/damage) . A failed check carries no
 penalties—you can choose not to perform the strenuous action. If you do
 perform the strenuous action after failing the check, you take 1 point of [damage ](/modern.d20.srd/combat/damage) , as normal.

@@ -29,18 +29,18 @@ restore some of them. A successful
 The number restored can never exceed the character’s full normal total of [hit points](/modern.d20.srd/combat/hit.points). This application of the skill can
 be used successfully on a character only once per day.
 
-Revive [Dazed](/modern.d20.srd/conditions/index),
-[Stunned](/modern.d20.srd/conditions/index), or
-[Unconscious](/modern.d20.srd/conditions/index) Character (DC 15): With a
+Revive [Dazed](/modern.d20.srd/conditions),
+[Stunned](/modern.d20.srd/conditions), or
+[Unconscious](/modern.d20.srd/conditions) Character (DC 15): With a
 [first aid kit](/modern.d20.srd/equipment/professional.equipment), the
-character can remove the [dazed](/modern.d20.srd/conditions/index),
-[stunned](/modern.d20.srd/conditions/index), or
-[unconscious](/modern.d20.srd/conditions/index) condition from a character.
+character can remove the [dazed](/modern.d20.srd/conditions),
+[stunned](/modern.d20.srd/conditions), or
+[unconscious](/modern.d20.srd/conditions) condition from a character.
 This check is an [attack action](/modern.d20.srd/combat/attack.actions).
 
-A successful check removes the [dazed](/modern.d20.srd/conditions/index),
-[stunned](/modern.d20.srd/conditions/index), or
-[unconscious](/modern.d20.srd/conditions/index) condition from an affected
+A successful check removes the [dazed](/modern.d20.srd/conditions),
+[stunned](/modern.d20.srd/conditions), or
+[unconscious](/modern.d20.srd/conditions) condition from an affected
 character. The character can’t revive an unconscious character who is at –1
 [hit points](/modern.d20.srd/combat/hit.points) or lower without first
 stabilizing the character.
@@ -91,8 +91,8 @@ provides a bonus on the poisoned character’s [saving throw](/modern.d20.srd/ba
 skill.
 
 Try Again?: Yes, for restoring [hit points](/modern.d20.srd/combat/hit.points), reviving
-[dazed](/modern.d20.srd/conditions/index),
-[stunned](/modern.d20.srd/conditions/index), or [unconscious characters](/modern.d20.srd/conditions/index), stabilizing dying characters,
+[dazed](/modern.d20.srd/conditions),
+[stunned](/modern.d20.srd/conditions), or [unconscious characters](/modern.d20.srd/conditions), stabilizing dying characters,
 and surgery. No, for all other uses of the skill.
 
 Special: The [Surgery](/modern.d20.srd/feats/surgery) feat gives a character
@@ -103,15 +103,15 @@ A character can [take 10](/modern.d20.srd/skills/skill.basics) when
 making a Treat Injury [check](/modern.d20.srd/skills/skill.basics).
 A character can [take 20](/modern.d20.srd/skills/skill.basics) only
 when restoring [hit points](/modern.d20.srd/combat/hit.points) or attempting
-to revive [dazed](/modern.d20.srd/conditions/index),
-[stunned](/modern.d20.srd/conditions/index), or [unconscious characters](/modern.d20.srd/conditions/index).
+to revive [dazed](/modern.d20.srd/conditions),
+[stunned](/modern.d20.srd/conditions), or [unconscious characters](/modern.d20.srd/conditions).
 
 Long-term care, restoring [hit points](/modern.d20.srd/combat/hit.points),
 treating [disease](/modern.d20.srd/environment.hazards/disease), treating
 [poison](/modern.d20.srd/environment.hazards/poison), or stabilizing a dying
 character requires a [medical kit](/modern.d20.srd/equipment/professional.equipment). Reviving a
-[dazed](/modern.d20.srd/conditions/index),
-[stunned](/modern.d20.srd/conditions/index), or [unconscious characters](/modern.d20.srd/conditions/index) requires either a [first aid kit](/modern.d20.srd/equipment/professional.equipment) or a [medical kit](/modern.d20.srd/equipment/professional.equipment). Surgery requires a
+[dazed](/modern.d20.srd/conditions),
+[stunned](/modern.d20.srd/conditions), or [unconscious characters](/modern.d20.srd/conditions) requires either a [first aid kit](/modern.d20.srd/equipment/professional.equipment) or a [medical kit](/modern.d20.srd/equipment/professional.equipment). Surgery requires a
 [surgery kit](/modern.d20.srd/equipment/professional.equipment). If the
 character does not have the appropriate kit, he or she takes a –4 penalty on
 the [check](/modern.d20.srd/skills/skill.basics).

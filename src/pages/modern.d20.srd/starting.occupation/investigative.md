@@ -14,9 +14,9 @@ who use their skills to gather evidence and analyze clues.
 
 Prerequisite: Age 23+.
 
-Skills: Choose two of the following [ skills ](/modern.d20.srd/skills/index)
-as permanent class [ skills ](/modern.d20.srd/skills/index) . If a [ skill](/modern.d20.srd/skills/index) the character selects is already a class [skill ](/modern.d20.srd/skills/index) , he or she receives a +1 competence
-bonus on checks using that [ skill ](/modern.d20.srd/skills/index) .
+Skills: Choose two of the following [ skills ](/modern.d20.srd/skills)
+as permanent class [ skills ](/modern.d20.srd/skills) . If a [ skill](/modern.d20.srd/skills) the character selects is already a class [skill ](/modern.d20.srd/skills) , he or she receives a +1 competence
+bonus on checks using that [ skill ](/modern.d20.srd/skills) .
 
 [ Computer Use ](/modern.d20.srd/skills/computer.use) , [ Craft](/modern.d20.srd/skills/craft) ( [ visual art](/modern.d20.srd/skills/craft.visual.art) or [ writing](/modern.d20.srd/skills/craft.writing) ), [ Decipher Script](/modern.d20.srd/skills/decipher.script) , [ Forgery](/modern.d20.srd/skills/forgery) , [ Gather Information](/modern.d20.srd/skills/gather.information) , [ Investigate](/modern.d20.srd/skills/investigate) , [ Knowledge](/modern.d20.srd/skills/knowledge) (behavioral sciences, civics, earth and
 life sciences, or streetwise), [ Research ](/modern.d20.srd/skills/research) ,

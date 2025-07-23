@@ -13,7 +13,7 @@ and damage based on size.
 
 Hit Die: d10.
 
-Base Attack Bonus: 3/4 of total Hit Dice (see [ Table: Creature Saves and Base Attack Bonuses ](/modern.d20.srd/creature.types/index) ).
+Base Attack Bonus: 3/4 of total Hit Dice (see [ Table: Creature Saves and Base Attack Bonuses ](/modern.d20.srd/creature.types) ).
 
 Good [ Saving Throws ](/modern.d20.srd/basics/saving.throws) : None.
 

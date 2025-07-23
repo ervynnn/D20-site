@@ -129,7 +129,7 @@ Powers also fail if the character’s
 In most significant respects, manifesting a psionic power follows the same
 rules as [casting a spell](/modern.d20.srd/fx). The differences between a
 power description and a spell description are summarized in this section. See
-[How to Read a Spell Description](/modern.d20.srd/fx/index), for information
+[How to Read a Spell Description](/modern.d20.srd/fx), for information
 that is the same for both psionic powers and spells.
 
 ###  Power Lists

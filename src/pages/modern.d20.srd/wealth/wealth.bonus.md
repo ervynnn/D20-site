@@ -8,7 +8,7 @@ layout: '~/layouts/MarkdownLayout.astro'
 ## Wealth Bonus
 
 To determine a character’s starting Wealth bonus, roll 2d4 and add the wealth
-bonus for the character’s [starting occupation](/modern.d20.srd/starting.occupation/index), plus (if appropriate)
+bonus for the character’s [starting occupation](/modern.d20.srd/starting.occupation), plus (if appropriate)
 the bonus from the [Windfall](/modern.d20.srd/feats/windfall) feat, plus 1 if
 the character has ranks in [Profession](/modern.d20.srd/skills/profession).
 

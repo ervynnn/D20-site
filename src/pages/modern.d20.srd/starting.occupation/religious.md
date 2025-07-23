@@ -13,9 +13,9 @@ occupation.
 
 Prerequisite: Age 23+.
 
-Skills: Choose three of the following [ skills ](/modern.d20.srd/skills/index)
-as permanent class [ skills ](/modern.d20.srd/skills/index) . If a [ skill](/modern.d20.srd/skills/index) the character selects is already a class [skill ](/modern.d20.srd/skills/index) , he or she receives a +1 competence
-bonus on checks using that [ skill ](/modern.d20.srd/skills/index) .
+Skills: Choose three of the following [ skills ](/modern.d20.srd/skills)
+as permanent class [ skills ](/modern.d20.srd/skills) . If a [ skill](/modern.d20.srd/skills) the character selects is already a class [skill ](/modern.d20.srd/skills) , he or she receives a +1 competence
+bonus on checks using that [ skill ](/modern.d20.srd/skills) .
 
 [ Decipher Script ](/modern.d20.srd/skills/decipher.script) , [ Knowledge](/modern.d20.srd/skills/knowledge) (arcane lore, art, behavioral sciences,
 history, streetwise, or theology and philosophy), [ Listen](/modern.d20.srd/skills/listen) , [ Sense Motive](/modern.d20.srd/skills/sense.motive) .
