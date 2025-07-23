@@ -1,5 +1,5 @@
 ---
-title: Seed Life
+title: Seed: Life
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

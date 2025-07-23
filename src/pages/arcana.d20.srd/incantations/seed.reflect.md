@@ -1,5 +1,5 @@
 ---
-title: Seed Reflect
+title: Seed: Reflect
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

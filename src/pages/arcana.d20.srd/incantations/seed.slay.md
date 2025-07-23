@@ -1,5 +1,5 @@
 ---
-title: Seed Slay
+title: Seed: Slay
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

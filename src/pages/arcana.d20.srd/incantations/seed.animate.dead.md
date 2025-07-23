@@ -1,5 +1,5 @@
 ---
-title: Seed Animate Dead
+title: Seed: Animate Dead
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

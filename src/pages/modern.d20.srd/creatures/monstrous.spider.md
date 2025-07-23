@@ -18,8 +18,7 @@ Increase the normal speed of hunting spiders by 10 feet.
 [Climb](/modern.d20.srd/skills/climb) speed remains unchanged.
 
 
-<table style="float: right"><tr><th colspan="3"> Table: Monstrous Spider <a href="/modern.d20.srd/special.abilities/poison">Poison</a></th></tr> <tr><th> Spider Size</th><th> Fort Save DC</th><th> Initial/Secondary Damage </th></tr> <tr><td> Colossal</td><td> 35</td><td> 2d8 Str </td></tr> <tr class="shaded"><td> Gargantuan</td><td> 31</td><td> 2d6 Str </td></tr> <tr><td> Huge</td><td> 22</td><td> 1d8 Str </td></tr> <tr class="shaded"><td> Large</td><td> 17</td><td> 1d6 Str </td></tr> <tr><td> Medium-size</td><td> 14</td><td> 1d4 Str </td></tr> <tr class="shaded"><td> Small</td><td> 11</td><td> 1d3 Str </td></tr> <tr><td> Tiny</td><td> 11</td><td> 1d2 Str </td></tr></table>
- [Poison](/modern.d20.srd/special.abilities/poison) (Ex): A monstrous spider
+<table style="float: right"><tr><th colspan="3"> Table: Monstrous Spider <a href="/modern.d20.srd/special.abilities/poison">Poison</a></th></tr> <tr><th> Spider Size</th><th> Fort Save DC</th><th> Initial/Secondary Damage </th></tr> <tr><td> Colossal</td><td> 35</td><td> 2d8 Str </td></tr> <tr class="shaded"><td> Gargantuan</td><td> 31</td><td> 2d6 Str </td></tr> <tr><td> Huge</td><td> 22</td><td> 1d8 Str </td></tr> <tr class="shaded"><td> Large</td><td> 17</td><td> 1d6 Str </td></tr> <tr><td> Medium-size</td><td> 14</td><td> 1d4 Str </td></tr> <tr class="shaded"><td> Small</td><td> 11</td><td> 1d3 Str </td></tr> <tr><td> Tiny</td><td> 11</td><td> 1d2 Str </td></tr></table> [Poison](/modern.d20.srd/special.abilities/poison) (Ex): A monstrous spider
 injects [poison](/modern.d20.srd/special.abilities/poison) into its victim
 with a successful bite. The victim must succeed on a Fortitude save or take
 the initial damage; a second Fortitude save must be made 1 minute later to

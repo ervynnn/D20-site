@@ -1,5 +1,5 @@
 ---
-title: Seed Ward
+title: Seed: Ward
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

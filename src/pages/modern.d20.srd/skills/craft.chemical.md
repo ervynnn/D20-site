@@ -21,8 +21,7 @@ counteracts an acid of the same type or a less potent type.
 Craft DCs
 
 
-<table> <tr> <th>Type of Acid</th> <th>Purchase DC</th> <th>Acid</th> <th>Base</th> <th>Time</th> </tr> <tr><td> Mild (1d6/1d10)<sup>1</sup></td><td> 8</td><td> 15</td><td> 10</td><td> 1 min. </td></tr> <tr class="shaded"><td> Potent (2d6/2d10)</td><td> 12</td><td> 20</td><td> 15</td><td> 30 min. </td></tr> <tr><td> Concentrated (3d6/3d10)</td><td> 16</td><td> 30</td><td> 20</td><td> 1 hr. </td></tr> <tr><td colspan="5" style="font-size: .8em; text-align: left"> <sup>1</sup>The dice rolls in parentheses are typical contact damage/immersion damage caused per round of immersion. </td></tr> </table>
- [Explosives](/modern.d20.srd/equipment/weapons.explosives.splash.general):
+<table> <tr> <th>Type of Acid</th> <th>Purchase DC</th> <th>Acid</th> <th>Base</th> <th>Time</th> </tr> <tr><td> Mild (1d6/1d10)<sup>1</sup></td><td> 8</td><td> 15</td><td> 10</td><td> 1 min. </td></tr> <tr class="shaded"><td> Potent (2d6/2d10)</td><td> 12</td><td> 20</td><td> 15</td><td> 30 min. </td></tr> <tr><td> Concentrated (3d6/3d10)</td><td> 16</td><td> 30</td><td> 20</td><td> 1 hr. </td></tr> <tr><td colspan="5" style="font-size: .8em; text-align: left"> <sup>1</sup>The dice rolls in parentheses are typical contact damage/immersion damage caused per round of immersion. </td></tr> </table> [Explosives](/modern.d20.srd/equipment/weapons.explosives.splash.general):
 Building an
 [explosive](/modern.d20.srd/equipment/weapons.explosives.splash.general) from
 scratch is dangerous. If the Craft (chemical)

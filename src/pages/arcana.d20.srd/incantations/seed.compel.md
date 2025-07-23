@@ -1,5 +1,5 @@
 ---
-title: Seed Compel
+title: Seed: Compel
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

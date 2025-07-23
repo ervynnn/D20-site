@@ -1,5 +1,5 @@
 ---
-title: Seed Reveal
+title: Seed: Reveal
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

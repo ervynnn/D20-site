@@ -1,5 +1,5 @@
 ---
-title: Seed Delude
+title: Seed: Delude
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

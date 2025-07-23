@@ -1,5 +1,5 @@
 ---
-title: Seed Heal
+title: Seed: Heal
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Mutation Points 
+title: Mutation Points
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: PL 0 Industrial Age
+title: PL 0: Stone Age
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Seed Contact
+title: Seed: Contact
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

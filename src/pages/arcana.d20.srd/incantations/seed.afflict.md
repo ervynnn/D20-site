@@ -1,5 +1,5 @@
 ---
-title: Seed Afflict
+title: Seed: Afflict
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
