@@ -3,8 +3,6 @@ title: Wealth
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > Wealth
-
 ## Wealth
 
 Every character has a [Wealth](/modern.d20.srd/wealth/wealth.bonus)[bonus](/modern.d20.srd/wealth/wealth.bonus)

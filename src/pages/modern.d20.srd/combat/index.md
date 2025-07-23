@@ -3,8 +3,6 @@ title:  Movement and Position
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > Combat
-
 | [ The Combat Cycle ](/modern.d20.srd/combat/combat.cycle) | [ Attack Roll ](/modern.d20.srd/combat/attack.roll) |
 |---|---|
 | [ Attack Bonus ](/modern.d20.srd/combat/attack.bonus) | [ Damage ](/modern.d20.srd/combat/damage) |

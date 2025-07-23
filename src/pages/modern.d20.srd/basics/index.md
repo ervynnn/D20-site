@@ -3,7 +3,7 @@ title: Basics
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > Basics
+
 
 ## Basics
 

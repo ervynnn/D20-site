@@ -1,15 +1,17 @@
 ---
 import Layout from '~/layouts/PageLayout.astro';
 import SideNavigation from '~/components/ui/SideNavigation.astro';
+import type { NavigationSection } from '~/components/ui/SideNavigation.astro';
 
 export interface Props {
   frontmatter: {
     title?: string;
     description?: string;
   };
+  sideNavSections?: NavigationSection[];
 }
 
-const { frontmatter } = Astro.props;
+const { frontmatter, sideNavSections = [] } = Astro.props;
 
 const metadata = {
   title: frontmatter?.title,
@@ -48,63 +50,51 @@ const buildBreadcrumbs = () => {
   return breadcrumbs;
 };
 
-// Generate navigation sections based on current path
-const getNavigationSections = () => {
+const breadcrumbs = buildBreadcrumbs();
+
+// Generate default navigation sections based on current system
+const getDefaultNavigation = (): NavigationSection[] => {
   const path = Astro.url.pathname;
   
   if (path.startsWith('/modern.d20.srd')) {
     return [
       {
-        title: 'MODERN D20 SRD',
+        title: 'MODERN D20',
         color: 'blue',
         items: [
-          { text: 'Modern Characters', href: '/modern.d20.srd/modern-characters' },
-          { text: 'Skills', href: '/modern.d20.srd/skills' },  
-          { text: 'Feats', href: '/modern.d20.srd/feats' },
+          { text: 'Basics', href: '/modern.d20.srd/basics' },
+          { text: 'Classes', href: '/modern.d20.srd/classes' },
           { text: 'Equipment', href: '/modern.d20.srd/equipment' },
           { text: 'Combat', href: '/modern.d20.srd/combat' },
-          { text: 'Game Master', href: '/modern.d20.srd/game-master' },
-          { text: 'Friends & Foes', href: '/modern.d20.srd/friends-foes' },
-          { text: 'Menaces', href: '/modern.d20.srd/menaces' },
-          { text: 'Campaigns', href: '/modern.d20.srd/campaigns' },
-          { text: 'Psionics', href: '/modern.d20.srd/psionics' },
+          { text: 'Skills', href: '/modern.d20.srd/skills' },
         ]
       }
     ];
   } else if (path.startsWith('/future.d20.srd')) {
     return [
       {
-        title: 'FUTURE D20 SRD',
-        color: 'green',
+        title: 'FUTURE D20',
+        color: 'purple',
         items: [
-          { text: 'Characters', href: '/future.d20.srd/characters' },
-          { text: 'Skills', href: '/future.d20.srd/skills' },
-          { text: 'Feats', href: '/future.d20.srd/feats' },
-          { text: 'Equipment', href: '/future.d20.srd/equipment' },
-          { text: 'Combat', href: '/future.d20.srd/combat' },
-          { text: 'Game Master', href: '/future.d20.srd/game-master' },
-          { text: 'Friends & Foes', href: '/future.d20.srd/friends-foes' },
+          { text: 'Classes', href: '/future.d20.srd/classes' },
+          { text: 'Cybernetics', href: '/future.d20.srd/cybernetics' },
           { text: 'Mecha', href: '/future.d20.srd/mecha' },
           { text: 'Mutations', href: '/future.d20.srd/mutations' },
-          { text: 'Cybernetics', href: '/future.d20.srd/cybernetics' },
+          { text: 'Equipment', href: '/future.d20.srd/equipment' },
         ]
       }
     ];
   } else if (path.startsWith('/arcana.d20.srd')) {
     return [
       {
-        title: 'ARCANA D20 SRD',
-        color: 'purple',
+        title: 'ARCANA D20',
+        color: 'green',
         items: [
-          { text: 'Getting Started', href: '/arcana.d20.srd/getting-started' },
-          { text: 'Characters', href: '/arcana.d20.srd/characters' },
-          { text: 'Skills', href: '/arcana.d20.srd/skills' },
-          { text: 'Feats', href: '/arcana.d20.srd/feats' },
+          { text: 'Advanced Classes', href: '/arcana.d20.srd/advanced.classes' },
+          { text: 'Magic Items', href: '/arcana.d20.srd/fx.items' },
+          { text: 'Incantations', href: '/arcana.d20.srd/incantations' },
+          { text: 'Creatures', href: '/arcana.d20.srd/creatures' },
           { text: 'Equipment', href: '/arcana.d20.srd/equipment' },
-          { text: 'Combat', href: '/arcana.d20.srd/combat' },
-          { text: 'Game Master', href: '/arcana.d20.srd/game-master' },
-          { text: 'Friends & Foes', href: '/arcana.d20.srd/friends-foes' },
-          { text: 'Spells', href: '/arcana.d20.srd/spells' },
         ]
       }
     ];
@@ -114,9 +104,9 @@ const getNavigationSections = () => {
         title: 'D20 MENACES',
         color: 'red',
         items: [
-          { text: 'Menaces', href: '/menaces.d20/menaces' },
+          { text: 'Threat Catalog', href: '/menaces.d20/menaces' },
           { text: 'Feats', href: '/menaces.d20/feats' },
-          { text: 'Buying Services', href: '/menaces.d20/buying.services' },
+          { text: 'Services', href: '/menaces.d20/buying.services' },
         ]
       }
     ];
@@ -125,22 +115,22 @@ const getNavigationSections = () => {
   return [];
 };
 
-const breadcrumbs = buildBreadcrumbs();
-const navigationSections = getNavigationSections();
+const navigationSections = sideNavSections.length > 0 ? sideNavSections : getDefaultNavigation();
 ---
 
 <Layout metadata={metadata}>
   <div class="flex min-h-screen">
     <!-- Sidebar Navigation -->
     {navigationSections.length > 0 && (
-      <aside class="w-64 flex-shrink-0">
-        <SideNavigation sections={navigationSections} />
-      </aside>
+      <SideNavigation 
+        sections={navigationSections} 
+        currentPath={Astro.url.pathname}
+      />
     )}
     
-    <!-- Main Content Area -->
-    <main class="flex-1 min-w-0">
-      <section class="px-4 py-8 sm:px-6 mx-auto lg:px-8 lg:py-12 max-w-6xl">
+    <!-- Main Content -->
+    <main class="flex-1 max-w-none">
+      <div class="px-4 py-8 sm:px-6 mx-auto lg:px-8 lg:py-12 max-w-6xl">
         <!-- Breadcrumb Navigation -->
         <nav class="flex items-center space-x-2 text-sm text-gray-500 dark:text-slate-400 mb-6">
           {breadcrumbs.map((crumb, index) => (
@@ -164,7 +154,7 @@ const navigationSections = getNavigationSections();
         <div class="mx-auto prose prose-lg max-w-4xl dark:prose-invert dark:prose-headings:text-slate-300 prose-md prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:font-bold prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-img:rounded-md prose-img:shadow-lg">
           <slot />
         </div>
-      </section>
+      </div>
     </main>
   </div>
 </Layout>

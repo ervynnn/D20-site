@@ -1,36 +1,97 @@
 ---
 title: Classes
-layout: '~/layouts/MarkdownLayout.astro'
+layout: '~/layouts/ContentPageLayout.astro'
+description: Character classes and progressions for modern D20 gaming
+system: Modern D20 SRD
+category: Classes
+subcategories:
+  - title: Basic Classes
+    href: /modern.d20.srd/classes/basic
+    description: The six core hero classes that form the foundation of character creation
+    items:
+      - title: Charismatic Hero
+        href: /modern.d20.srd/classes/basic/charismatic.hero
+      - title: Dedicated Hero  
+        href: /modern.d20.srd/classes/basic/dedicated.hero
+      - title: Fast Hero
+        href: /modern.d20.srd/classes/basic/fast.hero
+      - title: Smart Hero
+        href: /modern.d20.srd/classes/basic/smart.hero
+      - title: Strong Hero
+        href: /modern.d20.srd/classes/basic/strong.hero
+      - title: Tough Hero
+        href: /modern.d20.srd/classes/basic/tough.hero
+  - title: Advanced Classes
+    href: /modern.d20.srd/classes/advanced
+    description: Specialized classes that characters can advance into after meeting prerequisites
+    items:
+      - title: Acolyte
+        href: /modern.d20.srd/classes/advanced/acolyte
+      - title: Battle Mind
+        href: /modern.d20.srd/classes/advanced/battle.mind
+      - title: Bodyguard
+        href: /modern.d20.srd/classes/advanced/bodyguard
+      - title: Daredevil
+        href: /modern.d20.srd/classes/advanced/daredevil
+      - title: Field Medic
+        href: /modern.d20.srd/classes/advanced/field.medic
+      - title: Field Scientist
+        href: /modern.d20.srd/classes/advanced/field.scientist
+      - title: Gunslinger
+        href: /modern.d20.srd/classes/advanced/gunslinger
+      - title: Infiltrator
+        href: /modern.d20.srd/classes/advanced/infiltrator
+      - title: Investigator
+        href: /modern.d20.srd/classes/advanced/investigator
+      - title: Mage
+        href: /modern.d20.srd/classes/advanced/mage
+      - title: Martial Artist
+        href: /modern.d20.srd/classes/advanced/martial.artist
+      - title: Negotiator
+        href: /modern.d20.srd/classes/advanced/negotiator
+      - title: Occultist
+        href: /modern.d20.srd/classes/advanced/occultist
+      - title: Personality
+        href: /modern.d20.srd/classes/advanced/personality
+      - title: Shadow Slayer
+        href: /modern.d20.srd/classes/advanced/shadow.slayer
+      - title: Soldier
+        href: /modern.d20.srd/classes/advanced/soldier
+      - title: Techie
+        href: /modern.d20.srd/classes/advanced/techie
+      - title: Telepath
+        href: /modern.d20.srd/classes/advanced/telepath
+relatedPages:
+  - title: Starting Occupations
+    href: /modern.d20.srd/starting.occupation
+    description: Career backgrounds and starting skills for characters
+  - title: Feats
+    href: /modern.d20.srd/feats
+    description: Special abilities and talents for character customization
+  - title: Skills
+    href: /modern.d20.srd/skills
+    description: Character abilities and skill descriptions
 ---
 
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > Classes
+## Character Classes Overview
 
-##  Classes
+Character classes in the Modern d20 system are divided into two main categories: Basic Classes and Advanced Classes.
 
-###  [ Basic Classes ](/modern.d20.srd/classes/basic)
+### Basic Classes
 
-[ Charismatic Hero ](/modern.d20.srd/classes/basic/charismatic.hero)
+All characters begin with one of six basic hero classes. These classes represent broad character archetypes and provide the foundation for character development:
 
-[ Dedicated Hero ](/modern.d20.srd/classes/basic/dedicated.hero)
+- **Charismatic Hero**: Masters of social interaction and leadership
+- **Dedicated Hero**: Specialists in knowledge, healing, and support
+- **Fast Hero**: Experts in speed, agility, and ranged combat
+- **Smart Hero**: Intellectual characters focused on skills and problem-solving
+- **Strong Hero**: Physical powerhouses specializing in melee combat
+- **Tough Hero**: Durable characters with high hit points and resilience
 
-[ Fast Hero ](/modern.d20.srd/classes/basic/fast.hero)
+### Advanced Classes
 
-[ Smart Hero ](/modern.d20.srd/classes/basic/smart.hero)
+Once characters reach certain levels and meet specific prerequisites, they can multiclass into advanced classes. These specialized roles provide focused abilities and represent professional careers or specialized training.
 
-[ Strong Hero ](/modern.d20.srd/classes/basic/strong.hero)
+### Multiclassing
 
-[ Tough Hero ](/modern.d20.srd/classes/basic/tough.hero)
-
-###  [ Multiclass Characters ](/modern.d20.srd/classes/multiclass.character)
-
-###  | [ Advanced Classes ](/modern.d20.srd/classes/advanced) | [ Acolyte ](/modern.d20.srd/classes/advanced/acolyte) |
-|---|---|
-| [ Battle Mind ](/modern.d20.srd/classes/advanced/battle.mind) | [ Bodyguard ](/modern.d20.srd/classes/advanced/bodyguard) |
-| [ Daredevil ](/modern.d20.srd/classes/advanced/daredevil) | [ Field Medic ](/modern.d20.srd/classes/advanced/field.medic) |
-| [ Field Scientist ](/modern.d20.srd/classes/advanced/field.scientist) | [ Gunslinger ](/modern.d20.srd/classes/advanced/gunslinger) |
-| [ Infiltrator ](/modern.d20.srd/classes/advanced/infiltrator) | [ Investigator ](/modern.d20.srd/classes/advanced/investigator) |
-| [ Mage ](/modern.d20.srd/classes/advanced/mage) | [ Martial Artist ](/modern.d20.srd/classes/advanced/martial.artist) |
-| [ Negotiator ](/modern.d20.srd/classes/advanced/negotiator) | [ Occultist ](/modern.d20.srd/classes/advanced/occultist) |
-| [ Personality ](/modern.d20.srd/classes/advanced/personality) | [ Shadow Slayer ](/modern.d20.srd/classes/advanced/shadow.slayer) |
-| [ Soldier ](/modern.d20.srd/classes/advanced/soldier) | [ Techie ](/modern.d20.srd/classes/advanced/techie) |
-| [ Telepath ](/modern.d20.srd/classes/advanced/telepath) |
+Characters can combine levels from different classes to create unique builds. See the [Multiclass Characters](/modern.d20.srd/classes/multiclass.character) section for rules on mixing classes effectively.

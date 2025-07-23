@@ -3,8 +3,6 @@ title: Vehicle Movement and Combat
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > Vehicle Movement and Combat
-
 ## Vehicle Movement and Combat
 
 For simply traveling from point to point, the

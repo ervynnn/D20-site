@@ -1,0 +1,65 @@
+---
+export interface NavigationSection {
+  title: string;
+  color?: string;
+  items: Array<{
+    text: string;
+    href: string;
+    active?: boolean;
+  }>;
+}
+
+export interface Props {
+  sections: NavigationSection[];
+  currentPath?: string;
+}
+
+const { sections, currentPath } = Astro.props;
+
+// Mark active items based on current path
+const sectionsWithActive = sections.map(section => ({
+  ...section,
+  items: section.items.map(item => ({
+    ...item,
+    active: currentPath ? currentPath.startsWith(item.href) || currentPath === item.href : false
+  }))
+}));
+---
+
+<aside class="w-64 bg-white dark:bg-slate-800 border-r border-gray-200 dark:border-slate-700 h-screen sticky top-0 overflow-y-auto">
+  <div class="p-6">
+    <h2 class="text-lg font-bold text-gray-900 dark:text-slate-300 mb-4">Quick Navigation</h2>
+    
+    {sectionsWithActive.map((section) => (
+      <div class="mb-6">
+        <h3 class="text-sm font-semibold uppercase tracking-wide mb-3" 
+            class:list={[
+              section.color === 'blue' && 'text-blue-600 dark:text-blue-400',
+              section.color === 'purple' && 'text-purple-600 dark:text-purple-400', 
+              section.color === 'green' && 'text-green-600 dark:text-green-400',
+              section.color === 'red' && 'text-red-600 dark:text-red-400',
+              !section.color && 'text-gray-700 dark:text-slate-400'
+            ]}>
+          {section.title}
+        </h3>
+        <ul class="space-y-2">
+          {section.items.map((item) => (
+            <li>
+              <a 
+                href={item.href}
+                class:list={[
+                  "block px-3 py-2 rounded-md text-sm transition-colors",
+                  item.active 
+                    ? "bg-primary/10 text-primary dark:bg-primary/20 font-medium border-l-2 border-primary" 
+                    : "text-gray-600 dark:text-slate-400 hover:text-gray-900 dark:hover:text-slate-300 hover:bg-gray-50 dark:hover:bg-slate-700"
+                ]}
+              >
+                {item.text}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    ))}
+  </div>
+</aside>

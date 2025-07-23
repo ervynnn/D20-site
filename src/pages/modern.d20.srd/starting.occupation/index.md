@@ -3,8 +3,6 @@ title: Starting Occupation
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > Starting Occupation
-
 ## Starting Occupation
 
 A hero may hold other jobs as his or her career unfolds, but the benefits of a

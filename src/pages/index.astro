@@ -1,0 +1,337 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+
+import Hero from '~/components/widgets/Hero.astro';
+import Features from '~/components/widgets/Features.astro';
+import Content from '~/components/widgets/Content.astro';
+import Steps from '~/components/widgets/Steps.astro';
+import FAQs from '~/components/widgets/FAQs.astro';
+import CallToAction from '~/components/widgets/CallToAction.astro';
+
+const metadata = {
+  title: 'D20 System Reference Documents - Your Complete Gaming Resource',
+  description: 'Comprehensive collection of D20 system reference documents including Modern, Future, Arcana, and Menaces systems. Your one-stop resource for D20 gaming.',
+  ignoreTitleTemplate: true,
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Hero Section -->
+  <Hero
+    actions={[
+      {
+        variant: 'primary',
+        text: 'Browse Modern D20',
+        href: '/modern.d20.srd',
+        icon: 'tabler:book-2',
+      },
+      {
+        text: 'Quick Search',
+        href: '#search',
+        icon: 'tabler:search',
+        variant: 'secondary',
+      },
+    ]}
+    image={{
+      src: '~/assets/images/default.png',
+      alt: 'D20 System Hero Image',
+    }}
+  >
+    <Fragment slot="title">
+      <span class="text-accent dark:text-white highlight">D20 System</span>
+      <span class="text-primary dark:text-white"> Reference Documents</span>
+    </Fragment>
+
+    <Fragment slot="subtitle">
+      <span class="hidden sm:inline">
+        <span class="font-semibold">Your comprehensive gaming reference</span> for D20 systems including Modern, Future, Arcana, and Menaces.
+        Fast, searchable, and organized for players and GMs alike.
+      </span>
+    </Fragment>
+  </Hero>
+
+  <!-- Quick Navigation Features -->
+  <Features
+    id="systems"
+    tagline="Systems"
+    title="D20 System Collections"
+    subtitle="Explore our comprehensive collection of D20 system reference documents, each optimized for quick access and easy navigation."
+    items={[
+      {
+        title: 'Modern D20 SRD',
+        description: 'Complete reference for modern-day gaming including classes, equipment, combat rules, and contemporary settings.',
+        icon: 'tabler:building',
+        callToAction: {
+          target: '_blank',
+          text: 'Explore Modern →',
+          href: '/modern.d20.srd',
+        },
+      },
+      {
+        title: 'Future D20 SRD',
+        description: 'Sci-fi gaming reference with cybernetics, mecha, mutations, and futuristic equipment and environments.',
+        icon: 'tabler:rocket',
+        callToAction: {
+          target: '_blank',
+          text: 'Explore Future →',
+          href: '/future.d20.srd',
+        },
+      },
+      {
+        title: 'Arcana D20 SRD',
+        description: 'Supernatural and occult gaming with advanced classes, magical equipment, incantations, and mystical organizations.',
+        icon: 'tabler:wand',
+        callToAction: {
+          target: '_blank', 
+          text: 'Explore Arcana →',
+          href: '/arcana.d20.srd',
+        },
+      },
+      {
+        title: 'D20 Menaces',
+        description: 'Specialized threats and challenges for your campaigns, including services, unique feats, and dangerous adversaries.',
+        icon: 'tabler:skull',
+        callToAction: {
+          target: '_blank',
+          text: 'Explore Menaces →',
+          href: '/menaces.d20',
+        },
+      },
+    ]}
+  />
+
+  <!-- Quick Access Content -->
+  <Content
+    id="modernD20"
+    tagline="Quick Access"
+    title="Modern D20 - Most Popular Sections"
+    subtitle="Jump directly to the most frequently accessed sections of the Modern D20 system."
+    isReversed
+    items={[
+      {
+        title: 'Classes & Occupations',
+        description: 'Character classes and starting occupations for modern campaigns.',
+        icon: 'tabler:users',
+      },
+      {
+        title: 'Equipment & Gear',
+        description: 'Weapons, armor, vehicles, and modern equipment.',
+        icon: 'tabler:tools',
+      },
+      {
+        title: 'Combat System',
+        description: 'Combat rules, conditions, and tactical options.',
+        icon: 'tabler:sword',
+      },
+    ]}
+    image={{
+      src: '~/assets/images/default.png',
+      alt: 'Modern D20 Quick Access',
+    }}
+    callToAction={{
+      target: '_blank',
+      text: 'Browse All Modern D20 →',
+      icon: 'tabler:chevron-right',
+      href: '/modern.d20.srd',
+    }}
+  />
+
+  <Content
+    id="futureD20"
+    tagline="Sci-Fi Gaming"
+    title="Future D20 - Advanced Technology"
+    subtitle="Explore futuristic campaigns with advanced technology, cybernetics, and space-age adventures."
+    items={[
+      {
+        title: 'Cybernetics & Augmentation',
+        description: 'Technological body modifications and enhancements.',
+        icon: 'tabler:robot',
+      },
+      {
+        title: 'Mecha & Vehicles',
+        description: 'Giant robots, spacecraft, and futuristic transportation.',
+        icon: 'tabler:robot',
+      },
+      {
+        title: 'Progress Levels',
+        description: 'Technology levels from modern to far future.',
+        icon: 'tabler:chart-line',
+      },
+    ]}
+    image={{
+      src: '~/assets/images/default.png',
+      alt: 'Future D20 Technology',
+    }}
+    callToAction={{
+      target: '_blank',
+      text: 'Browse All Future D20 →',
+      icon: 'tabler:chevron-right',
+      href: '/future.d20.srd',
+    }}
+  />
+
+  <Content
+    id="arcanaD20"
+    tagline="Supernatural"
+    title="Arcana D20 - Mystical & Occult"
+    subtitle="Delve into the supernatural with magical systems, mystical organizations, and occult knowledge."
+    isReversed
+    items={[
+      {
+        title: 'Incantations & Rituals',
+        description: 'Powerful magical ceremonies and supernatural abilities.',
+        icon: 'tabler:sparkles',
+      },
+      {
+        title: 'FX Items & Equipment',
+        description: 'Magical and supernatural equipment and artifacts.',
+        icon: 'tabler:wand',
+      },
+      {
+        title: 'Organizations & Cults',
+        description: 'Secret societies and supernatural organizations.',
+        icon: 'tabler:eye',
+      },
+    ]}
+    image={{
+      src: '~/assets/images/default.png',
+      alt: 'Arcana D20 Mystical',
+    }}
+    callToAction={{
+      target: '_blank',
+      text: 'Browse All Arcana D20 →',
+      icon: 'tabler:chevron-right',
+      href: '/arcana.d20.srd',
+    }}
+  />
+
+  <Content
+    id="menacesD20"
+    tagline="Threats & Challenges"
+    title="D20 Menaces - Campaign Adversaries"
+    subtitle="Specialized threats, dangerous services, and unique challenges for your campaigns."
+    items={[
+      {
+        title: 'Buying Services',
+        description: 'Illegal and dangerous services available in campaigns.',
+        icon: 'tabler:coin',
+      },
+      {
+        title: 'Unique Feats',
+        description: 'Special abilities and talents for menacing characters.',
+        icon: 'tabler:award',
+      },
+      {
+        title: 'Campaign Menaces',
+        description: 'Organized threats and recurring antagonists.',
+        icon: 'tabler:skull',
+      },
+    ]}
+    image={{
+      src: '~/assets/images/default.png',
+      alt: 'D20 Menaces Threats',
+    }}
+    callToAction={{
+      target: '_blank',
+      text: 'Browse All Menaces →',
+      icon: 'tabler:chevron-right',
+      href: '/menaces.d20',
+    }}
+  />
+
+  <!-- Getting Started Guide -->
+  <Steps
+    title="Getting Started with D20 Systems"
+    subtitle="New to D20 gaming? Follow this guide to navigate our reference documents effectively."
+    items={[
+      {
+        title: 'Step 1: <span class="font-medium">Choose Your Setting</span>',
+        description:
+          'Start with Modern D20 for contemporary games, Future D20 for sci-fi adventures, Arcana D20 for supernatural campaigns, or Menaces for specialized threats.',
+        icon: 'tabler:map-2',
+      },
+      {
+        title: 'Step 2: <span class="font-medium">Explore Core Rules</span>',
+        description:
+          'Begin with Basics and Classes sections to understand fundamental mechanics, then move to Equipment and Combat for gameplay elements.',
+        icon: 'tabler:book-2',
+      },
+      {
+        title: 'Step 3: <span class="font-medium">Reference During Play</span>',
+        description:
+          'Use our organized sections for quick lookups during gameplay. Each page is optimized for fast navigation and clear information.',
+        icon: 'tabler:search',
+      },
+      {
+        title: 'Ready to Play!',
+        description:
+          'With our comprehensive references at your fingertips, you\'re ready to run engaging D20 campaigns with confidence.',
+        icon: 'tabler:check',
+      },
+    ]}
+    image={{
+      src: '~/assets/images/default.png',
+      alt: 'Getting Started Guide',
+    }}
+  />
+
+  <!-- Frequently Asked Questions -->
+  <FAQs
+    title="Frequently Asked Questions"
+    subtitle="Common questions about using our D20 reference documents."
+    tagline="FAQs"
+    classes={{ container: 'max-w-6xl' }}
+    items={[
+      {
+        title: 'What D20 systems are covered?',
+        description:
+          'We provide comprehensive reference documents for Modern D20, Future D20, Arcana D20, and D20 Menaces systems, covering everything from basic rules to advanced options.',
+      },
+      {
+        title: 'How do I quickly find specific rules?',
+        description:
+          'Each system is organized into logical sections (Classes, Equipment, Combat, etc.) with consistent navigation. Use the main system pages as starting points and follow the organized categories.',
+      },
+      {
+        title: 'Are these the complete rules?',
+        description:
+          'These are System Reference Documents (SRDs) containing the core open content rules. For complete games, you may need additional rulebooks from the publishers.',
+      },
+      {
+        title: 'Can I use these for commercial projects?',
+        description:
+          'These documents contain Open Game License (OGL) content. Check the specific license terms included with each system for commercial use guidelines.',
+      },
+      {
+        title: 'How often is content updated?',
+        description:
+          'We maintain these references to reflect the most current available SRD content. Updates are made when new official SRD releases become available.',
+      },
+      {
+        title: 'Can I suggest improvements?',
+        description:
+          'We welcome feedback on organization and presentation improvements. Content additions must come from official SRD releases.',
+      },
+    ]}
+  />
+
+  <!-- Call to Action -->
+  <CallToAction
+    actions={[
+      {
+        variant: 'primary',
+        text: 'Start Exploring',
+        href: '/modern.d20.srd',
+        icon: 'tabler:download',
+      },
+    ]}
+  >
+    <Fragment slot="title">
+      Ready to explore the <br class="block sm:hidden" /><span class="sm:whitespace-nowrap">D20 universe?</span>
+    </Fragment>
+
+    <Fragment slot="subtitle">
+      Dive into our comprehensive reference documents and enhance your gaming experience with organized, accessible D20 system information.
+    </Fragment>
+  </CallToAction>
+</Layout>

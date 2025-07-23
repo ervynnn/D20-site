@@ -3,21 +3,64 @@
 export const headerData = {
   links: [
     {
-      text: 'Modern',
-      href: '/#modernD20',
+      text: 'Systems',
+      links: [
+        {
+          text: 'Modern D20 SRD',
+          href: '/modern.d20.srd',
+        },
+        {
+          text: 'Future D20 SRD', 
+          href: '/future.d20.srd',
+        },
+        {
+          text: 'Arcana D20 SRD',
+          href: '/arcana.d20.srd',
+        },
+        {
+          text: 'D20 Menaces',
+          href: '/menaces.d20',
+        },
+      ],
     },
     {
-      text: 'Future',
-      href: '/#futureD20',
+      text: 'Quick Reference',
+      links: [
+        {
+          text: 'Classes',
+          href: '/modern.d20.srd/classes',
+        },
+        {
+          text: 'Equipment',
+          href: '/modern.d20.srd/equipment',
+        },
+        {
+          text: 'Combat',
+          href: '/modern.d20.srd/combat',
+        },
+        {
+          text: 'Feats',
+          href: '/modern.d20.srd/feats',
+        },
+      ],
     },
     {
-      text: 'Arcana',
-      href: '/#arcanaD20',
+      text: 'Resources',
+      links: [
+        {
+          text: 'Getting Started',
+          href: '/#getting-started',
+        },
+        {
+          text: 'FAQ',
+          href: '/#faq',
+        },
+        {
+          text: 'All Systems',
+          href: '/#systems',
+        },
+      ],
     },
-    {
-      text: 'Menaces', href: '/#menacesD20'
-    },
-    
   ]
 };
 

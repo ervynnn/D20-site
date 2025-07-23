@@ -1,0 +1,255 @@
+---
+import { Icon } from 'astro-icon/components';
+
+const systems = [
+  {
+    id: 'modern',
+    title: 'Modern D20 SRD',
+    description: 'Complete reference for modern-day gaming including classes, equipment, combat rules, and contemporary settings.',
+    icon: 'tabler:building',
+    color: 'blue',
+    href: '/modern.d20.srd',
+    sections: [
+      { title: 'Basics', href: '/modern.d20.srd/basics', description: 'Core rules and mechanics' },
+      { title: 'Classes', href: '/modern.d20.srd/classes', description: 'Character classes and progressions' },
+      { title: 'Combat', href: '/modern.d20.srd/combat', description: 'Combat rules and tactics' },
+      { title: 'Equipment', href: '/modern.d20.srd/equipment', description: 'Weapons, armor, and gear' },
+      { title: 'Feats', href: '/modern.d20.srd/feats', description: 'Special abilities and talents' },
+      { title: 'Skills', href: '/modern.d20.srd/skills', description: 'Character abilities and proficiencies' },
+      { title: 'Creatures', href: '/modern.d20.srd/creatures', description: 'Monsters and adversaries' },
+      { title: 'Conditions', href: '/modern.d20.srd/conditions', description: 'Status effects and conditions' },
+    ]
+  },
+  {
+    id: 'future',
+    title: 'Future D20 SRD',
+    description: 'Sci-fi gaming reference with cybernetics, mecha, mutations, and futuristic equipment and environments.',
+    icon: 'tabler:rocket',
+    color: 'purple',
+    href: '/future.d20.srd',
+    sections: [
+      { title: 'Classes', href: '/future.d20.srd/classes', description: 'Futuristic character classes' },
+      { title: 'Cybernetics', href: '/future.d20.srd/cybernetics', description: 'Technological enhancements' },
+      { title: 'Mecha', href: '/future.d20.srd/mecha', description: 'Giant robots and mechs' },
+      { title: 'Equipment', href: '/future.d20.srd/equipment', description: 'Advanced technology and gear' },
+      { title: 'Mutations', href: '/future.d20.srd/mutations', description: 'Genetic alterations' },
+      { title: 'Progress Levels', href: '/future.d20.srd/progress.levels', description: 'Technology development stages' },
+      { title: 'Starships', href: '/future.d20.srd/starships', description: 'Spacecraft and space travel' },
+      { title: 'Environments', href: '/future.d20.srd/environments', description: 'Alien worlds and settings' },
+    ]
+  },
+  {
+    id: 'arcana',
+    title: 'Arcana D20 SRD',
+    description: 'Supernatural and occult gaming with advanced classes, magical equipment, incantations, and mystical organizations.',
+    icon: 'tabler:wand',
+    color: 'indigo',
+    href: '/arcana.d20.srd',
+    sections: [
+      { title: 'Advanced Classes', href: '/arcana.d20.srd/advanced.classes', description: 'Supernatural character classes' },
+      { title: 'Incantations', href: '/arcana.d20.srd/incantations', description: 'Ritual magic and ceremonies' },
+      { title: 'FX Items', href: '/arcana.d20.srd/fx.items', description: 'Magical artifacts and equipment' },
+      { title: 'Organizations', href: '/arcana.d20.srd/organizations', description: 'Secret societies and cults' },
+      { title: 'Creatures', href: '/arcana.d20.srd/creatures', description: 'Supernatural beings' },
+      { title: 'Prestige Classes', href: '/arcana.d20.srd/prestige.classes', description: 'Elite character progressions' },
+      { title: 'Occupations', href: '/arcana.d20.srd/occupations', description: 'Supernatural careers' },
+      { title: 'Spells', href: '/arcana.d20.srd/spells', description: 'Magic spells and effects' },
+    ]
+  },
+  {
+    id: 'menaces',
+    title: 'D20 Menaces',
+    description: 'Specialized threats, dangerous services, and unique challenges for your D20 campaigns.',
+    icon: 'tabler:skull',
+    color: 'red',
+    href: '/menaces.d20',
+    sections: [
+      { title: 'Menaces', href: '/menaces.d20/menaces', description: 'Campaign threats and organized dangers' },
+      { title: 'Buying Services', href: '/menaces.d20/buying.services', description: 'Black market and criminal services' },
+      { title: 'Feats', href: '/menaces.d20/feats', description: 'Specialized feats for antagonists' },
+    ]
+  }
+];
+---
+
+<section class="px-4 py-16 sm:px-6 mx-auto lg:px-8 lg:py-20 max-w-7xl">
+  <div class="text-center mb-12">
+    <h2 class="text-4xl md:text-5xl font-bold leading-tighter tracking-tighter mb-4 font-heading text-gray-900 dark:text-slate-300">
+      D20 System Reference Documents
+    </h2>
+    <p class="text-xl text-gray-600 dark:text-slate-400 mx-auto max-w-3xl">
+      Comprehensive collection of D20 system references. Navigate between systems using the controls below.
+    </p>
+  </div>
+
+  <!-- System Slideshow Container -->
+  <div class="relative">
+    <!-- System Content -->
+    <div class="system-slideshow">
+      {systems.map((system, index) => (
+        <div 
+          class={`system-slide ${index === 0 ? 'active' : ''}`} 
+          data-system={system.id}
+        >
+          <div class="bg-white dark:bg-slate-800 rounded-xl shadow-lg border border-gray-200 dark:border-slate-700 p-8">
+            <!-- System Header -->
+            <div class="text-center mb-8">
+              <div class={`mx-auto w-16 h-16 rounded-full bg-${system.color}-100 dark:bg-${system.color}-900 flex items-center justify-center mb-4`}>
+                <Icon name={system.icon} class={`w-8 h-8 text-${system.color}-600 dark:text-${system.color}-400`} />
+              </div>
+              <h3 class="text-3xl font-bold font-heading text-gray-900 dark:text-slate-300 mb-2">
+                {system.title}
+              </h3>
+              <p class="text-lg text-gray-600 dark:text-slate-400 mb-6">
+                {system.description}
+              </p>
+              <a 
+                href={system.href}
+                class={`inline-flex items-center px-6 py-3 text-white bg-${system.color}-600 hover:bg-${system.color}-700 rounded-lg font-semibold transition-colors`}
+              >
+                Browse Complete Reference
+                <Icon name="tabler:arrow-right" class="w-4 h-4 ml-2" />
+              </a>
+            </div>
+
+            <!-- Quick Links Grid -->
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+              {system.sections.map((section) => (
+                <a 
+                  href={section.href}
+                  class="group p-4 rounded-lg bg-gray-50 dark:bg-slate-700 hover:bg-gray-100 dark:hover:bg-slate-600 transition-colors"
+                >
+                  <h4 class="font-semibold text-gray-900 dark:text-slate-300 mb-1 group-hover:text-primary">
+                    {section.title}
+                  </h4>
+                  <p class="text-sm text-gray-600 dark:text-slate-400">
+                    {section.description}
+                  </p>
+                </a>
+              ))}
+            </div>
+          </div>
+        </div>
+      ))}
+    </div>
+
+    <!-- Navigation Controls -->
+    <div class="flex items-center justify-center mt-8 space-x-4">
+      <!-- Previous Button -->
+      <button 
+        id="prev-system" 
+        class="p-3 rounded-full bg-white dark:bg-slate-800 shadow-lg border border-gray-200 dark:border-slate-700 hover:bg-gray-50 dark:hover:bg-slate-700 transition-colors"
+        aria-label="Previous system"
+      >
+        <Icon name="tabler:chevron-left" class="w-6 h-6 text-gray-600 dark:text-slate-400" />
+      </button>
+
+      <!-- System Indicators -->
+      <div class="flex space-x-2">
+        {systems.map((system, index) => (
+          <button 
+            class={`system-indicator w-3 h-3 rounded-full transition-colors ${
+              index === 0 
+                ? 'bg-primary' 
+                : 'bg-gray-300 dark:bg-slate-600 hover:bg-gray-400 dark:hover:bg-slate-500'
+            }`}
+            data-index={index}
+            aria-label={`Go to ${system.title}`}
+          />
+        ))}
+      </div>
+
+      <!-- Next Button -->
+      <button 
+        id="next-system" 
+        class="p-3 rounded-full bg-white dark:bg-slate-800 shadow-lg border border-gray-200 dark:border-slate-700 hover:bg-gray-50 dark:hover:bg-slate-700 transition-colors"
+        aria-label="Next system"
+      >
+        <Icon name="tabler:chevron-right" class="w-6 h-6 text-gray-600 dark:text-slate-400" />
+      </button>
+    </div>
+  </div>
+</section>
+
+<style>
+.system-slideshow {
+  position: relative;
+  min-height: 500px;
+}
+
+.system-slide {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  opacity: 0;
+  transform: translateX(20px);
+  transition: all 0.3s ease-in-out;
+  pointer-events: none;
+}
+
+.system-slide.active {
+  opacity: 1;
+  transform: translateX(0);
+  pointer-events: auto;
+}
+
+.system-indicator.active {
+  @apply bg-primary;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const slides = document.querySelectorAll('.system-slide');
+  const indicators = document.querySelectorAll('.system-indicator');
+  const prevBtn = document.getElementById('prev-system');
+  const nextBtn = document.getElementById('next-system');
+  let currentIndex = 0;
+
+  function showSlide(index) {
+    // Hide all slides
+    slides.forEach((slide, i) => {
+      slide.classList.toggle('active', i === index);
+    });
+    
+    // Update indicators
+    indicators.forEach((indicator, i) => {
+      indicator.classList.toggle('active', i === index);
+    });
+    
+    currentIndex = index;
+  }
+
+  function nextSlide() {
+    const nextIndex = (currentIndex + 1) % slides.length;
+    showSlide(nextIndex);
+  }
+
+  function prevSlide() {
+    const prevIndex = (currentIndex - 1 + slides.length) % slides.length;
+    showSlide(prevIndex);
+  }
+
+  // Event listeners
+  nextBtn?.addEventListener('click', nextSlide);
+  prevBtn?.addEventListener('click', prevSlide);
+
+  // Indicator clicks
+  indicators.forEach((indicator, index) => {
+    indicator.addEventListener('click', () => showSlide(index));
+  });
+
+  // Keyboard navigation
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowLeft') {
+      prevSlide();
+    } else if (e.key === 'ArrowRight') {
+      nextSlide();
+    }
+  });
+
+  // Auto-play (optional - uncomment to enable)
+  // setInterval(nextSlide, 10000); // Auto-advance every 10 seconds
+});
+</script>

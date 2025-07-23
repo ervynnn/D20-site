@@ -1,0 +1,162 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+import Features from '~/components/widgets/Features.astro';
+
+export interface Props {
+  frontmatter: {
+    title?: string;
+    description?: string;
+    system?: string;
+    category?: string;
+    subcategories?: Array<{
+      title: string;
+      href: string;
+      description?: string;
+      items?: Array<{
+        title: string;
+        href: string;
+      }>;
+    }>;
+    relatedPages?: Array<{
+      title: string;
+      href: string;
+      description?: string;
+    }>;
+  };
+}
+
+const { frontmatter } = Astro.props;
+
+const metadata = {
+  title: frontmatter?.title,
+  description: frontmatter?.description,
+};
+
+// Build breadcrumb navigation
+const buildBreadcrumbs = () => {
+  const breadcrumbs = [{ text: 'Home', href: '/' }];
+  
+  if (frontmatter.system) {
+    breadcrumbs.push({
+      text: frontmatter.system,
+      href: `/${frontmatter.system.toLowerCase().replace(/\s+/g, '.')}`
+    });
+  }
+  
+  if (frontmatter.category) {
+    breadcrumbs.push({
+      text: frontmatter.category,
+      href: '#' // Current page
+    });
+  }
+  
+  return breadcrumbs;
+};
+
+const breadcrumbs = buildBreadcrumbs();
+---
+
+<Layout metadata={metadata}>
+  <!-- Page Header with Breadcrumbs -->
+  <section class="px-4 py-8 sm:px-6 mx-auto lg:px-8 lg:py-12 max-w-6xl">
+    <!-- Breadcrumb Navigation -->
+    <nav class="flex items-center space-x-2 text-sm text-gray-500 dark:text-slate-400 mb-6">
+      {breadcrumbs.map((crumb, index) => (
+        <Fragment>
+          {index > 0 && <span>›</span>}
+          {index === breadcrumbs.length - 1 ? (
+            <span class="text-gray-900 dark:text-slate-300 font-medium">{crumb.text}</span>
+          ) : (
+            <a href={crumb.href} class="hover:text-primary transition-colors">{crumb.text}</a>
+          )}
+        </Fragment>
+      ))}
+    </nav>
+
+    <!-- Page Title -->
+    <div class="text-left pb-6">
+      <h1 class="font-bold font-heading text-4xl md:text-5xl leading-tighter tracking-tighter text-gray-900 dark:text-slate-300">
+        {frontmatter.title}
+      </h1>
+      {frontmatter.description && (
+        <p class="text-xl text-gray-600 dark:text-slate-400 mt-4">
+          {frontmatter.description}
+        </p>
+      )}
+    </div>
+  </section>
+
+  <!-- Subcategories Section (if any) -->
+  {frontmatter.subcategories && frontmatter.subcategories.length > 0 && (
+    <section class="px-4 sm:px-6 mx-auto lg:px-8 max-w-6xl mb-12">
+      <div class="grid gap-8 md:gap-12">
+        {frontmatter.subcategories.map((subcategory) => (
+          <div class="bg-white dark:bg-slate-800 rounded-lg shadow-sm border border-gray-200 dark:border-slate-700 p-6">
+            <div class="flex items-center justify-between mb-4">
+              <h2 class="text-xl font-bold text-gray-900 dark:text-slate-300">
+                <a href={subcategory.href} class="hover:text-primary transition-colors">
+                  {subcategory.title}
+                </a>
+              </h2>
+              <a 
+                href={subcategory.href} 
+                class="text-primary hover:text-primary-dark text-sm font-medium transition-colors"
+              >
+                View All →
+              </a>
+            </div>
+            
+            {subcategory.description && (
+              <p class="text-gray-600 dark:text-slate-400 mb-4">
+                {subcategory.description}
+              </p>
+            )}
+            
+            {subcategory.items && subcategory.items.length > 0 && (
+              <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+                {subcategory.items.map((item) => (
+                  <a 
+                    href={item.href}
+                    class="block p-3 rounded-md bg-gray-50 dark:bg-slate-700 hover:bg-gray-100 dark:hover:bg-slate-600 transition-colors"
+                  >
+                    <span class="text-sm font-medium text-gray-900 dark:text-slate-300">
+                      {item.title}
+                    </span>
+                  </a>
+                ))}
+              </div>
+            )}
+          </div>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- Main Content Area -->
+  <section class="px-4 sm:px-6 mx-auto lg:px-8 max-w-6xl">
+    <div class="mx-auto prose prose-lg max-w-4xl dark:prose-invert dark:prose-headings:text-slate-300 prose-md prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:font-bold prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-img:rounded-md prose-img:shadow-lg">
+      <slot />
+    </div>
+  </section>
+
+  <!-- Related Pages (if any) -->
+  {frontmatter.relatedPages && frontmatter.relatedPages.length > 0 && (
+    <Features
+      tagline="Related"
+      title="Related Content"
+      subtitle="Other pages that might be helpful for your reference."
+      items={frontmatter.relatedPages.map(page => ({
+        title: page.title,
+        description: page.description || '',
+        icon: 'tabler:book-2',
+        callToAction: {
+          target: '_self',
+          text: 'View →',
+          href: page.href,
+        },
+      }))}
+      classes={{ container: 'max-w-6xl' }}
+      columns={3}
+    />
+  )}
+</Layout>

@@ -3,8 +3,6 @@ title: Wealth Bonus
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Wealth](/modern.d20.srd/wealth) > Wealth Bonus
-
 ## Wealth Bonus
 
 To determine a character’s starting Wealth bonus, roll 2d4 and add the wealth
