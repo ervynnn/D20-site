@@ -62,141 +62,313 @@ human characters do. They may even choose to take levels in advanced classes
 for which they’re eligible. There are advantages and drawbacks to playing a
 biodroid or bioreplica hero; these are discussed in-depth below.
 
-[Biodroid](/future.d20.srd/robots/biodroid)
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <!-- Row 1 -->
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/biodroid" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Biodroid</a>
+    <a href="/future.d20.srd/robots/bioreplica" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Bioreplica</a>
+    <a href="/future.d20.srd/robots/non.heroic.robots" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Non-Herioc Robots</a>
+  </div>
+  <!-- Row 2 -->
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/robot.frames" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Robot Frames</a>
+  </div>
+</div>
 
-[Bioreplica](/future.d20.srd/robots/bioreplica)
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <!-- Row 1 -->
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/robot.frames/armature" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Armature</a>
+    <a href="/future.d20.srd/robots/robot.frames/biodroid" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Biodroid</a>
+    <a href="/future.d20.srd/robots/robot.frames/biomorph" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Biomorph</a>
+  </div>
+  <!-- Row 2 -->
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/robot.frames/bioreplica" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Bioreplica</a>
+    <a href="/future.d20.srd/robots/robot.frames/liquid.state" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Liquid State</a>
+  </div>
+</div>
 
-[Non-Herioc Robots](/future.d20.srd/robots/non.heroic.robots)
+## [Locomotion](/future.d20.srd/robots/locomotion)
 
-[Robot Frames](/future.d20.srd/robots/robot.frames)
+#### PL 5
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <!-- Row 1 -->
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/locomotion/forced.air" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Forced Air</a>
+    <a href="/future.d20.srd/robots/locomotion/legs.multiple" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Legs (Multiple)</a>
+    <a href="/future.d20.srd/robots/locomotion/propeller.air" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Propeller (Air)</a>
+  </div>
+  <!-- Row 2 -->
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/locomotion/propeller.water" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Propeller (Water)</a>
+    <a href="/future.d20.srd/robots/locomotion/rotor" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Rotor</a>
+    <a href="/future.d20.srd/robots/locomotion/stationary" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Stationary</a>
+  </div>
+  <!-- Row 3 -->
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/locomotion/track" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Track</a>
+    <a href="/future.d20.srd/robots/locomotion/treads" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Treads</a>
+    <a href="/future.d20.srd/robots/locomotion/wheels" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Wheels</a>
+  </div>
+</div>
 
-  * [Armature](/future.d20.srd/robots/robot.frames/armature)
-  * [Biodroid](/future.d20.srd/robots/robot.frames/biodroid)
-  * [Biomorph](/future.d20.srd/robots/robot.frames/biomorph)
-  * [Bioreplica](/future.d20.srd/robots/robot.frames/bioreplica)
-  * [Liquid State](/future.d20.srd/robots/robot.frames/liquid.state)
+#### PL 6
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/locomotion/casters" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Casters</a>
+    <a href="/future.d20.srd/robots/locomotion/legs.pair" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Legs (Pair)</a>
+  </div>
+</div>
 
-[Locomotion](/future.d20.srd/robots/locomotion)
+#### PL 7
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/locomotion/thruster" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Thruster</a>
+  </div>
+</div>
 
-  * PL 5
-    * [Forced Air](/future.d20.srd/robots/locomotion/forced.air)
-    * [Legs (Multiple)](/future.d20.srd/robots/locomotion/legs.multiple)
-    * [Propeller (Air)](/future.d20.srd/robots/locomotion/propeller.air)
-    * [Propeller (Water)](/future.d20.srd/robots/locomotion/propeller.water)
-    * [Rotor](/future.d20.srd/robots/locomotion/rotor)
-    * [Stationary](/future.d20.srd/robots/locomotion/stationary)
-    * [Track](/future.d20.srd/robots/locomotion/track)
-    * [Treads](/future.d20.srd/robots/locomotion/treads)
-    * [Wheels](/future.d20.srd/robots/locomotion/wheels)
-  * PL 6
-    * [Casters](/future.d20.srd/robots/locomotion/casters)
-    * [Legs (Pair)](/future.d20.srd/robots/locomotion/legs.pair)
-  * PL 7
-    * [Thruster](/future.d20.srd/robots/locomotion/thruster)
-  * PL 8
-    * [Inductor](/future.d20.srd/robots/locomotion/inductor)
+#### PL 8
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/locomotion/inductor" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Inductor</a>
+  </div>
+</div>
 
-[Manipulators](/future.d20.srd/robots/manipulators)
+## [Manipulators](/future.d20.srd/robots/manipulators)
 
-[Armor](/future.d20.srd/robots/armor)
+## [Armor](/future.d20.srd/robots/armor)
 
-  * PL 5
-    * [Alumisteel](/future.d20.srd/robots/armor/alumisteel)
-    * [Duraplastic](/future.d20.srd/robots/armor/duraplastic)
-  * PL 6
-    * [Duralloy](/future.d20.srd/robots/armor/duralloy)
-    * [Resilium](/future.d20.srd/robots/armor/resilium)
-  * PL 7
-    * [Crystal Carbon](/future.d20.srd/robots/armor/crystal.carbon)
-    * [Neovulcanium](/future.d20.srd/robots/armor/neovulcanium)
-  * PL 8
-    * [Megatanium](/future.d20.srd/robots/armor/megatanium)
-    * [Reactive](/future.d20.srd/robots/armor/reactive)
+#### PL 5
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/armor/alumisteel" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Alumisteel</a>
+    <a href="/future.d20.srd/robots/armor/duraplastic" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Duraplastic</a>
+  </div>
+</div>
 
-[Sensors](/future.d20.srd/robots/sensors)
+#### PL 6
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/armor/duralloy" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Duralloy</a>
+    <a href="/future.d20.srd/robots/armor/resilium" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Resilium</a>
+  </div>
+</div>
 
-  * PL 5
-    * [Class I](/future.d20.srd/robots/sensors/class.i)
-    * [Class II](/future.d20.srd/robots/sensors/class.ii)
-    * [Class III](/future.d20.srd/robots/sensors/class.iii)
-  * PL 6
-    * [Class IV](/future.d20.srd/robots/sensors/class.iv)
-    * [Class V](/future.d20.srd/robots/sensors/class.v)
-    * [Class VI](/future.d20.srd/robots/sensors/class.vi)
-  * PL 7
-    * [Class VII](/future.d20.srd/robots/sensors/class.vii)
-    * [Class VIII](/future.d20.srd/robots/sensors/class.viii)
-  * PL 8
-    * [Class IX](/future.d20.srd/robots/sensors/class.ix)
-    * [Nerve Web](/future.d20.srd/robots/sensors/nerve.web)
+#### PL 7
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/armor/crystal.carbon" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Crystal Carbon</a>
+    <a href="/future.d20.srd/robots/armor/neovulcanium" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Neovulcanium</a>
+  </div>
+</div>
 
-[Skills](/future.d20.srd/robots/skills)
+#### PL 8
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/armor/megatanium" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Megatanium</a>
+    <a href="/future.d20.srd/robots/armor/reactive" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Reactive</a>
+  </div>
+</div>
 
-  * PL 5
-    * [Skill Chip](/future.d20.srd/robots/skills/skill.chip)
-  * PL 6
-    * [Language Chip](/future.d20.srd/robots/skills/language.chip)
-    * [Skill Progit](/future.d20.srd/robots/skills/skill.progit)
-  * PL 7
-    * [Skill Net](/future.d20.srd/robots/skills/skill.net)
-  * PL 8
-    * [Skill Web](/future.d20.srd/robots/skills/skill.web)
+## [Sensors](/future.d20.srd/robots/sensors)
 
-[Feat Software](/future.d20.srd/robots/feat.software)
+#### PL 5
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/sensors/class.i" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Class I</a>
+    <a href="/future.d20.srd/robots/sensors/class.ii" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Class II</a>
+    <a href="/future.d20.srd/robots/sensors/class.iii" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Class III</a>
+  </div>
+</div>
 
-  * PL 6
-    * [Feat Progit](/future.d20.srd/robots/feat.software/feat.progit)
-  * PL 7
-    * [Feat Net](/future.d20.srd/robots/feat.software/feat.net)
-  * PL 8
-    * [Feat Web](/future.d20.srd/robots/feat.software/feat.web)
+#### PL 6
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/sensors/class.iv" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Class IV</a>
+    <a href="/future.d20.srd/robots/sensors/class.v" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Class V</a>
+    <a href="/future.d20.srd/robots/sensors/class.vi" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Class VI</a>
+  </div>
+</div>
 
-[Ability Upgrades](/future.d20.srd/robots/ability.upgrades)
+#### PL 7
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/sensors/class.vii" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Class VII</a>
+    <a href="/future.d20.srd/robots/sensors/class.viii" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Class VIII</a>
+  </div>
+</div>
 
-  * PL 5
-    * [Strength Upgrade](/future.d20.srd/robots/ability.upgrades/strength.upgrade)
-  * PL 6
-    * [Dexterity Upgrade](/future.d20.srd/robots/ability.upgrades/dexterity.upgrade)
-    * [Intelligence Upgrade](/future.d20.srd/robots/ability.upgrades/intelligence.upgrade)
-  * PL 7
-    * [Charisma Upgrade](/future.d20.srd/robots/ability.upgrades/charisma.upgrade)
-    * [Wisdom Upgrade](/future.d20.srd/robots/ability.upgrades/wisdom.upgrade)
+#### PL 8
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/sensors/class.ix" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Class IX</a>
+    <a href="/future.d20.srd/robots/sensors/nerve.web" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Nerve Web</a>
+  </div>
+</div>
 
-[Robot Accessories](/future.d20.srd/robots/robot.accessories)
+## [Skills](/future.d20.srd/robots/skills)
 
-  * PL 5
-    * [AV Recorder](/future.d20.srd/robots/robot.accessories/av.recorder)
-    * [AV Transmitter](/future.d20.srd/robots/robot.accessories/av.transmitter)
-    * [Fire Extinguisher](/future.d20.srd/robots/robot.accessories/fire.extinguisher)
-    * [Integrated Cell Phone](/future.d20.srd/robots/robot.accessories/integrated.cell.phone)
-    * [Internal Storage Unit](/future.d20.srd/robots/robot.accessories/internal.storage.unit)
-    * [Loading Mechanism](/future.d20.srd/robots/robot.accessories/loading.mechanism)
-    * [Remote Control Unit](/future.d20.srd/robots/robot.accessories/remote.control.unit)
-    * [Robolink](/future.d20.srd/robots/robot.accessories/robolink)
-    * [Tool Mount](/future.d20.srd/robots/robot.accessories/tool.mount)
-    * [Vocalizer](/future.d20.srd/robots/robot.accessories/vocalizer)
-    * [Weapon Mount](/future.d20.srd/robots/robot.accessories/weapon.mount)
-  * PL 6
-    * [Integrated Videophone](/future.d20.srd/robots/robot.accessories/integrated.cell.phone)
-    * [Magnetic Feet](/future.d20.srd/robots/robot.accessories/magnetic.feet)
-    * [Self-Destruct System](/future.d20.srd/robots/robot.accessories/self.destruct.mechanism)
-    * [Survivor Array](/future.d20.srd/robots/robot.accessories/survival.array)
-  * PL 7
-    * [Holo Screen](/future.d20.srd/robots/robot.accessories/holo.screen)
-    * [Inertial Inhibitor](/future.d20.srd/robots/robot.accessories/inertial.inhibitor)
-    * [Polyvox](/future.d20.srd/robots/robot.accessories/polyvox)
-    * [Self-Repair Unit](/future.d20.srd/robots/robot.accessories/self.repair.unit)
-  * PL 8
-    * [Photon Screen](/future.d20.srd/robots/robot.accessories/photon.screen)
-    * [Robot Repair Unit](/future.d20.srd/robots/robot.accessories/robot.repair.unit)
+#### PL 5
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/skills/skill.chip" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Skill Chip</a>
+  </div>
+</div>
 
-[Robot Weapon Rules](/future.d20.srd/robots/robot.weapon.rules)
+#### PL 6
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/skills/language.chip" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Language Chip</a>
+    <a href="/future.d20.srd/robots/skills/skill.progit" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Skill Progit</a>
+  </div>
+</div>
 
-[Sample Robots](/future.d20.srd/robots/sample.robots)
+#### PL 7
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/skills/skill.net" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Skill Net</a>
+  </div>
+</div>
 
-  * PL 6
-    * ["Spot" Security Robot ](/future.d20.srd/robots/sample.robots/spot.security.robot)
-    * [APE Police Robot](/future.d20.srd/robots/sample.robots/ape.police.robot)
-  * PL 7
-    * ["NUYU" Doppleganger Robot ](/future.d20.srd/robots/sample.robots/nuyu.doppleganger.robot)
+#### PL 8
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/skills/skill.web" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Skill Web</a>
+  </div>
+</div>
 
+
+## [Feat Software](/future.d20.srd/robots/feat.software)
+
+#### PL 6
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/feat.software/feat.progit" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Feat Progit</a>
+  </div>
+</div>
+
+#### PL 7
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/feat.software/feat.net" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Feat Net</a>
+  </div>
+</div>
+
+#### PL 8
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/feat.software/feat.web" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Feat Web</a>
+  </div>
+</div>
+
+
+## [Ability Upgrades](/future.d20.srd/robots/ability.upgrades)
+
+#### PL 5
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/ability.upgrades/strength.upgrade" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Strength Upgrade</a>
+  </div>
+</div>
+
+#### PL 6
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/ability.upgrades/dexterity.upgrade" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Dexterity Upgrade</a>
+    <a href="/future.d20.srd/robots/ability.upgrades/intelligence.upgrade" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Intelligence Upgrade</a>
+  </div>
+</div>
+
+#### PL 7
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/ability.upgrades/charisma.upgrade" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Charisma Upgrade</a>
+    <a href="/future.d20.srd/robots/ability.upgrades/wisdom.upgrade" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Wisdom Upgrade</a>
+  </div>
+</div>
+
+
+## [Robot Accessories](/future.d20.srd/robots/robot.accessories)
+
+#### PL 5
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <!-- Row 1 -->
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/robot.accessories/av.recorder" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">AV Recorder</a>
+    <a href="/future.d20.srd/robots/robot.accessories/av.transmitter" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">AV Transmitter</a>
+    <a href="/future.d20.srd/robots/robot.accessories/fire.extinguisher" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Fire Extinguisher</a>
+  </div>
+  <!-- Row 2 -->
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/robot.accessories/integrated.cell.phone" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Integrated Cell Phone</a>
+    <a href="/future.d20.srd/robots/robot.accessories/internal.storage.unit" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Internal Storage Unit</a>
+    <a href="/future.d20.srd/robots/robot.accessories/loading.mechanism" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Loading Mechanism</a>
+  </div>
+  <!-- Row 3 -->
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/robot.accessories/remote.control.unit" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Remote Control Unit</a>
+    <a href="/future.d20.srd/robots/robot.accessories/robolink" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Robolink</a>
+    <a href="/future.d20.srd/robots/robot.accessories/tool.mount" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Tool Mount</a>
+  </div>
+  <!-- Row 4 -->
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/robot.accessories/vocalizer" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Vocalizer</a>
+    <a href="/future.d20.srd/robots/robot.accessories/weapon.mount" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Weapon Mount</a>
+  </div>
+</div>
+
+#### PL 6
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <!-- Row 1 -->
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/robot.accessories/integrated.cell.phone" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Integrated Videophone</a>
+    <a href="/future.d20.srd/robots/robot.accessories/magnetic.feet" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Magnetic Feet</a>
+    <a href="/future.d20.srd/robots/robot.accessories/self.destruct.mechanism" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Self-Destruct System</a>
+  </div>
+  <!-- Row 2 -->
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/robot.accessories/survival.array" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Survivor Array</a>
+  </div>
+</div>
+
+#### PL 7
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <!-- Row 1 -->
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/robot.accessories/holo.screen" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Holo Screen</a>
+    <a href="/future.d20.srd/robots/robot.accessories/inertial.inhibitor" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Inertial Inhibitor</a>
+    <a href="/future.d20.srd/robots/robot.accessories/polyvox" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Polyvox</a>
+  </div>
+  <!-- Row 2 -->
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/robot.accessories/self.repair.unit" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Self-Repair Unit</a>
+  </div>
+</div>
+
+#### PL 8
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/robot.accessories/photon.screen" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Photon Screen</a>
+    <a href="/future.d20.srd/robots/robot.accessories/robot.repair.unit" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Robot Repair Unit</a>
+  </div>
+</div>
+
+## [Robot Weapon Rules](/future.d20.srd/robots/robot.weapon.rules)
+
+## [Sample Robots](/future.d20.srd/robots/sample.robots)
+
+#### PL 6
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/sample.robots/spot.security.robot" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">"Spot" Security Robot</a>
+    <a href="/future.d20.srd/robots/sample.robots/ape.police.robot" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">APE Police Robot</a>
+  </div>
+</div>
+
+#### PL 7
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+    <a href="/future.d20.srd/robots/sample.robots/nuyu.doppleganger.robot" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">"NUYU" Doppleganger Robot</a>
+  </div>
+</div>

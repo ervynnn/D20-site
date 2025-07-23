@@ -63,7 +63,7 @@ layout: '~/layouts/MarkdownLayout.astro'
   </div>
 </div>
 
-### [Mecha-Related Feats](/future.d20.srd/feats/mecha.related.feats/index)
+### Mecha-Related Feats
 
 <div class="border-t border-slate-200 dark:border-slate-700">
   <!-- Mecha rows -->

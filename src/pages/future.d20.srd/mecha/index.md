@@ -88,7 +88,7 @@ Mecha technology can be found in societies of PL 6 or higher.
 </div>
 
 
-### [Sample Mecha](/future.d20.srd/mecha/sample.mecha)
+## [Sample Mecha](/future.d20.srd/mecha/sample.mecha)
 
 ### PL 6
 <div class="border-t border-slate-200 dark:border-slate-700">

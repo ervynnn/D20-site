@@ -3,7 +3,7 @@ title: Extraterrestrial
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Xenobiology](/future.d20.srd/xenobiology) > [Creature Templates](/future.d20.srd/xenobiology/creature) > Extraterrestrial
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Xenobiology](/future.d20.srd/xenobiology) > [Creature Templates](/future.d20.srd/xenobiology/creature.templates) > Extraterrestrial
 
 ## Extraterrestrial (Template)
 

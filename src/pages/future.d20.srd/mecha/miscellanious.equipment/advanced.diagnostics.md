@@ -3,7 +3,7 @@ title: Advanced Diagnositcs
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Miscellanious Equipment](/future.d20.srd/mecha/miscellanious) > Advanced Diagnositcs
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Miscellanious Equipment](/future.d20.srd/miscellanious.equipment) > Advanced Diagnositcs
 
 ## Advanced Diagnostics (PL 7)
 
