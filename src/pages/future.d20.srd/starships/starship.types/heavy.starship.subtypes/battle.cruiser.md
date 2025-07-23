@@ -3,7 +3,7 @@ title: Battle Cruiser
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Types](/future.d20.srd/starships/starship) > [ Heavy Starship Subtypes](/future.d20.srd/starships/starship.types/heavy.starship) > Battle Cruiser
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Types](/future.d20.srd/starships/starship) > [ Heavy Starship Subtypes](/future.d20.srd/starships/starship.types/heavy.starship.subtypes) > Battle Cruiser
 
 ##  Battle Cruiser (PL 7)
 

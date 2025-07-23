@@ -3,7 +3,7 @@ title: Dreadnought
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Types](/future.d20.srd/starships/starship) > [ Superheavy Starship Subtypes](/future.d20.srd/starships/starship.types/superheavy.starship) > Dreadnought
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Types](/future.d20.srd/starships/starship) > [ Superheavy Starship Subtypes](/future.d20.srd/starships/starship.types/superheavy.starship.subtypes) > Dreadnought
 
 ##  Dreadnought (PL 7)
 

@@ -3,7 +3,7 @@ title: Fleet Carrier
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > [Heavy Starship Subtypes](/future.d20.srd/starships/starship.types/heavy.starship) > Fleet Carrier
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship.types) > [ Heavy Starship Subtypes](/future.d20.srd/starships/starship.types/heavy.starship.subtypes) > Fleet Carrier
 
 ## Fleet Carrier (PL 6)
 

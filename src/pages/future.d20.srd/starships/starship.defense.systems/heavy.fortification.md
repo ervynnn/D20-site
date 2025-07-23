@@ -3,7 +3,7 @@ title: Heavy Fortification
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Defense Systems ](/future.d20.srd/starships/starship.defense) > Heavy Fortification
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [Starship Defense Systems](/future.d20.srd/starships/starship.defense.systems) > Heavy Fortification
 
 ##  Heavy Fortification (PL 9)
 

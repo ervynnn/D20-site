@@ -3,7 +3,7 @@ title: Drifter
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starting Occupations ](/future.d20.srd/starting) > Drifter
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starting Occupations ](/future.d20.srd/starting.occupations) > Drifter
 
 ##  Drifter
 

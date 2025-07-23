@@ -3,7 +3,7 @@ title: Fast Freighter
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > [Ultralight Starship Subtypes](/future.d20.srd/starships/starship.types/ultralight.starship) > Fast Freighter
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship.types) > [Ultralight Starship Subtypes](/future.d20.srd/starships/starship.types/ultralight.starship.subtypes) > Fast Freighter
 
 ## Fast Freighter (PL 6)
 

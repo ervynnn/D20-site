@@ -1,9 +1,9 @@
 ---
-title: Progress Level 6: Fusion Age
+title: Progress Level 6 Fusion Age
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Weapons](/future.d20.srd/starships/starship) > Progress Level 6: Fusion Age
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Weapons](/future.d20.srd/starships/starship.weapons) > Progress Level 6: Fusion Age
 
 ## Progress Level 6: Fusion Age
 

@@ -3,7 +3,7 @@ title: Ansible
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Comm Systems ](/future.d20.srd/starships/starship.comm) > Ansible
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Comm Systems ](/future.d20.srd/starships/starship.comm.systems) > Ansible
 
 ##  Ansible (PL 9)
 

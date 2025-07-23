@@ -3,7 +3,7 @@ title: Star Carrier
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Types](/future.d20.srd/starships/starship) > [ Superheavy Starship Subtypes](/future.d20.srd/starships/starship.types/superheavy.starship) > Star Carrier
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Types](/future.d20.srd/starships/starship) > [ Superheavy Starship Subtypes](/future.d20.srd/starships/starship.types/superheavy.starship.subtypes) > Star Carrier
 
 ##  Star Carrier (PL 7)
 

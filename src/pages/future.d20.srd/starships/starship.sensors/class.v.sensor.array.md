@@ -3,7 +3,7 @@ title: Class V Sensor Array
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Sensors](/future.d20.srd/starships/starship) > Class V Sensor Array
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [Starship Sensors](/future.d20.srd/starships/starship.sensors) > Class V Sensor Array
 
 ##  Class V Sensor Array (PL 7)
 

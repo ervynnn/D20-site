@@ -3,7 +3,7 @@ title: Superheavy Starship Subtypes
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > Superheavy Starship Subtypes
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship.types) > Superheavy Starship Subtypes
 
 ## Superheavy Starship Subtypes
 

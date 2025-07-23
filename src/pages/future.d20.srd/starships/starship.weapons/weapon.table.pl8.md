@@ -1,9 +1,9 @@
 ---
-title: Progress Level 8: Energy Age
+title: Progress Level 8 Energy Age
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Weapons](/future.d20.srd/starships/starship) > Progress Level 8: Energy Age
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Weapons](/future.d20.srd/starships/starship.weapons) > Progress Level 8: Energy Age
 
 ## Progress Level 8: Energy Age
 

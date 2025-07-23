@@ -137,38 +137,48 @@ biodroid or bioreplica hero; these are discussed in-depth below.
 
 ## [Manipulators](/future.d20.srd/robots/manipulators)
 
-## [Armor](/future.d20.srd/robots/armor)
-
-#### PL 5
-<div class="border-t border-slate-200 dark:border-slate-700">
-  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
-    <a href="/future.d20.srd/robots/armor/alumisteel" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Alumisteel</a>
-    <a href="/future.d20.srd/robots/armor/duraplastic" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Duraplastic</a>
-  </div>
-</div>
-
-#### PL 6
-<div class="border-t border-slate-200 dark:border-slate-700">
-  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
-    <a href="/future.d20.srd/robots/armor/duralloy" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Duralloy</a>
-    <a href="/future.d20.srd/robots/armor/resilium" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Resilium</a>
-  </div>
-</div>
-
-#### PL 7
-<div class="border-t border-slate-200 dark:border-slate-700">
-  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
-    <a href="/future.d20.srd/robots/armor/crystal.carbon" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Crystal Carbon</a>
-    <a href="/future.d20.srd/robots/armor/neovulcanium" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Neovulcanium</a>
-  </div>
-</div>
-
-#### PL 8
-<div class="border-t border-slate-200 dark:border-slate-700">
-  <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
-    <a href="/future.d20.srd/robots/armor/megatanium" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Megatanium</a>
-    <a href="/future.d20.srd/robots/armor/reactive" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Reactive</a>
-  </div>
+<div class="my-6">
+  <details class="group rounded-lg bg-slate-100/30 dark:bg-slate-800/30 border border-slate-200 dark:border-slate-700">
+    <!-- The change is on this line below -->
+    <summary class="flex cursor-pointer list-none items-center justify-between px-4 py-2">
+      <h2 class="text-2xl font-medium">
+        <a href="/future.d20.srd/robots/armor" class="hover:underline">Armor</a>
+      </h2>
+      <span class="transition group-open:rotate-180">
+        <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path></svg>
+      </span>
+    </summary>
+    <div class="p-4 border-t border-slate-200 dark:border-slate-700">
+      <h4 class="font-semibold">PL 5</h4>
+      <div class="border-t border-slate-200 dark:border-slate-700">
+        <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+          <a href="/future.d20.srd/robots/armor/alumisteel" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Alumisteel</a>
+          <a href="/future.d20.srd/robots/armor/duraplastic" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Duraplastic</a>
+        </div>
+      </div>
+      <h4 class="font-semibold mt-6">PL 6</h4>
+      <div class="border-t border-slate-200 dark:border-slate-700">
+        <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+          <a href="/future.d20.srd/robots/armor/duralloy" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Duralloy</a>
+          <a href="/future.d20.srd/robots/armor/resilium" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Resilium</a>
+        </div>
+      </div>
+      <h4 class="font-semibold mt-6">PL 7</h4>
+      <div class="border-t border-slate-200 dark:border-slate-700">
+        <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+          <a href="/future.d20.srd/robots/armor/crystal.carbon" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Crystal Carbon</a>
+          <a href="/future.d20.srd/robots/armor/neovulcanium" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Neovulcanium</a>
+        </div>
+      </div>
+      <h4 class="font-semibold mt-6">PL 8</h4>
+      <div class="border-t border-slate-200 dark:border-slate-700">
+        <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+          <a href="/future.d20.srd/robots/armor/megatanium" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Megatanium</a>
+          <a href="/future.d20.srd/robots/armor/reactive" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Reactive</a>
+        </div>
+      </div>
+    </div>
+  </details>
 </div>
 
 ## [Sensors](/future.d20.srd/robots/sensors)

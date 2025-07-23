@@ -3,7 +3,7 @@ title: Fire-Linked Weapons
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Weapons](/future.d20.srd/starships/starship) > Fire-Linked Weapons
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [Starship Weapons](/future.d20.srd/starships/starship.weapons) > Fire-Linked Weapons
 
 ##  Fire-Linked Weapons
 
