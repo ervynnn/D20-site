@@ -1,0 +1,132 @@
+---
+title: Mecha
+layout: '~/layouts/MarkdownLayout.astro'
+---
+
+import TableList from '~/components/ui/TableList.astro';
+
+export const mech = [
+  ['Mecha Body Size', '/future.d20.srd/mecha/mecha.body.size'],
+  ['Quadrupedal Mecha', '/future.d20.srd/mecha/quadrupedal.mecha'],
+  ['Mecha Superstructure', '/future.d20.srd/mecha/mecha.superstructure'],
+  ['Mecha Armor', '/future.d20.srd/mecha/mecha.armor'],
+  ['Mecha Equipment', '/future.d20.srd/mecha/mecha.equipment'],
+  ['Mecha Flight Systems', '/future.d20.srd/mecha/mecha.flight.systems'],
+  ['Mecha Sensor Systems', '/future.d20.srd/mecha/mecha.sensor.systems'],
+  ['Mecha Defense Systems', '/future.d20.srd/mecha/mecha.defense.systems'],
+];
+
+export const mechaWeapons = [
+  ['PL 5', '/future.d20.srd/mecha/mecha.weapons/mecha.weapons.progress.level.5'],
+  ['PL 6', '/future.d20.srd/mecha/mecha.weapons/mecha.weapons.progress.level.6'],
+  ['PL 7', '/future.d20.srd/mecha/mecha.weapons/mecha.weapons.progress.level.7'],
+  ['PL 8', '/future.d20.srd/mecha/mecha.weapons/mecha.weapons.progress.level.8'],
+];
+
+export const miscPL5 = [
+  ['Cockpit, Copilot', '/future.d20.srd/mecha/miscellanious.equipment/cockpit.copilot'],
+  ['Cockpit, Passenger', '/future.d20.srd/mecha/miscellanious.equipment/cockpit.passenger'],
+  ['Comm System', '/future.d20.srd/mecha/miscellanious.equipment/comm.system'],
+  ['Life Support System', '/future.d20.srd/mecha/miscellanious.equipment/life.support.system'],
+];
+
+export const miscPL6 = [
+  ['HV-5 Haven Escape Pod', '/future.d20.srd/mecha/miscellanious.equipment/hv5.haven.escape.pod'],
+  ['Space Skin', '/future.d20.srd/mecha/miscellanious.equipment/space.skin'],
+  ['Stealth Suite', '/future.d20.srd/mecha/miscellanious.equipment/stealth.suite'],
+];
+
+export const miscPL7 = [
+  ['Advanced Diagnostics', '/future.d20.srd/mecha/miscellanious.equipment/advanced.diagnostics'],
+  ['Structural Enhancements', '/future.d20.srd/mecha/miscellanious.equipment/structural.enhancement'],
+  ['Zero-G Stabilizer', '/future.d20.srd/mecha/miscellanious.equipment/zero.g.stabilizer'],
+];
+
+export const miscPL8 = [
+  ['Crackerjack Neural Link', '/future.d20.srd/mecha/miscellanious.equipment/crackerjack.neural.link'],
+  ['Nanorepair Unit', '/future.d20.srd/mecha/miscellanious.equipment/nanorepair.unit'],
+];
+
+export const samplePL6 = [
+  ['Myrmidon', '/future.d20.srd/mecha/sample.mecha/myrmidon'],
+  ['Scourge', '/future.d20.srd/mecha/sample.mecha/scourge'],
+];
+
+export const samplePL7 = [
+  ['Manticore', '/future.d20.srd/mecha/sample.mecha/manticore'],
+  ['Tempest', '/future.d20.srd/mecha/sample.mecha/tempest'],
+];
+
+export const samplePL8 = [
+  ['Paragon', '/future.d20.srd/mecha/sample.mecha/paragon'],
+  ['Mecha Cargo Capacity', '/future.d20.srd/mecha/mecha.cargo.capacity'],
+];
+
+export const mechaOthers = [
+  ['Movement and Combat', '/future.d20.srd/mecha/movement.and.combat'],
+  ['Cockpit Access', '/future.d20.srd/mecha/cockpit.access'],
+  ['Driving, Piloting and Movement', '/future.d20.srd/mecha/driving.piloting.and.movement'],
+  ['Flying Mecha', '/future.d20.srd/mecha/flying.mecha'],
+  ['Mecha in Outer Space', '/future.d20.srd/mecha/mecha.in.outer.space'],
+  ['Mecha Critical Hits', '/future.d20.srd/mecha/mecha.critical.hits'],
+  ['Ranged Attacks and Attacks of Opportunity', '/future.d20.srd/mecha/ranged.attacks.and.attacks.of.opportunity'],
+  ['Stowing Hand Slot Equipment', '/future.d20.srd/mecha/stowing.hand.slot.equipment'],
+];
+
+
+
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > Mecha
+
+##  Mecha
+
+Mecha technology can be found in societies of PL 6 or higher.
+
+ <TableList data={mech} />
+
+## [Mecha Weapons](/future.d20.srd/mecha/mecha.weapons)
+
+  <TableList data={mechaWeapons} />
+
+### [Miscellaneous Equipment](/future.d20.srd/mecha/miscellanious.equipment)
+
+### PL 5
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <TableList data={miscPL5} />
+</div>
+
+### PL 6
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <TableList data={miscPL6} />
+</div>
+
+### PL 7
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <TableList data={miscPL7} />
+</div>
+
+### PL 8
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <TableList data={miscPL8} />
+</div>
+
+## [Sample Mecha](/future.d20.srd/mecha/sample.mecha)
+
+### PL 6
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <TableList data={samplePL6} />
+</div>
+
+### PL 7
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <TableList data={samplePL7} />
+</div>
+
+### PL 8
+<div class="border-t border-slate-200 dark:border-slate-700">
+  <TableList data={samplePL8} />
+</div>
+
+### Others
+<div class="border-t border-slate-200 dark:border-slate-700 mt-4">
+  <TableList data={mechaOthers} />
+</div>

@@ -1,0 +1,34 @@
+---
+interface Props {
+  id: string;
+  title: string;
+  data: [string, string][];
+}
+
+const { id, title, data } = Astro.props;
+
+const chunked = Array.from({ length: Math.ceil(data.length / 3) }, (_, i) =>
+  data.slice(i * 3, i * 3 + 3)
+);
+---
+
+<div id={id} class="flex flex-col gap-4">
+  {title && <h2 class="text-4xl text-primary font-bold">{title}</h2> }
+  <div class="border-t dark:border-slate-700">
+    {chunked.map((group) => (
+      <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
+        {group.map(([title, href], index) => (
+          <a
+            href={href}
+            class={`flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 ${
+              index !== 0 ? 'lg:border-l' : ''
+            } border-slate-200 dark:border-slate-700`}
+          >
+            {title}
+          </a>
+        ))}
+      </div>
+    ))}
+  </div>
+</div>
+
