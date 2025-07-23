@@ -3,7 +3,7 @@ title: Katana- Class Template
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > [Starship Class Templates](/future.d20.srd/starships/starship.types/starship.class) > Katana- Class Template
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship.types) > [Starship Class Templates](/future.d20.srd/starships/starship.types/starship.class) > Katana- Class Template
 
 ## Katana-Class Template (PL 8)
 

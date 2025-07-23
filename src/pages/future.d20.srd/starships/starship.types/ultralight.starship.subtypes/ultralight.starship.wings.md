@@ -3,7 +3,7 @@ title: Ultralight Starship Wings
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > [Ultralight Starship Subtypes](/future.d20.srd/starships/starship.types/ultralight.starship) > Ultralight Starship Wings
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship.types) > [Ultralight Starship Subtypes](/future.d20.srd/starships/starship.types/ultralight.starship.subtypes) > Ultralight Starship Wings
 
 ## Ultralight Starship Wings
 

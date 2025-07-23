@@ -3,7 +3,7 @@ title: Star Freighter
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > [Superheavy Starship Subtypes](/future.d20.srd/starships/starship.types/superheavy.starship) > Star Freighter
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship.types) > [Superheavy Starship Subtypes](/future.d20.srd/starships/starship.types/superheavy.starship.subtypes) > Star Freighter
 
 ## Star Freighter (PL 7)
 

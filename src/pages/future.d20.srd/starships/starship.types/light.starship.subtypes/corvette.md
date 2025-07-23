@@ -3,7 +3,7 @@ title: Corvette
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Types](/future.d20.srd/starships/starship) > [ Light Starship Subtypes](/future.d20.srd/starships/starship.types/light.starship) > Corvette
+[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Types](/future.d20.srd/starships/starship) > [ Light Starship Subtypes](/future.d20.srd/starships/starship.types/light.starship.subtypes) > Corvette
 
 ##  Corvette (PL 6)
 
