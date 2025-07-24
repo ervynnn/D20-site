@@ -66,8 +66,6 @@ links: [
         { text: 'Organizations', href: '/arcana.d20.srd/organizations' },
         { text: 'Prestige Classes', href: '/arcana.d20.srd/prestige.classes' },
         { text: 'Psionics', href: '/arcana.d20.srd/psionics' },
-        { text: 'Shadowkind', href: '/arcana.d20.srd/shadowkind' },
-        { text: 'Spells', href: '/arcana.d20.srd/spells' }
     ],
   },
   {
