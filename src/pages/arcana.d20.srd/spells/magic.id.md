@@ -2,11 +2,6 @@
 title: Magic ID
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Magic ID
-
-##  Magic ID
-
 Illusion
 
 Level: Arcane 0; Components: V, S, F; Casting Time: Attack action; Range:

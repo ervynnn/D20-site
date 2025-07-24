@@ -2,11 +2,6 @@
 title: Environment & Hazards
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > Environment & Hazards
-
-##  Environment & Hazards
-
 | [ Acid ](/modern.d20.srd/environment.hazards/acid) | [ Catching on Fire ](/modern.d20.srd/environment.hazards/catching.on.fire) |
 |---|---|
 | [ Darkness and Light ](/modern.d20.srd/environment.hazards/darkness.light) | [ Disease ](/modern.d20.srd/environment.hazards/disease) |

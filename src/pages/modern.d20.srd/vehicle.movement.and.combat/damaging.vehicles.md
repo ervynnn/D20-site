@@ -2,11 +2,6 @@
 title: Damaging Vehicles
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Vehicle Movement and Combat](/modern.d20.srd/vehicle.movement.and.combat) > Damaging Vehicles
-
-## Damaging Vehicles
-
 All [vehicles](/modern.d20.srd/equipment/equipment.vehicles) have [hit points](/modern.d20.srd/combat/hit.points), which are roughly equivalent to a
 character’s [hit points](/modern.d20.srd/combat/hit.points). Like most
 inanimate objects, [vehicles](/modern.d20.srd/equipment/equipment.vehicles)

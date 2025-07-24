@@ -2,11 +2,6 @@
 title: Forced Mindlink
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Psionics ](/modern.d20.srd/psionics) > Forced Mindlink
-
-##  Forced Mindlink
-
 [ Charisma ](/modern.d20.srd/basics/ability.scores)
 
 Level: [ Telepath ](/modern.d20.srd/classes/advanced/telepath) 4; Display:

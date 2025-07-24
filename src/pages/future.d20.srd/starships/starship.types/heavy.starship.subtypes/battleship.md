@@ -2,11 +2,6 @@
 title: Battleship
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > [Heavy Starship Subtypes](/future.d20.srd/starships/starship.types/heavy.starship) > Battleship
-
-## Battleship (PL 6)
-
 The mainstay of many spacefaring navies, the battleship is heavily armed and
 armored, although not very maneuverable. Battleships serve as the backbone of
 any battle fleet.

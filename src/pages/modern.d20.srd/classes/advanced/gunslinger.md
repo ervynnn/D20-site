@@ -2,11 +2,6 @@
 title: Gunslinger
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Classes](/modern.d20.srd/classes) > [Advanced Classes](/modern.d20.srd/classes/advanced) > Gunslinger
-
-## Gunslinger
-
 ### Requirements
 
 To qualify to become a Gunslinger, a character must fulfill the following

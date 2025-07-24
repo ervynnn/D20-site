@@ -2,11 +2,6 @@
 title: Zeikune
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Zeikune
-
-##  Zeikune
-
 ###  Species Traits
 
 Improved Grab (Ex): To use this ability, the zeikune must hit an opponent with

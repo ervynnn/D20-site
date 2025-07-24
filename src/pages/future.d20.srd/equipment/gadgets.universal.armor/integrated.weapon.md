@@ -2,11 +2,6 @@
 title: Integrated Weapon
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Armor Gadgets ](/future.d20.srd/equipment/gadgets.universal) > Integrated Weapon
-
-##  Integrated Weapon
-
 Some armors are designed with specific combat purposes in mind and build in
 certain weapons as standard equipment. Examples run from a pair of pop-out
 wrist blades to shoulder-mounted plasma cannons. Additionally, many armors

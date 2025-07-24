@@ -2,11 +2,6 @@
 title: Ability Decay
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Ability Decay
-
-##  Ability Decay [DRAWBACK]
-
 Your body or mind suffers from some marked deformity or deterioration.
 
 MP Value: 4.

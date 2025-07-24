@@ -2,11 +2,6 @@
 title: Extraterrestrial
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Xenobiology](/future.d20.srd/xenobiology) > [Creature Templates](/future.d20.srd/xenobiology/creature.templates) > Extraterrestrial
-
-## Extraterrestrial (Template)
-
 The term “extraterrestrial” is used to describe creatures from other worlds.
 Extraterrestrials capable of space travel can be encountered almost anywhere.
 Some present themselves as friendly explorers, while others are interested

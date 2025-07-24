@@ -2,11 +2,6 @@
 title: Wealth and the Starting Hero
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Wealth ](/modern.d20.srd/wealth) > Wealth and the Starting Hero
-
-##  Wealth and the Starting Hero
-
 A newly created 1st-level character’s [ Wealth bonus](/modern.d20.srd/wealth/wealth.bonus) is +0 plus:
 
   * Wealth provided by the character’s [ starting occupation ](/modern.d20.srd/starting.occupation/index) . 

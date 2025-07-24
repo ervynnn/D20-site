@@ -2,11 +2,6 @@
 title: Great Horns
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mutations](/future.d20.srd/mutations) > Great Horns
-
-## Great Horns [MINOR]
-
 You sprout horns capable of damaging or goring a target. The horns may be
 curled like a ram’s or pointed like a bull’s. Conversely, you may grow a
 single horn in the middle of the forehead, like that of a rhinoceros, or a

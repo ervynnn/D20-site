@@ -2,11 +2,6 @@
 title: Concealed Weapons and Objects
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > Concealed Weapons and Objects
-
-## Concealed Weapons and Objects
-
 It’s assumed that, when attempting to conceal a weapon or other object, a
 character is wearing appropriate clothing.
 

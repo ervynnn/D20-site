@@ -2,11 +2,6 @@
 title: Assault Fighter
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > [Ultralight Starship Subtypes](/future.d20.srd/starships/starship.types/ultralight.starship) > Assault Fighter
-
-## Assault Fighter (PL 7)
-
 The assault fighter is similar to the PL 6 fighter, but with superior engines,
 armaments, and defenses at the cost of less cargo capacity.
 

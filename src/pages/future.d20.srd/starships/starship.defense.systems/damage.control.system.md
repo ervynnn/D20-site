@@ -2,11 +2,6 @@
 title: Damage Control System
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Defense Systems ](/future.d20.srd/starships/starship.defense) > Damage Control System
-
-##  Damage Control System (PL 5)
-
 A starship equipped with a damage control system can perform damage control as
 a move action. With a successful Repair check (DC 15), the ship regains a
 number of hit points depending on its type, as shown on Table: Damage Control

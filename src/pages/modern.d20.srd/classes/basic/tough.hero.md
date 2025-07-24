@@ -2,11 +2,6 @@
 title: The Tough Hero
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Classes](/modern.d20.srd/classes) > [Basic Classes](/modern.d20.srd/classes/basic) > The Tough Hero
-
-## The Tough Hero
-
 Ability: [Constitution](/modern.d20.srd/basics/ability.scores)
 
 Hit Die: 1d10

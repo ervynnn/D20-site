@@ -2,11 +2,6 @@
 title: Mastercraft Objects
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > Mastercraft Objects
-
-## Mastercraft Objects
-
 [Weapons](/modern.d20.srd/equipment/equipment.weapons),
 [armor](/modern.d20.srd/equipment/armor.general), and some other types of
 equipment can be constructed as mastercraft objects. The exceptional quality

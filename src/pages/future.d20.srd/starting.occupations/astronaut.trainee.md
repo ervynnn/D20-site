@@ -2,11 +2,6 @@
 title: Astronaut Trainee
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starting Occupations](/future.d20.srd/starting) > Astronaut Trainee
-
-## Astronaut Trainee
-
 As scientists and pioneers, astronaut trainees have prepared their minds and
 bodies for the rigors of space travel and life in space. They are elite
 members of a sophisticated space program, waiting for the opportunity to hurl

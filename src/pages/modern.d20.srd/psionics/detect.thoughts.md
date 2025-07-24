@@ -2,11 +2,6 @@
 title: Detect Thoughts
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Psionics ](/modern.d20.srd/psionics) > Detect Thoughts
-
-##  Detect Thoughts
-
 [ Charisma ](/modern.d20.srd/basics/ability.scores) [Mind-Affecting]
 
 Level: [ Telepath ](/modern.d20.srd/classes/advanced/telepath) 2; Display

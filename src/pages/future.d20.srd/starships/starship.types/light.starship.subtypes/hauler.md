@@ -2,11 +2,6 @@
 title: Hauler
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > [Light Starship Subtypes](/future.d20.srd/starships/starship.types/light.starship) > Hauler
-
-## Hauler (PL 6)
-
 The hauler is a space-going tug that drags heavy, nonpowered loads and modular
 cargo containers, though they have precious little cargo space of their own.
 Haulers are fitted with big power plants and huge engines, at the expense of

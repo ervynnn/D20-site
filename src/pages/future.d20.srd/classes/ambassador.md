@@ -2,11 +2,6 @@
 title: Ambassador
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Classes](/future.d20.srd/classes) > Ambassador
-
-## Ambassador
-
 The fastest path into this advanced class is from the Charismatic hero basic
 class, though other paths are conceivable.
 

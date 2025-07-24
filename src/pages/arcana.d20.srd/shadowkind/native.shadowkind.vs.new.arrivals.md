@@ -2,11 +2,6 @@
 title: Native Shadowkind vs. New Arrivals
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Shadowkind ](/arcana.d20.srd/shadowkind) > Native Shadowkind vs. New Arrivals
-
-##  Native Shadowkind vs. New Arrivals
-
 Characters can be nonhuman natives of our world—the children of one or more
 Shadowkind parents, born and raised somewhere on Earth—or they can be new
 arrivals to our world, having recently come through Shadow. In the latter

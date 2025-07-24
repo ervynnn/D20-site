@@ -2,11 +2,6 @@
 title: Fear Aura
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Special Abilities](/modern.d20.srd/special.abilities) > Fear Aura
-
-## Fear Aura (Su)
-
 A fear aura either operates continuously or can be used at will. In either
 case, it’s a [free action](/modern.d20.srd/combat/action.types). This ability
 can freeze an opponent or cause opponents to become

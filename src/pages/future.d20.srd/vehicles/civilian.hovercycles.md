@@ -2,11 +2,6 @@
 title: Civilian Hovervehicles
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Vehicles](/future.d20.srd/vehicles) > Civilian Hovervehicles
-
-## Civilian Hovervehicles
-
 Hovervehicles are extremely popular at Progress Level 7, when the ability to
 set down virtually anywhere allows “hoverists” (hovervehicle enthusiasts) to
 take the same vehicle into the wilderness that they take to work every day.

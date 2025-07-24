@@ -2,11 +2,6 @@
 title: Attack Roll
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > [Combat Statistics](/future.d20.srd/starships/combat/combat) > Attack Roll
-
-## Attack Roll
-
 An attack roll represents one starship’s attempt to strike another on its turn
 in a round. Most starships are armed with ranged weapons aimed by gunners.
 When a starship makes an attack roll, roll 1d20 and add the appropriate

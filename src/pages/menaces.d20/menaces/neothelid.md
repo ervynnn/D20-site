@@ -2,11 +2,6 @@
 title: Neothelid
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [Menaces](/menaces.d20/menaces) > Neothelid
-
-## Neothelid
-
 A neothelid is a 50-foot-long, wormlike creature with a mass of tentacles at
 one end. In the midst of this nest of tentacles is a toothy maw. The creature
 has no eyes or other sensory organs as such, though it unerringly senses the

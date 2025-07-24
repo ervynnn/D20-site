@@ -2,11 +2,6 @@
 title: Surprise
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Surprise
-
-## Surprise
-
 When a combat starts, if a character was not aware of his or her enemies and
 they were aware of the character, that character is surprised. Likewise, a
 character can surprise his or her enemies if the character knows about them

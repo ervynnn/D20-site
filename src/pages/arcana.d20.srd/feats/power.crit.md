@@ -2,11 +2,6 @@
 title: Power Crit
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Feats](/arcana.d20.srd/feats) > Power Crit
-
-## Power Crit
-
 You may threaten a critical hit if you succeed in hitting an opponent.
 
 **Prerequisite:** Base attack bonus +10, proficiency with weapon.

@@ -2,11 +2,6 @@
 title: APE Police Robot
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > [Sample Robots](/future.d20.srd/robots/sample.robots) > APE Police Robot
-
-## APE Police Robot (PL 6)
-
 The Armed Police Escort (APE) robot is designed to help police deal with civil
 disobedience and unrest in the urban jungle. This robot resembles a hulking,
 apelike man with thick arms and legs, clad headto- toe in interlocking

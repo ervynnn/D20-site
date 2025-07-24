@@ -2,11 +2,6 @@
 title: Exoskeleton
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Exoskeleton
-
-##  Exoskeleton [MAJOR]
-
 A thick exoskeleton forms over your skin. The exoskeleton usually consists of
 interlocking plates of bone or chitin covering 90% or more of your body.
 

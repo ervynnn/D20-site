@@ -2,11 +2,6 @@
 title: Giant
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Creature Types ](/modern.d20.srd/creature.types) > Giant
-
-##  Giant
-
 A giant is a humanoid creature of Large size or larger. Giants are known for
 their great strength. See Table: Giants for physical ability scores,
 recommended minimum Hit Dice, and damage based on size.

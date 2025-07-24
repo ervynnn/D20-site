@@ -2,11 +2,6 @@
 title: Regaining Wealth
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Wealth ](/modern.d20.srd/wealth) > Regaining Wealth
-
-##  Regaining Wealth
-
 A character’s [ Wealth bonus ](/modern.d20.srd/wealth/wealth.bonus) recovers
 as the character advances.
 

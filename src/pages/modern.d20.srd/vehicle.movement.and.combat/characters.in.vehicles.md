@@ -2,11 +2,6 @@
 title: Characters in Vehicles
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Vehicle Movement and Combat](/modern.d20.srd/vehicle.movement.and.combat) > Characters in Vehicles
-
-##  Characters in Vehicles
-
 A character in a [ vehicle ](/modern.d20.srd/equipment/equipment.vehicles)
 fills one of several possible roles, which determines what the character can
 do.

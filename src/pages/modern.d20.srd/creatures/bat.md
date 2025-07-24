@@ -2,11 +2,6 @@
 title: Bat
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Bat
-
-## Bat
-
 ### Species Traits
 
 [Blindsight](/modern.d20.srd/special.abilities/blindsight) (Ex): Bats can

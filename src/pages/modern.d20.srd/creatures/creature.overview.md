@@ -2,11 +2,6 @@
 title: Creature Overview
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Creature Overview
-
-## Creature Overview
-
 ### Creature Description
 
 Each creature is organized in the same general format, as described in the

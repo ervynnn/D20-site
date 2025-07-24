@@ -2,11 +2,6 @@
 title: Gaze
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Special Abilities](/modern.d20.srd/special.abilities) > Gaze
-
-## Gaze (Su)
-
 A gaze attack takes effect when opponents look at the creature’s eyes. The
 attack can have almost any sort of effect: petrification, death, charm, and so
 on. The typical range is 30 feet, but check the creature’s entry for details.

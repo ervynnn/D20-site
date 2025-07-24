@@ -2,11 +2,6 @@
 title: Drop Bear
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Drop Bear
-
-##  Drop Bear
-
 The minor differences between a drop bear and a koala are discernable only to
 trained naturalists. A drop bear can even imitate the sleepy demeanor of its
 genetic cousins as a sort of behavioral camouflage. Because drop bears can so

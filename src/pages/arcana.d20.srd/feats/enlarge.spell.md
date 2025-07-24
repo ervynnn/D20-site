@@ -2,11 +2,6 @@
 title: Enlarge Spell
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Enlarge Spell [Metamagic]
-
-##  Enlarge Spell [Metamagic]
-
 You can cast spells farther than normal.
 
 **Benefit:** An enlarged spell has its range doubled. Spells whose ranges are

@@ -2,11 +2,6 @@
 title: Radioactive
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mutations](/future.d20.srd/mutations) > Radioactive
-
-## Radioactive [MAJOR]
-
 You are immune to some radiation and can emit bursts of harmful radiation from
 your body.
 

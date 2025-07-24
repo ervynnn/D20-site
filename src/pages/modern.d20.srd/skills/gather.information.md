@@ -2,11 +2,6 @@
 title: Gather Information
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Gather Information
-
-## Gather Information ([Cha](/modern.d20.srd/basics/ability.scores))
-
 [Check](/modern.d20.srd/skills/skill.basics): By succeeding at a
 skill [check](/modern.d20.srd/skills/skill.basics) (DC 10) and
 spending 1d4+1 hours passing out money and buying drinks, a character can get

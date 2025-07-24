@@ -2,11 +2,6 @@
 title: Detect Psionics
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Psionics ](/modern.d20.srd/psionics) > Detect Psionics
-
-##  Detect Psionics
-
 [ Wisdom ](/modern.d20.srd/basics/ability.scores)
 
 Level: Telepath 0/ [ Battle Mind](/modern.d20.srd/classes/advanced/battle.mind) 0; Display: Visual, Audible;

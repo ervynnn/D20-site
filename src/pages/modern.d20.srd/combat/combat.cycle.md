@@ -2,11 +2,6 @@
 title: Combat Cycle
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Combat Cycle
-
-## Combat
-
 Combat is played out in rounds, and in each round everybody acts in turn in a
 regular cycle. Combat usually runs in the following way.
 

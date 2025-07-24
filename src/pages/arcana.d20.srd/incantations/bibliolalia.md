@@ -2,11 +2,6 @@
 title: Bibliolalia
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Bibliolalia
-
-##  Bibliolalia
-
 Divination
 
 Skill Check: Knowledge (arcane lore) DC 33, 6 successes; Failure: Two

@@ -2,11 +2,6 @@
 title: Rod
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [Menaces](/menaces.d20/menaces) > Rod
-
-## Rod
-
 A rod is an insect with a sticklike body about 1 foot long. Short, undulating
 wings run the entire length of its form, allowing it to dart and maneuver
 quickly.

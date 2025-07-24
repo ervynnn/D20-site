@@ -2,11 +2,6 @@
 title: Armor and Protective Gear
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Equipment ](/arcana.d20.srd/equipment) > Armor and Protective Gear
-
-##  Armor and Protective Gear
-
 Three feats cover proficiency in the use of armor: Armor Proficiency (light),
 Armor Proficiency (medium), and Armor Proficiency (heavy).
 

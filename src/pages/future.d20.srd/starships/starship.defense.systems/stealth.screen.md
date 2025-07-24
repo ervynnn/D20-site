@@ -2,11 +2,6 @@
 title: Stealth Screen
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Defense Systems](/future.d20.srd/starships/starship.defense) > Stealth Screen
-
-## Stealth Screen (PL 6)
-
 An improved version of the sensor jammer (see above), the stealth screen is a
 sophisticated electromagnetic transceiver capable of detecting incoming
 electromagnetic energy from radars, ladars, and other sensor devices. When it

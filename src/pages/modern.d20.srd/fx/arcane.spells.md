@@ -2,11 +2,6 @@
 title: Arcane Spells
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX](/modern.d20.srd/fx) > Arcane Spells
-
-## Arcane Spells
-
 Arcane spells involve the direct manipulation of mystic energies. These
 manipulations require natural talent and long study. Compared to divine
 spells, arcane spells are more likely to produce dramatic results, such as

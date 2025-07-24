@@ -2,11 +2,6 @@
 title: Fragmentation Grenade of Distance
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX Items ](/modern.d20.srd/fx.items) > [ Weapons](/modern.d20.srd/fx.items/weapons) > Fragmentation Grenade of Distance
-
-##  Fragmentation Grenade of Distance
-
 The range increment of this fragmentation grenade is double normal (20 feet
 instead of 10 feet).
 

@@ -1,12 +1,7 @@
 ---
-title: PL 0: Stone Age
+title: PL 0 Bronze Age
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Progress Levels](/future.d20.srd/progress) > PL 0: Stone Age
-
-## PL 1: Bronze/Iron Age
-
 Early human civilizations began to work metal toward the end of the Stone Age.
 The malleability of copper led to its becoming the first metal to be “tamed.”
 Adding tin to copper created a much stronger alloy: bronze. This advance

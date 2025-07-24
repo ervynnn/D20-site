@@ -2,11 +2,6 @@
 title: Weapon Mount
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > [Robot Accessories](/future.d20.srd/robots/robot.accessories) > Weapon Mount
-
-## Weapon Mount (PL 5)
-
 Robots that lack the proper manipulators to grasp weapons are suitable
 candidates for weapon mounts. Any Diminutive or larger robot with an armature,
 biomorph, biodroid, or bioreplica frame can be equipped with them. Liquid-

@@ -2,11 +2,6 @@
 title: Strike Cruiser
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Types](/future.d20.srd/starships/starship) > [ Mediumweight Starship Subtypes](/future.d20.srd/starships/starship.types/mediumweight.starship) > Strike Cruiser
-
-##  Clipper (PL 6)
-
 This small liner or personnel transport is intended for passenger use, as
 opposed to heavy cargo. Clippers are frequently fitted with top-of-the-line
 engines for the best possible speed.

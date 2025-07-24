@@ -2,11 +2,6 @@
 title: Class VI Sensor Array
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Sensors](/future.d20.srd/starships/starship) > Class VI Sensor Array
-
-## Class VI Sensor Array (PL 8)
-
 This array includes hi-res video, electromagnetic sensors, spectroanalyzers,
 multiphase radar, and mass detectors.
 

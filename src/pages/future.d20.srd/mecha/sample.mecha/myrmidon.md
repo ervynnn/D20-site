@@ -2,11 +2,6 @@
 title: Myrmidon
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Sample Mecha](/future.d20.srd/mecha/sample.mecha) > Myrmidon
-
-## Myrmidon (PL 6)
-
 The Myrmidon primarily serves as a light infantry support mecha, replacing an
 armored vehicle on the battlefield. It has also proven effective in close-
 combat situations, particular in urban arenas.

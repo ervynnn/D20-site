@@ -2,11 +2,6 @@
 title: Feats
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Feats
-
-## Mecha Sweep
-
 You can use your mecha to wield improvised weapons and attack several spaces
 at once.
 

@@ -2,11 +2,6 @@
 title: Improved Grab
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Special Abilities](/modern.d20.srd/special.abilities) > Improved Grab
-
-## Improved Grab (Ex)
-
 If the creature hits with a [melee weapon](/modern.d20.srd/equipment/equipment.weapons) it deals normal damage
 and attempts to start a [grapple](/modern.d20.srd/combat/grapple) as a [free action](/modern.d20.srd/combat/attack.actions), doing so without provoking
 [attacks of opportunity](/modern.d20.srd/combat/attacks.of.opportunity). No

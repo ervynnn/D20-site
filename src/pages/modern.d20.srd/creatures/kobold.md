@@ -2,11 +2,6 @@
 title: Kobold
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Kobold
-
-## Kobold
-
 ### Species Traits
 
 Light Sensitivity (Ex): Kobolds take a –1 penalty on attack rolls in sunlight

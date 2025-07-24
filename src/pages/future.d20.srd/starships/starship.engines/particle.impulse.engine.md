@@ -2,11 +2,6 @@
 title: Particle Impulse Engine
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Engines](/future.d20.srd/starships/starship) > Particle Impulse Engine
-
-## Particle Impulse Engine (PL 7)
-
 The particle impulse engine is the next evolutionary step of the PL 6 ion
 engine. It uses magnetic fields to produce a constant stream of high-energy
 particles, as well as to provide vectored thrust. The major advancement of the

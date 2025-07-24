@@ -2,11 +2,6 @@
 title: Outsider
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Creature Types ](/modern.d20.srd/creature.types) > Outsider
-
-##  Outsider
-
 An outsider is a nonelemental creature originating from some other dimension,
 reality, or plane. See Table: Outsiders for physical ability scores,
 recommended minimum Hit Dice, and damage based on size.

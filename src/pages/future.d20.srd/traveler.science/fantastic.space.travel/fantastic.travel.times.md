@@ -2,11 +2,6 @@
 title: Fantastic Travel Times
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Traveler Science](/future.d20.srd/traveler.science) > [Fantastic Space Travel](/future.d20.srd/traveler.science/fantastic.space.travel) > Fantastic Travel Times
-
-## Fantastic Travel Times
-
 Travel times at relativistic speeds are generally easy to calculate. Simply
 determine how long it takes to arrive at the destination while traveling at
 the speed of light, then divide the result by the light speed multiplier of

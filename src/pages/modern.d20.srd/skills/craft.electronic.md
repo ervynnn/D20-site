@@ -2,11 +2,6 @@
 title: Electronic
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > [Craft](/modern.d20.srd/skills/craft) > Electronic
-
-## Craft (Electronic) ([Int](/modern.d20.srd/basics/ability.scores)) [Trained Only](/modern.d20.srd/skills/skill.basics)
-
 This skill allows a character to build [electronic equipment](/modern.d20.srd/equipment/surveillance.gear) from scratch, such as
 audio and video equipment, timers and listening devices, or radios and
 communication devices.

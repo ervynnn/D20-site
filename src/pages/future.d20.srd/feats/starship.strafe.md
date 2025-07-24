@@ -2,11 +2,6 @@
 title: Starship Strafe
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Feats](/future.d20.srd/feats) > Starship Strafe
-
-## Starship Strafe
-
 You can use a starship’s ranged weapon set on automatic fire to affect a wider
 area than normal.
 

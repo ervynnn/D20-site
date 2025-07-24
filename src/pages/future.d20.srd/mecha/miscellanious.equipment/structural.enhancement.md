@@ -2,11 +2,6 @@
 title: Structural Enhancement
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Miscellanious Equipment](/future.d20.srd/mecha/miscellanious.equipment) > Structural Enhancement
-
-## Structural Enhancement (PL 7)
-
 Significant advances in engineering inspire a series of modifications to the
 mecha’s superstructure, granting it an additional 50 hit points. A mecha can
 undergo structural enhancement multiple times, gaining 50 additional hit

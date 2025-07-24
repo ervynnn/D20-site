@@ -2,11 +2,6 @@
 title: Starship Engines
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > Starship Engines
-
-## Starship Engines
-
 A starship’s engine determines how fast the ship moves. The more efficient the
 engine, the faster it can move the ship—and the more expensive it is. In
 addition, certain low-tech engines burn fuel of some sort, increasing the

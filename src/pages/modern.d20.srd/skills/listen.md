@@ -2,11 +2,6 @@
 title: Listen
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Listen
-
-## Listen ([Wis](/modern.d20.srd/basics/ability.scores))
-
 [Check](/modern.d20.srd/skills/skill.basics): Make a Listen
 [check](/modern.d20.srd/skills/skill.basics) against a DC that
 reflects how quiet the noise is that a character might hear or against an

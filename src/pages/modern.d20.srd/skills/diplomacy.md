@@ -2,11 +2,6 @@
 title: Diplomacy
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Diplomacy
-
-## Diplomacy ([Cha](/modern.d20.srd/basics/ability.scores))
-
 [Check](/modern.d20.srd/skills/skill.basics): A character can change
 others’ attitudes with a successful
 [check](/modern.d20.srd/skills/skill.basics) (see the table below.

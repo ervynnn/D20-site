@@ -2,11 +2,6 @@
 title: Starship Battle Run
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Feats](/future.d20.srd/feats) > Starship Battle Run
-
-## Starship Battle Run
-
 You are skilled at starship skirmish tactics, zipping in and out of an enemy’s
 sights.
 

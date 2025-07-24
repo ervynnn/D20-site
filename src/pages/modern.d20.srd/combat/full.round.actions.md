@@ -2,11 +2,6 @@
 title: Full-Round Actions
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Full-Round Actions
-
-## Full-Round Actions
-
 A full-round action requires an entire round to complete. If it doesn’t
 involve moving any distance, a character can combine it with a 5-foot step.
 

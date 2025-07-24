@@ -2,11 +2,6 @@
 title: Minotaur
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Minotaur
-
-## Minotaur
-
 ### Species Traits
 
 Charge (Ex): A minotaur typically begins a battle by charging at an opponent.

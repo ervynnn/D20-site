@@ -2,11 +2,6 @@
 title: Eagle
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Eagle
-
-##  Eagle
-
 Eagles include other large birds of prey and raptors. They are typically 3
 feet long and have a wingspan of about 7 feet.
 

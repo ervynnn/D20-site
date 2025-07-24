@@ -2,11 +2,6 @@
 title: Requisitioning Equipment
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > Requisitioning Equipment
-
-## Requisitioning Equipment
-
 When a hero working for Department-7 needs more equipment than he or she has
 on hand, the hero may try to requisition it. Department-7 evaluates whether
 the character really needs the object, how soon the agency can supply it, and

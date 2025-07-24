@@ -2,11 +2,6 @@
 title: Potions
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX Items](/modern.d20.srd/fx.items) > Potions
-
-## Potions
-
 A potion is an elixir concocted with a [spell](/modern.d20.srd/fx)-like or
 [psionic](/modern.d20.srd/psionics) effect that affects only the drinker. A
 potion is a single-use item that can only duplicate

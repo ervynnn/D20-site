@@ -2,11 +2,6 @@
 title: Starship Combat
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > Starship Combat
-
-##  Starship Combat
-
 The rules for starship combat are based on the rules for character combat.
 Like character-scale combat, starship battles unfold on a square grid, with
 each starship occupying one or more squares on the grid. As with character-

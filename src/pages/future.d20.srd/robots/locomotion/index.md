@@ -2,11 +2,6 @@
 title: Locomotion
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Robots ](/future.d20.srd/robots) > Locomotion
-
-##  Locomotion
-
 How a robot moves is determined by its means locomotion. Most robots have only
 one means of locomotion, each of which comes with its own advantages and
 disadvantages, as shown below.

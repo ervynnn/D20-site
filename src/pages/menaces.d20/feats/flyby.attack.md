@@ -2,11 +2,6 @@
 title: Flyby Attack
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Feats ](/menaces.d20/feats) > Flyby Attack
-
-##  Flyby Attack
-
 The creature can attack on the wing.
 
 Prerequisite: Fly speed.

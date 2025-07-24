@@ -2,11 +2,6 @@
 title: Laser Optics
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Cybernetics](/future.d20.srd/cybernetics) > Laser Optics
-
-## Laser Optics (PL 7)
-
 The recipient’s eyes are replaced with ocular implants capable of firing thin
 laser beams.
 

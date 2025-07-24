@@ -2,11 +2,6 @@
 title: Robot
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Robot
-
-##  Robot
-
 Robots are manufactured, remote-controlled constructs powered by batteries.
 These highly useful machines come in a variety of sizes and shapes and can be
 fitted with tools or weapons. Techies create robots—for rules on this process,

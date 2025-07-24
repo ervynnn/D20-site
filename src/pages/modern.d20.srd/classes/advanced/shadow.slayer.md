@@ -2,11 +2,6 @@
 title: Shadow Slayer
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Classes ](/modern.d20.srd/classes) > [ Advanced Classes](/modern.d20.srd/classes/advanced) > Shadow Slayer
-
-##  Shadow Slayer
-
 ###  Requirements
 
 To qualify to become a Shadow Slayer, a character must fulfill the following

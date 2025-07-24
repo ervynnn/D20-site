@@ -2,11 +2,6 @@
 title: Gladiator
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starting Occupations](/future.d20.srd/starting) > Gladiator
-
-## Gladiator
-
 Gladiators have been fighting all their lives, whether on the streets or in
 some form of arena. They include disenchanted youths and poverty-stricken
 hoodlums looking to trade fists for cash, clones bred in secret labs to fight

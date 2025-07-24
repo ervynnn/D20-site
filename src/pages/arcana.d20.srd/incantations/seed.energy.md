@@ -1,12 +1,7 @@
 ---
-title: Seed: Energy
+title: Seed Energy
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Seed: Energy
-
-##  Seed: Energy
-
 Evocation [Acid, Fire, Electricity, Cold, or Sonic/Concussion]
 
 Knowledge (arcane lore) DC: 30; Range: Medium, or touched creature or object

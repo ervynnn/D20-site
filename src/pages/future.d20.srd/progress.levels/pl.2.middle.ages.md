@@ -1,12 +1,7 @@
 ---
-title: PL 0: Stone Age
+title: PL 0 Stone Age
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Progress Levels](/future.d20.srd/progress) > PL 0: Stone Age
-
-## PL 2: Middle Ages
-
 Maturing civilizations experience a period of turmoil and adjustment at this
 Progress Level. Developments continue in architecture, commerce, metallurgy,
 and mathematics. Wider dissemination of information becomes possible thanks to

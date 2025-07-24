@@ -2,11 +2,6 @@
 title: “Spot” Security Robot
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > [Sample Robots](/future.d20.srd/robots/sample.robots) > “Spot” Security Robot
-
-## “Spot” Security Robot (PL 6)
-
 This robot looks like a man-sized, mechanical guard dog with four powerful
 legs, wicked jaws, and resilium armor covering its body. It growls and barks
 at intruders with the aid of a vocalizer. “Spot” functions as a robotic

@@ -2,11 +2,6 @@
 title: Creature Weaknesses
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Creature Weaknesses
-
-## Creature Weaknesses
-
 Although a creature’s type and species determine many of its traits and
 abilities, GMs are encouraged to alter a creature’s physiology, behavior,
 abilities, tactics, and defenses when it serves the story or to confound

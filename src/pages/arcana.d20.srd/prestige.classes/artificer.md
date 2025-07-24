@@ -2,11 +2,6 @@
 title: Artificer
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Prestige Classes ](/arcana.d20.srd/prestige.classes) > Artificer
-
-##  Artificer
-
 The fastest path into this prestige class is from the Mage and Techno Mage
 advanced classes, though other paths are possible.
 

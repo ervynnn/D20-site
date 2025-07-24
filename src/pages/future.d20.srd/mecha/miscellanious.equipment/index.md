@@ -2,11 +2,6 @@
 title: Miscellanious Equipment
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > Miscellanious Equipment
-
-## Miscellaneous Equipment
-
 This section describes various other pieces of mecha equipment that don’t fall
 neatly under the other categories, including a variety of electrical systems.
 Building a system from scratch requires a character to make a Wealth check

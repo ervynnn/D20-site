@@ -2,11 +2,6 @@
 title: Vrock
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Vrock
-
-##  Vrock
-
 ###  Species Traits
 
 Vrocks have the following traits:

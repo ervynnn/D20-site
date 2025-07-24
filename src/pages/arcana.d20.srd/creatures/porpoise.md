@@ -2,11 +2,6 @@
 title: Porpoise
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Porpoise
-
-##  Porpoise
-
 Porpoises measure 4–6 feet long and weigh 110 to 170 pounds. The following
 stats may also be used to describe whales of similar size.
 

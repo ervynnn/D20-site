@@ -2,11 +2,6 @@
 title: Zombie, Liquefied (Template)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Zombie, Liquefied (Template)
-
-##  Zombie, Liquefied (Template)
-
 Liquefied zombies cannot speak. They are generally between 5 feet and 6 feet
 tall, and they weigh about 150 pounds. Template Traits
 

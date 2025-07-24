@@ -2,11 +2,6 @@
 title: Fangs
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Fangs
-
-##  Fangs [MINOR]
-
 Your teeth mutate into vicious fangs.
 
 MP Cost: 1.

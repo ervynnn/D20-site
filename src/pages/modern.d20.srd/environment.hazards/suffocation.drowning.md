@@ -2,11 +2,6 @@
 title: Suffocation and Drowning
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Environment & Hazards](/modern.d20.srd/environment.hazards) > Suffocation and Drowning
-
-## Suffocation and Drowning
-
 A character in an airless environment (underwater, vacuum) can hold his or her
 breath for a number of rounds equal to his or her
 [Constitution](/modern.d20.srd/basics/ability.scores) score. After this period

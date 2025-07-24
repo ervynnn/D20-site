@@ -2,11 +2,6 @@
 title: Wall Crawler
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Wall Crawler
-
-##  Wall Crawler [MINOR]
-
 You can walk walls and cling to ceilings like a spider. You have tiny barbs on
 your hands and feet to facilitate climbing, and your fingers and toes secrete
 a transparent adhesive that lets you cling to smooth surfaces.

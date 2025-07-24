@@ -2,11 +2,6 @@
 title: False Sensory Input
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Psionics ](/modern.d20.srd/psionics) > False Sensory Input
-
-##  False Sensory Input
-
 [ Charisma ](/modern.d20.srd/basics/ability.scores) [Mind-Affecting]
 
 Level: [ Telepath ](/modern.d20.srd/classes/advanced/telepath) 3; Display:

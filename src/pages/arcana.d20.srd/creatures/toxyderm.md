@@ -2,11 +2,6 @@
 title: Toxyderm
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Toxyderm
-
-##  Toxyderm
-
 ###  Species Traits
 
 Regardless of the type of waste that spawned them, toxyderms share the

@@ -2,11 +2,6 @@
 title: Scaly Armor
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Scaly Armor
-
-##  Scaly Armor [MINOR]
-
 Thick, overlapping scales cover your body. The scales are hard but dry to the
 touch.
 

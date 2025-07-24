@@ -2,11 +2,6 @@
 title: Weapons
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX Items](/modern.d20.srd/fx.items) > Weapons
-
-## Weapons
-
 As with [armor](/modern.d20.srd/fx.items/armor), magic and psionic weapons
 have enhancement bonuses. The enhancement bonus applies both to [attack rolls](/modern.d20.srd/combat/attack.roll) and [damage rolls](/modern.d20.srd/combat/damage) when the weapon is used in combat. All
 magic weapons and psionic weapons are considered

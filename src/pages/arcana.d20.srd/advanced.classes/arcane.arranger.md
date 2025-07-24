@@ -2,11 +2,6 @@
 title: Arcane Arranger
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Advanced Classes ](/arcana.d20.srd/advanced.classes) > Arcane Arranger
-
-##  Arcane Arranger
-
 The fastest path into this advanced class is from the Charismatic hero basic
 class, though other paths are possible.
 

@@ -2,11 +2,6 @@
 title: Nerve Web
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Robots ](/future.d20.srd/robots) > [ Sensors](/future.d20.srd/robots/sensors) > Nerve Web
-
-##  Nerve Web (PL 8)
-
 The nerve web is an advanced sensor array that simulates the function of an
 organic nervous system. This sensor system includes a full-spectrum eye with
 darkvision (out to 180 feet), a full-frequency ear, a sophisticated olfactory

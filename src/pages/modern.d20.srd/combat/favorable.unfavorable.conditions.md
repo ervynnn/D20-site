@@ -2,11 +2,6 @@
 title: Favorable and Unfavorable Conditions
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Favorable and Unfavorable Conditions
-
-## Favorable and Unfavorable Conditions
-
 Generally speaking, any situational modifier created by the attacker’s
 position or tactics applies to the attack roll, while any situational modifier
 created by the defender’s position, state, or tactics applies to the

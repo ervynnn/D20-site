@@ -2,11 +2,6 @@
 title: Matter Replication
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > Matter Replication
-
-## Matter Replication
-
 The ability to create any object from seeming nothingness is a common theme in
 science fiction. Known as matter replication, the process is the computerized
 creation of an object where no such object existed before. Essentially, matter

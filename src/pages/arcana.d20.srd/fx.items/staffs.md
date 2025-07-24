@@ -2,11 +2,6 @@
 title: Staffs
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [FX Items](/arcana.d20.srd/fx.items) > Staffs
-
-## Staffs
-
 Staffs are long shafts of wood, metal, or other materials that store a
 specific combination of spells.
 

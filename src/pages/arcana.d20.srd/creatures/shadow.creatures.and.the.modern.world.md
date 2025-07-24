@@ -2,11 +2,6 @@
 title: Shadow Creatures and the Modern World
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Shadow Creatures and the Modern World
-
-##  Shadow Creatures and the Modern World
-
 Humans cling steadfastly to the reality that they wish to be true, resisting
 every piece of evidence that suggests that the world isn’t the way they
 believe it to be. Only a relative few make up the “aware minority,” those

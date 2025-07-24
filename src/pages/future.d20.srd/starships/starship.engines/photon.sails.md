@@ -2,11 +2,6 @@
 title: Photon Sails
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Engines](/future.d20.srd/starships/starship) > Photon Sails
-
-## Photon Sails (PL 6)
-
 Photon sails are immense but extremely fragile foil structures only a few
 molecules thick. Light pressure from a nearby star (or laser drive station,
 when available) provides motive force. The sails’ acceleration rates drop to

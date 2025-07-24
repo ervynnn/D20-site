@@ -2,11 +2,6 @@
 title: Deflective
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Armor](/future.d20.srd/starships/starship) > Deflective
-
-##  Deflective (PL 7)
-
 Deflective armor is composed of a shiny, light, flexible polymer especially
 good at neutralizing energy damage but less effective against ballistic
 attacks. Hardness: 20 against attacks that deal ballistic damage, 40 against

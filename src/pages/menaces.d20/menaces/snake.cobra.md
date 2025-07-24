@@ -2,11 +2,6 @@
 title: Snake, Cobra
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Snake, Cobra
-
-##  Snake, Cobra
-
 A typical cobra measures about 12 feet long, but some have been known to grow
 to as much as 18 feet long.
 

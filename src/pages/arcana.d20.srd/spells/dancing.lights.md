@@ -2,11 +2,6 @@
 title: Dancing Lights
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Dancing Lights
-
-## Dancing Lights
-
 Evocation [Light]
 
 Level: Arcane 0; Components: V, S; Casting Time: Attack action; Range: Medium

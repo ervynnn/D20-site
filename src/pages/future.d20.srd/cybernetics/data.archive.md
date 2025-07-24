@@ -2,11 +2,6 @@
 title: Data Archive
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Cybernetics](/future.d20.srd/cybernetics) > Data Archive
-
-## Data Archive (PL 7)
-
 A data archive is a microcomputer implanted in the recipient’s skull. It
 contains skill-related information stored on a series of biological data
 chips, or biochips.

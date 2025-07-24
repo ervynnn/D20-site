@@ -2,11 +2,6 @@
 title: Poisonous Blood
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mutations](/future.d20.srd/mutations) > Poisonous Blood
-
-## Poisonous Blood [DRAWBACK]
-
 Your blood is poisonous to your own body. You must take regular doses of
 antitox to resist the poison’s effects.
 

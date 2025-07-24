@@ -2,11 +2,6 @@
 title: Humanoid
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creature Types](/modern.d20.srd/creature.types) > Humanoid
-
-## Humanoid
-
 A humanoid usually has two arms, two legs, and one head, or a humanlike torso,
 arms, and head. A humanoid has few or no supernatural or extraordinary
 abilities. See Table: Humanoids for physical ability scores, recommended

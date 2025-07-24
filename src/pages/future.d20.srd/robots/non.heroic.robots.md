@@ -2,11 +2,6 @@
 title: Nonheroic Robots
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > Nonheroic Robots
-
-## Nonheroic Robots
-
 Most robots exist to perform mundane, routine, or dangerous tasks without
 argument or ambition. Except for biodroids and bioreplicas with heroic class
 levels, all robots are treated as constructs and share the general traits

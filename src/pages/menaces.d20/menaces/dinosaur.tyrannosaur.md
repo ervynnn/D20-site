@@ -2,11 +2,6 @@
 title: Dinosaur, Tyrannosaur
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Dinosaur, Tyrannosaur
-
-##  Dinosaur, Tyrannosaur
-
 ###  Species Traits
 
 Improved Grab (Ex): To use this ability, the tyrannosaur must hit an opponent

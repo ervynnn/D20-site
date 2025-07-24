@@ -2,11 +2,6 @@
 title: The Combat Round
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > The Combat Round
-
-## The Combat Round
-
 As with character-scale combat, each round of starship combat represents about
 6 seconds in the game world.
 

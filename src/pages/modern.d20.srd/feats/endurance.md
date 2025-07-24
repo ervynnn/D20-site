@@ -2,11 +2,6 @@
 title: Endurance
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Endurance
-
-## Endurance
-
 Benefit: The character gains a +4 bonus on the following
 [checks](/modern.d20.srd/skills/skill.basics) and saves: hourly
 [Swim](/modern.d20.srd/skills/swim)

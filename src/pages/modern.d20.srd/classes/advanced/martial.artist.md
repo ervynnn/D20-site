@@ -2,11 +2,6 @@
 title: Martial Artist
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Classes ](/modern.d20.srd/classes) > [ Advanced Classes](/modern.d20.srd/classes/advanced) > Martial Artist
-
-##  Martial Artist
-
 ###  Requirements
 
 To qualify to become a Martial Artist, a character must fulfill the following

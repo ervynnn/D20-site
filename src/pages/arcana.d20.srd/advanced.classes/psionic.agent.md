@@ -2,11 +2,6 @@
 title: Psionic Agent
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Advanced Classes](/arcana.d20.srd/advanced.classes) > Psionic Agent
-
-## Psionic Agent
-
 The fastest path into this advanced class is from the Fast hero basic class,
 though other paths are possible. A good Wisdom is recommended to allow access
 to higher level powers.

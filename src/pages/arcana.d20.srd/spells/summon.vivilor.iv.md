@@ -2,11 +2,6 @@
 title: Summon Vivilor IV
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Summon Vivilor IV
-
-##  Summon Vivilor IV
-
 Conjuration (Summoning)
 
 Level: Arcane 4, Divine 4; Effect: One or more summoned creatures, no two of

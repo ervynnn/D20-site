@@ -2,11 +2,6 @@
 title: Crew Quality
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Vehicle Movement and Combat](/modern.d20.srd/vehicle.movement.and.combat) > Crew Quality
-
-## Crew Quality
-
 Rather than force the GM to create, or remember, statistics for everyone
 aboard a [vehicle](/modern.d20.srd/equipment/equipment.vehicles),
 [vehicle](/modern.d20.srd/equipment/equipment.vehicles) statistics include a

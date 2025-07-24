@@ -2,11 +2,6 @@
 title: Gnome
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Shadowkind ](/arcana.d20.srd/shadowkind) > Gnome
-
-##  Gnome
-
 Size: Small. Gnomes gain a +1 size bonus to Defense, a +1 size bonus on attack
 rolls, and a +4 size bonus on Hide checks. They suffer a –4 size penalty on
 grapple checks. Gnomes must use smaller weapons than humans use, and their

@@ -2,11 +2,6 @@
 title: Attack Bonus
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Attack Bonus
-
-## Attack Bonus
-
 A character’s attack bonus with a melee weapon is: Base attack bonus +
 [Strength](/modern.d20.srd/basics/ability.scores) modifier + size modifier
 

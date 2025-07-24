@@ -16,9 +16,6 @@ sections:
     description: Campaign threats and organized dangers
     icon: tabler:skull
 ---
-
-## About D20 Menaces
-
 The D20 Menaces supplement provides specialized threats and challenges for your campaigns. From criminal organizations to dangerous services, this collection enhances your gaming with organized antagonists and campaign-spanning threats.
 
 ### Quick Navigation Tips

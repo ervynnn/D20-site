@@ -2,11 +2,6 @@
 title: Homunculus
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Homunculus
-
-##  Homunculus
-
 Most homunculi cannot speak, with exceptions noted below. However, the process
 of creating a homunculus links it telepathically with its creator. It knows
 what its master knows and can convey to her everything it sees and hears, up

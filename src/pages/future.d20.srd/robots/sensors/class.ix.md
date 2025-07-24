@@ -2,11 +2,6 @@
 title: Class IX Sensor System
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Robots ](/future.d20.srd/robots) > [ Sensors](/future.d20.srd/robots/sensors) > Class IX Sensor System
-
-##  Class IX Sensor System (PL 8)
-
 This sensor system includes a full-spectrum eye with darkvision (out to 180
 feet), a full-frequency ear, a sophisticated olfactory sensor, a tactile
 sensor array, and multiband radar.

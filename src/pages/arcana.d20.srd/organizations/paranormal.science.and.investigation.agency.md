@@ -2,11 +2,6 @@
 title: Paranormal Science and Investigation Agency
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Organizations ](/arcana.d20.srd/organizations) > Paranormal Science and Investigation Agency
-
-##  Paranormal Science and Investigation Agency
-
 Since the 1950s, various branches of the U.S. government have been
 experimenting with different permutations of and uses for mental powers. From
 CIA attempts to create “invisible” spies to Army experiments using

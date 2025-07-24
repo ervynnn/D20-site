@@ -2,11 +2,6 @@
 title: Kwevencha (Spider Fiend)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > [ Fiend](/menaces.d20/menaces/fiend) > Kwevencha (Spider Fiend)
-
-##  Kwevencha (Spider Fiend)
-
 Damage Reduction 5/Silver (Ex): A kwevencha ignores the first 5 points of
 damage dealt by any unsilvered weapon.
 

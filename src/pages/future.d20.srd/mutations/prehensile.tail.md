@@ -2,11 +2,6 @@
 title: Prehensile Tail
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mutations](/future.d20.srd/mutations) > Prehensile Tail
-
-## Prehensile Tail [MAJOR]
-
 You grow a tail that can grasp and hold objects.
 
 MP Cost: 4.

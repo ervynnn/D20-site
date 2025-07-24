@@ -2,11 +2,6 @@
 title: Hit Points
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > [Combat Statistics](/future.d20.srd/starships/combat/combat) > Hit Points
-
-## Hit Points
-
 A starship’s hit points represent how much punishment it can take before being
 disabled or destroyed. A starship’s hit points are based on its type and
 subtype.

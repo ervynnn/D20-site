@@ -2,11 +2,6 @@
 title: Undead
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creature Types](/modern.d20.srd/creature.types) > Undead
-
-## Undead
-
 An undead is a once-living creature animated by spiritual or supernatural
 forces. See Table: Undead for physical ability scores, recommended minimum Hit
 Dice, and damage based on size.

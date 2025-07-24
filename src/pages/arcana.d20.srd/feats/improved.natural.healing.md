@@ -2,11 +2,6 @@
 title: Improved Natural Healing
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Improved Natural Healing
-
-##  Improved Natural Healing
-
 You recover from wounds and injury faster than normal.
 
 **Prerequisite:** Base Fortitude save bonus +5.

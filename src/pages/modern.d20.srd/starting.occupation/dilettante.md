@@ -2,11 +2,6 @@
 title: Dilettante
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Starting Occupation ](/modern.d20.srd/starting.occupation) > Dilettante
-
-##  Dilettante
-
 Dilettantes usually get their wealth from family holdings and trust funds. The
 typical dilettante has no job, few re­sponsibilities, and at least one driving
 passion that ­occupies his or her day. That passion might be a charity or

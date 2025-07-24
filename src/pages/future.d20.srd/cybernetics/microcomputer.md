@@ -2,11 +2,6 @@
 title: Microcomputer
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Cybernetics](/future.d20.srd/cybernetics) > Microcomputer
-
-## Microcomputer (PL 7)
-
 The recipient has a miniature computer attached to his nervous system, usually
 at the base of the skull.
 

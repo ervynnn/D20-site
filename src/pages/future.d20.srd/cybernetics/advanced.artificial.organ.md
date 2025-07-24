@@ -2,11 +2,6 @@
 title: Advanced Artificial Organ
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Cybernetics](/future.d20.srd/cybernetics) > Advanced Artificial Organ
-
-## Advanced Artificial Organ (PL 7)
-
 This advanced version of the PL 5 artificial organ and PL 6 upgrade not only
 replaces a defective or destroyed biological organ but is also more resilient
 and less impairing than its technological predecessors.

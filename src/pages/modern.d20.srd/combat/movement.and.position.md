@@ -2,11 +2,6 @@
 title: Movement and Position
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Movement and Position
-
-## Movement and Position
-
 When using a grid to represent character’s movement, the standard scale
 equates 1 inch (or a 1 inch square) to 5 feet in the game world.
 

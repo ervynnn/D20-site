@@ -2,11 +2,6 @@
 title: Trace Purge
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Trace Purge
-
-## Trace Purge
-
 Transmutation
 
 Level: Arcane 1, Divine 1; Components: V, S, M/DF; Casting Time: Attack

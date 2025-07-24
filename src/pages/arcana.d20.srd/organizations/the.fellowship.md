@@ -2,11 +2,6 @@
 title: The Fellowship
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Organizations](/arcana.d20.srd/organizations) > The Fellowship
-
-## The Fellowship
-
 We know that this is not the first time creatures and people have passed from
 beyond Shadow into our world. There are oblique references to it throughout
 history. So how did our forefathers deal with this incursion from beyond

@@ -2,11 +2,6 @@
 title: Armor
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Robots ](/future.d20.srd/robots) > Armor
-
-##  Armor
-
 Although composed of durable alloys or resilient plastic polymers, robots are
 easily damaged. For this reason, combat models are usually equipped with some
 form of armor, depending on the robot’s frame.

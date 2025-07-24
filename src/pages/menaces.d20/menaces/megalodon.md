@@ -2,11 +2,6 @@
 title: Megalodon
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Megalodon
-
-##  Megalodon
-
 A typical megalodon measures between 55 and 90 feet long, weighs between 10
 and 60 tons, and is characterized by its streamlined body and rear-facing
 teeth.

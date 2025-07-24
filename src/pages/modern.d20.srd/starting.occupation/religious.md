@@ -2,11 +2,6 @@
 title: Religious
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Starting Occupation ](/modern.d20.srd/starting.occupation) > Religious
-
-##  Religious
-
 Ordained clergy of all persuasions, as well as theological scholars and
 experts on religious studies fall within the scope of this starting
 occupation.

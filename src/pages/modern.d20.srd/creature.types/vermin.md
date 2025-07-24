@@ -2,11 +2,6 @@
 title: Vermin
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creature Types](/modern.d20.srd/creature.types) > Vermin
-
-## Vermin
-
 This type includes insects, arachnids, other arthropods, worms, and similar
 invertebrates. See Table: Vermin for physical ability scores, recommended
 minimum Hit Dice, and damage based on size.

@@ -2,11 +2,6 @@
 title: Phantom Watchdog
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX](/modern.d20.srd/fx) > Phantom Watchdog
-
-## Phantom Watchdog
-
 Conjuration (Creation)
 
 [Level](/modern.d20.srd/fx/level):

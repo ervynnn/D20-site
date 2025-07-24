@@ -2,11 +2,6 @@
 title: Knightly Order of St. Bartholomew
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Organizations ](/arcana.d20.srd/organizations) > Knightly Order of St. Bartholomew
-
-##  Knightly Order of St. Bartholomew
-
 This ancient order of hermetic scholars traces its roots back to the Middle
 Ages. Over the centuries, they have invested wisely, spent frugally, and
 amassed an untold fortune that holds them in good stead even in today’s

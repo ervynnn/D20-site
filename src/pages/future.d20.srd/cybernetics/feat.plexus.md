@@ -2,11 +2,6 @@
 title: Feat Plexus
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Cybernetics](/future.d20.srd/cybernetics) > Feat Plexus
-
-## Feat Plexus (PL 8)
-
 This unit, implanted in the recipient’s brain, allows multiple feat implants
 to function as a single cybernetic attachment (see Feat Implant, above).
 

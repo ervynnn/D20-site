@@ -2,11 +2,6 @@
 title: Whisperer in the Dark
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [Menaces](/menaces.d20/menaces) > Whisperer in the Dark
-
-## Whisperer in the Dark
-
 From a distance, a whisperer in the dark resembles a swirling bank of mist or
 light fog, but an observer within 30 feet of the whisperer can clearly see
 dozens of humanoid faces in the fog, silently screaming their endless torment.

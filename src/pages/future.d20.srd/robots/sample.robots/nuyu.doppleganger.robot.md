@@ -2,11 +2,6 @@
 title: “Nuyu” Doppelganger Robot
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > [Sample Robots](/future.d20.srd/robots/sample.robots) > “Nuyu” Doppelganger Robot
-
-## “Nuyu” Doppelganger Robot (PL 7)
-
 Each doppelganger robot is modeled after a specific person. “Nuyu” bioreplicas
 are often used as doubles for politicians and movie stars during high-risk
 public appearances. Government agencies also use them as spies and

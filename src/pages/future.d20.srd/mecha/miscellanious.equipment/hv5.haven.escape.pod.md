@@ -2,11 +2,6 @@
 title: HV-5 Haven Escape Pod
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Miscellanious Equipment](/future.d20.srd/mecha/miscellanious.equipment) > HV-5 Haven Escape Pod
-
-## HV-5 Haven Escape Pod (PL 6)
-
 The HV-5 Haven escape pod jettisons the cockpit and the mecha operator from
 the rest of the mecha (typically because the mecha is about to be destroyed).
 The operator can activate it as a move action and move normally at the Haven’s

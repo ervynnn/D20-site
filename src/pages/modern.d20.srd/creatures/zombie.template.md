@@ -2,11 +2,6 @@
 title: Zombie (Template)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Zombie (Template)
-
-## Zombie (Template)
-
 Zombies do not speak, but they understand the orders of their creators.
 
 ### Template Traits

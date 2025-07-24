@@ -2,11 +2,6 @@
 title: Sample Mecha
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > Sample Mecha
-
-## Sample Mecha
-
 **Size** : The mecha’s body size (and its size penalty on attack rolls and to
 Defense, in parentheses).
 

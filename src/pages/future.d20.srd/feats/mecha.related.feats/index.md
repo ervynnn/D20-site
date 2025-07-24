@@ -2,11 +2,6 @@
 title: Feats
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Feats
-
-##  Mecha-Related Feats
-
 Mecha operators can select feats that relate specifically to operating mecha.
 These feats are all considered bonus feats for the Mecha Jockey advanced
 class. Whenever the Mecha Jockey is allowed to select a bonus feat, she can

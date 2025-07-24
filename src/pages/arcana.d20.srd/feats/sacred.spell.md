@@ -2,11 +2,6 @@
 title: Sacred Spell
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Sacred Spell [Metamagic]
-
-##  Sacred Spell [Metamagic]
-
 You can cast spells imbued with divine energy.
 
 **Benefit:** Half of the damage dealt by a sacred spell is converted into

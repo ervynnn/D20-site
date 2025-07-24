@@ -2,11 +2,6 @@
 title: Man-’O-War, Giant
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Man-’O-War, Giant
-
-##  Man-’O-War, Giant
-
 ###  Species Traits
 
 Attach (Ex): If a giant man-’o-war hits with a strand attack, the strand

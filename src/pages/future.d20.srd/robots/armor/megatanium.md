@@ -2,11 +2,6 @@
 title: Megatanium Armor
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Robots ](/future.d20.srd/robots) > [ Armor](/future.d20.srd/robots/armor) > Megatanium Armor
-
-##  Megatanium Armor (PL 8)
-
 Sandwiched layers of crystal carbon and neovulcanium held in a magnetic
 matrix, megatanium represents the apex of robot armor. It is exceedingly hard
 and durable. Bioreplica robots and liquid-state robots cannot have integrated

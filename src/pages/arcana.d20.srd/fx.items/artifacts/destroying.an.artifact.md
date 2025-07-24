@@ -2,11 +2,6 @@
 title: Destroying an Artifact
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ FX Items ](/arcana.d20.srd/fx.items) > [ Artifacts](/arcana.d20.srd/fx.items/artifacts) > Destroying an Artifact
-
-##  Destroying an Artifact
-
 Artifacts are unnaturally resilient and can only be destroyed by extraordinary
 means. The secret to destroying an artifact is often as well-guarded and
 mysterious as the artifact itself, requiring a successful Research check (DC

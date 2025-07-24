@@ -2,11 +2,6 @@
 title: Instant Identify
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Instant Identify
-
-##  Instant Identify
-
 Divination
 
 Level: Arcane 1, Divine 1; Components: V, S, M/DF; Casting Time: Full-round

@@ -2,11 +2,6 @@
 title: The Displaced
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Organizations ](/arcana.d20.srd/organizations) > The Displaced
-
-##  The Displaced
-
 The mundane world is full of charitable organizations, civic help groups, and
 other resources for people helping other people. No one is really certain
 whether or not this was as prevalent on the other side of Shadow, but

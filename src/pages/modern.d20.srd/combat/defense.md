@@ -2,11 +2,6 @@
 title: Defense
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Defense
-
-## Defense
-
 A character’s Defense represents how hard it is for opponents to land a solid,
 damaging blow on the character. It’s the [attack roll](/modern.d20.srd/combat/attack.roll) result that an opponent needs to
 achieve to hit the character. The average, unarmored civilian has a Defense of

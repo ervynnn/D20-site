@@ -2,11 +2,6 @@
 title: Divination
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Divination
-
-##  Divination
-
 Divination
 
 Level: Acolyte 4; Components: V, S, M; Casting Time: 10 minutes; Range:

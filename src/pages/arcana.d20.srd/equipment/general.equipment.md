@@ -2,11 +2,6 @@
 title: General Equipment
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Equipment ](/arcana.d20.srd/equipment) > General Equipment
-
-##  General Equipment
-
 Many of the items in this section are battery operated. Any device that uses
 batteries comes with them. As a general rule, ignore battery life—assume
 characters are smart enough to recharge or replace their batteries between

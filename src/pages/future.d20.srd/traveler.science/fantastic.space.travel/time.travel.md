@@ -2,11 +2,6 @@
 title: Time Travel
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Traveler Science](/future.d20.srd/traveler.science) > [Fantastic Space Travel](/future.d20.srd/traveler.science/fantastic.space.travel) > Time Travel
-
-## Time Travel
-
 The dream of time travel probably arose out of a desire to go back and correct
 one’s past mistakes—or to visit the future and subsequently return to take
 advantage of foreknowledge. The concept intrigues historians and

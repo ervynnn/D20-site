@@ -1,12 +1,7 @@
 ---
-title: Mutation Points
+title: Mutation Points 
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mutations](/future.d20.srd/mutations) > Mutation Points 
-
-## Mutation Points
-
 Mutation Points (MP) provide a simple method of selecting mutations while
 preserving game balance. All creatures (including heroes) begin play with 0
 MP. A creature gains MP by selecting one or more drawbacks—physical

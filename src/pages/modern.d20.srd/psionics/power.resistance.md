@@ -2,11 +2,6 @@
 title: Power Resistance
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Psionics ](/modern.d20.srd/psionics) > Power Resistance
-
-##  Power Resistance
-
 [ Wisdom ](/modern.d20.srd/basics/ability.scores)
 
 Level: [ Telepath ](/modern.d20.srd/classes/advanced/telepath) 5; Display:

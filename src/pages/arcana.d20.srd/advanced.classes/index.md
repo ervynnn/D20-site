@@ -2,11 +2,6 @@
 title: Advanced Classes
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > Advanced Classes
-
-##  Advanced Classes
-
 | [ Arcane Arranger ](/arcana.d20.srd/advanced.classes/arcane.arranger) | [ Arcane Weaponmaster ](/arcana.d20.srd/advanced.classes/arcane.weaponmaster) |
 |---|---|
 | [ Glamourist ](/arcana.d20.srd/advanced.classes/glamourist) | [ Mystic ](/arcana.d20.srd/advanced.classes/mystic) |

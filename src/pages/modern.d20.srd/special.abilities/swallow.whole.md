@@ -2,11 +2,6 @@
 title: Swallow Whole
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Special Abilities](/modern.d20.srd/special.abilities) > Swallow Whole
-
-## Swallow Whole (Ex)
-
 If the creature begins its turn with an opponent held in its mouth (see
 [improved grab](/modern.d20.srd/special.abilities/improved.grab)), it can
 attempt a new [grapple check](/modern.d20.srd/combat/grapple) (as though

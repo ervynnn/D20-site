@@ -1,12 +1,7 @@
 ---
-title: Seed: Summon
+title: Seed Summon
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Seed: Summon
-
-##  Seed: Summon
-
 Conjuration (Summoning)
 
 Knowledge (arcane lore) DC: 32; Range: Close; Effect: One summoned creature;

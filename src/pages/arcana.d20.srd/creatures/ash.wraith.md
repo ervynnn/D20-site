@@ -2,11 +2,6 @@
 title: Ash Wraith
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Ash Wraith
-
-##  Ash Wraith
-
 Ash wraiths speak whatever languages they spoke in life.
 
 They typically stand between 5 and 6 feet tall. Because they’re incorporeal,

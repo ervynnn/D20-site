@@ -2,11 +2,6 @@
 title: Investigator
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Classes ](/modern.d20.srd/classes) > [ Advanced Classes](/modern.d20.srd/classes/advanced) > Investigator
-
-##  Investigator
-
 ###  Requirements
 
 To qualify to become an Investigator, a character must fulfill the following

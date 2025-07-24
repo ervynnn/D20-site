@@ -2,11 +2,6 @@
 title: Ogre
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Shadowkind ](/arcana.d20.srd/shadowkind) > Ogre
-
-##  Ogre
-
 Size: Large. Ogres take a –1 size penalty to Defense and a –1 size penalty on
 attack rolls. They gain a +4 size bonus on grapple checks and suffer a –4 size
 penalty on Hide checks.

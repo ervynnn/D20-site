@@ -2,11 +2,6 @@
 title: Aberration
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Creature Types ](/modern.d20.srd/creature.types) > Aberration
-
-##  Aberration
-
 An aberration has a bizarre anatomy, strange abilities, an alien mindset, or
 any combination of the three. See Table: Aberrations for physical ability
 scores, recommended minimum Hit Dice, and damage based on size.

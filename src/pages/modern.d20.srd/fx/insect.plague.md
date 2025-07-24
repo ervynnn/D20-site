@@ -2,11 +2,6 @@
 title: Insect Plague
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX ](/modern.d20.srd/fx) > Insect Plague
-
-##  Insect Plague
-
 Conjuration (Summoning) [see text]
 
 [ Level ](/modern.d20.srd/fx/level) : [ Acolyte](/modern.d20.srd/classes/advanced/acolyte) 5; [ Components](/modern.d20.srd/fx/components) : V, S, DF; [ Casting Time](/modern.d20.srd/fx/casting.time) : Full-round action; [ Range](/modern.d20.srd/fx/range) : Long (400 ft. + 40 ft./level); Effect: Cloud of

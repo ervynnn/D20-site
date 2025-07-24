@@ -2,11 +2,6 @@
 title: Jack Of All Trades
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Feats](/arcana.d20.srd/feats) > Jack Of All Trades
-
-## Jack Of All Trades
-
 You have an amateur’s knowledge of all skills, even ones that require
 training.
 

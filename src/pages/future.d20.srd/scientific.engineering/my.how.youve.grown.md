@@ -2,11 +2,6 @@
 title: My, How You’ve Grown
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > My, How You’ve Grown
-
-## My, How You’ve Grown
-
 The advent of cloning allows scientists to create genetically identical
 embryos that age normally. Unless a clone is created during the first year or
 two of a person’s life, such a significant age difference exists between the

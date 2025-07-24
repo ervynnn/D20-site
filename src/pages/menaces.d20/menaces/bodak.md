@@ -2,11 +2,6 @@
 title: Bodak
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Bodak
-
-##  Bodak
-
 ###  Species Traits
 
 Acid and Fire Resistance 20 (Ex): A bodak ignores the first 20 points of acid

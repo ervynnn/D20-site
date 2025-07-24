@@ -2,11 +2,6 @@
 title: Falling
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Environment & Hazards](/modern.d20.srd/environment.hazards) > Falling
-
-##  Falling
-
 A character takes 1d6 points of [ damage ](/modern.d20.srd/combat/damage) for
 every 10 feet of a fall, to a maximum of 20d6 points. If the character
 succeeds on a Reflex [ saving throw ](/modern.d20.srd/basics/saving.throws)

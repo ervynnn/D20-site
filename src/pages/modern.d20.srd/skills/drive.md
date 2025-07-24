@@ -2,11 +2,6 @@
 title: Drive
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Drive
-
-## Drive ([Dex](/modern.d20.srd/basics/ability.scores))
-
 [Check](/modern.d20.srd/skills/skill.basics): Routine tasks, such as
 ordinary driving, don’t require a [skill check](/modern.d20.srd/skills/skill.basics). Make a
 [check](/modern.d20.srd/skills/skill.basics) only when some unusual

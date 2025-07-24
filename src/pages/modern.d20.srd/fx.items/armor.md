@@ -2,11 +2,6 @@
 title: Armor
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX Items](/modern.d20.srd/fx.items) > Armor
-
-## Armor
-
 Magic and psionic [armor](/modern.d20.srd/equipment/armor.general) protects
 the wearer better than [armor](/modern.d20.srd/equipment/armor.general)
 without any enhancement. Magic and psionic
@@ -35,7 +30,8 @@ Purchase DC: To calculate the purchase DC for
 no special qualities, use the following table.
 
 
-<table> <tr> <th>Enhancement Bonus</th> <th>Purchase DC Modifier</th> </tr> <tr><td> +1</td><td> +8 </td></tr> <tr><td> +2</td><td> +13 </td></tr> <tr><td> +3</td><td> +18 </td></tr> </table> [Armor](/modern.d20.srd/equipment/armor.general) with special qualities has an
+<table> <tr> <th>Enhancement Bonus</th> <th>Purchase DC Modifier</th> </tr> <tr><td> +1</td><td> +8 </td></tr> <tr><td> +2</td><td> +13 </td></tr> <tr><td> +3</td><td> +18 </td></tr> </table>
+ [Armor](/modern.d20.srd/equipment/armor.general) with special qualities has an
 additional purchase DC modifier, as noted under each item entry.
 
 Examples of [armor](/modern.d20.srd/equipment/armor.general) with special

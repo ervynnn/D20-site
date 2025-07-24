@@ -2,11 +2,6 @@
 title: Computer Use
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Expanded Skills ](/future.d20.srd/expanded.skills) > Computer Use
-
-##  Computer Use (Int)
-
 In addition to all the standard uses, this skill can be used to operate
 shipboard sensors as well as send, jam, scramble, and unscramble transmissions
 sent through space or across dimensions.

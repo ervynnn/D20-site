@@ -2,11 +2,6 @@
 title: Environmental Seal
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Armor Gadgets ](/future.d20.srd/equipment/gadgets.universal) > Environmental Seal
-
-##  Environment Seal
-
 Since many armors are designed with a particular environment in mind, this
 gadget provides the wearer protection from harsh conditions.
 

@@ -2,11 +2,6 @@
 title: Outcast
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starting Occupations](/future.d20.srd/starting) > Outcast
-
-## Outcast
-
 “Outcast” is not so much an occupation as a forced way of life. Persecuted and
 exiled for being different, outcasts are lone pariahs or shunned members of a
 culture whose customs or characteristics society finds deviant or abhorrent.

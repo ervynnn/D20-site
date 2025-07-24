@@ -2,11 +2,6 @@
 title: Dreadnought
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Types](/future.d20.srd/starships/starship) > [ Superheavy Starship Subtypes](/future.d20.srd/starships/starship.types/superheavy.starship) > Dreadnought
-
-##  Dreadnought (PL 7)
-
 The mightiest ships found in the battle lines of a stellar navy, dreadnoughts
 are titanic vessels armed with awesome firepower and virtually impregnable
 defenses. Its fighting space takes up 36 500-foot squares (a 6-square-

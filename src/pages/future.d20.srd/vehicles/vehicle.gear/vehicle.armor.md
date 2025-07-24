@@ -2,11 +2,6 @@
 title: Vehicular Armor
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Vehicles](/future.d20.srd/vehicles) > [Vehicle Gear](/future.d20.srd/vehicles/vehicle.gear) > Vehicular Armor
-
-## Vehicular Armor
-
 Armor can be welded or otherwise fixed securely to a vehicle’s chassis,
 providing an equipment bonus to the vehicle’s Defense. Vehicular armor also
 makes a vehicle more ungainly, imposing a penalty on the vehicle operator’s

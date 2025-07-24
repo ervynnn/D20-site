@@ -2,11 +2,6 @@
 title: Feats
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Feats
-
-## Mecha Weapon Proficiency
-
 You know how to acquire targets and fire your mecha’s weapons using onboard
 computers and sensors.
 

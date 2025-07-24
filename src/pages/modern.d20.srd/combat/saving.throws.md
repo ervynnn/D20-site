@@ -2,11 +2,6 @@
 title: Saving Throws
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Combat ](/modern.d20.srd/combat) > Saving Throws
-
-##  Saving Throws
-
 Generally, when a character is subject to an unusual or magical attack, he or
 she gets a saving throw to avoid or reduce the effect. A saving throw is a
 1d20 roll plus a bonus based on the character’s class and level (the

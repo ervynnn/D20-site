@@ -2,11 +2,6 @@
 title: Halfling
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Shadowkind ](/arcana.d20.srd/shadowkind) > Halfling
-
-##  Halfling
-
 Species Traits
 
 Size: Small. Halflings gain a +1 size bonus to Defense, a +1 size bonus on

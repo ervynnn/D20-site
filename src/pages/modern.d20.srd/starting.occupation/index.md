@@ -2,9 +2,6 @@
 title: Starting Occupation
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-## Starting Occupation
-
 A hero may hold other jobs as his or her career unfolds, but the benefits of a
 starting occupation are only applied once, at the time of character creation.
 

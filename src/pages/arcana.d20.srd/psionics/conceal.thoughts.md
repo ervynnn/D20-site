@@ -2,11 +2,6 @@
 title: Conceal Thoughts
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Psionics ](/arcana.d20.srd/psionics) > Conceal Thoughts
-
-##  Conceal Thoughts
-
 Charisma
 
 Level: Telepath 1; Display: Visual; Manifestation Time: Attack action; Range:

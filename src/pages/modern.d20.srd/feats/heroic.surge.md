@@ -2,11 +2,6 @@
 title: Heroic Surge
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Heroic Surge
-
-## Heroic Surge
-
 Benefit: The character may take an extra [move action](/modern.d20.srd/combat/move.actions) or [attack action](/modern.d20.srd/combat/attack.actions) in a round, either before or
 after the character’s regular actions. The character may use Heroic Surge a
 number of times per day depending on his or her character level (as shown

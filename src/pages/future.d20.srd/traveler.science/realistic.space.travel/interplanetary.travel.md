@@ -2,11 +2,6 @@
 title: Interplanetary Travel
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Traveler Science](/future.d20.srd/traveler.science) > [Realistic Space Travel](/future.d20.srd/traveler.science/realistic.space.travel) > Interplanetary Travel
-
-## Interplanetary Travel
-
 In Progress Level 5, humanity has the technology to send unmanned probes to
 the edge of the solar system. However, human sojourns into space are limited
 to orbital missions and trips to the Moon, as longer journeys would take

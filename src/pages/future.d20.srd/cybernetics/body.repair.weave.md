@@ -2,11 +2,6 @@
 title: Body Repair Weave
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Cybernetics](/future.d20.srd/cybernetics) > Body Repair Weave
-
-## Body Repair Weave (PL 7)
-
 A delicate weave of subdermal biowires stimulates and repairs the body’s
 damaged tissue.
 

@@ -2,11 +2,6 @@
 title: Tumble
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Tumble
-
-## Tumble ([Dex](/modern.d20.srd/basics/ability.scores)) [Trained Only](/modern.d20.srd/skills/skill.basics); [Armor Penalty](/modern.d20.srd/equipment/armor.general)
-
 [Check](/modern.d20.srd/skills/skill.basics): A character can land
 softly when he or she falls, tumble past opponents in combat, or tumble
 through opponents.

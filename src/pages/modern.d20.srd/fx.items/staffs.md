@@ -2,11 +2,6 @@
 title: Staffs
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX Items ](/modern.d20.srd/fx.items) > Staffs
-
-##  Staffs
-
 A staff is a 4- to 7-foot-long, ornately wrought shaft of wood enhanced to
 cast a number of different (though often related) spells or psionic powers.
 Most staffs easily double as walking sticks or cudgels. A staff has a Defense

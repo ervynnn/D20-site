@@ -2,11 +2,6 @@
 title: Werewolf (Template)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Werewolf (Template)
-
-## Werewolf (Template)
-
 Natural werewolves are humanoids born with the ability to assume wolf and
 hybrid forms. A [humanoid](/modern.d20.srd/creature.types/humanoid) who
 contracts lycanthropy after being wounded by a werewolf becomes an afflicted

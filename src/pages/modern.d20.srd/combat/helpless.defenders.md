@@ -2,11 +2,6 @@
 title: Helpless Defenders
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Helpless Defenders
-
-## Helpless Defenders
-
 A helpless foe—one who is bound, sleeping, unconscious, or otherwise at the
 attacker’s mercy—is an easy target. A character can sometimes approach a
 target who is unaware of his or her presence, get adjacent to the target, and

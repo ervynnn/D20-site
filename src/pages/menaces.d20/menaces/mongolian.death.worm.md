@@ -2,11 +2,6 @@
 title: Mongolian Death Worm
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Mongolian Death Worm
-
-##  Mongolian Death Worm
-
 ###  Species Traits
 
 Bonus Feat: A Mongolian death worm gains Weapon Finesse (bite) as a bonus

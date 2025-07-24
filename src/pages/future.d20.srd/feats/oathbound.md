@@ -2,11 +2,6 @@
 title: Oathbound
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Feats](/future.d20.srd/feats) > Oathbound
-
-## Oathbound
-
 You swear undying allegiance to a person, group, organization, nation, planet,
 stellar empire, ethical philosophy, moral philosophy, or belief system. By
 doing so, you can better influence others who share your allegiance and more

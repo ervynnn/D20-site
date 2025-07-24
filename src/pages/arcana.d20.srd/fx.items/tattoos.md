@@ -2,11 +2,6 @@
 title: Tattoos
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [FX Items](/arcana.d20.srd/fx.items) > Tattoos
-
-## Tattoos
-
 Tattoos are single-use “items” containing a spell-like effect that effects
 only the bearer.
 

@@ -2,11 +2,6 @@
 title: Dinosaur, Pteradon
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Dinosaur, Pteradon
-
-##  Dinosaur, Pteradon
-
 ###  Species Traits
 
 Scent (Ex): This ability allows a pteradon to detect approaching enemies,

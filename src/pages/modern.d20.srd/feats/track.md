@@ -2,11 +2,6 @@
 title: Track
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Track
-
-## Track
-
 Benefit: To find tracks or follow them for one mile requires a
 [Survival](/modern.d20.srd/skills/survival)
 [check](/modern.d20.srd/skills/skill.basics). The character must

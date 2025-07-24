@@ -2,11 +2,6 @@
 title: Half-Dragon
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Shadowkind ](/arcana.d20.srd/shadowkind) > Half-Dragon
-
-##  Half-Dragon
-
 Size: Medium. Half-dragons have no special bonuses or penalties due to their
 size.
 

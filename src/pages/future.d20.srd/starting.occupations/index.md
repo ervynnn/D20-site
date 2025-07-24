@@ -2,11 +2,6 @@
 title: Starting Occupations
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Starting Occupations
-
-##  Starting Occupations
-
 [ Astronaut Trainee ](/future.d20.srd/starting.occupations/astronaut.trainee)
 
 [ Colonist ](/future.d20.srd/starting.occupations/colonist)

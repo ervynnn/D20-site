@@ -2,11 +2,6 @@
 title: Using FX Items
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX Items ](/modern.d20.srd/fx.items) > Using FX Items
-
-##  Using FX Items
-
 To use a magic item or psionic item, it must be activated. The three ways to
 activate FX items are described below.
 

@@ -2,11 +2,6 @@
 title: Armor
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > Armor
-
-## Armor
-
 Body armor comes in a variety of shapes and sizes, providing varying degrees
 of coverage and varying heaviness of materials.
 

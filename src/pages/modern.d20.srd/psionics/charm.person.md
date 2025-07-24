@@ -2,11 +2,6 @@
 title: Charm Person
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Psionics ](/modern.d20.srd/psionics) > Charm Person
-
-##  Charm Person
-
 [ Charisma ](/modern.d20.srd/basics/ability.scores) [Compulsion, Mind- Affecting, Language-Dependent]
 
 Level: [ Telepath ](/modern.d20.srd/classes/advanced/telepath) 1; Display:

@@ -2,11 +2,6 @@
 title: Otyugh
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Otyugh
-
-##  Otyugh
-
 Otyughs weigh 500–750 pounds. They speak one local language.
 
 ###  Species Traits

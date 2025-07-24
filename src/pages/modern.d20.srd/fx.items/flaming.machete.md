@@ -2,11 +2,6 @@
 title: Flaming Machete
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX Items ](/modern.d20.srd/fx.items) > [ Weapons](/modern.d20.srd/fx.items/weapons) > Flaming Machete
-
-##  Flaming Machete
-
 In addition to its enhancement bonus, this machete becomes sheathed in flames
 when the wielder utters a command word. The fire does not harm the hand that
 holds the weapon, and the machete deals +1d6 points of fire [ damage](/modern.d20.srd/combat/damage) on a successful hit.

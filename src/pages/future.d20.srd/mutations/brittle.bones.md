@@ -2,11 +2,6 @@
 title: Brittle Bones
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Brittle Bones
-
-##  Brittle Bones [DRAWBACK]
-
 Your bones weaken such that you can no longer withstand hard or sudden
 impacts.
 

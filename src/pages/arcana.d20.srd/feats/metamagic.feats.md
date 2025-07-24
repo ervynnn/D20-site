@@ -2,11 +2,6 @@
 title: Metamagic Feats
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Feats](/arcana.d20.srd/feats) > Metamagic Feats
-
-## Metamagic Feats
-
 As a spellcaster’s knowledge of magic grows, he or she can learn to cast
 spells in ways slightly different from how the spells were originally designed
 or learned. For example, a spellcaster can learn to cast a spell without

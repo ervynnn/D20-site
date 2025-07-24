@@ -2,11 +2,6 @@
 title: Acid Rainer
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Acid Rainer
-
-##  Satanic Ichor
-
 A 13-gallon canister of satanic ichor weighs 250 pounds. A typical canister
 has hardness 5, 15 hit points, and a break DC of 18. If the canister sports a
 lock, the lock is usually high quality (Open Lock DC 30). Once released from

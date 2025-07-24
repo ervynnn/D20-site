@@ -2,11 +2,6 @@
 title: Harriken (Headsnatcher Fiend)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > [ Fiend](/menaces.d20/menaces/fiend) > Harriken (Headsnatcher Fiend)
-
-##  Harriken (Headsnatcher Fiend)
-
 A harriken can detach its head from its body and replace it with the
 decapitated head of any humanoid creature. In so doing, it can assume the dead
 creature’s form.

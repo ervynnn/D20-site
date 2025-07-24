@@ -2,11 +2,6 @@
 title: Advanced Two-Weapon Fighting
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Advanced Two-Weapon Fighting
-
-## Advanced Two-Weapon Fighting
-
 Prerequisites: [Dexterity](/modern.d20.srd/basics/ability.scores) 13, [Two- Weapon Fighting](/modern.d20.srd/feats/two.weapon.fighting), [Improved Two- Weapon Fighting](/modern.d20.srd/feats/improved.two.weapon.fighting), base
 attack bonus +11.
 

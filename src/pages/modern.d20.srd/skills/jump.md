@@ -2,11 +2,6 @@
 title: Jump
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Jump
-
-## Jump ([Str](/modern.d20.srd/basics/ability.scores)) [Armor Penalty](/modern.d20.srd/equipment/armor.general)
-
 [Check](/modern.d20.srd/skills/skill.basics): The DC and the
 distance the character can cover vary according to the type of jump the
 character is attempting.

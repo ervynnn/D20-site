@@ -2,11 +2,6 @@
 title: Mapinguari
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Mapinguari
-
-##  Mapinguari
-
 A mapinguari is more than 7 feet tall at the shoulder. Its body resembles that
 of a sloth and is covered with shaggy black or dark red fur. It has a long,
 sharp, backward-curving talon on each toe, and its face looks almost human.

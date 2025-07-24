@@ -1,12 +1,7 @@
 ---
-title: Seed: Delude
+title: Seed Delude
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Seed: Delude
-
-##  Seed: Delude
-
 Illusion
 
 Knowledge (arcane lore) DC: 30; Range: Long; Effect: Visual figment that can

@@ -2,11 +2,6 @@
 title: Attack Actions
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > Attack Actions
-
-## Attack Actions
-
 Most common attack actions are described below.
 
 ### Attack (Ranged)

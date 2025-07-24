@@ -2,11 +2,6 @@
 title: Scrying
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Scrying
-
-## Scrying
-
 Divination
 
 Level: Arcane 4, Divine 5; Components: V, S, M/DF, F; Casting Time: 1 hour;

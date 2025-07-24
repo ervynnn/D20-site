@@ -2,11 +2,6 @@
 title: Trip
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Trip
-
-## Trip
-
 A character can try to trip an opponent, or otherwise knock him or her down,
 as an unarmed melee attack. A character can only trip an opponent who is one
 size category larger than the character, the same size, or smaller.

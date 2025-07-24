@@ -2,11 +2,6 @@
 title: Udoroot
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Udoroot
-
-##  Udoroot
-
 Udoroots are enormous carnivorous plants that possess psionic powers. The bulk
 of an udoroot lies beneath the soil. Its massive, bulbous root system can
 reach down as far as 30 feet below the surface. The above-ground portion of

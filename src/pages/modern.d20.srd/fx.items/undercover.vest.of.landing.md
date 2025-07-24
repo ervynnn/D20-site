@@ -2,11 +2,6 @@
 title: Undercover Vest of Landing
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX Items ](/modern.d20.srd/fx.items) > [ Armor](/modern.d20.srd/fx.items/armor) > Undercover Vest of Landing
-
-##  Undercover Vest of Landing
-
 The wearer of this undercover vest gains a +1 to +3 enhancement bonus to [Defense ](/modern.d20.srd/combat/defense) . The wearer also ignores the first
 20 feet of damage from any [ fall](/modern.d20.srd/environment.hazards/falling) . Regardless of the height of
 the fall, the wearer always lands on his or her feet.

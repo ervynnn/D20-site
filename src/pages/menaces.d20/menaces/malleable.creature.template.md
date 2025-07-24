@@ -2,11 +2,6 @@
 title: Malleable Creature (Template)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Malleable Creature (Template)
-
-##  Malleable Creature (Template)
-
 ###  Template Traits
 
 “Malleable creature” is an acquired template that can be added to any

@@ -2,11 +2,6 @@
 title: Unnatural Selection
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > Unnatural Selection
-
-## Unnatural Selection
-
 Gene therapy as practiced at PL 5—targeting specific cells for localized
 modification—affects only the patient directly receiving the treatment. She is
 unable to pass the modifications on to her offspring. However, once the

@@ -2,11 +2,6 @@
 title: Urban Wendigo
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Urban Wendigo
-
-##  Urban Wendigo
-
 An urban wendigo is generally 8 feet tall and weighs 400 pounds.
 
 ###  Species Traits

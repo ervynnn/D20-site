@@ -2,11 +2,6 @@
 title: Profession
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Profession
-
-## Profession ([Wis](/modern.d20.srd/basics/ability.scores))
-
 [Check](/modern.d20.srd/skills/skill.basics): A character makes
 Profession [checks](/modern.d20.srd/skills/skill.basics) to improve
 his or her [Wealth bonus](/modern.d20.srd/wealth/wealth.bonus) every time he

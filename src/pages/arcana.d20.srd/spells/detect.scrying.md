@@ -2,11 +2,6 @@
 title: Detect Scrying
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Detect Scrying
-
-## Detect Scrying
-
 Divination
 
 Level: Arcane 4; Components: V, S, M; Casting Time: Attack action; Range: 120

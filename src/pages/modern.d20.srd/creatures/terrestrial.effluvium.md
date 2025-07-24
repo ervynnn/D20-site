@@ -2,11 +2,6 @@
 title: Terrestrial Effluvium
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Terrestrial Effluvium
-
-## Terrestrial Effluvium
-
 ### Species Traits
 
 Ooze: Terrestrial effluvium has the traits and immunities common to

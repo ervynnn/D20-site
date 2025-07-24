@@ -2,11 +2,6 @@
 title: Cat
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Cat
-
-## Cat
-
 ### Species Traits
 
 Skill Bonuses: Cats receive a +8 species bonus on

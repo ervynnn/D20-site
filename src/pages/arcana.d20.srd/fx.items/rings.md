@@ -2,11 +2,6 @@
 title: Rings
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [FX Items](/arcana.d20.srd/fx.items) > Rings
-
-## Rings
-
 A ring is a circular metal band worn on the finger that contains a spell-like
 effect (often an effect that persists as long as the ring is worn).
 

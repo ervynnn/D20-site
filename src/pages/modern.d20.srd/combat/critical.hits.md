@@ -2,11 +2,6 @@
 title: Critical Hits
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Critical Hits
-
-## Critical Hits
-
 When a character makes an [attack roll](/modern.d20.srd/combat/attack.roll)
 and gets a natural 20 (the d20 shows 20), the character hits regardless of the
 target’s [Defense](/modern.d20.srd/combat/defense), and the character has

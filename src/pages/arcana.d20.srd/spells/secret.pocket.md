@@ -2,11 +2,6 @@
 title: Secret Pocket
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Secret Pocket
-
-## Secret Pocket
-
 Conjuration (Summoning)
 
 Level: Arcane 3, Divine 3; Components: V, S, M/DF; Casting Time: Attack

@@ -2,11 +2,6 @@
 title: Creative
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Starting Occupation ](/modern.d20.srd/starting.occupation) > Creative
-
-##  Creative
-
 The creative starting occupation covers artists of all types who fan their
 creative spark into a career. Illustrators, copywriters, cartoonists, graphic
 artists, novelists, magazine columnists, actors, sculptors, game designers,

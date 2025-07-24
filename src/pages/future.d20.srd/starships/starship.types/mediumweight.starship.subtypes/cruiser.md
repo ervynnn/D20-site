@@ -2,11 +2,6 @@
 title: Strike Cruiser
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > [Mediumweight Starship Subtypes](/future.d20.srd/starships/starship.types/mediumweight.starship) > Strike Cruiser
-
-## Cruiser (PL 6)
-
 The cruiser is a warship that serves several roles. It may be part of a task
 force, escorting capital ships or laying mines. It may operate independently
 as a scout and raider. Conversely, it may serve in diplomatic and scientific

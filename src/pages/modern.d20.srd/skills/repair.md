@@ -2,11 +2,6 @@
 title: Repair
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Repair
-
-## Repair ([Int](/modern.d20.srd/basics/ability.scores)) [Trained Only](/modern.d20.srd/skills/skill.basics)
-
 [Check](/modern.d20.srd/skills/skill.basics): Most Repair
 [checks](/modern.d20.srd/skills/skill.basics) are made to fix
 complex electronic or mechanical devices. The DC is set by the GM. In general,

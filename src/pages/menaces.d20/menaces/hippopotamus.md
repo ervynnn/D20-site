@@ -2,11 +2,6 @@
 title: Hippopotamus
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Hippopotamus
-
-##  Hippopotamus
-
 ###  Species Traits
 
 Hold Breath (Ex): A hippopotamus can seal its nostrils by muscular action and

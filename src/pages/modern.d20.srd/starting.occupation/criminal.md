@@ -2,11 +2,6 @@
 title: Criminal
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Starting Occupation ](/modern.d20.srd/starting.occupation) > Criminal
-
-##  Criminal
-
 This illicit starting occupation reveals a background from the wrong side of
 the law. This occupation includes con artists, burglars, thieves, crime family
 soldiers, gang members, bank robbers, and other types of career criminals.

@@ -2,11 +2,6 @@
 title: Melee Weapons
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > Melee Weapons
-
-## Melee Weapons
-
 Melee weapons are used in close combat, and they are generally among the
 simplest types of weapons. The feat that provides proficiency with these
 weapons varies from weapon to weapon; some are considered simple weapons

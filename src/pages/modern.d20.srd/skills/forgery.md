@@ -2,11 +2,6 @@
 title: Forgery
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Forgery
-
-## Forgery ([Int](/modern.d20.srd/basics/ability.scores))
-
 [Check](/modern.d20.srd/skills/skill.basics): Forgery requires
 materials appropriate to the document being forged, and some time. To forge a
 document the character needs to have seen a similar document before. The

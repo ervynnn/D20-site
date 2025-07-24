@@ -2,11 +2,6 @@
 title: Star Doppelganger
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [Menaces](/menaces.d20/menaces) > Star Doppelganger
-
-## Star Doppelganger
-
 In its natural form, a star doppelganger is a hideous conglomeration of all
 the creatures it has mimicked over the ages. An individual’s body may exhibit
 any combination of features, including fish fins, crab claws, spider legs,

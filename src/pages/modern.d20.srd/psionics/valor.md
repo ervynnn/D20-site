@@ -2,11 +2,6 @@
 title: Valor
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Psionics ](/modern.d20.srd/psionics) > Valor
-
-##  Valor
-
 [ Strength ](/modern.d20.srd/basics/ability.scores)
 
 Level: [ Battle Mind ](/modern.d20.srd/classes/advanced/battle.mind) 0;

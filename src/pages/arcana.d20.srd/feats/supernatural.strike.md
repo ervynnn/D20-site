@@ -2,11 +2,6 @@
 title: Supernatural Strike
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Supernatural Strike
-
-##  Supernatural Strike
-
 You may score critical hits against creatures that are normally unaffected by
 critical hits.
 

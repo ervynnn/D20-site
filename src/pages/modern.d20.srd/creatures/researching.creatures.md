@@ -2,11 +2,6 @@
 title: Researching Creatures
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Researching Creatures
-
-## Researching Creatures
-
 Researching a creature and learning its weaknesses will increase the
 likelihood of victory in the ultimate confrontation.
 

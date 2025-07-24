@@ -2,11 +2,6 @@
 title: Artifacts
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ FX Items ](/arcana.d20.srd/fx.items) > Artifacts
-
-##  Artifacts
-
 Artifacts are wondrous items that are especially powerful, particularly
 difficult to craft, or unique. They are ancient relics whose origins are
 shrouded in mystery. Even the most powerful artificers cannot create

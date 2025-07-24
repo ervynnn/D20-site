@@ -2,11 +2,6 @@
 title: Knowledge
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Knowledge
-
-## Knowledge ([Int](/modern.d20.srd/basics/ability.scores)) [Trained Only](/modern.d20.srd/skills/skill.basics)
-
 This skill encompasses several categories, each of them treated as a separate
 skill. These categories are identified and defined below.
 

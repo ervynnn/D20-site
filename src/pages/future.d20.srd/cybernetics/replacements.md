@@ -2,11 +2,6 @@
 title: Replacements
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Cybernetics](/future.d20.srd/cybernetics) > Replacements
-
-## Replacements
-
 The most basic replacement limbs and organs don’t bestow any special benefits,
 but they suffer the usual drawbacks (see Benefits and Drawbacks, above). Some
 replacements of higher PL are built to counter certain drawbacks, as noted.

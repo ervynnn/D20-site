@@ -2,11 +2,6 @@
 title: Courier
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > [Ultralight Starship Subtypes](/future.d20.srd/starships/starship.types/ultralight.starship) > Courier
-
-## Courier (PL 6)
-
 A courier is capable of extended operation away from its base (frequently a
 larger ship). Many low-end star yachts fall into the courier category.
 

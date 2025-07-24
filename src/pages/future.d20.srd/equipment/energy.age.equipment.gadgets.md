@@ -2,11 +2,6 @@
 title: Energy Age Equipment Gadgets
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Equipment](/future.d20.srd/equipment) > Energy Age Equipment Gadgets
-
-## Energy Age Equipment Gadgets
-
 The following gadget is found in the Energy Age and can apply to pieces of
 equipment of that era, provided all gadget-specific restrictions are observed.
 

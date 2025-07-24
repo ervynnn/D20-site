@@ -2,11 +2,6 @@
 title: Sleight of Hand
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Sleight of Hand
-
-## Sleight of Hand ([Dex](/modern.d20.srd/basics/ability.scores)) [Trained Only](/modern.d20.srd/skills/skill.basics); [Armor Penalty](/modern.d20.srd/equipment/armor.general)
-
 [Check](/modern.d20.srd/skills/skill.basics): A
 [check](/modern.d20.srd/skills/skill.basics) against DC 10 lets a
 character palm a coin-sized, unattended object. Minor feats of sleight of

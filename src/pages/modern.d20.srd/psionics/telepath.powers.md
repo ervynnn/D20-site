@@ -2,11 +2,6 @@
 title: Telepath Powers
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Psionics](/modern.d20.srd/psionics) > Telepath Powers
-
-## Telepath Powers
-
 ### 0-Level Telepath Powers
 
 [Burst](/modern.d20.srd/psionics/burst) (Dex): Speed improves by 10 feet for 1

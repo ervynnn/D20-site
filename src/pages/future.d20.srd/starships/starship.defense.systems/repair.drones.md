@@ -2,11 +2,6 @@
 title: Repair Drones
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Defense Systems](/future.d20.srd/starships/starship.defense) > Repair Drones
-
-## Repair Drones (PL 7)
-
 Repair drones are Small spiderlike robots that rapidly deploy to damaged
 sections of a ship’s outer hull. They are programmed to repair damage quickly
 and efficiently.

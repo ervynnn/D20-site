@@ -2,11 +2,6 @@
 title: Mecha
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Mecha
-
-##  Mecha
-
 Mecha technology can be found in societies of PL 6 or higher.
 
 <div class="border-t border-slate-200 dark:border-slate-700">
@@ -28,8 +23,6 @@ Mecha technology can be found in societies of PL 6 or higher.
     <a href="/future.d20.srd/mecha/mecha.defense.systems" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Mecha Defense Systems</a>
   </div>
 </div>
-
-## [Mecha Weapons](/future.d20.srd/mecha/mecha.weapons)
 
  <div class="border-t border-slate-200 dark:border-slate-700">
   <!-- Row 1 -->
@@ -86,9 +79,6 @@ Mecha technology can be found in societies of PL 6 or higher.
     <a href="/future.d20.srd/mecha/miscellanious.equipment/nanorepair.unit" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Nanorepair Unit</a>
   </div>
 </div>
-
-
-## [Sample Mecha](/future.d20.srd/mecha/sample.mecha)
 
 ### PL 6
 <div class="border-t border-slate-200 dark:border-slate-700">

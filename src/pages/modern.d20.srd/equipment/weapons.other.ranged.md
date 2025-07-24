@@ -2,11 +2,6 @@
 title: Other Ranged Weapons
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > [Weapons](/modern.d20.srd/equipment/equipment.weapons) > Other Ranged Weapons
-
-## Other Ranged Weapons
-
 (Weapons Proficiency feat needed given in parentheses)
 
 

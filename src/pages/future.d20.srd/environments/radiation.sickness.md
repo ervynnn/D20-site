@@ -2,11 +2,6 @@
 title: Radiation Sickness
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Environments](/future.d20.srd/environments) > Radiation Sickness
-
-## Radiation Sickness
-
 Radiation can be naturally or artificially produced. All stars produce
 radiation in some variety, and planets closer to these stars typically suffer
 more severe effects than worlds farther away. Many starships and other pieces

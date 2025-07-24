@@ -2,11 +2,6 @@
 title: Stellar Hazards
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Environments](/future.d20.srd/environments) > Stellar Hazards
-
-## Stellar Hazards
-
 Two types of stellar hazards can create higher-than-normal levels of ionizing
 radiation: solar flares and cosmic rays.
 

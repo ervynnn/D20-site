@@ -2,11 +2,6 @@
 title: Manipulators
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > Manipulators
-
-## Manipulators
-
 Without some kind of manipulating appendage, robots cannot lift or move
 objects. Manipulators can be as crude as a simple probe or as complex as a
 five-fingered hand.

@@ -2,11 +2,6 @@
 title: Restricted Objects
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > Restricted Objects
-
-## Restricted Objects
-
 Some objects require licenses to own or operate, or are restricted in use to
 qualifying organizations or individuals. In such cases, a character must
 purchase a license or pay a fee to legally own the object. A license or fee is

@@ -2,11 +2,6 @@
 title: Phantasmal Killer
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Phantasmal Killer
-
-## Phantasmal Killer
-
 Illusion [Fear, Mind-Affecting]
 
 Level: Arcane 4; Components: V, S; Casting Time: Attack action; Range: Medium

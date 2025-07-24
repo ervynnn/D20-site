@@ -2,11 +2,6 @@
 title: Ultra Immune System
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Ultra Immune System
-
-##  Ultra Immune System [MINOR]
-
 You develop a powerful immune system capable of repelling many poisons,
 diseases, and radiation sickness.
 

@@ -2,11 +2,6 @@
 title: Saving Throws
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Basics](/modern.d20.srd/basics) > Saving Throws
-
-## Saving Throws
-
 Generally, when a hero is subject to an unusual or magical attack, he or she
 gets a saving throw to avoid or reduce the effect. Like an [attack roll](/modern.d20.srd/combat/attack.roll), a saving throw is a 1d20 roll plus
 a bonus based on the hero’s class and level (the hero’s base save bonus) and

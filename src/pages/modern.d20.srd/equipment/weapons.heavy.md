@@ -3,11 +3,6 @@ title: Heavy
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > [Weapons](/modern.d20.srd/equipment/equipment.weapons) > Heavy
-
-## Heavy Weapons (each requires a specific Exotic Firearms Proficiency feat)
-
-
 <table> <tr><th> Name</th><th> <a href="/modern.d20.srd/equipment/equipment.weapons">Damage</a></th> <th> <a href="/modern.d20.srd/equipment/equipment.weapons">Critical</a></th> <th> <a href="/modern.d20.srd/equipment/equipment.weapons">Damage Type</a></th> <th> <a href="/modern.d20.srd/equipment/equipment.weapons">Range Increment</a></th> <th> <a href="/modern.d20.srd/equipment/equipment.weapons">Rate of Fire</a></th> <th> <a href="/modern.d20.srd/equipment/equipment.weapons">Magazine</a></th> <th> <a href="/modern.d20.srd/equipment/equipment.weapons">Size</a></th> <th> <a href="/modern.d20.srd/equipment/equipment.weapons">Weight</a></th> <th> <a href="/modern.d20.srd/equipment/equipment.weapons">Purchase DC</a></th> <th> <a href="/modern.d20.srd/equipment/equipment.weapons">Restriction</a></th></tr> <tr><td> M2HB (heavy machine gun)</td><td> 2d12</td><td> 20</td><td> Ballistic</td><td> 110 ft.</td><td> A</td><td> Linked</td><td> Huge</td><td> 75 lb.</td><td> 22</td><td> Mil (+3) </td></tr> <tr><td> M72A3 LAW (rocket launcher)</td><td> 10d6<sup>2</sup></td><td> —</td><td> —</td><td> 150 ft.</td><td> 1</td><td> 1 int.</td><td> Large</td><td> 5 lb.</td><td> 15</td><td> Mil (+3) </td></tr> <tr><td> M79 (grenade launcher)</td><td> Varies<sup>2</sup></td><td> —</td><td> —</td><td> 70 ft.</td><td> 1</td><td> 1 int.</td><td> Large</td><td> 7 lb.</td><td> 14</td><td> Mil (+3) </td></tr> <tr><td colspan="11" style="text-align: left; font-size: .8em"> <sup>1</sup> This <a href="/modern.d20.srd/equipment/mastercraft.objects">mastercraft</a> weapon grants a +1 bonus on <a href="/modern.d20.srd/combat/attack.roll">attack rolls</a>.<br/> <sup>2</sup> This weapon does special damage. See the weapon description.<br/> <sup>3</sup> See the description of this weapon for special rules. </td></tr> </table>
 
 

@@ -2,11 +2,6 @@
 title: Grabbing Objects
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Combat ](/modern.d20.srd/combat) > Grabbing Objects
-
-##  Grabbing Objects
-
 A character can also use [ disarm ](/modern.d20.srd/combat/disarm) to snatch
 away an object worn by a target. Doing this works the same as a [ disarm](/modern.d20.srd/combat/disarm) attempt, except for the following.
 

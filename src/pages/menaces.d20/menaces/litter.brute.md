@@ -2,11 +2,6 @@
 title: Litter Brute
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Litter Brute
-
-##  Litter Brute
-
 ###  Species Traits
 
 Construct: A litter brute has the traits and immunities common to constructs.

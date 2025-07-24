@@ -2,11 +2,6 @@
 title: Synchronicity
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Synchronicity
-
-## Synchronicity
-
 Abjuration
 
 Level: Arcane 5, Divine 5; Components: V, S, F/DF; Casting Time: Attack

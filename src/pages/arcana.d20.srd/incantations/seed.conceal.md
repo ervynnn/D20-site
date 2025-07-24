@@ -1,12 +1,7 @@
 ---
-title: Seed: Conceal
+title: Seed Conceal
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Seed: Conceal
-
-##  Seed: Conceal
-
 Illusion
 
 Knowledge (arcane lore) DC: 30; Range: Personal or touch; Target: You or a

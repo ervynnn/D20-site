@@ -2,11 +2,6 @@
 title: Feats
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Feats
-
-## Mecha Weapon Boost
-
 By disabling safeguards and shunting auxiliary power into your weapons, you
 can attain greater destructive power at the cost of weapon accuracy.
 

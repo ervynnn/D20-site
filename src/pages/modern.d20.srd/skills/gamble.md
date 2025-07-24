@@ -2,11 +2,6 @@
 title: Gamble
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Gamble
-
-## Gamble ([Wis](/modern.d20.srd/basics/ability.scores))
-
 [Check](/modern.d20.srd/skills/skill.basics): To join or start a
 game, a character must first pay a stake. The character sets the purchase DC
 of the stake if he or she starts the game, or the GM sets it if the character

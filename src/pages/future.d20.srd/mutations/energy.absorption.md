@@ -2,11 +2,6 @@
 title: Energy Absorption
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Energy Absorption
-
-##  Energy Absorption [MAJOR]
-
 You can absorb impressive amounts of harmful energy.
 
 MP Cost: 4.

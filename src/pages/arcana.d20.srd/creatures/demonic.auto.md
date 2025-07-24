@@ -2,11 +2,6 @@
 title: Demonic Auto
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Demonic Auto
-
-##  Demonic Auto
-
 The demonic auto does not speak. It has the normal height and weight of the
 automobile it most closely resembles.
 

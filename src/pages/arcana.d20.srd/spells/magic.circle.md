@@ -2,11 +2,6 @@
 title: Magic Circle
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Magic Circle
-
-##  Magic Circle
-
 Abjuration
 
 Level: Divine 3; Components: V, S, DF; Casting Time:

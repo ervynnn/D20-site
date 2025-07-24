@@ -2,11 +2,6 @@
 title: Handle Animal
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Handle Animal
-
-## Handle Animal ([Cha](/modern.d20.srd/basics/ability.scores)) [Trained Only](/modern.d20.srd/skills/skill.basics)
-
 [Check](/modern.d20.srd/skills/skill.basics): The time required to
 get an effect and the DC depend on what the character is trying to do.
 

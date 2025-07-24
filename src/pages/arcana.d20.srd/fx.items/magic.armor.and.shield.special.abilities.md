@@ -2,11 +2,6 @@
 title: Magic Armor and Shield Special Abilities
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [FX Items](/arcana.d20.srd/fx.items) > Magic Armor and Shield Special Abilities
-
-## Magic Armor and Shield Special Abilities
-
 Most magic armor and shields only have enhancement bonuses. Such items can
 also have the special abilities detailed here. Armor or a shield with a
 special ability must have at least a +1 enhancement bonus.

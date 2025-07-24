@@ -1,12 +1,7 @@
 ---
-title: PL 0: Stone Age
+title: PL 0 Fusion Age
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Progress Levels](/future.d20.srd/progress) > PL 0: Stone Age
-
-## PL 6: Fusion Age
-
 The development of fusion power provides an efficient, nonexpendable energy
 source that almost obliterates the need for chemical fuel sources. Advanced
 space exploration and colonization become possible. Computers become even more

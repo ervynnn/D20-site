@@ -2,11 +2,6 @@
 title: Starship Sensors
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > Starship Sensors
-
-##  Starship Sensors
-
 A starship would be lost in the blackness of outer space without a
 sophisticated sensor array enabling it to perceive its surroundings. Sensor
 arrays allow a starship’s crew to plot safe courses through unexplored star

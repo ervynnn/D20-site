@@ -2,11 +2,6 @@
 title: Self-Destruct System
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > [Robot Accessories](/future.d20.srd/robots/robot.accessories) > Self-Destruct System
-
-## Self-Destruct System (PL 6)
-
 Designed for robots in military and espionage roles, self-destruct systems
 ensure that the robot cannot be captured, analyzed, and reprogrammed.
 Installing a robot self-destruct system requires a Demolitions check (DC 20)

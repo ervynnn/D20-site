@@ -2,11 +2,6 @@
 title: Glamourist
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Advanced Classes ](/arcana.d20.srd/advanced.classes) > Glamourist
-
-##  Glamourist
-
 The fastest path into this advanced class is from a combination of the
 Charismatic and Dedicated hero basic classes, though other paths are possible.
 

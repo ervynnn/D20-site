@@ -2,11 +2,6 @@
 title: Crackerjack Neural Link
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Miscellanious Equipment](/future.d20.srd/mecha/miscellanious.equipment) > Crackerjack Neural Link
-
-## Crackerjack Neural Link (PL 8)
-
 This unit links the operator’s brain directly to the mecha, making it feel
 less like a machine and more like an extension of the operator’s body. While
 driving or piloting the mecha, the operator gains a +2 bonus on initiative

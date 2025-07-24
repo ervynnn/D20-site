@@ -2,11 +2,6 @@
 title: Stunts
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Vehicle Movement and Combat](/modern.d20.srd/vehicle.movement.and.combat) > Stunts
-
-## Stunts
-
 Stunts are maneuvers that require a [Drive](/modern.d20.srd/skills/drive)
 [check](/modern.d20.srd/skills/skill.basics) to perform successfully.
 Unsuccessful stunts often result in the

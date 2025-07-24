@@ -2,11 +2,6 @@
 title: Advanced Firearms Proficiency
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Advanced Firearms Proficiency
-
-## Advanced Firearms Proficiency
-
 Prerequisite: [Personal Firearms Proficiency](/modern.d20.srd/feats/personal.firearms.proficiency).
 
 Benefit: The character can fire any personal firearm on autofire without

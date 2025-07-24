@@ -2,11 +2,6 @@
 title: Creature Types
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > Creature Types
-
-## Creature Types
-
 A creature’s type determines many of its characteristics and abilities:
 physical ability scores, Hit Die type, base attack bonus, [saving throw](/modern.d20.srd/basics/saving.throws) bonuses, skill points, feats, and
 special qualities. Mental [ability scores](/modern.d20.srd/basics/ability.scores)

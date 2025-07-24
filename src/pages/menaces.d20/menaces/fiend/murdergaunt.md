@@ -2,11 +2,6 @@
 title: Murdergaunt (Whistling Fiend)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > [ Fiend](/menaces.d20/menaces/fiend) > Murdergaunt (Whistling Fiend)
-
-##  Murdergaunt (Whistling Fiend)
-
 Damage Reduction 10/+1 (Ex): A murdergaunt ignores the first 10 points of
 damage dealt by any nonmagical weapon. In campaigns without magic weapons, the
 GM can either disregard the fiend’s damage reduction or apply it only to

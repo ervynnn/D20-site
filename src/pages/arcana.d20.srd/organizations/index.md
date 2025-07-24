@@ -2,11 +2,6 @@
 title: Organizations
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > Organizations
-
-## Organizations
-
 Below is a collection of organizations. Each entry briefly discusses who the
 organization’s members are, what the organization does (and why it does it),
 and what privileges membership grants characters (as well as whether or not

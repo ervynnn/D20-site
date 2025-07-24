@@ -2,11 +2,6 @@
 title: Archaic Weapons
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > [Melee Weapons](/modern.d20.srd/equipment/weapons.melee) > Archaic Weapons
-
-## Archaic Weapons
-
 (require the Archaic Weapons Proficiency feat)
 
 

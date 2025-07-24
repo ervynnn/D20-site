@@ -2,11 +2,6 @@
 title: Clean
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Clean
-
-## Clean
-
 Transmutation
 
 Level: Arcane 1, Divine 1; Components: V, S, M; Casting Time: Full-round

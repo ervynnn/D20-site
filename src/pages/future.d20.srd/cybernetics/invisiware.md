@@ -2,11 +2,6 @@
 title: Invisiware
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Cybernetics](/future.d20.srd/cybernetics) > Invisiware
-
-## Invisiware (PL 8)
-
 This technology enables its recipient to turn invisible for a short time.
 Invisiware uses crystalline refractors grafted to the skin and powered by
 rechargeable solar battery units protruding from various points on the

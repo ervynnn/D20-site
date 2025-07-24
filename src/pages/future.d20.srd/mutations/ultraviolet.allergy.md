@@ -2,11 +2,6 @@
 title: Ultraviolet Allergy
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Ultraviolet Allergy
-
-##  Ultraviolet Allergy [DRAWBACK]
-
 Ultraviolet light burns your flesh and causes it to ignite.
 
 MP Value: 3.

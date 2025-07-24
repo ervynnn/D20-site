@@ -2,11 +2,6 @@
 title: Harpy
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Harpy
-
-##  Harpy
-
 ###  Species Traits
 
 Bonus Feat: A harpy gains Flyby Attack as a bonus feat.

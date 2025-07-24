@@ -2,11 +2,6 @@
 title: Starship Dodge
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Feats](/future.d20.srd/feats) > Starship Dodge
-
-## Starship Dodge
-
 You are adept at dodging attacks while piloting starships.
 
 Prerequisite: Dexterity 13, Pilot 6 ranks, Starship Operation (of the

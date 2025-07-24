@@ -2,11 +2,6 @@
 title: Heat and Cold
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Environment & Hazards](/modern.d20.srd/environment.hazards) > Heat and Cold
-
-##  Heat and Cold
-
 Heat and cold deal [ damage ](/modern.d20.srd/combat/damage) that cannot be
 recovered until the character counteracts or escapes the inclement
 temperature. As soon as the character suffers any damage from heat or cold, he

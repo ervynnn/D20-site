@@ -2,11 +2,6 @@
 title: Initiative
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > Initiative
-
-## Initiative
-
 Every round, each starship gets to do something. The starships’ initiative
 checks, from highest to lowest, determine the order in which they act.
 

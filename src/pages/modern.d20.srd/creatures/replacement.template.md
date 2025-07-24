@@ -2,11 +2,6 @@
 title: Replacement (template)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Replacement (template)
-
-## Replacement (Template)
-
 A replacement is a physical duplicate of a specific
 [humanoid](/modern.d20.srd/creature.types/humanoid), called a primary.
 Although a replacement does not gain the specific life experiences of its

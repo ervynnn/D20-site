@@ -2,11 +2,6 @@
 title: Speed
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Combat ](/modern.d20.srd/combat) > Speed
-
-##  Speed
-
 A character’s speed tells how far he or she can move in a move action. Humans
 normally move 30 feet, but some creatures move faster or slower. Wearing armor
 can slow a character down.

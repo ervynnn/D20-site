@@ -2,11 +2,6 @@
 title: White Collar
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Starting Occupation ](/modern.d20.srd/starting.occupation) > White Collar
-
-##  White Collar
-
 Office workers and desk jockeys, lawyers, accountants, insurance agents, bank
 personnel, financial advisors, tax preparers, clerks, sales personnel, real
 estate agents, and a variety of mid-level managers fall within the scope of

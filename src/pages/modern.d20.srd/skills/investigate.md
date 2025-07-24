@@ -2,11 +2,6 @@
 title: Investigate
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Investigate
-
-## Investigate ([Int](/modern.d20.srd/basics/ability.scores)) [Trained Only](/modern.d20.srd/skills/skill.basics)
-
 [Check](/modern.d20.srd/skills/skill.basics): A character generally
 uses [Search](/modern.d20.srd/skills/search) to discover clues and Investigate
 to analyze them. If the character has access to a crime lab, the character

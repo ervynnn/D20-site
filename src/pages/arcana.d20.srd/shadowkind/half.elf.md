@@ -2,11 +2,6 @@
 title: Half-Elf
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Shadowkind ](/arcana.d20.srd/shadowkind) > Half-Elf
-
-##  Half-Elf
-
 Size: Medium. Half-elves have no special bonuses or penalties due to their
 size.
 

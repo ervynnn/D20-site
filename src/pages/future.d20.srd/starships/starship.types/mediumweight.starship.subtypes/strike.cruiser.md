@@ -2,11 +2,6 @@
 title: Strike Cruiser
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Types](/future.d20.srd/starships/starship) > [ Mediumweight Starship Subtypes](/future.d20.srd/starships/starship.types/mediumweight.starship) > Strike Cruiser
-
-##  Strike Cruiser (PL 7)
-
 These armored cruisers often serve as the centerpiece of raiding or patrolling
 task forces, especially if heavier warships are unavailable. Many strike
 cruisers are configured for task force command functions; the command cruiser

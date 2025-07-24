@@ -2,11 +2,6 @@
 title: Limit of FX Items Worn
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX Items ](/modern.d20.srd/fx.items) > Limit of FX Items Worn
-
-##  Limit on FX Items Worn
-
 Characters are limited in their ability to use certain magic items, based on
 the item’s type. Only so many magic items of a certain kind can be worn and be
 effective at the same time. The limits are:

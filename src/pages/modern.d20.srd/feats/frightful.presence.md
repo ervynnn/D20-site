@@ -2,11 +2,6 @@
 title: Frightful Presence
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Frightful Presence
-
-## Frightful Presence
-
 Prerequisites: [Charisma](/modern.d20.srd/basics/ability.scores) 15,
 [Intimidate](/modern.d20.srd/skills/intimidate) 9 ranks.
 

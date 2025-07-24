@@ -2,11 +2,6 @@
 title: Liner
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > [Heavy Starship Subtypes](/future.d20.srd/starships/starship.types/heavy.starship) > Liner
-
-## Liner (PL 7)
-
 This is a full-sized passenger ship. Although any vessel this size can’t avoid
 carrying some cargo, the liner specializes in moving a large number of
 passengers, usually in varying degrees of luxury.

@@ -2,11 +2,6 @@
 title: Changeling (Template)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Creatures](/arcana.d20.srd/creatures) > Changeling (Template)
-
-## Changeling (Template)
-
 Template Traits
 
 “Changeling” is an inherited template that can be added to any Small or Medium

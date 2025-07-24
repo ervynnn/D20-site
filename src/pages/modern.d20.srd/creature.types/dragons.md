@@ -2,11 +2,6 @@
 title: Dragon
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Creature Types ](/modern.d20.srd/creature.types) > Dragon
-
-##  Dragon
-
 A dragon is a reptilian creature, usually winged, with magical or unusual
 abilities. See Table: Dragons for physical ability scores, recommended minimum
 Hit Dice, and damage based on size.

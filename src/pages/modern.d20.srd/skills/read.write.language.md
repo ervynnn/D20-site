@@ -2,11 +2,6 @@
 title: Read/Write Language
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Read/Write Language
-
-## Read/Write Language (None) [Trained Only](/modern.d20.srd/skills/skill.basics)
-
 The Read/Write Language skill doesn’t work like a standard skill.
 
   * A character automatically knows how to read and write his or her native language; the character does not need ranks to do so.

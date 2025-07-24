@@ -2,11 +2,6 @@
 title: Effect
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX ](/modern.d20.srd/fx) > Effect
-
-##  Effect
-
 Some spells create or summon things rather than affecting things that are
 already present. The caster must designate the location where these things are
 to appear, either by seeing it or defining it. Range determines how far away

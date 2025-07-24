@@ -2,11 +2,6 @@
 title: Kinori
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Kinori
-
-##  Kinori
-
 ###  Species Traits
 
 Cold Resistance 20 (Ex): A kinori ignores the first 20 points of cold damage

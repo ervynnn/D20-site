@@ -2,11 +2,6 @@
 title: Heavy Transport
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > [Heavy Starship Subtypes](/future.d20.srd/starships/starship.types/heavy.starship) > Heavy Transport
-
-## Heavy Transport (PL 6)
-
 The heavy transport is designed to move great amounts of specialized cargo
 such as bulk freight, containerized freight, or roll-on/rolloff vehicle
 storage.

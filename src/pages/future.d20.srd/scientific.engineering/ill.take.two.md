@@ -2,11 +2,6 @@
 title: I’ll Take Two
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > I’ll Take Two
-
-## I’ll Take Two
-
 One of the simplest processes using matter replication is the duplication of
 an existing object. In fact, duplication machines are far more common in most
 settings than full-fledged replicators because they don’t require the storage

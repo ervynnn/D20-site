@@ -2,11 +2,6 @@
 title: Relay Text
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Relay Text
-
-##  Relay Text
-
 Transmutation
 
 Level: Arcane 2; Components: V, S; Casting Time: Attack action; Range:

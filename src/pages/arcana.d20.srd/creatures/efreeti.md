@@ -2,11 +2,6 @@
 title: Efreeti
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Efreeti
-
-##  Efreeti
-
 An efreeti typically uses its polymorph ability to conceal its true form: that
 of a 12-foot-tall giant with brick-red skin, fiery eyes, small horns, and
 jutting tusks. The average efreeti weighs about 2,000 pounds. Efreet read,

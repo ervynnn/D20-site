@@ -2,11 +2,6 @@
 title: Elephant
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Elephant
-
-##  Elephant
-
 ###  Species Traits
 
 Elephants have the following traits:

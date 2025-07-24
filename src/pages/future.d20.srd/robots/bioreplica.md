@@ -2,11 +2,6 @@
 title: Bioreplica
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > Bioreplica
-
-## Bioreplica (“Synthetic”)
-
 Bioreplicas exist in societies of Progress Level 7 or higher. These
 anthropomorphic robots, modeled after their creators in most instances, are so
 convincingly lifelike that they are virtually indistinguishable from their

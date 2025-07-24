@@ -2,11 +2,6 @@
 title: Class I Sensor System
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Robots ](/future.d20.srd/robots) > [ Sensors](/future.d20.srd/robots/sensors) > Class I Sensor System
-
-##  Class I Sensor System (PL 5)
-
 This sensor system includes a low-res video camera and a basic audio receiver
 (effectively a robotic ear).
 

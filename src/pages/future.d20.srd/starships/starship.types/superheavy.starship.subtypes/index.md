@@ -2,11 +2,6 @@
 title: Superheavy Starship Subtypes
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > Superheavy Starship Subtypes
-
-## Superheavy Starship Subtypes
-
 Superheavy starships include mammoth, ponderous dreadnoughts, super-carriers,
 and super-freighters.
 

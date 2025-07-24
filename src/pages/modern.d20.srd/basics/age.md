@@ -2,11 +2,6 @@
 title: Age
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Basics](/modern.d20.srd/basics) > Age
-
-## Age
-
 As the character ages, his or her physical ability scores decrease and his or
 her mental ability scores increase, as detailed on Table: Aging Effects. The
 effects of each aging step are cumulative.

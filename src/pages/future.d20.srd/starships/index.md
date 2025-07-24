@@ -2,11 +2,6 @@
 title: Starships
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Starships
-
-##  Starships
-
 [ Combat ](/future.d20.srd/starships/combat)
 
   * [ Starship Types and Subtypes ](/future.d20.srd/starships/combat/starship.types.and.subtypes)

@@ -2,11 +2,6 @@
 title: Casting Spells through Email
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Casting Spells through Email
-
-## Casting Spells through Email
-
 Any spell that can be scribed onto a scroll can likewise be saved in
 electronic format—as email. In order to accomplish this, the caster must have
 the Scribe Scroll ability and a minimum of 8 ranks in Computer Use.

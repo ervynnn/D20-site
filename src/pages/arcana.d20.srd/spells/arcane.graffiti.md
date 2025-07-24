@@ -2,11 +2,6 @@
 title: Arcane Graffiti
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Arcane Graffiti
-
-##  Arcane Graffiti
-
 Conjuration (Creation)
 
 Level: Arcane 0; Components: V, S; Casting Time: Attack action; Range: 0 ft.;

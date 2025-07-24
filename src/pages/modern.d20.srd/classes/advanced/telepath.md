@@ -2,11 +2,6 @@
 title: Telepath
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Classes ](/modern.d20.srd/classes) > [ Advanced Classes](/modern.d20.srd/classes/advanced) > Telepath
-
-##  Telepath
-
 The fastest path into this advanced class is from the [ Charismatic](/modern.d20.srd/classes/basic/charismatic.hero) hero basic class, though
 other paths are possible.
 

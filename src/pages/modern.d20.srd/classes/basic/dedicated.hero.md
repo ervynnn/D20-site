@@ -2,11 +2,6 @@
 title: The Dedicated Hero
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Classes](/modern.d20.srd/classes) > [Basic Classes](/modern.d20.srd/classes/basic) > The Dedicated Hero
-
-## The Dedicated Hero
-
 Ability: [Wisdom](/modern.d20.srd/basics/ability.scores)
 
 Hit Die: 1d6

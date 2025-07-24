@@ -2,11 +2,6 @@
 title: Catching of Fire
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Environment & Hazards](/modern.d20.srd/environment.hazards) > Catching of Fire
-
-##  Catching on Fire
-
 Heroes exposed to open flames might find their clothes, hair, or equipment on
 fire. Heroes at risk of catching fire are allowed a Reflex [ saving throw](/modern.d20.srd/basics/saving.throws) (DC 15) to avoid this fate. If a
 hero’s clothes or hair catch fire, he or she takes 1d6 points of [ damage](/modern.d20.srd/combat/damage) immediately. In each subsequent round, the

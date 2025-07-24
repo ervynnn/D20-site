@@ -2,11 +2,6 @@
 title: Weapon Focus
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Feats ](/modern.d20.srd/feats) > Weapon Focus
-
-##  Weapon Focus
-
 Choose a specific weapon. A character can choose unarmed strike or [ grapple](/modern.d20.srd/combat/grapple) for your weapon for purposes of this feat.
 
 Prerequisites: Proficient with weapon, base attack bonus +1.

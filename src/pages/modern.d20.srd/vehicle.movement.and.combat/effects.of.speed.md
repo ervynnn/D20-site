@@ -2,11 +2,6 @@
 title: The Effects of Speed
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Vehicle Movement and Combat](/modern.d20.srd/vehicle.movement.and.combat) > The Effects of Speed
-
-## The Effects of Speed
-
 A fast-moving [vehicle](/modern.d20.srd/equipment/equipment.vehicles) is
 harder to hit than a stationary one—but it’s also harder to control, and to
 attack from.

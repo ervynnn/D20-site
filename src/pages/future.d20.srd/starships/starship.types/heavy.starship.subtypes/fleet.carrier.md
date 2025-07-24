@@ -2,11 +2,6 @@
 title: Fleet Carrier
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > [Heavy Starship Subtypes](/future.d20.srd/starships/starship.types/heavy.starship) > Fleet Carrier
-
-## Fleet Carrier (PL 6)
-
 The fleet carrier has the ability to launch devastating attacks from millions
 of miles away, in the form of large numbers of fighters or assault fighters.
 Most fleet carriers are lightly armed, as they rely on their escorting vessels

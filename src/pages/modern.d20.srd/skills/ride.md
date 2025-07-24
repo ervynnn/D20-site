@@ -2,11 +2,6 @@
 title: Ride
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Ride
-
-## Ride ([Dex](/modern.d20.srd/basics/ability.scores))
-
 Animals ill suited as mounts provide a –2 penalty on their rider’s Ride
 [check](/modern.d20.srd/skills/skill.basics).
 

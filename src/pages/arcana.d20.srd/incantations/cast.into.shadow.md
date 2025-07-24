@@ -2,11 +2,6 @@
 title: Cast into Shadow
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Cast into Shadow
-
-##  Cast into Shadow
-
 Abjuration
 
 Skill Check: Knowledge (arcane lore) DC 33, 6 successes (see text); Failure:

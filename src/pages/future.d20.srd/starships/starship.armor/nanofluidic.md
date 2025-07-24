@@ -2,11 +2,6 @@
 title: Nanofluidic
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Armor](/future.d20.srd/starships/starship) > Nanofluidic
-
-## Nanofluidic (PL 8)
-
 Consisting of a thick layer of gel-like fluid sandwiched in a neutronite
 structure, nanofluidic armor is “smart” armor—it concentrates at the point of
 impact to blunt physical blows and circulates around heat sources to dissipate

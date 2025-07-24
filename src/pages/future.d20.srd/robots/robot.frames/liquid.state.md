@@ -2,11 +2,6 @@
 title: Liquid-State
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Robots ](/future.d20.srd/robots) > [ Robot Frames](/future.d20.srd/robots/robot.frames) > Liquid-State
-
-##  Liquid-State (PL 8)
-
 The liquid-state robot is a mass of metal alloy resembling liquid mercury. It
 contains a molecular network of subprocessors that interpret the central
 processor’s instructions to form a nearly endless variety of shapes. The

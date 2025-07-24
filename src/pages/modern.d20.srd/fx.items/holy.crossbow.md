@@ -2,11 +2,6 @@
 title: Holy Crossbow
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX Items ](/modern.d20.srd/fx.items) > [ Weapons](/modern.d20.srd/fx.items/weapons) > Holy Crossbow
-
-##  Holy Crossbow
-
 Any bolt fired from this magic crossbow is blessed with holy power. It deals
 +2d6 points of bonus holy [ damage ](/modern.d20.srd/combat/damage) against
 any creature with the evil [ allegiance ](/modern.d20.srd/basics/allegiances)

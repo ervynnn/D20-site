@@ -2,11 +2,6 @@
 title: Sea Serpent
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Sea Serpent
-
-##  Sea Serpent
-
 A sea serpent has a snakelike body between 30 and 200 feet long. Other
 features may vary with the individual creature— some sea serpents have slender
 fins like those of an eel, while others have completely smooth bodies. The

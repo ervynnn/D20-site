@@ -2,11 +2,6 @@
 title: Integrated Equipment
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Armor Gadgets ](/future.d20.srd/equipment/gadgets.universal) > Integrated Equipment
-
-##  Integrated Equipment
-
 A particular piece of nonweapon equipment has been integrated into the armor
 and can be used by the armor’s wearer at any time. This gadget is often used
 to add features such as glow-lamps or duracable to armor, though it is not

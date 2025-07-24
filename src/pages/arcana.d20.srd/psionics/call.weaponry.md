@@ -2,11 +2,6 @@
 title: Call Weaponry
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Psionics](/arcana.d20.srd/psionics) > Call Weaponry
-
-## Call Weaponry
-
 Dexterity [Teleportation]
 
 Level: Telepath 1/Psionic Agent 1; Display: Audible, Material; Manifestation

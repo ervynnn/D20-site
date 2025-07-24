@@ -68,9 +68,6 @@ sections:
     description: Alien life forms and exotic biology
     icon: tabler:virus
 ---
-
-## About Future D20
-
 The Future d20 System Reference Document provides comprehensive rules for science fiction gaming campaigns. From cyberpunk adventures to space exploration, this system covers everything you need for futuristic roleplaying.
 
 ### Quick Navigation Tips

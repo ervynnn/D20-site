@@ -2,11 +2,6 @@
 title: Enhancements
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Cybernetics](/future.d20.srd/cybernetics) > Enhancements
-
-## Enhancements
-
 Cybernetic enhancements are available starting at Progress Level 6. Unlike
 standard replacements, they bestow new abilities upon their recipients. Unless
 otherwise noted, enhancements don’t add measurably to a recipient’s weight.

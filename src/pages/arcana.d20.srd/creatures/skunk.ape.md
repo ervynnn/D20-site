@@ -2,11 +2,6 @@
 title: Skunk Ape
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Skunk Ape
-
-##  Skunk Ape
-
 Skunk apes speak their own language, which has no written form. They may read,
 write, and speak a number of additional languages equal to their Intelligence
 bonus (if any).

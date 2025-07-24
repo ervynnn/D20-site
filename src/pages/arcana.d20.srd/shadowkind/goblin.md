@@ -2,11 +2,6 @@
 title: Goblin
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Shadowkind ](/arcana.d20.srd/shadowkind) > Goblin
-
-##  Goblin
-
 Species Traits
 
 Size: Small. Goblins gain a +1 size bonus to Defense, a +1 size bonus on

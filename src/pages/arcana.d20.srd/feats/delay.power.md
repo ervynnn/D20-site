@@ -2,11 +2,6 @@
 title: Delay Power
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Feats](/arcana.d20.srd/feats) > Delay Power [Metapsionic]
-
-## Delay Power [Metapsionic]
-
 You can manifest powers that trigger a set duration after manifestation.
 
 **Benefit:** A delayed power doesn’t activate until 1 to 5 rounds after you

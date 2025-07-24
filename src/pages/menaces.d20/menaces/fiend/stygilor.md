@@ -2,11 +2,6 @@
 title: Stygilor (Tumor Fiend)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > [ Fiend](/menaces.d20/menaces/fiend) > Stygilor (Tumor Fiend)
-
-##  Stygilor (Tumor Fiend)
-
 Damage Reduction 5/Piercing (Ex): A stygilor ignores the first 5 points of
 damage dealt by any nonpiercing weapon.
 

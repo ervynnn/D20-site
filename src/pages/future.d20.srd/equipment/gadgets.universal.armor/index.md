@@ -2,11 +2,6 @@
 title: Universal Armor Gadgets
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > Universal Armor Gadgets
-
-##  Universal Armor Gadgets
-
 The following gadgets are universal and can apply to armors found in any era,
 provided all gadget-specific restrictions are observed.
 

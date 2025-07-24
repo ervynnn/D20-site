@@ -2,11 +2,6 @@
 title: Telekinetic Mind
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Telekinetic Mind
-
-##  Telekinetic Mind [MAJOR]
-
 You can perform minor telekinetic feats.
 
 MP Cost: 5.

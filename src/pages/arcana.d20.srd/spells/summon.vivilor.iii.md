@@ -2,11 +2,6 @@
 title: Summon Vivilor III
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Summon Vivilor III
-
-##  Summon Vivilor III
-
 Conjuration (Summoning)
 
 Level: Arcane 3, Divine 3; Effect: One or more summoned creatures, no two of

@@ -2,11 +2,6 @@
 title: Self-Destruct System
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Defense Systems ](/future.d20.srd/starships/starship.defense) > Self-Destruct System
-
-##  Self-Destruct System (PL 6)
-
 A self-destruct system ensures that a starship cannot be captured, dissected
 for information, or used against its builders. Installing a starship self-
 destruct system requires a Demolitions check (DC 30) instead of a Craft check

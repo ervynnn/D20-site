@@ -2,11 +2,6 @@
 title: Splash Weapons
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Combat ](/modern.d20.srd/combat) > Splash Weapons
-
-##  Splash Weapons
-
 A splash weapon is a ranged weapon that breaks apart on impact, splashing or
 scattering its contents over its target and nearby creatures or objects. Most
 splash weapons consist of liquids in breakable containers.

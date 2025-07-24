@@ -2,11 +2,6 @@
 title: Fire Extinguisher
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Robots ](/future.d20.srd/robots) > [ Robot Accessories](/future.d20.srd/robots/robot.accessories) > Fire Extinguisher
-
-##  Fire Extinguisher (PL 5)
-
 This unit, available only to Small or larger robots, ejects enough
 extinguishing chemicals during a move action to put out a fire in a 10- foot-
 by-10-foot square. A robot’s extinguisher tank holds a number of shots of

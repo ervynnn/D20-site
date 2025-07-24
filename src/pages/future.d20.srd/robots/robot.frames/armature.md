@@ -2,11 +2,6 @@
 title: Armature
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > [Robot Frames](/future.d20.srd/robots/robot.frames) > Armature
-
-## Armature (PL 5)
-
 The most basic of robot designs, armatures are essentially mechanical
 skeletons.
 

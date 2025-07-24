@@ -2,11 +2,6 @@
 title: Tool Mount
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Robots ](/future.d20.srd/robots) > [ Robot Accessories](/future.d20.srd/robots/robot.accessories) > Tool Mount
-
-##  Tool Mount (PL 5)
-
 Any robot with an armature, biomorph, biodroid, or bioreplica frame can be
 equipped with a tool mount. Liquid-state robots, due to their amorphous
 nature, cannot have tool mounts.

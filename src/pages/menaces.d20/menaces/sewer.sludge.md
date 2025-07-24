@@ -2,11 +2,6 @@
 title: Sewer Sludge
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Sewer Sludge
-
-##  Sewer Sludge
-
 ###  Species Traits
 
 Blindsight (Ex): A sewer sludge is blind but can ascertain all creatures and

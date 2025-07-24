@@ -2,11 +2,6 @@
 title: Firearms
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Firearms
-
-## Firearms
-
 The most basic form of attack with a firearm is a single shot. One attack is
 one pull of the trigger and fires one bullet at one target.
 

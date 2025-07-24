@@ -2,11 +2,6 @@
 title: Zero-G Training
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Feats](/future.d20.srd/feats) > Zero-G Training
-
-## Zero-G Training
-
 You can function normally in low gravity or zero gravity.
 
 Prerequisites: Dexterity 13, Tumble 4 ranks.

@@ -2,11 +2,6 @@
 title: Replacement Parts
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Scientific Engineering](/future.d20.srd/scientific.engineering) > Replacement Parts
-
-##  Replacement Parts
-
 If the scientific community is allowed to work through the technical problems
 of viability and the moral issues surrounding the creation of living tissues,
 it eventually (usually late in PL 6) becomes possible for them to use cloning

@@ -2,11 +2,6 @@
 title: Incantation Definitions
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Incantation Definitions
-
-##  Incantation Definitions
-
 The following terms are used extensively in this section of the chapter:
 
 Incantation: Powerful ritual magic that requires successful Knowledge (arcane

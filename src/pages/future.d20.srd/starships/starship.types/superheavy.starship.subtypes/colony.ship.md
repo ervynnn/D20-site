@@ -2,11 +2,6 @@
 title: Colony Ship
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Types](/future.d20.srd/starships/starship) > [ Superheavy Starship Subtypes](/future.d20.srd/starships/starship.types/superheavy.starship) > Colony Ship
-
-##  Colony Ship (PL 7)
-
 This massive vessel is designed to haul everything a new colony needs to get
 started. Its cavernous storage decks can accommodate thousands of colonists
 with heavy machinery, prefabricated buildings, equipment, and supplies

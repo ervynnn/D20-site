@@ -2,11 +2,6 @@
 title: Spell Resistance
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Special Abilities](/modern.d20.srd/special.abilities) > Spell Resistance
-
-## Spell Resistance (Ex)
-
 A creature with spell resistance can avoid the effects of
 [spells](/modern.d20.srd/fx/index) and spell-like abilities that directly
 affect it. To determine whether a [spell](/modern.d20.srd/fx/index) or spell-

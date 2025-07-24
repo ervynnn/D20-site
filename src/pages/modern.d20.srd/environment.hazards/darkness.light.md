@@ -2,11 +2,6 @@
 title: Darkness and Light
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Environment & Hazards](/modern.d20.srd/environment.hazards) > Darkness and Light
-
-##  Darkness and Light
-
 It’s a rare mission that doesn’t end up in the dark somewhere, and heroes need
 a way to see. See Table: Light Sources for the radius that a light source
 illuminates and how long it lasts.

@@ -2,11 +2,6 @@
 title: Manticore
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Sample Mecha](/future.d20.srd/mecha/sample.mecha) > Manticore
-
-## Manticore (PL 7)
-
 The Manticore is a flying quadrupedal assault mecha designed to take out enemy
 infantry units with a hailstorm of large-caliber shells. The Manticore has a
 special tail slot that replaces its belt equipment slot; the tail incorporates

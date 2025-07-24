@@ -2,11 +2,6 @@
 title: Polymorph
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Polymorph
-
-##  Polymorph
-
 Transmutation
 
 Skill Check: Knowledge (arcane lore) DC 31, 5 successes, and Knowledge (earth

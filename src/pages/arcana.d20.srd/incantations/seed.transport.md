@@ -1,12 +1,7 @@
 ---
-title: Seed: Transport
+title: Seed Transport
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Seed: Transport
-
-##  Seed: Transport
-
 Conjuration (Teleporting)
 
 Knowledge (arcane lore) DC: 32; Range: Touch; Target: You and touched objects

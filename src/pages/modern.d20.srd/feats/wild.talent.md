@@ -2,11 +2,6 @@
 title: Wild Talent
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Feats ](/modern.d20.srd/feats) > Wild Talent
-
-##  Wild Talent
-
 Benefit: Select one 0-level [ psionic ](/modern.d20.srd/psionics) power. The
 character can manifest this power up to three times in a 24-hour period. There
 is no power point cost for using this power. For effects that depends on

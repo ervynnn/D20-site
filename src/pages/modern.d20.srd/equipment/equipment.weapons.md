@@ -2,11 +2,6 @@
 title: Weapons
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > Weapons
-
-## Equipment (Weapons)
-
 The weapons covered here are grouped into three categories based on their
 general utility: ranged weapons, explosives and splash weapons, and melee
 weapons.

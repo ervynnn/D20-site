@@ -2,11 +2,6 @@
 title: Mines
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Weapons](/future.d20.srd/starships/starship) > Mines
-
-## Mines
-
 Mines are immobile explosives that must be deployed to be effective. Mines are
 equipped with sensors to scan approaching ships and detonate when hostile
 ships draw near. Some mines also come equipped with cloaking screens and other

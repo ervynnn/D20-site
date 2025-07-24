@@ -2,11 +2,6 @@
 title: Visual Art
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > [Craft](/modern.d20.srd/skills/craft) > Visual Art
-
-## Craft (Visual Art) ([Int](/modern.d20.srd/basics/ability.scores))
-
 This skill allows a character to create paintings or drawings, take
 photographs, use a video camera, or in some other way create a work of visual
 art.

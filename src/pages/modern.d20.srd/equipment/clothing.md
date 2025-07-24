@@ -3,11 +3,6 @@ title: Clothing
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > [Equipment (General)](/modern.d20.srd/equipment/equipment.general) > Clothing
-
-## Clothing
-
-
 <table> <tr> <th>Object</th> <th><a href="/modern.d20.srd/equipment/equipment.general">Size</a></th> <th><a href="/modern.d20.srd/equipment/equipment.general">Weight</a></th> <th><a href="/modern.d20.srd/equipment/equipment.general">Purchase DC</a></th> <th><a href="/modern.d20.srd/equipment/equipment.general">Restriction</a></th> </tr> <tr class="shaded"><td colspan="5"> Outfits </td></tr> <tr><td> Business</td><td> Med</td><td> 3 lb.</td><td> 12</td><td> — </td></tr> <tr><td> Casual</td><td> Med</td><td> 2 lb.</td><td> 8</td><td> — </td></tr> <tr><td> Formal</td><td> Med</td><td> 3 lb.</td><td> 15</td><td> — </td></tr> <tr><td> Fatigues</td><td> Med</td><td> 3 lb.</td><td> 9</td><td> — </td></tr> <tr><td> Uniform</td><td> Med</td><td> 2 lb.</td><td> 9</td><td> — </td></tr> <tr><td> Ghillie suit</td><td> Med</td><td> 5 lb.</td><td> 6</td><td> — </td></tr> <tr class="shaded"><td colspan="5"> Outerwear </td></tr> <tr><td> Coat</td><td> Med</td><td> 2 lb.</td><td> 8</td><td> — </td></tr> <tr><td> Fatigue jacket</td><td> Med</td><td> 2 lb.</td><td> 7</td><td> — </td></tr> <tr><td> Overcoat</td><td> Med</td><td> 3 lb.</td><td> 9</td><td> — </td></tr> <tr><td> Parka</td><td> Med</td><td> 3 lb.</td><td> 9</td><td> — </td></tr> <tr><td> Photojournalist’s vest</td><td> Med</td><td> 1 lb.</td><td> 9</td><td> — </td></tr> <tr><td> Windbreaker</td><td> Med</td><td> 1 lb.</td><td> 6</td><td> — </td></tr> <tr><td> Tool belt</td><td> Small</td><td> 2 lb.</td><td> 9</td><td> — </td></tr> </table>
 
 

@@ -2,11 +2,6 @@
 title: Crawling Carpet
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Crawling Carpet
-
-##  Crawling Carpet
-
 Conjuration (Summoning)
 
 Level: Divine 4; Components: V, S, DF; Casting Time: Fullround action; Range:

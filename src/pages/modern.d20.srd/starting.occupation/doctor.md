@@ -2,11 +2,6 @@
 title: Doctor
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Starting Occupation ](/modern.d20.srd/starting.occupation) > Doctor
-
-##  Doctor
-
 A doctor can be a physician (general ­practitioner or specialist), a surgeon,
 or a psychiatrist. Prerequisite: Age 25+.
 

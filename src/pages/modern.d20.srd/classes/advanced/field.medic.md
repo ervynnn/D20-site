@@ -2,11 +2,6 @@
 title: Field Medic
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Classes](/modern.d20.srd/classes) > [Advanced Classes](/modern.d20.srd/classes/advanced) > Field Medic
-
-## Field Medic
-
 ### Requirements
 
 To qualify to become a Field Medic, a character must fulfill the following

@@ -2,11 +2,6 @@
 title: Lethargy
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mutations](/future.d20.srd/mutations) > Lethargy
-
-## Lethargy [DRAWBACK]
-
 Thanks to slow electrical impulses along your central nervous system, you have
 trouble reacting quickly to danger.
 

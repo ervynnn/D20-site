@@ -2,11 +2,6 @@
 title: Mastercrafter
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Feats](/future.d20.srd/feats) > Mastercrafter
-
-## Mastercrafter
-
 You are adept at creating mastercraft electronic and mechanical devices
 (including tools, vehicles, weapons, robot manipulators, and armor).
 

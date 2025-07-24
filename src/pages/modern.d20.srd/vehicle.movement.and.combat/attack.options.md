@@ -2,11 +2,6 @@
 title: Attack Options
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Vehicle Movement and Combat](/modern.d20.srd/vehicle.movement.and.combat) > Attack Options
-
-## Attack Options
-
 Firing a [vehicle](/modern.d20.srd/equipment/equipment.vehicles)’s
 [weapon](/modern.d20.srd/equipment/military.vehicles) requires an [attack action](/modern.d20.srd/combat/attack.actions) and uses the driver’s or
 gunner’s [ranged attack modifier](/modern.d20.srd/combat/attack.bonus). A

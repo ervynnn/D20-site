@@ -2,11 +2,6 @@
 title: Seed Descriptions
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Seed Descriptions
-
-##  Seed Descriptions
-
 Each seed description hereafter describes the relevant Knowledge (arcane lore)
 check DC for incantations using the seed and describes typical effects that
 incantations with that seed produce. Most of the parameters of the seed

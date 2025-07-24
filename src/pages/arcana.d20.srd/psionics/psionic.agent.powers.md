@@ -2,11 +2,6 @@
 title: Psionic Agent Powers
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Psionics](/arcana.d20.srd/psionics) > Psionic Agent Powers
-
-## Psionic Agent Powers
-
 The Psionic Agent chooses psionic powers from the following list.
 
 0-Level Psionic Agent Powers  

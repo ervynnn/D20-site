@@ -2,11 +2,6 @@
 title: Strike Cruiser
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > [Mediumweight Starship Subtypes](/future.d20.srd/starships/starship.types/mediumweight.starship) > Strike Cruiser
-
-## Bulk Freighter (PL 6)
-
 Bulk freighters usually carry cargo in bulk containers, and carry out regular
 runs between densely populated systems.
 

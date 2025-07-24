@@ -2,11 +2,6 @@
 title: Ammunition
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Equipment ](/modern.d20.srd/equipment) > [ Weapons](/modern.d20.srd/equipment/equipment.weapons) > Ammunition
-
-##  Ammunition
-
 Ammunition for firearms and other ranged weapons is covered on Table:
 Ammunition.
 

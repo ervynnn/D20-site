@@ -2,11 +2,6 @@
 title: Jump Gate Technology
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Traveler Science](/future.d20.srd/traveler.science) > [Realistic Space Travel](/future.d20.srd/traveler.science/realistic.space.travel) > Jump Gate Technology
-
-## Jump Gate Technology
-
 If a starship cannot reach the speed of light through sheer thrust, perhaps
 the answer lies in bending the laws of time and space so that the distance
 itself is shorter. A ship could then get around the need to travel at

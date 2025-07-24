@@ -2,11 +2,6 @@
 title: Nanolife
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Scientific Engineering](/future.d20.srd/scientific.engineering) > Nanolife
-
-##  Nanolife
-
 After a society creates artificial intelligence, nanomachines become far more
 than simply computer-controlled microscopic machines. Many argue that nanites
 become microscopic life forms, and that nanocolonies are hive minds, with the

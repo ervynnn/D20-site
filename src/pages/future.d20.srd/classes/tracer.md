@@ -2,11 +2,6 @@
 title: Tracer
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Classes](/future.d20.srd/classes) > Tracer
-
-## Tracer
-
 The fastest path into this advanced class is from the Dedicated hero basic
 class, though other paths are possible.
 

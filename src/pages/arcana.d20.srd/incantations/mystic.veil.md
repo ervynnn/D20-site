@@ -2,11 +2,6 @@
 title: Mystic Veil
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Mystic Veil
-
-##  Mystic Veil
-
 Illusion
 
 Skill Check: Knowledge (arcane lore) DC 34, 7 successes (and see text);

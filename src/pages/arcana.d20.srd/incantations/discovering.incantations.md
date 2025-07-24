@@ -2,11 +2,6 @@
 title: Discovering Incantations
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Discovering Incantations
-
-##  Discovering Incantations
-
 The instructions for performing incantations are generally found in various
 obscure tomes. Such books are filled with “magic spells,” and most of them are
 utterly bogus. But hidden among the dross is the real stuff, and discerning

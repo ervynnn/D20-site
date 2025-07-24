@@ -2,11 +2,6 @@
 title: Dragon
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Dragon
-
-##  Dragon
-
 All dragons speak their own language, Draconic. They speak a number of
 additional languages equal to their Intelligence bonus.
 

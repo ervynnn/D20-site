@@ -2,11 +2,6 @@
 title: Smokescreen
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Smokescreen
-
-##  Smokescreen [MINOR]
-
 You expel chemicals through your pores to create an inky-black cloud of smoke,
 engulfing yourself and the surrounding area.
 

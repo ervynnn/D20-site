@@ -2,7 +2,7 @@
 title: Vehicle Movement and Combat
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
+For simply traveling from point to point, the
 [vehicle](/modern.d20.srd/equipment/equipment.vehicles) used is largely a
 matter of personal style and finances. [Skill checks](/modern.d20.srd/skills/skill.basics) are only required in
 extraordinary circumstances. These rules are primarily focused on ground

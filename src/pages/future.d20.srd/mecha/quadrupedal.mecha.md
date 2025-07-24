@@ -2,11 +2,6 @@
 title: Quadrupedal Mecha
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mecha ](/future.d20.srd/mecha) > Quadrupedal Mecha
-
-##  Quadrupedal Mecha
-
 Mecha can be built with four legs instead of two. A quadrupedal mecha
 sacrifices equipment slots for added speed and stability. Its base land speed
 increases by 10 feet, and it gains a +4 stability bonus on checks made to

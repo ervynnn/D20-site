@@ -2,11 +2,6 @@
 title: Combat Martial Arts
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Combat Martial Arts
-
-## Combat Martial Arts
-
 Prerequisite: Base attack bonus +1.
 
 Benefit: With an unarmed strike, the character deals lethal or nonlethal

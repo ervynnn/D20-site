@@ -2,11 +2,6 @@
 title: Prickly Pear
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Prickly Pear
-
-##  Prickly Pear [MAJOR]
-
 Bony spurs or chitinous spikes protrude from your joints, giving you a jagged
 profile and making you dangerous to grapple.
 

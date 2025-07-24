@@ -2,11 +2,6 @@
 title: Mecha Cargo Capacity
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mecha ](/future.d20.srd/mecha) > Mecha Cargo Capacity
-
-##  Mecha Cargo Capacity
-
 Although they are not built to haul cargo, mecha superstructures have a
 limited amount of storage space. Table: Mecha Cargo Capacity lists the maximum
 weight in additional cargo (not including crew, weapons, or other integrated

@@ -2,11 +2,6 @@
 title: Climb
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Climb
-
-## Climb ([Str](/modern.d20.srd/basics/ability.scores)) [Armor Penalty](/modern.d20.srd/equipment/armor.general)
-
 [Check](/modern.d20.srd/skills/skill.basics): With each successful
 Climb [check](/modern.d20.srd/skills/skill.basics), the character
 can advance up, down, or across a slope or a wall or other steep incline (or

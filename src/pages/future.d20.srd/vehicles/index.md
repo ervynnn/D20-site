@@ -2,11 +2,6 @@
 title: Vehicles
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Vehicles
-
-## Vehicles
-
 ### New Vehicles
 
 As oil prices rise and consumers insist on more safety measures in vehicles,

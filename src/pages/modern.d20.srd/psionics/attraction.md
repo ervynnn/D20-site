@@ -2,11 +2,6 @@
 title: Attraction
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Psionics ](/modern.d20.srd/psionics) > Attraction
-
-##  Attraction
-
 [ Charisma ](/modern.d20.srd/basics/ability.scores) [Compulsion, Mind- Affecting]
 
 Level: [ Telepath ](/modern.d20.srd/classes/advanced/telepath) 1; Display:

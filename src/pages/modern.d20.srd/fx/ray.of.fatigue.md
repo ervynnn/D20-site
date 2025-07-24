@@ -2,11 +2,6 @@
 title: Ray of Fatigue
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX](/modern.d20.srd/fx) > Ray of Fatigue
-
-## Ray of Fatigue
-
 Necromancy
 
 [Level](/modern.d20.srd/fx/level):

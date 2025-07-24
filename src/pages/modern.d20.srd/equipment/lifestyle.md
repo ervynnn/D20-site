@@ -2,11 +2,6 @@
 title: Lifestyle
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > [General Equipment](/modern.d20.srd/equipment/equipment.general) > Lifestyle
-
-## Lifestyle
-
 Lifestyle items include travel expenses, entertainment and meals beyond the
 ordinary, and housing, for those characters interested in buying a home rather
 than renting. Lifestyle items are shown on the table below.

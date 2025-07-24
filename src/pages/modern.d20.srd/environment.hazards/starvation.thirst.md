@@ -2,11 +2,6 @@
 title: Starvation and Thirst
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Environment & Hazards](/modern.d20.srd/environment.hazards) > Starvation and Thirst
-
-##  Starvation and Thirst
-
 Sometimes heroes might find themselves without food and water. In normal
 climates, heroes need at least 1/2 gallon of fluids and about 1/4 pound of
 decent food per day to avoid the threat of starvation. In very hot climates,

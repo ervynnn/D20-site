@@ -2,11 +2,6 @@
 title: Level
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX](/modern.d20.srd/fx) > Level
-
-## Level
-
 The relative power of a spell is indicated by its level. A spell’s level also
 indicates whether a particular spellcaster is capable of preparing and casting
 the spell.

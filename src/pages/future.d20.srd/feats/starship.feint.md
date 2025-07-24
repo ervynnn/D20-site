@@ -2,11 +2,6 @@
 title: Starship Feint
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Feats ](/future.d20.srd/feats) > Starship Feint
-
-##  Starship Feint
-
 You are skilled at misleading your enemy in starship combat.
 
 Prerequisite: Pilot 9 ranks, Starship Operation (of the appropriate type).

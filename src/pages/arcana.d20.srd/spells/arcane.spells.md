@@ -2,11 +2,6 @@
 title: Arcane Spells
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Arcane Spells
-
-## Arcane Spells
-
 [Casting Spells through Email](/arcana.d20.srd/spells/casting.spells.through.email)
 
 0-level Arcane Spells  

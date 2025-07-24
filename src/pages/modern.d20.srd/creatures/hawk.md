@@ -2,11 +2,6 @@
 title: Hawk
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Hawk
-
-## Hawk
-
 ### Species Traits
 
 Skill Bonus: Hawks gain a +8 species bonus on

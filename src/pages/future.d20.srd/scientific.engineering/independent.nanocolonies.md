@@ -2,11 +2,6 @@
 title: Independent Nanocolonies
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > Independent Nanocolonies
-
-## Independent Nanocolonies
-
 An independent nanocolony is one that is capable of functioning and surviving
 outside of a contained environment. Independent nanocolonies can take many
 forms and can be either airborne or part of another piece of technology. These

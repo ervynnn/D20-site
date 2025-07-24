@@ -2,11 +2,6 @@
 title: Lizard
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Lizard
-
-##  Lizard
-
 ###  Species Traits
 
 Lizards have the following traits:

@@ -2,11 +2,6 @@
 title: Gene Therapy Templates
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Scientific Engineering](/future.d20.srd/scientific.engineering) > Gene Therapy Templates
-
-##  Gene Therapy Templates
-
 The potential uses of gene therapy are not limited to special abilities. GMs
 can simulate just about any simple modification by creating templates that
 characters can acquire by undergoing the proper program of gene therapy. This

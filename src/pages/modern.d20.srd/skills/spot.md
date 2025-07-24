@@ -2,11 +2,6 @@
 title: Spot
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Spot
-
-## Spot ([Wis](/modern.d20.srd/basics/ability.scores))
-
 [Check](/modern.d20.srd/skills/skill.basics): The Spot skill is used
 to notice items that aren’t immediately obvious and people who are attempting
 to hide. The GM may call for a Spot

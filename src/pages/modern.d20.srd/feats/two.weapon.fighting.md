@@ -2,11 +2,6 @@
 title: Two-Weapon Fighting
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Two-Weapon Fighting
-
-## Two-Weapon Fighting
-
 Prerequisite: [Dexterity](/modern.d20.srd/basics/ability.scores) 13.
 
 Benefit: The character’s penalties for fighting with two weapons are lessened

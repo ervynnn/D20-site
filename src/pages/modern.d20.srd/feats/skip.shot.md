@@ -2,11 +2,6 @@
 title: Skip Shot
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Skip Shot
-
-## Skip Shot
-
 Prerequisites: [Point Blank Shot](/modern.d20.srd/feats/point.blank.shot),
 [Precise Shot](/modern.d20.srd/feats/precise.shot).
 

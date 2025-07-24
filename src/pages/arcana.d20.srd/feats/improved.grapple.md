@@ -2,11 +2,6 @@
 title: Improved Grapple
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Improved Grapple
-
-##  Improved Grapple
-
 You are skilled at grappling opponents.
 
 Prerequisites: Brawl, Dexterity 13.

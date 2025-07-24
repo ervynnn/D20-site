@@ -2,11 +2,6 @@
 title: International Guild of Laborers
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Organizations ](/arcana.d20.srd/organizations) > International Guild of Laborers
-
-##  International Guild of Laborers
-
 Unions have many supporters and detractors in the modern world. They often are
 as involved in politics as they are in work on the factory floor, but they do
 serve the goal of representing the rights and special needs of their members.

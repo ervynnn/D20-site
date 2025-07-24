@@ -2,11 +2,6 @@
 title: Twin Power
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Feats](/arcana.d20.srd/feats) > Twin Power [Metapsionic]
-
-## Twin Power [Metapsionic]
-
 You can manifest a power simultaneously with another power just like it.
 
 **Benefit:** Manifesting a power altered by this feat causes the power to take

@@ -2,11 +2,6 @@
 title: Search
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Skills ](/modern.d20.srd/skills) > Search
-
-##  Search ( [ Int ](/modern.d20.srd/basics/ability.scores) )
-
 [ Check ](/modern.d20.srd/skills/skill.basics) : The character
 generally must be within 10 feet of the object or surface to be examined. A
 character can examine up to a 5-foot-by-5-foot area or a volume of goods 5

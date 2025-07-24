@@ -2,11 +2,6 @@
 title: Apothecary
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Occupations ](/arcana.d20.srd/occupations) > Apothecary
-
-##  Apothecary
-
 Apothecaries are people who study the science of mixing chemicals, elements,
 and naturally occurring materials together for predictable results. They often
 go on to be research scientists, inventors, pharmacists, or alchemists.

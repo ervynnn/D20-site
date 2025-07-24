@@ -2,11 +2,6 @@
 title: Bogeyman (Template)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Bogeyman (Template)
-
-##  Bogeyman (Template)
-
 ###  Template Traits
 
 “Bogeyman” is an acquired template that can be added to any corporeal humanoid

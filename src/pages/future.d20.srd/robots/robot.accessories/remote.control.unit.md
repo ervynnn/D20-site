@@ -2,11 +2,6 @@
 title: Remote Control Unit
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > [Robot Accessories](/future.d20.srd/robots/robot.accessories) > Remote Control Unit
-
-## Remote Control Unit (PL 5)
-
 Referred to colloquially as a “remcon,” this handheld, self-powered control
 stick has a small video screen and audio receiver built into it. It also comes
 in the form of a mechanical gauntlet worn on the hand.

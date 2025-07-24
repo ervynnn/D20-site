@@ -2,11 +2,6 @@
 title: Vehicular Magic Items
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ FX Items ](/arcana.d20.srd/fx.items) > Vehicular Magic Items
-
-##  Vehicular Magic Items
-
 This section describes several magic “accessories” for vehicles.
 
 A vehicular magic item functions only when it is properly placed on or within

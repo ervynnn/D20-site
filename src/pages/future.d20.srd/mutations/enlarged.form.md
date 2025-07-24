@@ -2,11 +2,6 @@
 title: Enlarged Form
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Enlarged Form
-
-##  Enlarged Form [MAJOR]
-
 You grow, becoming an freakishly large specimen of your kind.
 
 MP Cost: 6.

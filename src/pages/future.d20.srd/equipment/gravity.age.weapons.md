@@ -2,11 +2,6 @@
 title: Gravity Age Weapons
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Equipment](/future.d20.srd/equipment) > Gravity Age Weapons
-
-## Gravity Age Weapons
-
 The following weapons are available at PL 7 and later.
 
 

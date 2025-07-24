@@ -2,11 +2,6 @@
 title: Exotic Melee Weapons
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > [Melee Weapons](/modern.d20.srd/equipment/weapons.melee) > Exotic Melee Weapons
-
-## Exotic Melee Weapons
-
 (each requires a specific Exotic Melee Weapon Proficiency feat)
 
 

@@ -2,11 +2,6 @@
 title: Quick Draw
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Feats ](/modern.d20.srd/feats) > Quick Draw
-
-##  Quick Draw
-
 Prerequisite: Base attack bonus +1.
 
 Benefit: The character can draw a weapon as a [ free action](/modern.d20.srd/combat/action.types) .

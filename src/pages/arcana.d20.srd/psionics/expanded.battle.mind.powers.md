@@ -2,11 +2,6 @@
 title: Expanded Battle Mind Powers
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Psionics ](/arcana.d20.srd/psionics) > Expanded Battle Mind Powers
-
-##  Expanded Battle Mind Powers
-
 The Battle Mind chooses psionic powers from the following list.
 
 0-Level Battle Mind Powers  

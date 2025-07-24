@@ -2,11 +2,6 @@
 title: Burst
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Psionics ](/modern.d20.srd/psionics) > Burst
-
-##  Burst
-
 [ Dexterity ](/modern.d20.srd/basics/ability.scores)
 
 Level: [ Telepath ](/modern.d20.srd/classes/advanced/telepath) 0; Display:

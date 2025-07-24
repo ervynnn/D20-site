@@ -2,11 +2,6 @@
 title: Advanced Classes
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Classes](/modern.d20.srd/classes) > Advanced Classes
-
-## Advanced Classes
-
 An advanced class represents a focus and a calling for the experienced
 adventurer. It provides a specialization and a range of power and ability to
 give a character that something extra to set him or her apart.

@@ -2,11 +2,6 @@
 title: Feats
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Feats
-
-##  Mecha Trample
-
 Your mecha can knock down and crush opponents.
 
 Prerequisite: Mecha Operation, base attack bonus +4.

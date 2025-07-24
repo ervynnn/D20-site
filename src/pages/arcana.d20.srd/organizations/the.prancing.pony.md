@@ -2,11 +2,6 @@
 title: The Prancing Pony
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Organizations ](/arcana.d20.srd/organizations) > The Prancing Pony
-
-##  The Prancing Pony
-
 This is not so much an organization as it is a franchise. The Prancing Pony is
 the latest hot property in the arena of theme restaurants. New storefronts are
 opening at a rate of about one every three days worldwide. The restaurants

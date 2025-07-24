@@ -2,11 +2,6 @@
 title: Improvised Weapons
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > Improvised Weapons
-
-## Improvised Weapons
-
 Any portable object can be used as a weapon in a pinch. In most cases, an
 object can be wielded either as a melee weapon or a ranged weapon. A character
 takes a –4 penalty on his or her [attack roll](/modern.d20.srd/combat/attack.roll) when wielding or throwing an

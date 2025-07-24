@@ -2,11 +2,6 @@
 title: Cirque Des Moitié
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Organizations](/arcana.d20.srd/organizations) > Cirque Des Moitié
-
-## Cirque Des Moitié
-
 One of the most difficult questions facing intelligent creatures who find
 themselves suddenly living on our side of Shadow is how to support themselves.
 Many of the skills and abilities that were highly prized in their former lives

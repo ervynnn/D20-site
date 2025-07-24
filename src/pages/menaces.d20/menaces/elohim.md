@@ -2,11 +2,6 @@
 title: Elohim
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Elohim
-
-##  Elohim
-
 ###  Species Traits
 
 Elemental: An elohim has the traits and immunities common to elementals.

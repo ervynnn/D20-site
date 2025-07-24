@@ -2,11 +2,6 @@
 title: Range
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX](/modern.d20.srd/fx) > Range
-
-## Range
-
 A spell’s range indicates how far from the caster it can reach—the maximum
 distance from the caster that the spell’s effect can occur, as well as the
 maximum distance at which the caster can designate the spell’s point of

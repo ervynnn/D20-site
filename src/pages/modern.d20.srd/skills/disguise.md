@@ -2,11 +2,6 @@
 title: Disguise
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Disguise
-
-## Disguise ([Cha](/modern.d20.srd/basics/ability.scores))
-
 [Check](/modern.d20.srd/skills/skill.basics): A character’s Disguise
 [check](/modern.d20.srd/skills/skill.basics) result determines how
 good the disguise is. It is opposed by others’

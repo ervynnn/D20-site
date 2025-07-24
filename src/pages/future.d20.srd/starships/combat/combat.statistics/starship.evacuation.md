@@ -2,11 +2,6 @@
 title: Starship Evacuation
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > [Combat Statistics](/future.d20.srd/starships/combat/combat) > Starship Evacuation
-
-## Starship Evacuation
-
 Most ultralight starships are equipped with evacuation pods or fully enclosed,
 detachable cockpits that jettison the crew to safety in the event of a
 shipwide catastrophe. In fact, unless noted otherwise, every starship has

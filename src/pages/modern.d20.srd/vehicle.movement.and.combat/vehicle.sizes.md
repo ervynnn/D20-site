@@ -2,11 +2,6 @@
 title: Vehicle Sizes
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Vehicle Movement and Combat](/modern.d20.srd/vehicle.movement.and.combat) > Vehicle Sizes
-
-##  Vehicle Sizes
-
 [ Vehicles ](/modern.d20.srd/equipment/equipment.vehicles) use the same size
 categories as characters and creatures, as shown on Table: Vehicle Sizes. The
 [ vehicle’s ](/modern.d20.srd/equipment/equipment.vehicles) size modifier

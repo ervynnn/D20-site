@@ -2,11 +2,6 @@
 title: Moving
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Vehicle Movement and Combat](/modern.d20.srd/vehicle.movement.and.combat) > Moving
-
-## Moving
-
 On his or her action, the driver moves the
 [vehicle](/modern.d20.srd/equipment/equipment.vehicles) a number of squares
 that falls within the

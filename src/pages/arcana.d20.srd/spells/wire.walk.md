@@ -2,11 +2,6 @@
 title: Wire Walk
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Wire Walk
-
-##  Wire Walk
-
 Conjuration (Teleporting)
 
 Level: Arcane 4; Components: V; Casting Time: Attack action; Range: Personal

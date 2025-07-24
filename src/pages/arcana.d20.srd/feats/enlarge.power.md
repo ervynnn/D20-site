@@ -1,12 +1,7 @@
 ---
 title: Enlarge Power
 layout: '~/layouts/MarkdownLayout.astro'
----
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Enlarge Power
-[Metapsionic]
-
-##  Enlarge Power [Metapsionic]
+---[Metapsionic]
 
 You can manifest powers farther than normal.
 

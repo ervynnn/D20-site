@@ -2,11 +2,6 @@
 title: Fusion Age Armor Gadgets
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Equipment](/future.d20.srd/equipment) > Fusion Age Armor Gadgets
-
-## Fusion Age Armor Gadgets
-
 The following gadgets are found in the Fusion Age and can apply to armors of
 that era or later, provided all gadget-specific restrictions are observed.
 

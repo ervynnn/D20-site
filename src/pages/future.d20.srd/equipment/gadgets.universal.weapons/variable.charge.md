@@ -2,11 +2,6 @@
 title: Variable Charge
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Weapon Gadgets ](/future.d20.srd/equipment/gadgets.universal.weapons) > Variable Charge
-
-##  Variable Charge
-
 As with the stun module gadget, the variable charge gadget takes advantage of
 an energy weapon’s ability to modify the damage caused by its own shots. This
 gadget gives the user the ability to “power up” his or her shots by focusing

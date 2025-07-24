@@ -2,11 +2,6 @@
 title: Instant Reload
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Psionics ](/arcana.d20.srd/psionics) > Instant Reload
-
-##  Instant Reload
-
 Dexterity
 
 Level: Psionic Agent 3; Display: Audible, Material; Manifestation Time: Attack

@@ -2,11 +2,6 @@
 title: Dwarf
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Shadowkind ](/arcana.d20.srd/shadowkind) > Dwarf
-
-##  Dwarf
-
 Size: Medium. Dwarves have no special bonuses or penalties due to their size.
 
 Ability Modifiers: +2 Constitution, –2 Charisma.

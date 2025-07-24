@@ -2,11 +2,6 @@
 title: Pilot
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Pilot
-
-## Pilot ([Dex](/modern.d20.srd/basics/ability.scores)) [Trained Only](/modern.d20.srd/skills/skill.basics)
-
 [Check](/modern.d20.srd/skills/skill.basics): Typical piloting tasks
 don’t require checks. [Checks](/modern.d20.srd/skills/skill.basics)
 are required during combat, for [special maneuvers](/modern.d20.srd/vehicle.movement.and.combat/simple.maneuvers), or

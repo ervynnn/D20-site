@@ -2,11 +2,6 @@
 title: Detect Magical Aura
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX](/modern.d20.srd/fx) > Detect Magical Aura
-
-## Detect Magical Aura
-
 Universal
 
 [Level](/modern.d20.srd/fx/level):

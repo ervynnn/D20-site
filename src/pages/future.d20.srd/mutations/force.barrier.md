@@ -2,11 +2,6 @@
 title: Force Barrier
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mutations](/future.d20.srd/mutations) > Force Barrier
-
-## Force Barrier [MINOR]
-
 You can generate an electromagnetic force field around yourself to deflect or
 absorb incoming attacks.
 

@@ -2,11 +2,6 @@
 title: Thrasher
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Advanced Classes ](/arcana.d20.srd/advanced.classes) > Thrasher
-
-##  Thrasher
-
 The fastest path into this advanced class is from the Tough hero basic class,
 though other paths are possible.
 

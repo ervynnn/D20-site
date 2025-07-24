@@ -2,11 +2,6 @@
 title: Deinonychus
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Deinonychus
-
-## Deinonychus
-
 ### Species Traits
 
 [Scent](/modern.d20.srd/special.abilities/scent) (Ex): This ability allows a

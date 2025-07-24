@@ -2,11 +2,6 @@
 title: Recharge
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Recharge
-
-##  Recharge
-
 Conjuration (Healing)
 
 Level: Divine 3; Components: V, S, F; Casting Time: Attack action; Range:

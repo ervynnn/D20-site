@@ -2,11 +2,6 @@
 title: Rat, Dire
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Rat, Dire
-
-##  Rat, Dire
-
 ###  Species Traits
 
 Dire rats have the following traits:

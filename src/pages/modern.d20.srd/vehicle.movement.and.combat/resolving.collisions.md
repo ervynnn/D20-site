@@ -2,11 +2,6 @@
 title: Resolving Collisions
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Vehicle Movement and Combat](/modern.d20.srd/vehicle.movement.and.combat) > Resolving Collisions
-
-##  Resolving Collisions
-
 The base [ damage ](/modern.d20.srd/equipment/equipment.vehicles) dealt by a [vehicle collision](/modern.d20.srd/vehicle.movement.and.combat/collisions.ramming) depends on
 the [ speed ](/modern.d20.srd/vehicle.movement.and.combat/vehicle.speed) and
 size of the objects involved. Use the highest [ speed](/modern.d20.srd/vehicle.movement.and.combat/vehicle.speed) and the smallest

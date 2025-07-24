@@ -2,11 +2,6 @@
 title: Adventurer
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Starting Occupation ](/modern.d20.srd/starting.occupation) > Adventurer
-
-##  Adventurer
-
 Adventurers include professional daredevils, big-game hunters, relic hunters,
 explorers, extreme sports enthusiasts, field scientists, thrill-seekers, and
 others called to face danger for a variety of reasons.

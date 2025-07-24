@@ -2,11 +2,6 @@
 title: Concentration
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Concentration
-
-## Concentration ([Con](/modern.d20.srd/basics/ability.scores))
-
 [Check](/modern.d20.srd/skills/skill.basics): A character makes a
 Concentration [check](/modern.d20.srd/skills/skill.basics) whenever
 he or she may potentially be distracted while engaged in some action that

@@ -2,11 +2,6 @@
 title: Poison
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Special Abilities](/modern.d20.srd/special.abilities) > Poison
-
-## Poison (Ex)
-
 Poison attacks deal initial [damage](/modern.d20.srd/combat/damage), such as
 [temporary ability damage](/modern.d20.srd/special.abilities/ability.score.reduction) or some
 other effect, to the opponent on a failed [Fortitude save](/modern.d20.srd/basics/saving.throws). Unless otherwise noted, another

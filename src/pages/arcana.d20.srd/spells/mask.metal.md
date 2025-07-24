@@ -2,11 +2,6 @@
 title: Mask Metal
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Mask Metal
-
-##  Mask Metal
-
 Illusion
 
 Level: Arcane 1; Components: V, S, M; Casting Time: Attack action; Range:

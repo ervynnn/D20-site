@@ -2,11 +2,6 @@
 title: FX
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > FX
-
-## FX Basics
-
 Arcane spells, divine spells, and psionic powers are all representative of
 abilities beyond the scope of most ordinary individuals, and are called as a
 group FX abilities. FX abilities are features of a few [advanced classes](/modern.d20.srd/classes/advanced), and are not available to basic

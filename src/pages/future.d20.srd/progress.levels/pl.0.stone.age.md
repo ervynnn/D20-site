@@ -1,12 +1,7 @@
 ---
-title: PL 0: Stone Age
+title: PL 0 Stone Age
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Progress Levels](/future.d20.srd/progress) > PL 0: Stone Age
-
-## PL 0: Stone Age
-
 The major achievements of a Stone Age society are the use of fire, the
 domestication of animals, and the invention of agriculture. An individual
 living in a Stone Age society is primitive, but he isn’t necessarily gullible,

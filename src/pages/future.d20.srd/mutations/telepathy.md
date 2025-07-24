@@ -2,11 +2,6 @@
 title: Telepathy
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Telepathy
-
-##  Telepathy [MAJOR]
-
 You gain limited telepathic ability.
 
 MP Cost: 5.

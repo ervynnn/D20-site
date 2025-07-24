@@ -2,11 +2,6 @@
 title: Explosives and Splash Weapons
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > Explosives and Splash Weapons
-
-## Explosives and Splash Weapons
-
 These weapons explode or burst, dealing damage to creatures or objects within
 an area.
 

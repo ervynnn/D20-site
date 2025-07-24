@@ -2,11 +2,6 @@
 title: Stinger
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mutations](/future.d20.srd/mutations) > Stinger
-
-## Stinger [MAJOR]
-
 A poisonous stinger erupts from some part of your body—usually a needlelike
 barb protruding from an arm or leg joint, or a scorpionlike stinger on the end
 of a tail or similar appendage.

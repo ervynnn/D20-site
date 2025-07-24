@@ -2,11 +2,6 @@
 title: Autocomp, Gunner
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Vehicles](/future.d20.srd/vehicles) > [Vehicle Gear](/future.d20.srd/vehicles/vehicle.gear) > Autocomp, Gunner
-
-## Autocomp, Gunner
-
 A gunner autocomp is an onboard computer with AI software capable of
 automatically aiming and firing all of a vehicle’s mounted weapons, thereby
 removing the need for one or more gunners. Most vehicles equipped with a

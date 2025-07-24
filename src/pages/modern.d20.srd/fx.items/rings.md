@@ -2,11 +2,6 @@
 title: Rings
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX Items ](/modern.d20.srd/fx.items) > Rings
-
-##  Rings
-
 A ring is a circular metal band worn on the finger that contains a [ spell- like ](/modern.d20.srd/fx) ability or a [ psionic power](/modern.d20.srd/psionics) (often an effect that persists as long as the ring
 is worn). A ring has a Defense of 13, hardness 10, 2 hit points, and a break
 DC of 25.

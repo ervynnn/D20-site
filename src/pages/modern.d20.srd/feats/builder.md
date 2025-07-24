@@ -2,11 +2,6 @@
 title: Builder
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Builder
-
-## Builder
-
 Benefit: Pick two of the following skills: [Craft (chemical)](/modern.d20.srd/skills/craft.chemical), [Craft (electronic)](/modern.d20.srd/skills/craft.electronic), [Craft (mechanical)](/modern.d20.srd/skills/craft.mechanical), and [Craft (structural)](/modern.d20.srd/skills/craft.structural). The character gets a
 +2 bonus on all [checks](/modern.d20.srd/skills/skill.basics) with
 those skills.

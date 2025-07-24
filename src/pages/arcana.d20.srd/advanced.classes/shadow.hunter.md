@@ -2,11 +2,6 @@
 title: Shadow Hunter
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Advanced Classes ](/arcana.d20.srd/advanced.classes) > Shadow Hunter
-
-##  Shadow Hunter
-
 The fastest path into this advanced class is from the Dedicated hero basic
 class, though other paths are possible.
 

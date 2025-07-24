@@ -2,11 +2,6 @@
 title: Robolink
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > [Robot Accessories](/future.d20.srd/robots/robot.accessories) > Robolink
-
-## Robolink (PL 5)
-
 This unit can only be installed on the robot with no Intelligence score. It
 allows a remote operator to control a robot’s actions from afar. It also
 enables the operator to shut down and activate the robot. The effective range

@@ -2,11 +2,6 @@
 title: Wealth Check
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Wealth](/modern.d20.srd/wealth) > Wealth Check
-
-## The Wealth Check
-
 A Wealth check is a 1d20 roll plus a character’s current [Wealth bonus](/modern.d20.srd/wealth/wealth.bonus). The [Wealth bonus](/modern.d20.srd/wealth/wealth.bonus) is fluid. It
 [increases](/modern.d20.srd/wealth/regaining.wealth) as a character gains
 Wealth and [decreases](/modern.d20.srd/wealth/losing.wealth) as the character

@@ -3,11 +3,6 @@ title: Military Vehicles
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > [Vehicles](/modern.d20.srd/equipment/equipment.vehicles) > Military Vehicles
-
-## Military Vehicles
-
-
 <table> <tr> <th>Name</th> <th>Crew</th> <th>Pass</th> <th>Cargo</th> <th>Init</th> <th>Maneuver</th> <th>Top Speed</th> <th>Defense</th> <th>Hardness</th> <th>Hit Points</th> <th>Size</th> <th>Purchase DC</th> <th>Restriction</th> </tr> <tr><td> BMP-2 (tracked APC)</td><td> 3</td><td> 7</td><td> 250 lb.</td><td> –2</td><td> –2</td><td> 70 (7)</td><td> 8</td><td> 10</td><td> 52</td><td> H</td><td> 40</td><td> Mil (+3) </td></tr> <tr><td> M1A2 Abrams (tracked tank)</td><td> 4</td><td> 0</td><td> 425 lb.</td><td> –4</td><td> –4</td><td> 80 (8)</td><td> 6</td><td> 20</td><td> 64</td><td> G</td><td> 47</td><td> Mil (+3) </td></tr> <tr><td> M2A2 Bradley (tracked APC)</td><td> 3</td><td> 7</td><td> 425 lb.</td><td> –4</td><td> –4</td><td> 70 (7)</td><td> 6</td><td> 15</td><td> 58</td><td> G</td><td> 45</td><td> Mil (+3) </td></tr> <tr><td> M113A1 Gavin (tracked APC)</td><td> 2</td><td> 11</td><td> 200 lb.</td><td> –2</td><td> –2</td><td> 62 (6)</td><td> 8</td><td> 10</td><td> 48</td><td> H</td><td> 39</td><td> Mil (+3) </td></tr> <tr><td> UH-60 Black Hawk (helicopter)</td><td> 2</td><td> 14</td><td> 9,000 lb.</td><td> –4</td><td> –4</td><td> 325 (32)</td><td> 6</td><td> 5</td><td> 46</td><td> G</td><td> 47</td><td> Mil (+3) </td></tr> </table>
 
  

@@ -2,11 +2,6 @@
 title: Civilian Motorcycles
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Vehicles](/future.d20.srd/vehicles) > Civilian Motorcycles
-
-## Civilian Motorcycles
-
 Mounting a motorcycle is a free action, and the motorcycle provides no cover
 to its occupants—except as noted below. The operative skill for motorcycles is
 Drive.

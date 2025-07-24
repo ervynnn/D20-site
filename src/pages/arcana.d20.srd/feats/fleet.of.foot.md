@@ -2,11 +2,6 @@
 title: Fleet of Foot
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Fleet of Foot
-
-##  Fleet of Foot
-
 You can turn corners without losing momentum.
 
 **Prerequisite:** Run.

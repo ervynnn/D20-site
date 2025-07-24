@@ -2,11 +2,6 @@
 title: Vivilor
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Vivilor
-
-##  Vivilor
-
 Vivilors are outsiders who come in response to the summon vivilor spell.
 Vivilors generally have humanoid shapes, but spellcasters can summon
 quadupedal or serpentine vivilors if they wish. In addition to their basic

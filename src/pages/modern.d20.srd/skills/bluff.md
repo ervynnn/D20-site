@@ -2,11 +2,6 @@
 title: Bluff
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Bluff
-
-## Bluff ([Cha](/modern.d20.srd/basics/ability.scores))
-
 [Check](/modern.d20.srd/skills/skill.basics): A Bluff
 [check](/modern.d20.srd/skills/skill.basics) is opposed by the
 target’s [Sense Motive](/modern.d20.srd/skills/sense.motive)

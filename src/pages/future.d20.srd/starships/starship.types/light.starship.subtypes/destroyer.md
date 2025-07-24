@@ -2,11 +2,6 @@
 title: Destroyer
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > [Light Starship Subtypes](/future.d20.srd/starships/starship.types/light.starship) > Destroyer
-
-## Destroyer (PL 6)
-
 Destroyers take their name from the torpedo-boat destroyers of the late 19th
 century. They are integral to the defense of a task force, screening it
 against small craft and attack ships. Destroyers are often armed with one or

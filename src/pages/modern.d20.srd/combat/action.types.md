@@ -2,11 +2,6 @@
 title: Action Types
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Action Types
-
-## Action Types
-
 The four types of actions are [attack actions](/modern.d20.srd/combat/action.types), [move actions](/modern.d20.srd/combat/action.types), [full-round actions](/modern.d20.srd/combat/action.types), and [free actions](/modern.d20.srd/combat/action.types). In a normal round, a
 character can perform an attack action and a move action (or two move actions;
 a character can always take a move action in place of an attack action), or a

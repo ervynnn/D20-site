@@ -2,11 +2,6 @@
 title: On Hand Objects
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > On Hand Objects
-
-## On-Hand Objects
-
 To account for the mundane and innocuous objects that most people have among
 their possessions—and not force every character to specifically purchase such
 objects in order to employ them—use the following rules.

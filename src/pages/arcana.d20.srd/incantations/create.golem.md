@@ -2,11 +2,6 @@
 title: Create Golem
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Create Golem
-
-##  Create Golem
-
 Conjuration (Creation)
 
 Skill Check: Knowledge (arcane lore) DC 32, 7 successes; Failure: Two

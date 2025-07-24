@@ -1,12 +1,7 @@
 ---
-title: Seed: Conjure
+title: Seed Conjure
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Seed: Conjure
-
-##  Seed: Conjure
-
 Conjuration (Creation)
 
 Knowledge (arcane lore) DC: 30; Range: 0 ft.; Effect: Unattended, nonmagical

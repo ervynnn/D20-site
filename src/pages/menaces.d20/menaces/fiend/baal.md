@@ -2,11 +2,6 @@
 title: Baal
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > [ Fiend](/menaces.d20/menaces/fiend) > Baal
-
-##  Baal (Unique Archfiend)
-
 The archfiend Baal feeds on the corruption of mortals who hunger for wealth
 and power. As the gap between rich and poor grows ever wider, Baal grows ever
 more powerful. In this age of nearly limitless corporate expansion and

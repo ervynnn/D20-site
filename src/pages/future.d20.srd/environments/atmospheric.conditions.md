@@ -2,11 +2,6 @@
 title: Atmospheric Conditions
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Environments](/future.d20.srd/environments) > Atmospheric Conditions
-
-## Atmospheric Conditions
-
 As with variants in gravity, a change in atmospheric conditions can cause
 major problems for characters. Unfortunately, not every planet will have the
 same atmospheric density or chemical composition as Earth, meaning that worlds

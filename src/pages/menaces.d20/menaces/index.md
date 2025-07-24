@@ -2,11 +2,6 @@
 title: Menaces
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > Menaces
-
-## Menaces
-
 |  |  |  |  |
 |--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
 | [New Equipment](/menaces.d20/menaces/new.equipment) | [Acid Rainer](/menaces.d20/menaces/acid.rainer) | [Alien Probe](/menaces.d20/menaces/alien.probe) | [Anaconda, Giant](/menaces.d20/menaces/anaconda.giant) |

@@ -2,11 +2,6 @@
 title: Dimensional Travel
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Traveler Science](/future.d20.srd/traveler.science) > [Fantastic Space Travel](/future.d20.srd/traveler.science/fantastic.space.travel) > Dimensional Travel
-
-## Dimensional Travel
-
 Humankind has long been fascinated with the idea of parallel dimensions, the
 theory being that alongside our own universe lie virtually identical universes
 in which people just like us live out their lives (and perhaps fantasize about

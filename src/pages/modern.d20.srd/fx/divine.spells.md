@@ -2,11 +2,6 @@
 title: Divine Spells
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX](/modern.d20.srd/fx) > Divine Spells
-
-## Divine Spells
-
 Unlike arcane spells, divine spells draw power from the strength of the
 spellcaster’s beliefs. Divine spells tend to be less flashy, destructive, and
 disruptive than [arcane spells](/modern.d20.srd/fx/arcane.spells). What they

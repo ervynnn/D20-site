@@ -2,11 +2,6 @@
 title: Dead Aim
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Dead Aim
-
-## Dead Aim
-
 Prerequisites: [Wisdom](/modern.d20.srd/basics/ability.scores) 13, [Far Shot](/modern.d20.srd/feats/far.shot).
 
 Benefit: Before making a ranged

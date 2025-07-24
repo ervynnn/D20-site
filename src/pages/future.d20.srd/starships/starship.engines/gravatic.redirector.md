@@ -2,11 +2,6 @@
 title: Gravitic Redirector
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Engines](/future.d20.srd/starships/starship) > Gravitic Redirector
-
-##  Gravitic Redirector (PL 8)
-
 A refinement of the induction engine, the gravitic redirector creates a
 gravitic singularity—essentially, a sub-microscopic black hole—in the vicinity
 of the ship, producing a constant pull on the ship. By changing the location

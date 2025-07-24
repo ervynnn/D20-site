@@ -2,11 +2,6 @@
 title: Doom Hag
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Doom Hag
-
-##  Doom Hag
-
 Standing 6 feet tall and weighing 175 pounds, a doom hag resembles a grizzled
 crone. It is always clad in a shabby, tattered dress and shawl of a drab
 color.

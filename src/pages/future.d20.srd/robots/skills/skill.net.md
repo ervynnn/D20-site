@@ -2,11 +2,6 @@
 title: Skill Net
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > [Skills](/future.d20.srd/robots/skills) > Skill Net
-
-## Skill Net (PL 7)
-
 A skill net consists of a series of interlocking programs that allow the robot
 to acquire ranks in multiple skills. The number of ranks in any given skill
 cannot exceed the programmer’s ranks in the skill being emulated. A factory-

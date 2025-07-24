@@ -2,11 +2,6 @@
 title: Sense Motive
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Sense Motive
-
-## Sense Motive ([Wis](/modern.d20.srd/basics/ability.scores))
-
 [Check](/modern.d20.srd/skills/skill.basics): A successful
 [check](/modern.d20.srd/skills/skill.basics) allows the character to
 avoid being bluffed (see the [Bluff](/modern.d20.srd/skills/bluff) skill).

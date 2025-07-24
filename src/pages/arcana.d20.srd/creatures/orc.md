@@ -2,11 +2,6 @@
 title: Orc
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Orc
-
-##  Orc
-
 Orcs read, write, and speak their own language (Orc). A few particularly
 intelligent orcs speak other local or Shadow languages, including Goblin and
 Giant.

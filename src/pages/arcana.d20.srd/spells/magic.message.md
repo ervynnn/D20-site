@@ -2,11 +2,6 @@
 title: Magic Message
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Magic Message
-
-## Magic Message
-
 Illusion
 
 Level: Arcane 2; Components: V, S, M; Casting Time: Fullround action; Range:

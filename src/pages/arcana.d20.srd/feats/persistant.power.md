@@ -1,12 +1,7 @@
 ---
 title: Persistent Power
 layout: '~/layouts/MarkdownLayout.astro'
----
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Feats](/arcana.d20.srd/feats) > Persistent Power
-[Metapsionic]
-
-## Persistent Power [Metapsionic]
+---[Metapsionic]
 
 You make one of your powers last all day.
 

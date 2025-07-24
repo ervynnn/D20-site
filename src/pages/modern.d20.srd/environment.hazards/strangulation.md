@@ -2,11 +2,6 @@
 title: Strangulation
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Environment & Hazards](/modern.d20.srd/environment.hazards) > Strangulation
-
-##  Strangulation
-
 When a character is strangled by an instrument or an attacker, use the rules
 below.
 

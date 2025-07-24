@@ -2,11 +2,6 @@
 title: Radiation Sickness
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Radiation Sickness
-
-##  Radiation Sickness
-
 When characters are exposed to radiation, they may be afflicted with radiation
 sickness. Radiation sickness functions exactly like exposure to any other
 disease, following the normal rules for diseases. The Fortitude save DC and

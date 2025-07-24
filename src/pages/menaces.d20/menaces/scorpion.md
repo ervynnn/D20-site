@@ -2,11 +2,6 @@
 title: Scorpion
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Scorpion
-
-##  Scorpion
-
 ###  Species Traits
 
 Bonus **Feats:** A scorpion gains Weapon Finesse (claw) and Weapon Finesse

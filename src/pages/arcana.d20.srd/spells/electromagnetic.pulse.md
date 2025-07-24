@@ -2,11 +2,6 @@
 title: Electromagnetic Pulse
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Electromagnetic Pulse
-
-## Electromagnetic Pulse
-
 Evocation [Electricity]
 
 Level: Arcane 3; Components: V, S; Casting Time: Attack action; Range: Short

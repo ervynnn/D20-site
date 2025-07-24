@@ -2,11 +2,6 @@
 title: Tooth Fairy
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Tooth Fairy
-
-## Tooth Fairy
-
 ### Species Traits
 
 Fey Rod (Sp): A tooth fairy’s preferred weapon is a 1-foot-long rod of ash

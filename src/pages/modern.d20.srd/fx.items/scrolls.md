@@ -2,11 +2,6 @@
 title: Scrolls
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX Items](/modern.d20.srd/fx.items) > Scrolls
-
-## Scrolls
-
 A scroll is a spell [magically](/modern.d20.srd/fx) inscribed onto paper or
 parchment so that it can be used later. Once the [spell](/modern.d20.srd/fx)
 is cast, the scroll becomes blank or turns to dust. Scrolls are single-use

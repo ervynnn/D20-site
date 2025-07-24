@@ -2,11 +2,6 @@
 title: Snake, Hoop
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Snake, Hoop
-
-##  Snake, Hoop
-
 A hoop snake resembles an ordinary snake except that it has a head at either
 end of its body. It measures some 6 feet long and weighs about 75 pounds.
 

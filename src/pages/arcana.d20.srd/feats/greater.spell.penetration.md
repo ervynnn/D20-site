@@ -2,11 +2,6 @@
 title: Greater Spell Penetration
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Greater Spell Penetration
-
-##  Greater Spell Penetration
-
 Your spells are remarkably potent, breaking through spell resistance more
 readily than normal.
 

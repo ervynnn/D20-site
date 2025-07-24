@@ -2,11 +2,6 @@
 title: Spell Resistance
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX ](/modern.d20.srd/fx) > Spell Resistance
-
-##  Spell Resistance
-
 Spell resistance is a special defensive ability that protects against spells.
 
 Each spell description includes an entry that indicates whether spell

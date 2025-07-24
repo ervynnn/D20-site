@@ -2,11 +2,6 @@
 title: Mecha Weapons
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > Mecha Weapons
-
-## Mecha Weapons
-
 Mecha use both melee and ranged weapons to dispatch foes. In addition, a
 weapon can either be handheld or integrated into the mecha’s superstructure;
 each version has its benefits.

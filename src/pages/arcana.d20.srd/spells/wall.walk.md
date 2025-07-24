@@ -2,11 +2,6 @@
 title: Wall Walk
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Wall Walk
-
-## Wall Walk
-
 Transmutation
 
 Level: Arcane 3, Divine 4; Components: V, S, M; Casting Time: Attack action;

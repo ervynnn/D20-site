@@ -2,11 +2,6 @@
 title: Mecha Body Size
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > Mecha Body Size
-
-## Mecha Body Size
-
 Mecha bodies come in Large, Huge, Gargantuan, and Colossal sizes. A mecha’s
 size determines how many equipment slots (places where weapons and additional
 equipment can be installed) it has, and how well it measures up in combat. See

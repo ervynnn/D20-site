@@ -2,11 +2,6 @@
 title: Subcutaneous Cell Phone
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Cybernetics](/future.d20.srd/cybernetics) > Subcutaneous Cell Phone
-
-## Subcutaneous Cell Phone (PL 6)
-
 The recipient has a small transceiver installed underneath the skin of her
 throat. The transceiver is connected to a tiny speaker located in the
 recipient’s ear.

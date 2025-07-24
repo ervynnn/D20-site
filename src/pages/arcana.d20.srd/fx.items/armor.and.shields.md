@@ -2,11 +2,6 @@
 title: Armor and Shields
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [FX Items](/arcana.d20.srd/fx.items) > Armor and Shields
-
-## Armor And Shields
-
 Below are some examples of modern-day magical armor and shields.
 
 **Bulletproof Shirt**

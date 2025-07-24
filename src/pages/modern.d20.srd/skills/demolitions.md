@@ -2,11 +2,6 @@
 title: Demolitions
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Demolitions
-
-## Demolitions ([Int](/modern.d20.srd/basics/ability.scores)) [Trained Only](/modern.d20.srd/skills/skill.basics)
-
 [Check](/modern.d20.srd/skills/skill.basics): Setting a simple
 explosive to blow up at a certain spot doesn’t require a
 [check](/modern.d20.srd/skills/skill.basics), but connecting and

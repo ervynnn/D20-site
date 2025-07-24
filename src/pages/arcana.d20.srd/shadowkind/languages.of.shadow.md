@@ -2,11 +2,6 @@
 title: Languages Of Shadow
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Shadowkind ](/arcana.d20.srd/shadowkind) > Languages Of Shadow
-
-##  Languages Of Shadow
-
 Creatures who reach our modern world through Shadow gain an innate knowledge
 of English, Spanish, Russian, or whatever the predominant language happens to
 be in the area in which they arrive. To them, the language resembles Common, a

@@ -2,11 +2,6 @@
 title: Reduced Speed
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Reduced Speed
-
-##  Reduced Speed [DRAWBACK]
-
 You are unable to move as quickly as normal due to various mutations and
 deformities.
 

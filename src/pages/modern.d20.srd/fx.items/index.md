@@ -2,11 +2,6 @@
 title: FX Items
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > FX Items
-
-##  FX Items
-
 Magic items and psionic items are divided into categories: [ armor](/modern.d20.srd/fx.items/armor) , [ weapons](/modern.d20.srd/fx.items/weapons) , [ potions](/modern.d20.srd/fx.items/potions) , [ rings](/modern.d20.srd/fx.items/rings) , [ scrolls](/modern.d20.srd/fx.items/scrolls) , [ staffs](/modern.d20.srd/fx.items/staffs) , [ tattoos](/modern.d20.srd/fx.items/tattoos) , [ wands](/modern.d20.srd/fx.items/wands) , and [ wondrous items](/modern.d20.srd/fx.items/wondrous.items) .
 
 | [ Using FX Items ](/modern.d20.srd/fx.items/using.fx.items) | [ Size and FX Items ](/modern.d20.srd/fx.items/size.fx.items) |

@@ -3,11 +3,6 @@ title: Weapon Accessories
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > [Equipment (General)](/modern.d20.srd/equipment/equipment.general) > Weapon Accessories
-
-## Weapon Accessories
-
-
 <table> <tr> <th>Object</th> <th><a href="/modern.d20.srd/equipment/equipment.weapons">Size</a></th> <th><a href="/modern.d20.srd/equipment/equipment.weapons">Weight</a></th> <th><a href="/modern.d20.srd/equipment/equipment.weapons">Purchase DC</a></th> <th><a href="/modern.d20.srd/equipment/equipment.weapons">Restriction</a></th> </tr> <tr><td> Box magazine</td><td> Tiny</td><td> 0.5 lb.</td><td> 4</td><td> — </td></tr> <tr class="shaded"><td colspan="5"> Detonator </td></tr> <tr class="shaded2"><td> Blasting cap</td><td> Tiny</td><td> 0.5 lb.</td><td> 4</td><td> Lic (+1) </td></tr> <tr class="shaded2"><td> Radio controlled</td><td> Tiny</td><td> 0.5 lb.</td><td> 10</td><td> Lic (+1) </td></tr> <tr class="shaded2"><td> Timed</td><td> Tiny</td><td> 0.5 lb.</td><td> 7</td><td> Lic (+1) </td></tr> <tr class="shaded2"><td> Wired</td><td> Tiny</td><td> 1 lb.</td><td> 6</td><td> Lic (+1) </td></tr> <tr class="shaded"><td colspan="5"> Holster </td></tr> <tr class="shaded2"><td> Hip</td><td> Tiny</td><td> 1 lb.</td><td> 5</td><td> — </td></tr> <tr class="shaded2"><td> Concealed carry</td><td> Tiny</td><td> 0.5 lb.</td><td> 5</td><td> — </td></tr> <tr><td> Illuminator</td><td> Tiny</td><td> 0.5 lb.</td><td> 7</td><td> — </td></tr> <tr><td> Laser sight</td><td> Tiny</td><td> 0.5 lb.</td><td> 15</td><td> — </td></tr> <tr class="shaded"><td colspan="5"> Scope </td></tr> <tr class="shaded2"><td> Standard</td><td> Tiny</td><td> 0.5 lb.</td><td> 11</td><td> — </td></tr> <tr class="shaded2"><td> Electro-optical</td><td> Small</td><td> 3 lb.</td><td> 18</td><td> — </td></tr> <tr><td> Speed loader</td><td> Tiny</td><td> 0.5 lb.</td><td> 3</td><td> — </td></tr> <tr class="shaded"><td colspan="5"> Suppressor </td></tr> <tr class="shaded2"><td> Pistol</td><td> Tiny</td><td> 1 lb.</td><td> 12</td><td> Mil (+3) </td></tr> <tr class="shaded2"><td> Rifle</td><td> Small</td><td> 4 lb.</td><td> 14</td><td> Mil (+3) </td></tr> </table>
 
 

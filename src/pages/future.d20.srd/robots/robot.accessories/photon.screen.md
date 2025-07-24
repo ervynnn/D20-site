@@ -2,11 +2,6 @@
 title: Photon Screen
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > [Robot Accessories](/future.d20.srd/robots/robot.accessories) > Photon Screen
-
-## Photon Screen (PL 8)
-
 Using a series of light reflectors molded to the robot’s frame, this unit
 bends light around the robot, rendering it invisible. Any items carried by the
 robot also become invisible. An invisible robot gains a +40 bonus on Hide

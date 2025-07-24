@@ -2,11 +2,6 @@
 title: Claws of the Bear
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Psionics](/modern.d20.srd/psionics) > Claws of the Bear
-
-## Claws of the Bear
-
 [Strength](/modern.d20.srd/basics/ability.scores)
 
 Level: B[attle Mind](/modern.d20.srd/classes/advanced/battle.mind) 2; Display:

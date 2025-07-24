@@ -2,11 +2,6 @@
 title: Attack Actions
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Attack Actions
-
-## Attack Actions
-
 Most common attack actions are described below. More specialized attack
 actions are mentioned in [Table: Actions in Combat](/modern.d20.srd/combat/actions.in.combat), and covered in [Special Attacks](/modern.d20.srd/combat/index).
 

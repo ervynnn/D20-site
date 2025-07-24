@@ -1,12 +1,7 @@
 ---
-title: PL 0: Stone Age
+title: PL 0 Age of Reason
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Progress Levels](/future.d20.srd/progress) > PL 0: Stone Age
-
-## PL 3: Age Of Reason
-
 The Age of Reason is an era in human history when the development of ideas and
 systems of thought takes precedence over technological invention. The
 scientific method improves humankind’s understanding of the world.

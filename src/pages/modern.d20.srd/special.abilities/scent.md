@@ -2,11 +2,6 @@
 title: Scent
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Special Abilities](/modern.d20.srd/special.abilities) > Scent
-
-## Scent (Ex)
-
 This ability allows the creature to detect approaching enemies, sniff out
 hidden foes, and track by sense of smell. Creatures with the scent ability can
 identify familiar odors just as humans do familiar sights.

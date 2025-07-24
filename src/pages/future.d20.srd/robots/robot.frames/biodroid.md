@@ -2,11 +2,6 @@
 title: Biodroid
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > [Robot Frames](/future.d20.srd/robots/robot.frames) > Biodroid
-
-## Biodroid (PL 6)
-
 Biodroids are a step up from biomorphs, in that they can be mistaken, under
 certain conditions, for what they are made to resemble. However, reasonably
 close inspection reveals the presence of robotic parts and the lack of

@@ -2,11 +2,6 @@
 title: Advanced Diagnositcs
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Miscellanious Equipment](/future.d20.srd/miscellanious.equipment) > Advanced Diagnositcs
-
-## Advanced Diagnostics (PL 7)
-
 Multiple redundant systems coupled with the ability to detect and correct
 minor system faults allow the mecha to repair moderate damage. Advanced
 diagnostics restores 1d10 points of damage per hour, during which time the

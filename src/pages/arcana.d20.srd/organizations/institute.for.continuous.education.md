@@ -2,11 +2,6 @@
 title: Institute for Continuous Education
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Organizations ](/arcana.d20.srd/organizations) > Institute for Continuous Education
-
-##  Institute for Continuous Education
-
 Adult education is a thriving business. In this modern world there are always
 new skills to learn and information to master. This is even truer since the
 recent rise of Shadow. Although most mundane folk do not recognize Shadow

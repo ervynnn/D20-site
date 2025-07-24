@@ -2,11 +2,6 @@
 title: Dataread
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Dataread
-
-##  Dataread
-
 Divination
 
 Level: Arcane 2, Divine 2; Components: V, S, F/DF; Casting Time: Attack

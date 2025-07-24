@@ -2,11 +2,6 @@
 title: Scavenger
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starting Occupations](/future.d20.srd/starting) > Scavenger
-
-## Scavenger
-
 Scavengers turn society’s wreckage and discarded trash into useful tools or
 items for trade, and if they’re lucky, their endeavors might even yield one or
 two objects of special value. They effortlessly navigate and strip clean the

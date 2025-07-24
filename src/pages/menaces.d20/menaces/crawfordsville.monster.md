@@ -2,11 +2,6 @@
 title: Crawfordsville Monster
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Crawfordsville Monster
-
-##  Crawfordsville Monster
-
 A Crawfordsville monster appears as a gigantic amoeba floating through the
 air. A typical specimen measures 20 feet in diameter but weighs only 500
 pounds.

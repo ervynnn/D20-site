@@ -2,11 +2,6 @@
 title: Wall of Force
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX ](/modern.d20.srd/fx) > Wall of Force
-
-##  Wall of Force
-
 Evocation [Force]
 
 [ Level ](/modern.d20.srd/fx/level) : [ Mage](/modern.d20.srd/classes/advanced/mage) 5; [ Components](/modern.d20.srd/fx/components) : V, S, M; [ Casting Time](/modern.d20.srd/fx/casting.time) ; [ Attack action](/modern.d20.srd/combat/attack.actions) [ Range ](/modern.d20.srd/fx/range) :

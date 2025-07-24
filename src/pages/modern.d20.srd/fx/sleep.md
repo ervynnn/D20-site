@@ -2,11 +2,6 @@
 title: Sleep
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX](/modern.d20.srd/fx) > Sleep
-
-## Sleep
-
 Enchantment [Mind-Affecting]
 
 [Level](/modern.d20.srd/fx/level):

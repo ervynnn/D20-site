@@ -2,11 +2,6 @@
 title: Greater Dispel Magic
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Greater Dispel Magic
-
-##  Greater Dispel Magic
-
 Abjuration
 
 Skill Check: Knowledge (arcane lore) DC 31, 4 successes, and Spellcraft DC 31,

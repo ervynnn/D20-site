@@ -2,11 +2,6 @@
 title: Blue Collar
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Starting Occupation ](/modern.d20.srd/starting.occupation) > Blue Collar
-
-##  Blue Collar
-
 Blue collar occupations include factory work, food service jobs, construction,
 service industry jobs, taxi drivers, postal workers, and other jobs that are
 usually not considered to be desk jobs.

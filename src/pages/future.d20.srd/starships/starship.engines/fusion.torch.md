@@ -2,11 +2,6 @@
 title: Fusion Torch
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Engines](/future.d20.srd/starships/starship) > Fusion Torch
-
-## Fusion Torch (PL 6)
-
 This engine consists of a fusion reactor with one wall of the magnetic bottle
 missing, directing the thrust in the form of super-heated plasma. The fusion
 torch is intended for space-only applications; its exhaust stream would melt

@@ -2,11 +2,6 @@
 title: Jynx
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Jynx
-
-##  Jynx
-
 ###  Species Traits
 
 Electricity Immunity (Ex): A jynx is immune to electricity damage, though a

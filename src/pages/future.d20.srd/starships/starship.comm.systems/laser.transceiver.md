@@ -2,11 +2,6 @@
 title: Laser Transceiver
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Comm Systems ](/future.d20.srd/starships/starship.comm) > Laser Transceiver
-
-##  Laser Transceiver (PL 6)
-
 This system uses a beam of coherent light to transmit messages. The laser is
 unidirectional; the signal cannot be intercepted or jammed unless it’s beamed
 directly at a hostile ship or station. However, if the comm officer doesn’t

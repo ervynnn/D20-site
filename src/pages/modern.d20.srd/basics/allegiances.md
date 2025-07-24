@@ -2,11 +2,6 @@
 title: Allegiances
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Basics](/modern.d20.srd/basics) > Allegiances
-
-## Allegiances
-
 The allegiances system is optional.
 
 A character may have up to three allegiances, listed in order from most

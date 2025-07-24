@@ -2,11 +2,6 @@
 title: Modern Alchemy
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Scientific Engineering](/future.d20.srd/scientific.engineering) > Modern Alchemy
-
-##  Modern Alchemy
-
 One source of matter replication is reminiscent of the ancient technique k
 nown as alchemy. Replicators that rely on alchemy as their primary means of
 producing new objects transform one element into another to create the final

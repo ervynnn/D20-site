@@ -2,11 +2,6 @@
 title: Toxic Sludge
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Toxic Sludge
-
-##  Toxic Sludge
-
 ###  Species Traits
 
 Acid (Ex): A toxic sludge is composed of caustic chemicals that dissolve any

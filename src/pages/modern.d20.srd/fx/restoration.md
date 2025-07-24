@@ -2,11 +2,6 @@
 title: Restoration
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX ](/modern.d20.srd/fx) > Restoration
-
-##  Restoration
-
 Conjuration (Healing)
 
 [ Level ](/modern.d20.srd/fx/level) : [ Acolyte](/modern.d20.srd/classes/advanced/acolyte) 4; [ Components](/modern.d20.srd/fx/components) : V, S. M; [ Casting Time](/modern.d20.srd/fx/casting.time) : 3 rounds; [ Range](/modern.d20.srd/fx/range) : Touch; [ Target ](/modern.d20.srd/fx/target) :

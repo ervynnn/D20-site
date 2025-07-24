@@ -2,11 +2,6 @@
 title: Magical Beast
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Creature Types ](/modern.d20.srd/creature.types) > Magical Beast
-
-##  Magical Beast
-
 A magical beast is similar to an animal but can have an [ Intelligence](/modern.d20.srd/basics/ability.scores) score higher than 2. A magical beast
 might possess supernatural or extraordinary abilities, or it might be bizarre
 in appearance and habits. See Table: Magical Beasts for physical ability

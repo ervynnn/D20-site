@@ -2,11 +2,6 @@
 title: Alien Craft Operation
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Feats ](/menaces.d20/feats) > Alien Craft Operation
-
-##  Alien Craft Operation
-
 The creature is proficient at operating one type of spacecraft utilized by
 certain alien species.
 

@@ -2,11 +2,6 @@
 title: Demonic Machine
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Demonic Machine
-
-##  Demonic Machine
-
 A demonic machine has the normal dimensions, weight, and appearance of its
 mundane counterpart, and to all outward appearances, it is a perfectly normal
 machine. Any sort of device that has sufficiently dangerous moving parts—a

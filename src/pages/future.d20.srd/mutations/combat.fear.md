@@ -2,11 +2,6 @@
 title: Combat Fear
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mutations](/future.d20.srd/mutations) > Combat Fear
-
-## Combat Fear [DRAWBACK]
-
 Due to a chemical imbalance in your brain, you are gripped by an inexplicable
 fear whenever you face a dangerous or frightening situation.
 

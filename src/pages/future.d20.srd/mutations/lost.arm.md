@@ -2,11 +2,6 @@
 title: Lost Arm
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mutations](/future.d20.srd/mutations) > Lost Arm
-
-## Lost Arm [DRAWBACK]
-
 One of your arms withers or gets eaten away, leaving behind a stump.
 
 MP Value: 3.

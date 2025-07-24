@@ -2,11 +2,6 @@
 title: Magic Items and Mundanes
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [FX Items](/arcana.d20.srd/fx.items) > Magic Items and Mundanes
-
-## Magic Items and Mundanes
-
 For the most part, magic items won’t function for a mundane. Sure, the mundane
 might feel joy and attachement to such an item, or perhaps fear and loathing,
 depending on the person and the function of the item, but rarely does a

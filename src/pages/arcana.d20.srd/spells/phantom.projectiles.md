@@ -2,11 +2,6 @@
 title: Phantom Projectiles
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Phantom Projectiles
-
-## Phantom Projectiles
-
 Transmutation
 
 Level: Arcane 5; Components: V, S, M; Casting Time: Attack action; Range:

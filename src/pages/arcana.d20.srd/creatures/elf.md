@@ -2,11 +2,6 @@
 title: Elf
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Elf
-
-##  Elf
-
 Elves speak, read, and write Elven. Many also take the time to learn one or
 more local languages. Particularly intelligent elves also know one or more
 Shadow languages, including any of the following: Draconic, Gnoll, Goblin,

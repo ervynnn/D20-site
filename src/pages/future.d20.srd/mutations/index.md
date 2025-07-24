@@ -2,11 +2,6 @@
 title: Mutations
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Mutations
-
-## Mutations
-
 While a mutation can assume many forms, it typically signifies an abnormal
 trait or ability not common to the species. Mutations can be pronounced or
 unnoticeable. They may grant extraordinary abilities or effect subtle to

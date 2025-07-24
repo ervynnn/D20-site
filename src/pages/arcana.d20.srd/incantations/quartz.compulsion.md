@@ -2,11 +2,6 @@
 title: Quartz Compulsion
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Quartz Compulsion
-
-##  Quartz Compulsion
-
 Enchantment (Compulsion) [Mind-Affecting, Language-Dependent]
 
 Skill Check: Knowledge (arcane lore) DC 33, 6 successes, and Intimidate DC 33,

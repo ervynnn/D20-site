@@ -2,11 +2,6 @@
 title: Gnoll
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Gnoll
-
-## Gnoll
-
 ### Species Traits
 
 Bonus Feat: Gnolls receive the bonus feat [Simple Weapons Proficiency](/modern.d20.srd/feats/simple.weapons.proficiency).

@@ -2,11 +2,6 @@
 title: Move Actions
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > Move Actions
-
-## Move Actions
-
 Unless otherwise noted, move actions don’t require a Pilot check to perform.
 
 ### Move at Tactical Speed

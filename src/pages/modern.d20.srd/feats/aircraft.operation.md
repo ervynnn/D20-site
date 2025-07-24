@@ -2,11 +2,6 @@
 title: Aircraft Operation
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Aircraft Operation
-
-## Aircraft Operation
-
 Select a class of aircraft (heavy aircraft, helicopters, jet fighters, or
 spacecraft). The character is proficient at operating that class of aircraft.
 

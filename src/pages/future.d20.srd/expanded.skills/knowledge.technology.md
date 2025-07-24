@@ -2,11 +2,6 @@
 title: Knowledge (Technology)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Expanded Skills ](/future.d20.srd/expanded.skills) > Knowledge (Technology)
-
-##  Knowledge (Technology) (Int)
-
 You can make a Knowledge (technology) check to correctly identify starships,
 mecha, robots, and cybernetic attachments, as well as identify unfamiliar
 technological devices.

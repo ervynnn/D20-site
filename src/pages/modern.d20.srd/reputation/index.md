@@ -2,11 +2,6 @@
 title: Reputation
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > Reputation
-
-##  Reputation
-
 Reputation is used to determine whether another character (a GM character)
 recognizes a character. Those who recognize the hero are more likely to help
 the hero or do what he or she asks, provided the reputation has a positive

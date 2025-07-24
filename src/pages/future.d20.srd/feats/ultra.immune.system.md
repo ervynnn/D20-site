@@ -2,11 +2,6 @@
 title: Ultra Immune System
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Feats ](/future.d20.srd/feats) > Ultra Immune System
-
-##  Ultra Immune System
-
 You are less susceptible to the ravages of poison, disease, and radiation
 poisoning.
 

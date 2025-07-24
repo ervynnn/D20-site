@@ -2,11 +2,6 @@
 title: Shadow Scholar
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Occupations ](/arcana.d20.srd/occupations) > Shadow Scholar
-
-##  Shadow Scholar
-
 Shadow scholars fall into two categories—learned Shadowkind and mundane folk
 who have spent time studying Shadow culture, magic, and other supernatural
 occurrences.

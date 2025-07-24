@@ -2,11 +2,6 @@
 title: Scientific Engineering
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Scientific Engineering
-
-##  Scientific Engineering
-
 [ Genetic Manipulation](/future.d20.srd/scientific.engineering/genetic.manipulation)
 
 [ Performing Experiments](/future.d20.srd/scientific.engineering/performing.experments)

@@ -2,11 +2,6 @@
 title: Vanadium
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Armor](/future.d20.srd/starships/starship) > Vanadium
-
-##  Vanadium (PL 6)
-
 Interlocking plates of light vanadium alloy absorb a respectable amount of
 damage and are easy to mold to a starship’s hull.
 

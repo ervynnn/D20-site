@@ -2,11 +2,6 @@
 title: Teleportation
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Traveler Science](/future.d20.srd/traveler.science) > [Fantastic Space Travel](/future.d20.srd/traveler.science/fantastic.space.travel) > Teleportation
-
-## Teleportation
-
 The earliest teleportation devices move only simple substances, with uniform
 molecular structures. As the technology improves, teleporting more complex
 matter becomes possible. At Progress Level 8, living organic matter can pass

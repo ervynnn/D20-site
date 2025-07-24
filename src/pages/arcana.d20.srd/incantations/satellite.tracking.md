@@ -2,11 +2,6 @@
 title: Satellite Tracking
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Satellite Tracking
-
-##  Satellite Tracking
-
 Divination
 
 Skill Check: Knowledge (arcane lore) DC 34, 6 successes, and Computer Use DC

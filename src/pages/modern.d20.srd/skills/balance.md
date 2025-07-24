@@ -2,11 +2,6 @@
 title: Balance
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Balance
-
-## Balance ([Dex](/modern.d20.srd/basics/ability.scores)) [Armor Penalty](/modern.d20.srd/equipment/armor.general)
-
 [Check](/modern.d20.srd/skills/skill.basics): The character can walk
 on a precarious surface. A successful
 [check](/modern.d20.srd/skills/skill.basics) lets the character move

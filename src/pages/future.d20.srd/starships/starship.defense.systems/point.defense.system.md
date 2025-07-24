@@ -2,11 +2,6 @@
 title: Point-Defense System
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Defense Systems](/future.d20.srd/starships/starship.defense) > Point-Defense System
-
-## Point-Defense System (PL 6)
-
 A point-defense system serves two functions: It targets all incoming missiles,
 and it allows a starship to make attacks of opportunity against enemy ships
 passing through its threatened area. The point-defense system consists of

@@ -3,11 +3,6 @@ title: Light Armor
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > [Armor](/modern.d20.srd/equipment/armor.general) > Light Armor
-
-## Light Armor
-
-
 <table> <tr><th> Name</th><th> <a href="/modern.d20.srd/equipment/armor.general">Type</a></th><th> <a href="/modern.d20.srd/equipment/armor.general">Equipment Bonus</a></th><th> <a href="/modern.d20.srd/equipment/armor.general">Nonprof. Bonus</a></th><th> <a href="/modern.d20.srd/equipment/armor.general">Maximum Dex Bonus</a></th><th> <a href="/modern.d20.srd/equipment/armor.general">Armor Penalty</a></th><th> <a href="/modern.d20.srd/equipment/armor.general">Speed (30 ft.)</a></th><th> <a href="/modern.d20.srd/equipment/armor.general">Weight</a></th><th> <a href="/modern.d20.srd/equipment/armor.general">Purchase DC</a></th><th> <a href="/modern.d20.srd/equipment/armor.general">Restriction</a></th> </tr> <tr><td> Leather jacket</td><td> Impromptu</td><td> +1</td><td> +1</td><td> +8</td><td> –0</td><td> 30</td><td> 4 lb.</td><td> 10</td><td> — </td></tr> <tr><td> Leather armor</td><td> Archaic</td><td> +2</td><td> +1</td><td> +6</td><td> –0</td><td> 30</td><td> 15 lb.</td><td> 12</td><td> — </td></tr> <tr><td> Light undercover shirt</td><td> Concealable</td><td> +2</td><td> +1</td><td> +7</td><td> –0</td><td> 30</td><td> 2 lb.</td><td> 13</td><td> Lic (+1) </td></tr> <tr><td> Pull-up pouch vest</td><td> Concealable</td><td> +2</td><td> +1</td><td> +6</td><td> –1</td><td> 30</td><td> 2 lb.</td><td> 13</td><td> Lic (+1) </td></tr> <tr><td> Undercover vest</td><td> Concealable</td><td> +3</td><td> +1</td><td> +5</td><td> –2</td><td> 30</td><td> 3 lb.</td><td> 14</td><td> Lic (+1) </td></tr> </table>
 
 

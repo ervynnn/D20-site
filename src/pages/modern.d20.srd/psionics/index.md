@@ -2,11 +2,6 @@
 title: Psionics
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > Psionics
-
-## Psionic Powers
-
 A psionic power is a one-time psionic effect manifested by a psionic character
 or creature. Psionic powers require power points to use, although naturally
 psionic creatures can manifest their powers a certain number of times per day

@@ -2,11 +2,6 @@
 title: Sample Artifacts
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ FX Items ](/arcana.d20.srd/fx.items) > [ Artifacts](/arcana.d20.srd/fx.items/artifacts) > Sample Artifacts
-
-##  Sample Artifacts
-
 Examples of artifacts include the following.
 
 **Caesar’s Shield**

@@ -2,11 +2,6 @@
 title: Bioreplica
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > [Robot Frames](/future.d20.srd/robots/robot.frames) > Bioreplica
-
-## Bioreplica (PL 7)
-
 A step up from biodroids, bioreplicas are robots so convincingly lifelike that
 they are virtually indistinguishable from their living counterparts. The
 bioreplica’s components are made up of lightweight plastics in a synthetic

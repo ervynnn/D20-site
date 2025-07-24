@@ -2,11 +2,6 @@
 title: Missiles
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Weapons](/future.d20.srd/starships/starship) > Missiles
-
-##  Missiles
-
 A missile is an explosive warhead fixed to a guided rocket and fired from a
 missile launcher. The type of warhead determines both the type and amount of
 damage.

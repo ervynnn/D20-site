@@ -2,11 +2,6 @@
 title: Mecha Defense Systems
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > Mecha Defense Systems
-
-## Mecha Defense Systems
-
 Defense systems include energy shields, life support systems, and other
 equipment intended to protect the mecha and its operator from harm.
 

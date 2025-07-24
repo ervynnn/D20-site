@@ -2,11 +2,6 @@
 title: Launch
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Types](/future.d20.srd/starships/starship) > [ Ultralight Starship Subtypes](/future.d20.srd/starships/starship.types/ultralight.starship) > Launch
-
-##  Launch (PL 6)
-
 A launch is a shuttle designed simply to move small amounts of people from one
 point to another. Launches are rarely armed or armored. Evacuation pods and
 lunar landers fit into this category.

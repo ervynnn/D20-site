@@ -2,11 +2,6 @@
 title: Fantastic Space Travel
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Traveler Science](/future.d20.srd/traveler.science) > Fantastic Space Travel
-
-## Fantastic Space Travel
-
 A campaign needn’t limit itself to relativistic speeds and time dilation. You
 can jump right into the “high adventure” side of space travel.
 

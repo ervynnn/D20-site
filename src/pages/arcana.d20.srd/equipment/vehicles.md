@@ -2,11 +2,6 @@
 title: Vehicles
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Equipment ](/arcana.d20.srd/equipment) > Vehicles
-
-##  Vehicles
-
 Crew: The standard crew. In most cases, only one crewperson is needed to drive
 the vehicle; others serve as gunners or co-pilots.
 

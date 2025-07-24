@@ -2,11 +2,6 @@
 title: Platonic
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Platonic
-
-##  Platonic
-
 A platonic is a powerful entity of Shadow devoted to a particular cause or
 abstract concept. A platonic is compelled to protect and advance its cause at
 every opportunity, which often brings it into contact with mortals whose goals

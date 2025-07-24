@@ -2,11 +2,6 @@
 title: Attack an Object
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Attack an Object
-
-## Attack an Object
-
 Sometimes a character needs to attack or break an object
 
 ### Strike an Object

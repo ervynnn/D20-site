@@ -2,11 +2,6 @@
 title: Starship Defense Systems
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > Starship Defense Systems
-
-## Starship Defense Systems
-
 Armor does an admirable job of preventing damage to the superstructure of a
 starship, but it’s really only the last line of defense. Since the late
 Industrial Age, aircraft have been outfitted with an ever-increasing number of

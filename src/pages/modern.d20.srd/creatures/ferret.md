@@ -2,11 +2,6 @@
 title: Ferret
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Ferret
-
-## Ferret
-
 ### Species Traits
 
 Attach (Ex): If a ferret hits with a bite attack, it uses its powerful jaws to

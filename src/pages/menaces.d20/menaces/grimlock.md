@@ -2,11 +2,6 @@
 title: Grimlock
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Grimlock
-
-##  Grimlock
-
 ###  Species Traits
 
 Automatic Language: A grimlock can speak (but not read or write) one local

@@ -2,11 +2,6 @@
 title: Occultist
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Classes](/modern.d20.srd/classes) > [Advanced Classes](/modern.d20.srd/classes/advanced) > Occultist
-
-## Occultist
-
 The fastest path into this advanced class is from the [Smart hero](/modern.d20.srd/classes/basic/smart.hero) basic class, though other
 paths are possible.
 

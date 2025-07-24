@@ -2,11 +2,6 @@
 title: Move Actions
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Move Actions
-
-## Move Actions
-
 With the exception of specific movement-related skills, most move actions
 don’t require a check. In some cases, ability checks might be required.
 

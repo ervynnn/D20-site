@@ -2,11 +2,6 @@
 title: Vampiric Touch
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Vampiric Touch
-
-## Vampiric Touch
-
 Necromancy
 
 Level: Arcane 3, Divine 3; Components: V, S; Casting Time: Attack action;

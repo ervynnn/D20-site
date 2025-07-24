@@ -2,11 +2,6 @@
 title: Damage
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Damage
-
-## Damage
-
 When a character hits with a
 [weapon](/modern.d20.srd/equipment/equipment.weapons), he or she deals damage
 according to the type of

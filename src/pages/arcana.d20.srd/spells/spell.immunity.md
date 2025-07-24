@@ -2,11 +2,6 @@
 title: Spell Immunity
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Spell Immunity
-
-##  Spell Immunity
-
 Abjuration
 
 Level: Divine 4; Components: V, S, DF; Casting Time: Attack action; Range:

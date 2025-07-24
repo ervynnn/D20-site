@@ -2,11 +2,6 @@
 title: Moving Through Occupied Squares
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > Moving Through Occupied Squares
-
-## Moving Through Occupied Squares
-
 A starship can pass through a square occupied by another starship or object.
 
 Ally or Nonopposing Starship: You can safely move through a square occupied by

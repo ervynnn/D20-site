@@ -2,11 +2,6 @@
 title: Venomous Bite
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Venomous Bite
-
-##  Venomous Bite [MAJOR]
-
 Your natural bite attack injects poison into your victim’s bloodstream.
 
 MP Cost: 4.

@@ -2,11 +2,6 @@
 title: Ultralight Composition
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Armor Gadgets ](/future.d20.srd/equipment/gadgets.universal) > Ultralight Composition
-
-##  Ultralight Composition
-
 The development of new and experimental alloys constantly allows armor
 technology to advance to the point where once bulky and heavy armors become as
 easy to carry as lighter models. Any armor with the ultralight composition

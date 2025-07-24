@@ -2,11 +2,6 @@
 title: Wildlord
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Advanced Classes ](/arcana.d20.srd/advanced.classes) > Wildlord
-
-##  Wildlord
-
 The fastest path into this advanced class is from a combination of Strong and
 Tough hero basic classes, though other paths are possible.
 

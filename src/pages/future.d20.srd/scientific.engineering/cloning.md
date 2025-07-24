@@ -2,11 +2,6 @@
 title: Cloning
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > Cloning
-
-## Cloning
-
 Another type of genetic engineering found in many futuristic settings is
 cloning. A sample of one creature’s DNA is used to make an exact physical
 duplicate of the creature. A clone is identical to the original creature in

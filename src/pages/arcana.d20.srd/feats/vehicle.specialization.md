@@ -2,11 +2,6 @@
 title: Vehicle Specialization
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Vehicle Specialization
-
-##  Vehicle Specialization
-
 You are proficient with one type of vehicle.
 
 **Benefit:** Choose a vehicle type (civilian aircraft, civilian cars, civilian

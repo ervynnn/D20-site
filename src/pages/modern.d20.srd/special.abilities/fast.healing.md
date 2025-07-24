@@ -2,11 +2,6 @@
 title: Fast Healing
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Special Abilities](/modern.d20.srd/special.abilities) > Fast Healing
-
-## Fast Healing (Ex)
-
 The creature regains [hit points](/modern.d20.srd/combat/hit.points) at an
 exceptionally fast rate, usually 1 or more [hit points](/modern.d20.srd/combat/hit.points) per round. Fast healing stops
 working when a creature is reduced to –10 hp or fewer. Except as noted here,

@@ -2,11 +2,6 @@
 title: Techno- Organic Makeup
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Weapon Gadgets ](/future.d20.srd/equipment/gadgets.universal.weapons) > Techno- Organic Makeup
-
-##  Techno-Organic Makeup
-
 Though the technology of Earth is based on electronics and mechanics, some
 alien cultures may have developed technology based on living organisms working
 in harmony for an intended purpose. Additionally, advanced civilizations may

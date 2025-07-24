@@ -2,11 +2,6 @@
 title: Treat Injury
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Treat Injury
-
-## Treat Injury ([Wis](/modern.d20.srd/basics/ability.scores))
-
 [Check](/modern.d20.srd/skills/skill.basics): The DC and effect
 depend on the task attempted.
 

@@ -2,11 +2,6 @@
 title: Empower Spell
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Empower Spell [Metamagic]
-
-##  Empower Spell [Metamagic]
-
 You can cast spells to greater effect.
 
 **Benefit:** All variable, numeric effects of an empowered spell are increased

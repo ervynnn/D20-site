@@ -2,11 +2,6 @@
 title: Phantom Limousine
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Phantom Limousine
-
-## Phantom Limousine
-
 Conjuration (Creation)
 
 Level: Arcane 5; Components: V, S, F; Casting Time: 1 minute; Range: 0 ft.;

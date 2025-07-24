@@ -2,11 +2,6 @@
 title: Survivor Array
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > [Robot Accessories](/future.d20.srd/robots/robot.accessories) > Survivor Array
-
-## Survivor Array (PL 6)
-
 Robots are often used to explore environments inhospitable to organic
 creatures. The survivor array enables the robot to better traverse harsh
 terrain and withstand hostile conditions. A survivor array includes the

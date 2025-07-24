@@ -2,11 +2,6 @@
 title: Potions
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [FX Items](/arcana.d20.srd/fx.items) > Potions
-
-## Potions
-
 A potion is a single-use elixir that either duplicates a spell of 3rd level or
 lower or bestows some other temporary, spell-like effect upon the imbiber.
 Despite the name, potions can take many forms—oils, pills, perfumes, and

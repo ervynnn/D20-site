@@ -2,11 +2,6 @@
 title: Skill Plexus
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Cybernetics](/future.d20.srd/cybernetics) > Skill Plexus
-
-## Skill Plexus (PL 7)
-
 This unit, implanted in the recipient’s brain, allows multiple skill implants
 to function as a single cybernetic attachment (see Skill Implant, above).
 

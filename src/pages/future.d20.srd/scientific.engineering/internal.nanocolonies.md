@@ -2,11 +2,6 @@
 title: Internal Nanocolonies
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > Internal Nanocolonies
-
-## Internal Nanocolonies
-
 Internal nanocolonies operate within a living host. These nanocolonies
 interact fluidly with the body’s natural biological functions and blend
 seamlessly with the other cells in the body. Most internal nanocolonies are

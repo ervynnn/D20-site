@@ -2,11 +2,6 @@
 title: Spell Descriptions
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX](/modern.d20.srd/fx) > Spell Descriptions
-
-## Spells
-
 Hit Dice: The term “Hit Dice” is used synonymously with “character levels” for
 effects that affect a number of Hit Dice of creatures. A creature with only
 Hit Dice from its species, not from any classes it may have, has a character

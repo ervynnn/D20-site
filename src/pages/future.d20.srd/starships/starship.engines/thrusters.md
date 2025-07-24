@@ -2,11 +2,6 @@
 title: Thrusters
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Engines](/future.d20.srd/starships/starship) > Thrusters
-
-## Thrusters (PL 5)
-
 Thrusters can propel a ship through a planetary atmosphere and land it safely
 on a planetary surface. Thrusters also serve as secondary engines when primary
 engines fail or shut down. Common types of thrusters include the scramjet,

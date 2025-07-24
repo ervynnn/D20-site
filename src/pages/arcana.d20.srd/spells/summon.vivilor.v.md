@@ -2,11 +2,6 @@
 title: Summon Vivilor V
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Summon Vivilor V
-
-##  Summon Vivilor V
-
 Conjuration (Summoning)
 
 Level: Arcane 5, Divine 5; Effect: One or more summoned creatures, no two of

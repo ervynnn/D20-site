@@ -2,11 +2,6 @@
 title: Mecha Critical Hits
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > Mecha Critical Hits
-
-## Mecha Critical Hits
-
 Whenever you confirm a critical hit against a mecha, you may choose to roll
 percentile dice and consult Table: Mecha Critical Hits instead of dealing the
 normal critical hit damage for the attack. However, you must accept the

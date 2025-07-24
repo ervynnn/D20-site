@@ -2,11 +2,6 @@
 title: Feats
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Feats
-
-## Stun Mecha
-
 By channeling electricity into an enemy mecha’s control system, you can
 temporarily short it out.
 

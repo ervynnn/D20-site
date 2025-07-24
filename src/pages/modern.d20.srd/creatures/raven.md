@@ -2,11 +2,6 @@
 title: Raven
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Raven
-
-## Raven
-
 ### Species Traits
 
 Bonus Feat: Ravens gain the bonus feat [Weapon Finesse](/modern.d20.srd/feats/weapon.finesse) (claw).

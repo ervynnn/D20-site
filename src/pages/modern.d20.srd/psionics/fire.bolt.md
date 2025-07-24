@@ -2,11 +2,6 @@
 title: Fire Bolt
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Psionics ](/modern.d20.srd/psionics) > Fire Bolt
-
-##  Fire Bolt
-
 [ Intelligence ](/modern.d20.srd/basics/ability.scores) [Fire]
 
 Level: [ Battle Mind ](/modern.d20.srd/classes/advanced/battle.mind) 1;

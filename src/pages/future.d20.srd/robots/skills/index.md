@@ -2,11 +2,6 @@
 title: Skills
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Robots ](/future.d20.srd/robots) > Skills
-
-##  Skills
-
 ###  Programming vs. Artificial Intelligence
 
 Mechanical intelligence is extremely limited in the early stages of robotic

@@ -2,11 +2,6 @@
 title: Energy Age Equipment
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Equipment](/future.d20.srd/equipment) > Energy Age Equipment
-
-## Energy Age Equipment
-
 The following equipment is available at PL 8.
 
 

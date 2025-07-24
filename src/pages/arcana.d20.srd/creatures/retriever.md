@@ -2,11 +2,6 @@
 title: Retriever
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Retriever
-
-##  Retriever
-
 A typical retriever weighs about 6,500 pounds. It does not speak.
 
 ###  Species Traits

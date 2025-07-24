@@ -2,11 +2,6 @@
 title: Armor Proficiency (Light)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Armor Proficiency (Light)
-
-## Armor Proficiency (Light)
-
 Benefit: When a character wears a type of armor with which he or she is
 proficient, the character gets to add the armor’s equipment bonus to his or
 her [Defense](/modern.d20.srd/combat/defense). Also, the [armor check penalty](/modern.d20.srd/equipment/armor.general) applies only to

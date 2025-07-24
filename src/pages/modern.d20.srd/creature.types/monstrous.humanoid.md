@@ -2,11 +2,6 @@
 title: Monstrous Humanoid
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Creature Types ](/modern.d20.srd/creature.types) > Monstrous Humanoid
-
-##  Monstrous Humanoid
-
 A monstrous humanoid is a humanoid creature with monstrous or animalistic
 features. A monstrous humanoid often possesses supernatural abilities as well.
 See Table: Monstrous Humanoids for physical ability scores, recommended

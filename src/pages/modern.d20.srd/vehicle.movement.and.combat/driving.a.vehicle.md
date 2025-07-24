@@ -2,11 +2,6 @@
 title: Driving a Vehicle
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Vehicle Movement and Combat](/modern.d20.srd/vehicle.movement.and.combat) > Driving a Vehicle
-
-## Driving a Vehicle
-
 Driving a [vehicle](/modern.d20.srd/equipment/equipment.vehicles) is a [move action](/modern.d20.srd/combat/move.actions), taken by the
 [vehicle’s](/modern.d20.srd/equipment/equipment.vehicles) driver. During his
 or her [move action](/modern.d20.srd/combat/move.actions), the driver moves

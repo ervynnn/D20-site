@@ -2,11 +2,6 @@
 title: Wondrous Items
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [FX Items](/arcana.d20.srd/fx.items) > Wondrous Items
-
-## Wondrous Items
-
 Wondrous items include anything that doesn’t fall into the other groups,
 including jewelry, tools, books, apparel, and gadgets.
 

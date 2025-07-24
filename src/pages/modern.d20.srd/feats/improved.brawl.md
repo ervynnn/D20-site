@@ -2,11 +2,6 @@
 title: Improved Brawl
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Improved Brawl
-
-## Improved Brawl
-
 Prerequisites: [Brawl](/modern.d20.srd/feats/brawl), base attack bonus +3.
 
 Benefit: When making an unarmed [attack](/modern.d20.srd/combat/attack.roll),

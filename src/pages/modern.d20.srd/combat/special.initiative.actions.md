@@ -2,11 +2,6 @@
 title: Special Initiative Actions
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Special Initiative Actions
-
-## Special Initiative Actions
-
 Usually a character acts as soon as he or she can in combat, but sometimes a
 character wants to act later, at a better time, or in response to the actions
 of someone else.

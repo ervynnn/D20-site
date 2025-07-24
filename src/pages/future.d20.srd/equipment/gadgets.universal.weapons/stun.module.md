@@ -2,11 +2,6 @@
 title: Stun Module
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Weapon Gadgets ](/future.d20.srd/equipment/gadgets.universal.weapons) > Stun Module
-
-##  Stun Module
-
 One advantage of energy weapons over their ballistic and physical counterparts
 is that they are capable of altering their own output on the fly. With the
 stun module gadget, this means that an energy weapon can be used to apply

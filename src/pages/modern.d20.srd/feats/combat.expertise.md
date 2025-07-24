@@ -2,11 +2,6 @@
 title: Combat Expertise
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Combat Expertise
-
-## Combat Expertise
-
 Prerequisite: [Intelligence](/modern.d20.srd/basics/ability.scores) 13.
 
 Benefit: When the character uses the [attack action](/modern.d20.srd/combat/attack.actions) or the [full attack action](/modern.d20.srd/combat/full.round.actions) in melee, the character can

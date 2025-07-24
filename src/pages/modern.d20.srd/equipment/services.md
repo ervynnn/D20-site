@@ -2,11 +2,6 @@
 title: Services
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > [General Equipment](/modern.d20.srd/equipment/equipment.general) > Services
-
-## Services
-
 The broad spectrum of services available to characters is only represented in
 overview here. Services are identified on Table:Services.
 

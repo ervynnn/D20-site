@@ -2,11 +2,6 @@
 title: Computer Use
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Computer Use
-
-## Computer Use ([Int](/modern.d20.srd/basics/ability.scores))
-
 [Check](/modern.d20.srd/skills/skill.basics): Most normal computer
 operations don’t require a Computer Use
 [check](/modern.d20.srd/skills/skill.basics) (though a character

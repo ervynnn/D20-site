@@ -2,11 +2,6 @@
 title: Flying Mecha
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > Flying Mecha
-
-## Flying Mecha
-
 The vehicle rules are entirely appropriate for ground cars and other normal
 modes of transportation; however, even a clumsy mecha is more maneuverable
 than a normal vehicle.

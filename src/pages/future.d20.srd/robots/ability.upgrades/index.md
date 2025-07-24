@@ -2,11 +2,6 @@
 title: Ability Upgrades
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > Ability Upgrades
-
-## Ability Upgrades
-
 Heroic and nonheroic robots can receive structural and programming upgrades
 that increase their ability scores. (Heroic robots can also improve their
 mental ability scores by gaining levels, much as organic characters do; see

@@ -2,11 +2,6 @@
 title: Starship Fighting Space
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > Starship Fighting Space
-
-## Starship Fighting Space
-
 Each square in starship scale measures 500 feet along a side (instead of 5
 feet, as in character-scale combat). All starships, regardless of size, have a
 square fighting space. Some starships occupy a single 500-foot square, while

@@ -2,11 +2,6 @@
 title: Nerve Pinch
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Feats](/future.d20.srd/feats) > Nerve Pinch
-
-## Nerve Pinch
-
 You can incapacitate foes with a vicelike pinch.
 
 Prerequisites: Combat Martial Arts, base attack bonus +4.

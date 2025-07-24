@@ -2,11 +2,6 @@
 title: Dedicate Site
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Dedicate Site
-
-##  Dedicate Site
-
 Evocation [Good]
 
 Skill Check: Knowledge (arcane lore) DC 35, 5 successes, and Spellcraft DC 35,

@@ -2,11 +2,6 @@
 title: Nanoviruses
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > Nanoviruses
-
-## Nanoviruses
-
 Nanoviruses are nanocolonies that act like viruses. They move throughout the
 body, typically with a single function in mind, and alter cells they are
 programmed to affect. Nanoviruses can lay dormant within a body for long

@@ -2,11 +2,6 @@
 title: Projectile Weapons
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Weapons](/future.d20.srd/starships/starship) > Projectile Weapons
-
-## Projectile Weapons
-
 Projectiles are generally solid slugs delivered to the target, where the
 velocity and density of the slug hopefully punch through the target’s
 defenses. The most basic projectile weapons launch a small hunk of metal at

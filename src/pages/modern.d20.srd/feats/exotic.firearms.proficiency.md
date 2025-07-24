@@ -2,11 +2,6 @@
 title: Exotic Firearms Proficiency
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Exotic Firearms Proficiency
-
-## Exotic Firearms Proficiency
-
 Choose a weapon type from the following list: cannons, heavy machine guns,
 grenade launchers, and rocket launchers.
 

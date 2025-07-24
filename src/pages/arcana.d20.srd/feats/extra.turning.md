@@ -2,11 +2,6 @@
 title: Extra Turning
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Extra Turning
-
-##  Extra Turning
-
 You can turn or rebuke a creature type more often than normal.
 
 Prerequisites: Ability to turn or rebuke one or more creature types.

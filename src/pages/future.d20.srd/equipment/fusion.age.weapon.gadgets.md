@@ -2,11 +2,6 @@
 title: Fusion Age Weapon Gadgets
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Equipment](/future.d20.srd/equipment) > Fusion Age Weapon Gadgets
-
-## Fusion Age Weapon Gadgets
-
 The following gadgets are found in the Fusion Age and can apply to weapons of
 that era or later, provided all gadget-specific restrictions are observed.
 

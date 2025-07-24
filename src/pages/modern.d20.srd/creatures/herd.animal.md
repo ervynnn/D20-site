@@ -2,11 +2,6 @@
 title: Herd Animal
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Herd Animal
-
-## Herd Animal
-
 ### Species Traits
 
 Stampede (Ex): A frightened herd flees as a group in a random direction, but

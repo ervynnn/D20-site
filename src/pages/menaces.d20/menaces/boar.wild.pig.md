@@ -2,11 +2,6 @@
 title: Boar (Wild Pig)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Boar (Wild Pig)
-
-##  Boar (Wild Pig)
-
 A wild boar’s hide is covered with short, woolly, grayishblack hair. Along the
 spine, hair mixes with stiffer bristles to form a sort of mane. The average
 adult boar stands 3 feet high at the shoulder and measures roughly 4 feet

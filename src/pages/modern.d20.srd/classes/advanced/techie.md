@@ -2,11 +2,6 @@
 title: Techie
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Classes](/modern.d20.srd/classes) > [Advanced Classes](/modern.d20.srd/classes/advanced) > Techie
-
-## Techie
-
 ### Requirements
 
 To qualify to become a Techie, a character must fulfill the following

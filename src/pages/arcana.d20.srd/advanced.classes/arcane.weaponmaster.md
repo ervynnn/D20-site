@@ -2,11 +2,6 @@
 title: Archaic Weaponsmaster
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Advanced Classes ](/arcana.d20.srd/advanced.classes) > Archaic Weaponsmaster
-
-##  Archaic Weaponsmaster
-
 The fastest path into this advanced class is from the Strong hero basic class,
 though other paths are possible, in particular Fast heroes for those
 characters favoring archaic ranged weapons such as bows and crossbows.

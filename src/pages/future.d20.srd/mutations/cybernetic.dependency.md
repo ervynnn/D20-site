@@ -2,11 +2,6 @@
 title: Cybernetic Dependency
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Cybernetic Dependency
-
-##  Cybernetic Dependency [DRAWBACK]
-
 Radiation exposure causes your body tissues to degenerate. You rely on a
 cybernetic implant to repair damage to your body.
 

@@ -2,11 +2,6 @@
 title: Failed Incantations
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Failed Incantations
-
-##  Failed Incantations
-
 Each incantation has its own consequences for failure (two failed skill checks
 in a row). In general, they can be divided into the following categories.
 Attack: A creature is called from elsewhere to battle the caster (and often

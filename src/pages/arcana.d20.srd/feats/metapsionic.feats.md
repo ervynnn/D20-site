@@ -2,11 +2,6 @@
 title: Metapsionic Feats
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Feats](/arcana.d20.srd/feats) > Metapsionic Feats
-
-## Metapsionic Feats
-
 Metapsionic feats are to psionics as metamagic feats are to spells.
 Metapsionic feats allow a psionic character to enhance the manifestation of a
 regular power. Using a metapsionic feat doesn’t take any longer but does

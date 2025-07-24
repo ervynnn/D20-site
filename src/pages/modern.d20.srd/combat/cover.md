@@ -2,11 +2,6 @@
 title: Cover
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Cover
-
-## Cover
-
 Cover provides a bonus to [Defense](/modern.d20.srd/combat/cover). The more
 cover a character has, the bigger the bonus. In a melee, if a character has
 cover against an opponent, that opponent probably has cover against the

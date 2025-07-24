@@ -2,11 +2,6 @@
 title: Shadowmoth Plague
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Shadowmoth Plague
-
-## Shadowmoth Plague
-
 Conjuration (Summoning)
 
 Level: Divine 3; Components: V, S, DF; Casting Time: Fullround action; Range:

@@ -2,11 +2,6 @@
 title: Writing
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > [Craft](/modern.d20.srd/skills/craft) > Writing
-
-## Craft (Writing) ([Int](/modern.d20.srd/basics/ability.scores))
-
 This skill allows a character to create short stories, novels, scripts and
 screenplays, newspaper articles and columns, and similar works of writing.
 

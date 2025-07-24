@@ -2,11 +2,6 @@
 title: Dinosaur, Plesiosaur
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Dinosaur, Plesiosaur
-
-##  Dinosaur, Plesiosaur
-
 ###  Species Traits
 
 Scent (Ex): This ability allows a plesiosaur to detect approaching enemies,

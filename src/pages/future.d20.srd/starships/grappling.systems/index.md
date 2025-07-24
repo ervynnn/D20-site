@@ -2,11 +2,6 @@
 title: Grappling Systems
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > Grappling Systems
-
-## Grappling Systems
-
 The following devices are commonly found on starships but don’t fit under the
 headings of armor, engines, sensors, defensive systems, or weapons.
 

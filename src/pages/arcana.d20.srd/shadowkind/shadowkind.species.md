@@ -2,11 +2,6 @@
 title: Shadowkind Species
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Shadowkind ](/arcana.d20.srd/shadowkind) > Shadowkind Species
-
-##  Shadowkind Species
-
 Each Shadowkind entry consists of a description of the species, including
 appearance and general disposition. It also provides insight into how the
 species generally interacts with the mundane world. Following the descriptive

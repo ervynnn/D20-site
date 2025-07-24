@@ -2,11 +2,6 @@
 title: Gremlin
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Gremlin
-
-##  Gremlin
-
 ###  Species Traits
 
 Gremlins have the following traits:

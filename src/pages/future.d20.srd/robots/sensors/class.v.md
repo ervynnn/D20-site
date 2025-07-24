@@ -2,11 +2,6 @@
 title: Class V Sensor System
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > [Sensors](/future.d20.srd/robots/sensors) > Class V Sensor System
-
-## Class V Sensor System (PL 6)
-
 This sensor system includes hi-res video sensors with darkvision (out to 60
 feet), hi-fidelity audio sensors, a chemical vapor scanner, pressure sensors,
 and either a ladar or sonar system. Ladar uses laser detectors and ranging

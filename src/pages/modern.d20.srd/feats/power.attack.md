@@ -2,11 +2,6 @@
 title: Power Attack
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Power Attack
-
-## Power Attack
-
 Prerequisite: [Strength](/modern.d20.srd/basics/ability.scores) 13.
 
 Benefit: On the character’s action, before making [attack rolls](/modern.d20.srd/combat/attack.roll) for a round, the character may

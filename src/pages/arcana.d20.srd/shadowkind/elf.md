@@ -2,11 +2,6 @@
 title: Elf
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Shadowkind ](/arcana.d20.srd/shadowkind) > Elf
-
-##  Elf
-
 Size: Medium. Elves have no special bonuses or penalties due to their size.
 
 Ability Modifiers: +2 Dexterity, –2 Constitution.

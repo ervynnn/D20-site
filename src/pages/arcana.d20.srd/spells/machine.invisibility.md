@@ -2,11 +2,6 @@
 title: Machine Invisibility
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Machine Invisibility
-
-## Machine Invisibility
-
 Illusion
 
 Level: Arcane 2; Components: V, S, F; Casting Time: Attack action; Range:

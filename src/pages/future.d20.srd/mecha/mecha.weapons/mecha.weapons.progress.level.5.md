@@ -3,11 +3,6 @@ title: Progress Level 5
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Mecha Weapons](/future.d20.srd/mecha/mecha.weapons) > Progress Level 5
-
-## Progress Level 5: Information Age
-
-
 <table> <tr><th>Weapon</th><th>Damage</th><th>Critical</th><th>Damage Type</th><th>Range Increment</th><th>Rate of Fire</th><th>Magazine</th><th>Size</th><th>Weight</th><th>Purchase DC</th><th>Restriction</th></tr> <tr><td>A3X Dragon flame thrower</td><td>4d6</td><td>—</td><td>Fire</td><td>—</td><td>Single</td><td>20 int.</td><td>Large</td><td>75 lb.</td><td>21</td><td>Mil (+3)</td></tr> <tr class="shaded"><td>M-9 Barrage chaingun</td><td>5d6</td><td>20</td><td>Ballistic</td><td>60 ft.</td><td>S, A</td><td>Linked</td><td>Huge</td><td>100 lb.</td><td>21</td><td>Res (+2)</td></tr> <tr><td>M-53 Firestar rocket launcher</td><td>10d6</td><td>—</td><td>Fire</td><td>—</td><td>Single</td><td>6 int.</td><td>Huge</td><td>35 lb.</td><td>24</td><td>Mil (+3)</td></tr> <tr class="shaded"><td>M-55 Crud rocket launcher</td><td>10d6</td><td>—</td><td>Slashing</td><td>—</td><td>Single</td><td>6 int.</td><td>Huge</td><td>35 lb.</td><td>24</td><td>Mil (+3)</td></tr> <tr><td>M-87 Talon missile launcher</td><td>15d6</td><td>20</td><td>Ballistic/ Fire</td><td>—</td><td>Single</td><td>4 int.</td><td>Huge</td><td>20 lb.</td><td>23</td><td>Mil (+3)</td></tr> <tr class="shaded"><td>PS-15 Panther claws</td><td>Varies<sup>1</sup></td><td>19–20</td><td>Slashing</td><td>—</td><td>—</td><td>—</td><td>Varies<sup>1</sup></td><td>—</td><td>Varies<sup>1</sup></td><td>—</td></tr> <tr><td>Thunderbolt shock rod</td><td>Varies<sup>1</sup></td><td>20</td><td>Electricity/ Bludgeoning</td><td>—</td><td>—</td><td>—</td><td>Varies<sup>1</sup></td><td>—</td><td>Varies<sup>1</sup></td><td>—</td></tr> <tr class="shaded"><td>Warpath recoilless rifle</td><td>10d6</td><td>20</td><td>Ballistic</td><td>40 ft.</td><td>S, A</td><td>20 box</td><td>Huge</td><td>50 lb.</td><td>22</td><td>Mil (+3)</td></tr> <tr><td colspan="11" style="text-align:left; font-size: .8em"> <sup>1</sup> See the weapon’s description for details.<br/> <sup>2</sup> See the weapon’s description for collateral effects to crew and passengers.<br/> <sup>3</sup> This mastercraft weapon grants a +1 bonus on attack rolls.<br/> </td></tr> </table>
 
 

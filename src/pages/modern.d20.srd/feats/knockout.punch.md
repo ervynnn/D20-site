@@ -2,11 +2,6 @@
 title: Knockout Punch
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Knockout Punch
-
-## Knockout Punch
-
 Prerequisites: [Brawl](/modern.d20.srd/feats/brawl), base attack bonus +3.
 
 Benefit: When making the character’s first unarmed

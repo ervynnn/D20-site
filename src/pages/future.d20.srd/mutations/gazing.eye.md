@@ -2,11 +2,6 @@
 title: Gazing Eye
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mutations](/future.d20.srd/mutations) > Gazing Eye
-
-## Gazing Eye [MAJOR]
-
 You grow an extra eye in the middle of your forehead. In addition to improving
 your visual acuity, the “weird eye” gives you a special gaze attack that makes
 other creatures tremble.

@@ -2,11 +2,6 @@
 title: Hedge Wizard
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Occupations ](/arcana.d20.srd/occupations) > Hedge Wizard
-
-##  Hedge Wizard
-
 A hedge wizard is someone who has spent a great deal of time studying the
 arcane arts without the benefit of having any formal training or mentoring.
 

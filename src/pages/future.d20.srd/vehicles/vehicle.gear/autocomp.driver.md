@@ -2,11 +2,6 @@
 title: Autocomp, Driver
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Vehicles](/future.d20.srd/vehicles) > [Vehicle Gear](/future.d20.srd/vehicles/vehicle.gear) > Autocomp, Driver
-
-## Autocomp, Driver
-
 A driver autocomp consists of an onboard computer with AI software capable to
 operating a vehicle, thereby removing the need for a driver or pilot. Most
 vehicles equipped with a driver autocomp still retain a driver’s seat,

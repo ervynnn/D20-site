@@ -2,11 +2,6 @@
 title: Greater Spell Focus
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Greater Spell Focus
-
-##  Greater Spell Focus
-
 Choose a school of magic, such as Evocation or Illusion, for which you have
 already selected the Spell Focus feat. Your spells of that school are even
 more potent than normal.

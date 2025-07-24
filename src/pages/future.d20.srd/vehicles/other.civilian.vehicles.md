@@ -2,11 +2,6 @@
 title: Other Civilian Vehicles
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Vehicles](/future.d20.srd/vehicles) > Other Civilian Vehicles
-
-## Other Civilian Vehicles
-
 Some civilian vehicles are highly specialized, and so don’t truly fit into any
 other category. The operative skill for these vehicles is Drive, unless
 otherwise noted.

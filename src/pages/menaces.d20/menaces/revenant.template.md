@@ -2,11 +2,6 @@
 title: Revenant (Template)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Revenant (Template)
-
-##  Revenant (Template)
-
 A revenant appears much as it did in life. Although the decay and stench of a
 dead body are lacking, its skin has a deathly pallor. Its body typically shows
 subtle or obvious signs of its manner of death. A revenant understands that it

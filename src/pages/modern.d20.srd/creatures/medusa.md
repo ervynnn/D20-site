@@ -2,11 +2,6 @@
 title: Medusa
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Medusa
-
-## Medusa
-
 ### Species Traits
 
 [Gaze](/modern.d20.srd/special.abilities/gaze) (Su): A medusa’s

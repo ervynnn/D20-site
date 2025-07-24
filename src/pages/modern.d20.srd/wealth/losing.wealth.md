@@ -2,11 +2,6 @@
 title: Losing Wealth
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Wealth](/modern.d20.srd/wealth) > Losing Wealth
-
-## Losing Wealth
-
 Any time a character purchases an object or service with a purchase DC higher
 than his or her current [Wealth bonus](/modern.d20.srd/wealth/wealth.bonus),
 or one with a purchase DC of 15 or higher, the character’s [Wealth bonus](/modern.d20.srd/wealth/wealth.bonus) goes down. How much the [Wealth bonus](/modern.d20.srd/wealth/wealth.bonus) is reduced depends on how

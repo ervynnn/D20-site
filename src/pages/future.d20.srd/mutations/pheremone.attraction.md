@@ -2,11 +2,6 @@
 title: Pheromone Attraction
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Pheromone Attraction
-
-##  Pheromone Attraction [MAJOR]
-
 You can regulate the production of pheromones in your body and release them at
 will, altering the moods of other nearby creatures.
 

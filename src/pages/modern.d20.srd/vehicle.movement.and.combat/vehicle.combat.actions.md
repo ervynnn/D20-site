@@ -2,11 +2,6 @@
 title: Vehicle Combat Actions
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Vehicle Movement and Combat](/modern.d20.srd/vehicle.movement.and.combat) > Vehicle Combat Actions
-
-##  Vehicle Combat Actions
-
 Actions during [ vehicle ](/modern.d20.srd/equipment/equipment.vehicles)
 combat are handled the same way as [ actions](/modern.d20.srd/combat/actions.in.combat) during personal [ combat](/modern.d20.srd/combat/combat.cycle) . In general, a character can take two
 [ move actions ](/modern.d20.srd/combat/move.actions) , one [ move action](/modern.d20.srd/combat/move.actions) and one [ attack action](/modern.d20.srd/combat/attack.actions) , or one [ full-round action](/modern.d20.srd/combat/full.round.actions) in a round. [ Free actions](/modern.d20.srd/combat/action.types) can be performed normally, in

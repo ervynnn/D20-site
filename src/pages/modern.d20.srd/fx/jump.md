@@ -2,11 +2,6 @@
 title: Jump
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX ](/modern.d20.srd/fx) > Jump
-
-##  Jump
-
 Transmutation
 
 [ Level ](/modern.d20.srd/fx/level) : [ Mage](/modern.d20.srd/classes/advanced/mage) 1; [ Components](/modern.d20.srd/fx/components) : V, S, M; [ Casting Time](/modern.d20.srd/fx/casting.time) ; [ Attack action](/modern.d20.srd/combat/attack.actions) [ Range ](/modern.d20.srd/fx/range) :

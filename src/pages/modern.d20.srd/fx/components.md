@@ -2,11 +2,6 @@
 title: Components
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX](/modern.d20.srd/fx) > Components
-
-## Components
-
 Every spell has at least one type of component that the spellcaster must
 provide at the time of casting.
 

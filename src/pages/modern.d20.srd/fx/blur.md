@@ -2,11 +2,6 @@
 title: Blur
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX](/modern.d20.srd/fx) > Blur
-
-## Blur
-
 Illusion
 
 [Level](/modern.d20.srd/fx/level):

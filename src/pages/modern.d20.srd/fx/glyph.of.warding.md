@@ -2,11 +2,6 @@
 title: Glyph of Warding
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX ](/modern.d20.srd/fx) > Glyph of Warding
-
-##  Glyph of Warding
-
 Abjuration
 
 [ Level ](/modern.d20.srd/fx/level) : [ Acolyte](/modern.d20.srd/classes/advanced/acolyte) 3; [ Components](/modern.d20.srd/fx/components) : V, S, M; [ Casting Time](/modern.d20.srd/fx/casting.time) : 10 minutes; [ Range](/modern.d20.srd/fx/range) : Touch; [ Target ](/modern.d20.srd/fx/target) or

@@ -2,11 +2,6 @@
 title: Crystal Carbon Armor
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > [Armor](/future.d20.srd/robots/armor) > Crystal Carbon Armor
-
-## Crystal Carbon Armor (PL 7)
-
 “Grown” in orbital laboratories, crystal carbon is a composite fiber material
 that outperforms neovulcanium (see below) on the battlefield. Bioreplica
 robots of Medium-size or smaller and liquid-state robots cannot have

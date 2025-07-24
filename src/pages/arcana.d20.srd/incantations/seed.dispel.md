@@ -1,12 +1,7 @@
 ---
-title: Seed: Dispel
+title: Seed Dispel
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Seed: Dispel
-
-##  Seed: Dispel
-
 Abjuration
 
 Knowledge (arcane lore) DC: 30; Range: Medium; Target: One creature or object;

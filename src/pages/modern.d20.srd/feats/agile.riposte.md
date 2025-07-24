@@ -2,11 +2,6 @@
 title: Agile Riposte
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Agile Riposte
-
-## Agile Riposte
-
 Prerequisites: Dexterity 13, [Dodge](/modern.d20.srd/feats/dodge).
 
 Benefit: Once per round, if the opponent the character has designated as his

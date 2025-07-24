@@ -1,12 +1,7 @@
 ---
-title: Seed: Fortify
+title: Seed Fortify
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Seed: Fortify
-
-##  Seed: Fortify
-
 Transmutation
 
 Knowledge (arcane lore) DC: 30; Range: Touch; Target: Creature touched;

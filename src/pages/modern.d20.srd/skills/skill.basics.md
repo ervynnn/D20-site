@@ -2,11 +2,6 @@
 title: Skill Basics
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Skill Basics
-
-## Skill Basics
-
 Getting Skills
 
 At each level, a character gets skill points that are used to buy skills. The

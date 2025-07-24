@@ -2,11 +2,6 @@
 title: Wererat (Template)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Wererat (Template)
-
-##  Wererat (Template)
-
 Wererats retain whatever languages they spoke before they contracted
 lycanthropy. They are generally 5 to 6 feet tall and weigh 125 to 150 pounds.
 

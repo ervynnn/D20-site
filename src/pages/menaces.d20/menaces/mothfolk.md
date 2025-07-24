@@ -2,11 +2,6 @@
 title: Mothfolk
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Mothfolk
-
-##  Mothfolk
-
 Mothfolk appear as tall, lanky humanoids covered in short, dark fur. Their
 large wings have a wingspread of over 20 feet. Their most arresting features
 are their eyes: large, red, and luminescent, and occasionally described as

@@ -2,11 +2,6 @@
 title: Shadowkind
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > Shadowkind
-
-## Shadowkind
-
 Most characters who are not native to the mundane world hail from a place
 beyond Shadow, and they are known to “mundanes” as Shadowkind.
 
@@ -28,13 +23,18 @@ Shadowkind characters share several traits, as noted below.
 [Starting Wealth Bonus](/arcana.d20.srd/shadowkind/starting.wealth.bonus)  
 [Languages Known](/arcana.d20.srd/shadowkind/languages.known)
 
-###  | [Shadowkind Species](/arcana.d20.srd/shadowkind/shadowkind.species) | [Small Characters](/arcana.d20.srd/shadowkind/small.characters) |
-|---|---|
-| [Dwarf](/arcana.d20.srd/shadowkind/dwarf) | [Elf](/arcana.d20.srd/shadowkind/elf) |
-| [Gnome](/arcana.d20.srd/shadowkind/gnome) | [Goblin](/arcana.d20.srd/shadowkind/goblin) |
-| [Half-Elf](/arcana.d20.srd/shadowkind/half.elf) | [Half-Orc](/arcana.d20.srd/shadowkind/half.orc) |
-| [Halfling](/arcana.d20.srd/shadowkind/halfling) | [Orc](/arcana.d20.srd/shadowkind/orc) |
-| [Shadowkind Human](/arcana.d20.srd/shadowkind/shadowkind.human) |
+###  [Shadowkind Species](/arcana.d20.srd/shadowkind/shadowkind.species) 
+[Small Characters](/arcana.d20.srd/shadowkind/small.characters)     
+[Dwarf](/arcana.d20.srd/shadowkind/dwarf)   
+[Elf](/arcana.d20.srd/shadowkind/elf)   
+[Gnome](/arcana.d20.srd/shadowkind/gnome)   
+[Goblin](/arcana.d20.srd/shadowkind/goblin)     
+[Half-Elf](/arcana.d20.srd/shadowkind/half.elf)     
+[Half-Orc](/arcana.d20.srd/shadowkind/half.orc)     
+[Halfling](/arcana.d20.srd/shadowkind/halfling)     
+[Orc](/arcana.d20.srd/shadowkind/orc)   
+[Shadowkind Human](/arcana.d20.srd/shadowkind/shadowkind.human) 
+
 ### More Powerful Shadowkind
 Level Adjustment and Challenge Rating  
 Experience

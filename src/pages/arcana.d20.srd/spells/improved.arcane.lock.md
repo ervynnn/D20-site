@@ -2,11 +2,6 @@
 title: Improved Arcane Lock
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Improved Arcane Lock
-
-## Improved Arcane Lock
-
 Abjuration
 
 Level: Arcane 3; Range: Long (400 ft. + 40 ft./level); Target: One door,

@@ -2,11 +2,6 @@
 title: Civilian Trucks
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Vehicles](/future.d20.srd/vehicles) > Civilian Trucks
-
-## Civilian Trucks
-
 Trucks usually have the same features as civilian cars, with the same luxury
 options. Trucks provide three-quarters cover to their occupants, except as
 noted below. The operative skill for trucks is Drive.

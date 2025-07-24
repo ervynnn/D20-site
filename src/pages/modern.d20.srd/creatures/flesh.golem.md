@@ -2,11 +2,6 @@
 title: Flesh Golem
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Flesh Golem
-
-## Flesh Golem
-
 ### Species Traits
 
 Construct: Flesh golems have the traits and immunities common to

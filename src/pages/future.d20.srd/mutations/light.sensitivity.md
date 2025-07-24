@@ -2,11 +2,6 @@
 title: Light Sensitivity
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mutations](/future.d20.srd/mutations) > Light Sensitivity
-
-## Light Sensitivity [DRAWBACK]
-
 Your eyes cannot adjust to bright light.
 
 MP Value: 1.

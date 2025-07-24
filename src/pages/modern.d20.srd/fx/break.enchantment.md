@@ -2,11 +2,6 @@
 title: Break Enchantment
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX ](/modern.d20.srd/fx) > Break Enchantment
-
-##  Break Enchantment
-
 Abjuration
 
 [ Level ](/modern.d20.srd/fx/level) : [ Acolyte](/modern.d20.srd/classes/advanced/acolyte) 5; [ Components](/modern.d20.srd/fx/components) : V, S; [ Casting Time](/modern.d20.srd/fx/casting.time) : 1 minute; [ Range](/modern.d20.srd/fx/range) : Close (25 ft. + 5 ft./2 levels); [ Target or Targets ](/modern.d20.srd/fx/target) : Up to one creature per level, all

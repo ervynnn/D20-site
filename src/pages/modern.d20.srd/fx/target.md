@@ -2,11 +2,6 @@
 title: Target
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX ](/modern.d20.srd/fx) > Target
-
-##  Target
-
 Some spells have a specific target or targets. A caster uses these spells
 directly on creatures or objects, as defined by the spell itself. The caster
 must be able to see or touch the target, and must specifically choose that

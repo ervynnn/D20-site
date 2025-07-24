@@ -2,11 +2,6 @@
 title: Celebrity
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Starting Occupation ](/modern.d20.srd/starting.occupation) > Celebrity
-
-##  Celebrity
-
 A celebrity is anyone who, for whatever reason, has been thrust into the
 spotlight of the public eye. Actors, entertainers of all types, newscasters,
 radio and television personalities, and more fall under this starting

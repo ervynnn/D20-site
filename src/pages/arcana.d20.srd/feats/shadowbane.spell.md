@@ -1,12 +1,7 @@
 ---
 title: Shadowbane Spell
 layout: '~/layouts/MarkdownLayout.astro'
----
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Feats](/arcana.d20.srd/feats) > Shadowbane Spell
-[Metamagic]
-
-## Shadowbane Spell [Metamagic]
+---[Metamagic]
 
 Your spells are more effective against creatures of Shadow.
 

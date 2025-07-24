@@ -1,12 +1,7 @@
 ---
-title: Seed: Animate Dead
+title: Seed Animate Dead
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Seed: Animate Dead
-
-##  Seed: Animate Dead
-
 Necromancy
 
 Knowledge (arcane lore) DC: 34; Range: Touch; Targets: One or more corpses

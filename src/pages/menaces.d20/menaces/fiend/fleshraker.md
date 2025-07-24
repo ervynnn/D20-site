@@ -2,11 +2,6 @@
 title: Fleshraker (Knife Fiend)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > [ Fiend](/menaces.d20/menaces/fiend) > Fleshraker (Knife Fiend)
-
-##  Fleshraker (Knife Fiend)
-
 Bonus Feat: A fleshraker gains Archaic Weapons Proficiency as a bonus feat.
 
 Damage Reduction 10/Ballistic (Ex): A fleshraker ignores the first 10 points

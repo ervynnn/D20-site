@@ -2,11 +2,6 @@
 title: Intellect Devourer
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Intellect Devourer
-
-##  Intellect Devourer
-
 ###  Species Traits
 
 Body Thief (Sp): After rendering its victim helpless with its mental blast, an

@@ -2,11 +2,6 @@
 title: Longarms
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > [Weapons](/modern.d20.srd/equipment/equipment.weapons) > Longarms
-
-## Longarms
-
 (require the Personal Firearms Proficiency feat)
 
 

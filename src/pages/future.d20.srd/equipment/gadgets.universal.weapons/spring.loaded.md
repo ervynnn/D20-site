@@ -2,11 +2,6 @@
 title: Spring-Loaded
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Weapon Gadgets ](/future.d20.srd/equipment/gadgets.universal.weapons) > Spring-Loaded
-
-##  Spring-Loaded
-
 Some weapons are designed to be concealed from sight and then quickly drawn
 into the hand at a moment’s notice. The spring-loaded gadget ensures that
 small weapons can remain hidden under layers of clothes or armor and still be

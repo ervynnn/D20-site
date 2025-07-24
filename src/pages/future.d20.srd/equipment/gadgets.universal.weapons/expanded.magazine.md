@@ -2,11 +2,6 @@
 title: Expanded Magazine
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Weapon Gadgets ](/future.d20.srd/equipment/gadgets.universal.weapons) > Expanded Magazine
-
-##  Expanded Magazine
-
 Some weapon engineers recognize that stopping to reload a weapon in combat is
 a dangerous and potentially life-threatening maneuver. Taking steps to reduce
 the amount of time required to keep the weapon full, these engineers have

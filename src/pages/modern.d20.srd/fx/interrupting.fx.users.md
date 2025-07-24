@@ -2,11 +2,6 @@
 title: Interrupting FX Users
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX ](/modern.d20.srd/fx) > Interrupting FX Users
-
-##  Interrupting FX Users
-
 Distracting Spellcasters and Psionic Characters: A character can ready an
 attack against a character or creature with the trigger “if he or she starts
 casting a spell or manifesting a power.” If the attack succeeds in damaging

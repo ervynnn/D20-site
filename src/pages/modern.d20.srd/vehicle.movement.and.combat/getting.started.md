@@ -2,11 +2,6 @@
 title: Getting Started
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Vehicle Movement and Combat](/modern.d20.srd/vehicle.movement.and.combat) > Getting Started
-
-## Getting Started
-
 Most [vehicles](/modern.d20.srd/equipment/equipment.vehicles) can be entered
 with a [move action](/modern.d20.srd/combat/move.actions) and started with a
 second [move action](/modern.d20.srd/combat/move.actions). An exception is

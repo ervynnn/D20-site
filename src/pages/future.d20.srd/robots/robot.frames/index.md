@@ -2,11 +2,6 @@
 title: Robot Frames
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > Robot Frames
-
-## Robot Frames
-
 A robot’s frame is the basic form the robot takes, from a simple barebones
 armature to a convincingly lifelike replica or metallic liquid. It includes
 both the robot’s chassis and its internal power source. The frame determines a

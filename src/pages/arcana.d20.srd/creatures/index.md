@@ -2,11 +2,6 @@
 title: Creatures
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > Creatures
-
-##  Creatures
-
 [ Shadow Creatures and the Modern World](/arcana.d20.srd/creatures/shadow.creatures.and.the.modern.world)
 
 ###  Shadow Creatures

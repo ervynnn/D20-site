@@ -2,11 +2,6 @@
 title: Montauk Monster
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Montauk Monster
-
-##  Montauk Monster
-
 ###  Species Traits
 
 Damage Reduction 20/+1 (Su): A montauk monster ignores the first 20 points of

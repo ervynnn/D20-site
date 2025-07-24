@@ -2,11 +2,6 @@
 title: Storage Compartment
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Equipment Gadgets ](/future.d20.srd/equipment/gadgets.universal) > Storage Compartment
-
-##  Storage Compartment
-
 Like the gadget used for armor, the ability to store and carry small items in
 a safe place can sometimes be of critical importance. The storage compartment
 gadget accomplishes just that, incorporating an empty space where other

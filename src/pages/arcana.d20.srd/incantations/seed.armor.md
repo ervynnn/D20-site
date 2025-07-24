@@ -1,12 +1,7 @@
 ---
-title: Seed: Armor
+title: Seed Armor
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Seed: Armor
-
-##  Seed: Armor
-
 Conjuration (Creation)
 
 Knowledge (arcane lore) DC: 30; Range: Touch; Target: Creature touched;

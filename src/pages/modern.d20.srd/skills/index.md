@@ -2,11 +2,6 @@
 title: Skills
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > Skills
-
-## Skills
-
 Skills are presented in alphabetical order, in the following format. Entries
 that do not apply to a particular skill are omitted in that skill’s
 description.

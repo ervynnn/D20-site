@@ -2,11 +2,6 @@
 title: Darkness
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Darkness
-
-##  Darkness
-
 Evocation [Darkness]
 
 Level: Divine 2; Components: V, DF; Casting Time: Attack action; Range: Touch;

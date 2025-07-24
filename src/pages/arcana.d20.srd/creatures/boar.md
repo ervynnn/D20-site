@@ -2,11 +2,6 @@
 title: Boar
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Boar
-
-##  Boar
-
 Boars are about 4 feet long and 3 feet high at the shoulder.
 
 ###  Species Traits

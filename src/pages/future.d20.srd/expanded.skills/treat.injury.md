@@ -2,11 +2,6 @@
 title: Treat Injury
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Expanded Skills ](/future.d20.srd/expanded.skills) > Treat Injury
-
-##  Treat Injury (Wis)
-
 This skill can be used to treat members of other species, provided they are
 neither constructs nor undead.
 

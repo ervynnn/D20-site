@@ -2,11 +2,6 @@
 title: Aid Another
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Aid Another
-
-## Aid Another
-
 In combat, a character can help a friend attack or defend by distracting or
 interfering with an opponent. If the character is in position to
 [attack](/modern.d20.srd/combat/attack.roll) an opponent with which a friend

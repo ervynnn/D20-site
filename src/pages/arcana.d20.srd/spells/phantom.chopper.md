@@ -2,11 +2,6 @@
 title: Phantom Chopper
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Phantom Chopper
-
-## Phantom Chopper
-
 Conjuration (Creation)
 
 Level: Arcane 3; Components: V, S; Casting Time: 10 minutes; Range: 0 ft.;

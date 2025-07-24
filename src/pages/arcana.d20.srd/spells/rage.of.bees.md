@@ -2,11 +2,6 @@
 title: Rage of Bees
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Rage of Bees
-
-##  Rage of Bees
-
 Conjuration (Summoning)
 
 Level: Divine 5; Components: V, S, DF; Casting Time: Full-round action; Range:

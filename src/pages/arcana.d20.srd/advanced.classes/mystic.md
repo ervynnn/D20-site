@@ -2,11 +2,6 @@
 title: Mystic
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Advanced Classes ](/arcana.d20.srd/advanced.classes) > Mystic
-
-##  Mystic
-
 The fastest path into this advanced class is from the Dedicated hero basic
 class, though other paths are possible. A high Charisma score is necessary to
 ensure the ability to cast spells.

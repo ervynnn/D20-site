@@ -2,11 +2,6 @@
 title: Heir
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starting Occupations](/future.d20.srd/starting) > Heir
-
-## Heir
-
 Heirs are the elite sons and daughters of powerful magnates, influential
 nobles, and imperial monarchs. Unlike dilettantes, however, they are bound by
 their lineage to certain responsibilities, with the assumption that they might

@@ -2,11 +2,6 @@
 title: Progress Level 7 Gear
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > Progress Level 7 Gear
-
-##  Progress Level 7 Gear
-
 The Gravity Age sees many of the most revolutionary changes to technology,
 particularly to technology used on the battlefield. Plasma weapons are finally
 made small enough to become practical for battlefield use, while the first

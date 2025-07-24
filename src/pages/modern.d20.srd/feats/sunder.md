@@ -2,11 +2,6 @@
 title: Sunder
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Feats ](/modern.d20.srd/feats) > Sunder
-
-##  Sunder
-
 Prerequisites: Strength 13, [ Power Attack](/modern.d20.srd/feats/power.attack) .
 
 Benefit: When the character strikes an object held or carried by an opponent,

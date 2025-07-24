@@ -2,11 +2,6 @@
 title: Expanded Telepath Powers
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Psionics](/arcana.d20.srd/psionics) > Expanded Telepath Powers
-
-## Expanded Telepath Powers
-
 The Telepath chooses psionic powers from the following list.
 
 0-Level Telepath Powers  

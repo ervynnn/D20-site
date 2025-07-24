@@ -80,9 +80,6 @@ sections:
     description: Economic systems and purchasing
     icon: tabler:coins
 ---
-
-## About Modern D20
-
 The Modern d20 System Reference Document provides comprehensive rules for contemporary gaming campaigns. From urban adventures to modern military operations, this system covers everything you need for present-day roleplaying.
 
 ### Quick Navigation Tips

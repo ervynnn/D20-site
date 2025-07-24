@@ -2,11 +2,6 @@
 title: The Littlest Robot
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > The Littlest Robot
-
-## The Littlest Robot
-
 The basic working unit of nanotechnology is a nanite—a single robot that can
 be as small as a dozen atoms in length. Nanite is a generic term: Any robot
 built using this technology, no matter what its purpose, is a nanite. Each one

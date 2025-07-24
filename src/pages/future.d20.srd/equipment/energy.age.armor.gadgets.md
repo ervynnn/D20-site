@@ -2,11 +2,6 @@
 title: Energy Age Armor Gadgets
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Equipment](/future.d20.srd/equipment) > Energy Age Armor Gadgets
-
-## Energy Age Armor Gadgets
-
 The following gadgets are found in the Energy Age and can apply to armors of
 that era, provided all gadget-specific restrictions are observed.
 

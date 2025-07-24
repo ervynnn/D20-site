@@ -1,12 +1,7 @@
 ---
 title: Nonlethal Spell
 layout: '~/layouts/MarkdownLayout.astro'
----
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Nonlethal Spell
-[Metamagic]
-
-##  Nonlethal Spell [Metamagic]
+---[Metamagic]
 
 You can modify a spell to deal nonlethal instead of lethal damage.
 

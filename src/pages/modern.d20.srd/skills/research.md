@@ -2,11 +2,6 @@
 title: Research
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Skills ](/modern.d20.srd/skills) > Research
-
-##  Research ( [ Int ](/modern.d20.srd/basics/ability.scores) )
-
 [ Check ](/modern.d20.srd/skills/skill.basics) : Researching a topic
 takes time, skill, and some luck. The GM determines how obscure a particular
 topic is (the more obscure, the higher the DC) and what kind of information

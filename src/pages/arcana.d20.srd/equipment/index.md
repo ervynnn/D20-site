@@ -2,11 +2,6 @@
 title: Equipment
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > Equipment
-
-##  Equipment
-
 [ General Equipment ](/arcana.d20.srd/equipment/general.equipment)
 
 [ Vehicles ](/arcana.d20.srd/equipment/vehicles)

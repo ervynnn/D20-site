@@ -2,11 +2,6 @@
 title: Scourge
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Sample Mecha](/future.d20.srd/mecha/sample.mecha) > Scourge
-
-## Scourge (PL 6)
-
 The Scourge assault mecha uses heavy weapons to disable enemy mecha and
 vehicles, and leaves them to a mop-up crew of traditional infantry. This frees
 up the assault mecha for more suitable tasks than disassembling captured

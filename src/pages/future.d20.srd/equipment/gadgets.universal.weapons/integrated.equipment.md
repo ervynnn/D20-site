@@ -2,11 +2,6 @@
 title: Integrated Equipment
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Weapon Gadgets ](/future.d20.srd/equipment/gadgets.universal.weapons) > Integrated Equipment
-
-##  Integrated Equipment
-
 A particular piece of nonweapon equipment has been integrated into the weapon
 and can be used by the weapon’s bearer at any time. This gadget is often used
 to give ranged weapons features like glow-lamps or flares, though it is not

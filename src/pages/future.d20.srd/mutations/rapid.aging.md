@@ -2,11 +2,6 @@
 title: Rapid Aging
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Rapid Aging
-
-##  Rapid Aging [DRAWBACK]
-
 You age at an increased rate due to the strain your mutations place on your
 cells. You appear many years older than your actual age.
 

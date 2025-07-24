@@ -2,11 +2,6 @@
 title: Skill Chip
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Robots ](/future.d20.srd/robots) > [ Skills](/future.d20.srd/robots/skills) > Skill Chip
-
-##  Skill Chip (PL 5)
-
 A skill chip enables a robot to gain up to 8 ranks in any one of the following
 skills: Computer Use, Demolitions, Disable Device, Listen, Repair, Search, or
 Spot. A robot can have multiple skill chips. However, skill chips do not allow

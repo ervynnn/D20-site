@@ -2,11 +2,6 @@
 title: Big Cat
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Big Cat
-
-##  Big Cat
-
 ###  Species Traits
 
 Big cats have the following traits:

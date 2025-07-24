@@ -1,12 +1,7 @@
 ---
-title: Seed: Compel
+title: Seed Compel
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Seed: Compel
-
-##  Seed: Compel
-
 Enchantment (Compulsion) [Mind-Affecting, Language-Dependent]
 
 Knowledge (arcane lore) DC: 30; Range: Close; Target: One living creature;

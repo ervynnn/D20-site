@@ -2,11 +2,6 @@
 title: Charred One
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Charred One
-
-##  Charred One
-
 A charred one resembles a human being that has been burned to a blackened
 husk. Its glowing-red eyes glitter with hatred and malice.
 

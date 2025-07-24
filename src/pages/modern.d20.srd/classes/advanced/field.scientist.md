@@ -2,11 +2,6 @@
 title: Field Scientist
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Classes](/modern.d20.srd/classes) > [Advanced Classes](/modern.d20.srd/classes/advanced) > Field Scientist
-
-## Field Scientist
-
 ### Requirements
 
 To qualify to become a Field Scientist, a character must fulfill the following

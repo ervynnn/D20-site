@@ -2,11 +2,6 @@
 title: Attacks of Opportunity
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > Attacks of Opportunity
-
-## Attacks of Opportunity
-
 Attacks of opportunity work differently with starships than with characters.
 
 A starship can only make an attack of opportunity if it is equipped with a

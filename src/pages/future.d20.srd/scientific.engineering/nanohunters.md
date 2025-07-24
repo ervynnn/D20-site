@@ -2,11 +2,6 @@
 title: Nanohunters
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > Nanohunters
-
-## Nanohunters
-
 Nanohunters are nanoviruses with one specific purpose: to search and destroy
 other nanites. A nanohunter colony can be injected into a living creature to
 destroy some or all nanites already in the creature.

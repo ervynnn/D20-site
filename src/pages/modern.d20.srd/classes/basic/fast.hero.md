@@ -2,11 +2,6 @@
 title: The Fast Hero
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Classes](/modern.d20.srd/classes) > [Basic Classes](/modern.d20.srd/classes/basic) > The Fast Hero
-
-## The Fast Hero
-
 Ability: [Dexterity](/modern.d20.srd/basics/ability.scores)
 
 Hit Die: 1d8

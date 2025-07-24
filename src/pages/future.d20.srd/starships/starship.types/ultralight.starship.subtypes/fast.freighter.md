@@ -2,11 +2,6 @@
 title: Fast Freighter
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > [Ultralight Starship Subtypes](/future.d20.srd/starships/starship.types/ultralight.starship) > Fast Freighter
-
-## Fast Freighter (PL 6)
-
 Fast freighters are commercial starships generally employed in frequent runs,
 such as delivering supplies to small outposts and bases, or occasional runs of
 high-bulk cargo, such as heavy machinery or vehicles. Fast freighters often

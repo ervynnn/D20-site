@@ -2,11 +2,6 @@
 title: Mobility
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Feats ](/modern.d20.srd/feats) > Mobility
-
-##  Mobility
-
 Prerequisites: [ Dexterity ](/modern.d20.srd/basics/ability.scores) 13, [Dodge](https://web.archive.org/web/20200704004527/file:///C|/Documents%20and%20Settings/All%20Users/Documents/d20resources/modern.d20.srd/feats/dodge)
 .
 

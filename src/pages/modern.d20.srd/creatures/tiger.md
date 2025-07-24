@@ -2,11 +2,6 @@
 title: Tiger
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Tiger
-
-## Tiger
-
 ### Species Traits
 
 Pounce (Ex): If a tiger leaps upon a foe during the first round of combat, it

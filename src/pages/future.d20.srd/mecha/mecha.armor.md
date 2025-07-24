@@ -2,11 +2,6 @@
 title: Mecha Armor
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > Mecha Armor
-
-## Mecha Armor
-
 Armor can be welded or otherwise fixed securely to a mecha’s superstructure,
 providing an equipment bonus to the mecha’s Defense. Mecha armor does not
 impose a maximum Dexterity bonus upon the mecha operator (as worn armor does)

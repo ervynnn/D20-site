@@ -2,11 +2,6 @@
 title: Precise Strike
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Precise Strike
-
-##  Precise Strike
-
 Your strikes against an opponent are treated as touch attacks.
 
 **Prerequisite:** Base attack bonus +5.

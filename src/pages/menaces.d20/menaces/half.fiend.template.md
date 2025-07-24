@@ -2,11 +2,6 @@
 title: Half-Fiend (Template)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Half-Fiend (Template)
-
-##  Half-Fiend (Template)
-
 ###  Template Traits
 
 “Half-fiend” is an inherited template that can be added to any living creature

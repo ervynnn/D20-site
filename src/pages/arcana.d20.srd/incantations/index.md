@@ -2,11 +2,6 @@
 title: Incantations
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > Incantations
-
-## Incantations
-
 Incantations function like spells, except a character need not be a
 spellcaster to cast them. Anyone can cast an incantation simply by performing
 the correct ritual gestures and phrases. Incantations don’t use spell slots,

@@ -2,11 +2,6 @@
 title: Grenades and Explosives
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Combat ](/modern.d20.srd/combat) > Grenades and Explosives
-
-##  Grenades and Explosives
-
 An explosive is a weapon that, when detonated, affects all creatures and
 objects within its burst radius by means of shrapnel, heat, or massive
 concussion. Its effect is broad enough that it can hurt characters just by

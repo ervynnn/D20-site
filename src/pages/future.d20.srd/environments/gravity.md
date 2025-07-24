@@ -2,11 +2,6 @@
 title: Gravity
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Environments](/future.d20.srd/environments) > Gravity
-
-## Gravity
-
 The force that gravity exerts on a person determines how they develop
 physically as well as their ability to perform certain actions. In addition,
 gravity affects the amount of damage a character takes from falling. Gravity

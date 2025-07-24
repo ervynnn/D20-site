@@ -2,11 +2,6 @@
 title: Gear Golem
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Gear Golem
-
-##  Gear Golem
-
 Gear golems cannot speak. They typically stand 10 feet tall and weigh 4,000
 pounds. A gear golem may be created using the create golem incantation.
 

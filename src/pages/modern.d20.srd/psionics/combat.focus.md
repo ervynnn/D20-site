@@ -2,11 +2,6 @@
 title: Combat Focus
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Psionics ](/modern.d20.srd/psionics) > Combat Focus
-
-##  Combat Focus
-
 [ Wisdom ](/modern.d20.srd/basics/ability.scores)
 
 Level: [ Battle Mind ](/modern.d20.srd/classes/advanced/battle.mind) 2;

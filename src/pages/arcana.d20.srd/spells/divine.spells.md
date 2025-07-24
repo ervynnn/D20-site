@@ -2,11 +2,6 @@
 title: Divine Spells
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Divine Spells
-
-## Divine Spells
-
 The following spells may be cast by divine spellcasters.
 
 Spells printed in bold italic text can be found under Spells.

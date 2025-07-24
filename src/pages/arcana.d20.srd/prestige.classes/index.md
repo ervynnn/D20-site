@@ -2,11 +2,6 @@
 title: Prestige Classes
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > Prestige Classes
-
-##  Prestige Classes
-
 Prestige classes have requirements that are more restrictive than those for
 advanced classes, and therefore reflect deeper specialization. In general,
 prestige classes are usually accessible only after 8 to 10 character levels

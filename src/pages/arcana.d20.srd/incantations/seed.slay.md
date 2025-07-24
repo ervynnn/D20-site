@@ -1,12 +1,7 @@
 ---
-title: Seed: Slay
+title: Seed Slay
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Seed: Slay
-
-##  Seed: Slay
-
 Necromancy [Death]
 
 Knowledge (arcane lore) DC: 34; Range: Medium; Target: One living creature;

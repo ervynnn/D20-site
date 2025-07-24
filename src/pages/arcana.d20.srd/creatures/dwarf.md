@@ -2,11 +2,6 @@
 title: Dwarf
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Dwarf
-
-##  Dwarf
-
 Dwarves speak Dwarven. Those of particular intelligence (and good breeding)
 may speak other languages, including the following Shadow languages: Giant,
 Gnome, Goblin, Orc, Terran, and Undertongue.

@@ -2,11 +2,6 @@
 title: Surface Vehicle Operation
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Surface Vehicle Operation
-
-## Surface Vehicle Operation
-
 Select a class of surface vehicle (heavy wheeled, powerboat, sailboat, ship,
 or tracked). The character is proficient at operating that class of vehicle.
 

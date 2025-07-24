@@ -2,11 +2,6 @@
 title: X-Ray Vision
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > X-Ray Vision
-
-##  X-Ray Vision [MAJOR]
-
 You can see into and through solid matter.
 
 MP Cost: 6.

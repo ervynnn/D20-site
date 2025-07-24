@@ -2,11 +2,6 @@
 title: The One and Only
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > The One and Only
-
-## The One and Only
-
 In the case of matter duplication, there are very few minute differences
 between the original and the duplicated object. However, to help prevent
 counterfeiting and other deception, some replicators have built-in mechanisms

@@ -2,11 +2,6 @@
 title: Spell Penetration
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Spell Penetration
-
-##  Spell Penetration
-
 Your spells are especially potent, breaking through spell resistance more
 readily than normal.
 

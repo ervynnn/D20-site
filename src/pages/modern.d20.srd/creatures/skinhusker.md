@@ -2,11 +2,6 @@
 title: Skinhusker (Blade Fiend)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Skinhusker (Blade Fiend)
-
-## Skinhusker (Blade Fiend)
-
 A skinhusker resembles a frightfully gaunt, 9-foot-tall human with red skin.
 Two slender, white horns protrude from its elongated forehead, and each of its
 two arms ends in a wicked, 3-foot-long, serrated bone blade. A skinhusker

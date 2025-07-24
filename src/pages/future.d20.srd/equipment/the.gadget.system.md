@@ -2,11 +2,6 @@
 title: The Gadget System
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Equipment](/future.d20.srd/equipment) > The Gadget System
-
-## The Gadget System
-
 The gadget system is a way to customize weapons, armor, and equipment to more
 appropriately fit a given campaign or character. Since each campaign will
 likely use very different items based on its unique setting, the gadget system

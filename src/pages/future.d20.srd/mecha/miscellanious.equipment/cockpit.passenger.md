@@ -2,11 +2,6 @@
 title: Cockpit, Passenger
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Miscellanious Equipment](/future.d20.srd/mecha/miscellanious.equipment) > Cockpit, Passenger
-
-## Cockpit, Passenger (PL 5)
-
 This extra cockpit merely provides a comfortable place inside the mecha for a
 Small or Medium-size passenger to sit. The passenger can’t do anything other
 than observe the surroundings (seeing exactly what the mecha’s operator sees),

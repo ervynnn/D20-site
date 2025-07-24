@@ -3,11 +3,6 @@ title: Civilian Water Vehicles
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > [Vehicles](/modern.d20.srd/equipment/equipment.vehicles) > Civilian Water Vehicles
-
-## Civilian Water Vehicles
-
-
 <table> <tr> <th>Name</th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Crew</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Pass</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Cargo</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Init</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Maneuver</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Top Speed</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Defense</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Hardness</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Hit Points</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Size</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Purchase DC</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Restriction</a></th> </tr> <tr><td> Bayliner 1802 Capri (runabout)</td><td> 1</td><td> 5</td><td> 2,100 lb.</td><td> –2</td><td> –2</td><td> 55 (5)</td><td> 8</td><td> 5</td><td> 28</td><td> H</td><td> 28</td><td> Lic (+1) </td></tr> <tr><td> Fairline Targa 30 (cabin cruiser)</td><td> 1</td><td> 3</td><td> 2,100 lb.</td><td> –4</td><td> –4</td><td> 80 (8)</td><td> 6</td><td> 5</td><td> 40</td><td> G</td><td> 32</td><td> Lic (+1) </td></tr> <tr><td> Sea-Doo XP (personal watercraft)</td><td> 1</td><td> 1</td><td> 60 lb.</td><td> –1</td><td> +1</td><td> 105 (10)</td><td> 9</td><td> 5</td><td> 22</td><td> L</td><td> 24</td><td> Lic (+1) </td></tr></table>
 
 

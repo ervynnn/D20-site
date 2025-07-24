@@ -2,11 +2,6 @@
 title: Class VIII Sensor Array
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Sensors](/future.d20.srd/starships/starship) > Class VIII Sensor Array
-
-## Class VIII Sensor Array (PL 9)
-
 This array is an amplified version of the Class VI sensor array.
 
 As a move action, a Class VIII sensor array can perform any one of the

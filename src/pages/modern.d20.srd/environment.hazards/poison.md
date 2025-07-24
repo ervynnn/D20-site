@@ -2,11 +2,6 @@
 title: Poison
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Environment & Hazards](/modern.d20.srd/environment.hazards) > Poison
-
-##  Poison
-
 When a character takes [ damage ](/modern.d20.srd/combat/damage) from an
 attack with a poisoned weapon, touches an item smeared with contact poison,
 consumes a poisonous substance, inhales a poisonous gas, or is otherwise

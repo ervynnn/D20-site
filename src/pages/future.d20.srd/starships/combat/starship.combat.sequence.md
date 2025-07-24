@@ -2,11 +2,6 @@
 title: Starship Combat Sequence
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > Starship Combat Sequence
-
-## Starship Combat Sequence
-
 Starship combat is played out in rounds. Each round, each starship acts in
 turn in a regular cycle. Generally, starship combat runs as follows.
 

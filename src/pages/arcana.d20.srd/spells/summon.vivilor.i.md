@@ -2,11 +2,6 @@
 title: Summon Vivilor I
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Summon Vivilor I
-
-##  Summon Vivilor I
-
 Conjuration (Summoning)
 
 Level: Arcane 1, Divine 1; Components: V, S; Casting Time: Full-round action;

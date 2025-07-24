@@ -2,11 +2,6 @@
 title: Speed
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > [Combat Statistics](/future.d20.srd/starships/combat/combat) > Speed
-
-## Speed
-
 Starships have two basic speeds: tactical speed and cruising speed.
 
 ### Tactical Speed

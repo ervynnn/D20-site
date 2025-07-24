@@ -2,11 +2,6 @@
 title: Booby Trapped
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Weapon Gadgets ](/future.d20.srd/equipment/gadgets.universal.weapons) > Booby Trapped
-
-##  Booby Trapped
-
 Those characters with a more paranoid outlook on life may consider the booby
 trapped gadget for protecting their personal belongings. Any weapon with this
 gadget is designed to function properly only for the owner or owners of the

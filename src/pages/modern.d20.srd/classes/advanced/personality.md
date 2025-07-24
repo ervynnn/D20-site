@@ -2,11 +2,6 @@
 title: Personality
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Classes](/modern.d20.srd/classes) > [Advanced Classes](/modern.d20.srd/classes/advanced) > Personality
-
-## Personality
-
 ### Requirements
 
 To qualify to become a Personality, a character must fulfill the following

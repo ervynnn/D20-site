@@ -2,11 +2,6 @@
 title: Robot Weapon Rules
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Robots ](/future.d20.srd/robots) > Robot Weapon Rules
-
-##  Robot Weapon Rules
-
 A robot can be armed with manipulators, handheld weapons, mounted weapons, or
 any combination of the three. However, during any given round of attacks, it
 must choose whether to attack with its manipulators, handheld weapons, or

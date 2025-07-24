@@ -2,11 +2,6 @@
 title: Biomorph
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > [Robot Frames](/future.d20.srd/robots/robot.frames) > Biomorph
-
-## Biomorph (PL 5)
-
 A biomorph frame is essentially a hard plastic or metallic casing, often in a
 shape that suggests a living creature—for example, a human, dog, cat, or
 chimpanzee—though the resemblance is vague, at best.

@@ -2,11 +2,6 @@
 title: Feats
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Feats
-
-## Mecha Crush
-
 You can hurl your mecha’s body onto opponents to deal tremendous damage.
 
 Prerequisite: Mecha Operation.

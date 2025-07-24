@@ -2,11 +2,6 @@
 title: Starship Condition Summary
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > [Combat Statistics](/future.d20.srd/starships/combat/combat) > Starship Condition Summary
-
-## Starship Condition Summary
-
 A number of adverse conditions can affect the way a starship or its crew
 operates, as defined here. If more than one condition affects a starship,
 apply both if possible. If not possible, apply only the most severe condition.

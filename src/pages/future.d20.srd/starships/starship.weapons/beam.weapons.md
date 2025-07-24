@@ -2,11 +2,6 @@
 title: Beam Weapons
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Weapons](/future.d20.srd/starships/starship) > Beam Weapons
-
-## Beam Weapons
-
 Beam weapons deal energy damage, usually of a nonspecific type. They range
 from weapons as simple as a high-powered laser to monstrous devices capable of
 harnessing the fundamental forces of the universe.

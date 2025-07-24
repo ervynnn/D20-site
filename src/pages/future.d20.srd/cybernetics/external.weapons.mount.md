@@ -2,11 +2,6 @@
 title: External Weapon Mount
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Cybernetics](/future.d20.srd/cybernetics) > External Weapon Mount
-
-## External Weapon Mount (PL 6)
-
 The recipient’s prosthetic arm ends in a weapon instead of a hand.
 
 Benefit: The recipient has a melee or ranged weapon attached to a prosthetic

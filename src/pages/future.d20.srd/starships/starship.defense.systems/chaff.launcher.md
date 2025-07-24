@@ -2,11 +2,6 @@
 title: Chaff Launcher
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Defense Systems](/future.d20.srd/starships/starship.defense) > Chaff Launcher
-
-## Chaff Launcher (PL 6)
-
 Chaff consists of a cloud of millions of tiny metal strips or particles. This
 detritus interferes with sensors and missiles. Deploying chaff— usually via a
 small bundle from the rear or underside of a starship—is a move action. The

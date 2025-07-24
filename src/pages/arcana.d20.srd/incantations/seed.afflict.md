@@ -1,12 +1,7 @@
 ---
-title: Seed: Afflict
+title: Seed Afflict
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Seed: Afflict
-
-##  Seed: Afflict
-
 Enchantment (Compulsion) [Fear, Mind-Affecting]
 
 Knowledge (arcane lore) DC: 30; Range: Close; Target: One living creature;

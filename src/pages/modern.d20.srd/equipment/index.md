@@ -2,11 +2,6 @@
 title: Equipment
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > Equipment
-
-##  Equipment Basics
-
 [ On-Hand Objects ](/modern.d20.srd/equipment/on.hand.objects)
 
 [ Restricted Objects ](/modern.d20.srd/equipment/restricted.objects)

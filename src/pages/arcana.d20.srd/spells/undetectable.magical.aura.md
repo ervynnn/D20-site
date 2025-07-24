@@ -2,11 +2,6 @@
 title: Undetectable Magical Aura
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Undetectable Magical Aura
-
-## Undetectable Magical Aura
-
 Illusion
 
 Level: Arcane 1; Components: V, S, F; Casting Time: Attack action; Range:

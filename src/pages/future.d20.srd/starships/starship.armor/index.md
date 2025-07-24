@@ -2,11 +2,6 @@
 title: Starship Armor
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > Starship Armor
-
-## Starship Armor
-
 A starship can have only one type of armor installed. To surround a starship’s
 hull in armor or to upgrade the armor, a character must succeed at a Craft
 (structural) check (DC 30) after investing 600 hours in its assembly. A

@@ -2,11 +2,6 @@
 title: Heroes In Starships
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > Heroes In Starships
-
-## Heroes In Starships
-
 A hero in a starship fills one of several possible roles, which determines
 what the character can do.
 

@@ -2,11 +2,6 @@
 title: Potion of Truth
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX Items ](/modern.d20.srd/fx.items) > [ Potions](/modern.d20.srd/fx.items/potions) > Potion of Truth
-
-##  Potion of Truth
-
 This potion forces the individual drinking it to say nothing but the truth for
 10 minutes; a successful [ Will save ](/modern.d20.srd/basics/saving.throws)
 (DC 12) negates the effect. Further, he or she is compelled to answer any

@@ -2,11 +2,6 @@
 title: Robot
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Robot
-
-## Robot
-
 ### Species Traits
 
 Construct: Robots have the traits and immunities common to

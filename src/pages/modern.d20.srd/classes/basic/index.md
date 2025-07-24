@@ -2,11 +2,6 @@
 title: Basic Classes
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Classes](/modern.d20.srd/classes) > Basic Classes
-
-## Basic Character Classes
-
 ### Basic Class Descriptions
 
 ### Ability

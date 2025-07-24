@@ -2,11 +2,6 @@
 title: Driving, Piloting, and Movement
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > Driving, Piloting, and Movement
-
-## Driving, Piloting, and Movement
-
 Mecha operators use the Drive skill to operate their mecha on the ground and
 the Pilot skill to operate their mecha in the air or in space.
 

@@ -2,11 +2,6 @@
 title: Incantation-Based FX Items
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [FX Items](/arcana.d20.srd/fx.items) > Incantation-Based FX Items
-
-## Incantation-Based FX Items
-
 Making most magic items is a solitary endeavor, one in which the spellcaster
 spends days (perhaps weeks) preparing an item to receive and permanently hold
 a spell. It is possible to do the same thing with an incantation, but this

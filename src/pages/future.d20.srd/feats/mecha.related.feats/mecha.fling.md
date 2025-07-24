@@ -2,11 +2,6 @@
 title: Feats
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Feats
-
-## Mecha Fling
-
 You can pick up an opponent with your mecha and fling it.
 
 Prerequisite: Mecha Operation, at least one free hand slot.

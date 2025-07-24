@@ -2,11 +2,6 @@
 title: Fraternal Order of Vigilance
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Organizations ](/arcana.d20.srd/organizations) > Fraternal Order of Vigilance
-
-##  Fraternal Order of Vigilance
-
 There are any number of fraternal organizations maintaining local lodges and
 halls in cities, towns, and municipalities of all sizes. In the past few years
 the fastest growing lodge worldwide was the Fraternal Order of Vigilance, or

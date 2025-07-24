@@ -2,11 +2,6 @@
 title: Spatial Compressor
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Engines](/future.d20.srd/starships/starship) > Spatial Compressor
-
-## Spatial Compressor (PL 9)
-
 The most advanced engine available, the spatial compressor surrounds the ship
 in a field that “folds” or “wrinkles” the fabric of space in the direction the
 pilot wishes to travel. This results in a continuous series of micro-jumps in

@@ -2,11 +2,6 @@
 title: Skill Progit
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > [Skills](/future.d20.srd/robots/skills) > Skill Progit
-
-## Skill Progit (PL 6)
-
 Sophisticated emulation software encased in a thin but durable plastic casing,
 a skill progit enables a robot to gain ranks in a single skill. The number of
 ranks cannot exceed the programmer’s ranks in the skill being emulated. A

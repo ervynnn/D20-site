@@ -2,11 +2,6 @@
 title: Progress Levels
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Progress Levels
-
-## Progress Levels
-
 A Progress Level (PL) is an indication of the state of technology that exists
 in a particular society or civilization (which, in a science fiction setting,
 may be located on a planet other than Earth). This state of technological

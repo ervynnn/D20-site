@@ -2,11 +2,6 @@
 title: Ammunition
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Equipment ](/arcana.d20.srd/equipment) > Ammunition
-
-##  Ammunition
-
 This section covers unique and exotic ammunition that a hero might use during
 an adventure.
 

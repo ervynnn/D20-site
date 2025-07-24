@@ -2,11 +2,6 @@
 title: Psionic Feats
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Psionic Feats
-
-##  Psionic Feats
-
 Some spell-related feats are equally applicable to psionics. The following
 psionic feats function as the named spell-related feats. Treat references to
 spells as powers within these descriptions, and references to caster level as

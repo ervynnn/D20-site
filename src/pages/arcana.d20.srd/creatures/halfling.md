@@ -2,11 +2,6 @@
 title: Halfling
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Halfling
-
-##  Halfling
-
 Halflings read, write, and speak their own language. Particularly intelligent
 halflings know other languages as well, including any of the following Shadow
 languages: Dwarven, Elven, Gnome, Goblin, and Orc.

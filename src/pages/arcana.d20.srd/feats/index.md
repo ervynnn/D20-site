@@ -2,11 +2,6 @@
 title: Feats
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > Feats
-
-##  Feats
-
 ###  New Bonus Feats For Advanced Classes
 
 The Mage advanced class may consider Greater Spell Focus, Greater Spell

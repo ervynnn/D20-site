@@ -2,11 +2,6 @@
 title: Starship Class Templates
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > Starship Class Templates
-
-## Starship Class Templates
-
 A starship class template allows the creation of modified or improved versions
 of the various starship subtypes presented above. A template usually has an
 evocative name, giving rise to such ships as the Lightning-class frigate or

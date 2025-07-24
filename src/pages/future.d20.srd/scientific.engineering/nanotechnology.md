@@ -2,11 +2,6 @@
 title: Nanotechnology
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > Nanotechnology
-
-## Nanotechnology
-
 Nanotechnology is a broad, new, mostly hypothetical area of research. It is,
 practically speaking, the ultimate step in miniaturization. Nanotechnology
 involves manipulating objects that are as small as a nanometer (one billionth

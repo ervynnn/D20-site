@@ -2,11 +2,6 @@
 title: Intimidate
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Intimidate
-
-## Intimidate ([Cha](/modern.d20.srd/basics/ability.scores))
-
 [Check](/modern.d20.srd/skills/skill.basics): With a successful
 [check](/modern.d20.srd/skills/skill.basics), a character can
 forcibly persuade another character to perform some task or behave in a

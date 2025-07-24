@@ -2,11 +2,6 @@
 title: Technician
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Starting Occupation ](/modern.d20.srd/starting.occupation) > Technician
-
-##  Technician
-
 Scientists and engineers of all types fit within the scope of this starting
 occupation.
 

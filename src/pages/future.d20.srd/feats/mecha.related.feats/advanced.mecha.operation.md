@@ -2,11 +2,6 @@
 title: Feats
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Feats
-
-## Advanced Mecha Operation
-
 You have received advanced training or extensive practice in mecha movement.
 
 Prerequisite: Mecha Operation.

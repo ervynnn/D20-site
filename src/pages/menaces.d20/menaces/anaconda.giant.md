@@ -2,11 +2,6 @@
 title: Anaconda, Giant
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Anaconda, Giant
-
-##  Anaconda, Giant
-
 ###  Species Traits
 
 Constrict (Ex): A giant anaconda deals 1d6+16 points of bludgeoning damage

@@ -2,11 +2,6 @@
 title: Animal
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creature Types](/modern.d20.srd/creature.types) > Animal
-
-## Animal
-
 An animal is a nonhumanoid creature, usually a vertebrate with no magical
 abilities and no innate capacity for language or culture. See Table: Animals
 for physical ability scores, recommended minimum Hit Dice, and damage based on

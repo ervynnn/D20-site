@@ -2,11 +2,6 @@
 title: Bull Rush
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Bull Rush
-
-## Bull Rush
-
 A character can attempt a bull rush as an [attack action](/modern.d20.srd/combat/attack.actions) made during his or her move
 action, or as part of a charge. (In general, a character can’t make an [attack action](/modern.d20.srd/combat/attack.actions) during a [move action](/modern.d20.srd/combat/move.actions); this is an exception.) In either
 case, the character doesn’t get a 5-foot step before, during, or after the

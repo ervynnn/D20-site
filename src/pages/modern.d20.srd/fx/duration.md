@@ -2,11 +2,6 @@
 title: Duration
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX](/modern.d20.srd/fx) > Duration
-
-## Duration
-
 The Duration entry of a spell description tells how long the effect of the
 spell lasts.
 

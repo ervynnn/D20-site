@@ -2,11 +2,6 @@
 title: Navigate
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Expanded Skills ](/future.d20.srd/expanded.skills) > Navigate
-
-##  Navigate (Int)
-
 In a campaign that features space travel or dimensional travel, you can use
 the Navigate skill to plot a course between planets, star systems, or
 dimensions.

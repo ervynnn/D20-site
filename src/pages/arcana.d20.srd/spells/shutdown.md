@@ -2,11 +2,6 @@
 title: Shutdown
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Shutdown
-
-## Shutdown
-
 Transmutation
 
 Level: Arcane 3, Divine 3; Components: V, M/DF; Casting Time: Attack action;

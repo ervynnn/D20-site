@@ -2,11 +2,6 @@
 title: Thunderbird
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Thunderbird
-
-##  Thunderbird
-
 The thunderbird appears as an enormous raptor with blazing, electric-blue
 eyes. Its feathers are a mix of dark gray and snowy white, resembling the
 clouds of a thunderstorm. Its wings periodically shed wisps of fog and arcs of

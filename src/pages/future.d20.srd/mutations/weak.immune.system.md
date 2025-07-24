@@ -2,11 +2,6 @@
 title: Weak Immune System
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mutations](/future.d20.srd/mutations) > Weak Immune System
-
-## Weak Immune System [DRAWBACK]
-
 Your body has difficult preventing infections from entering its system, and
 thus it is prone to sickness and disease.
 

@@ -2,11 +2,6 @@
 title: Equipment (Vehicles)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > Equipment (Vehicles)
-
-## Equipment (Vehicles)
-
 Vehicles are described by a number of statistics.
 
 Crew: The standard number of crew. In most cases, only one person is needed to

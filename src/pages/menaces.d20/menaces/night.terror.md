@@ -2,11 +2,6 @@
 title: Night Terror
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Night Terror
-
-##  Night Terror
-
 A night terror stands 5 to 6 feet tall and weighs between 120 and 200 pounds.
 Although it is always horrific and feral, the details of the creature’s
 appearance can vary widely. The typical specimen is almost impossible to

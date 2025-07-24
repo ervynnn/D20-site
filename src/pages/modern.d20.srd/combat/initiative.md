@@ -2,11 +2,6 @@
 title: Initiative
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Initiative
-
-## Initiative
-
 Every round, each combatant gets to do something. The combatants’ initiative
 checks, from highest to lowest, determine the order in which they act, from
 first to last.

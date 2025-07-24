@@ -2,11 +2,6 @@
 title: Luciferan
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Luciferan
-
-##  Luciferan
-
 ###  Species Traits
 
 Automatic Language: Luciferans read, write, and speak Aramaic.

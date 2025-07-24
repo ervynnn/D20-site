@@ -2,11 +2,6 @@
 title: Simple Maneuvers
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Vehicle Movement and Combat](/modern.d20.srd/vehicle.movement.and.combat) > Simple Maneuvers
-
-## Simple Maneuvers
-
 During a [vehicle’s](/modern.d20.srd/equipment/equipment.vehicles)
 [movement](/modern.d20.srd/vehicle.movement.and.combat/moving), the driver can
 perform any one of the following maneuvers.

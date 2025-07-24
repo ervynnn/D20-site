@@ -2,11 +2,6 @@
 title: Extra Arms
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mutations](/future.d20.srd/mutations) > Extra Arms
-
-## Extra Arms [MAJOR]
-
 You grow an additional pair of arms. The extra arms look and behave exactly
 like your other arms.
 

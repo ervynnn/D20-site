@@ -2,11 +2,6 @@
 title: Source Effects
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Source Effects
-
-## Source Effects
-
 After determining a creature’s source of weakness, the GM needs to decide how
 the creature reacts when confronted by the source. Pick an effect that seems
 appropriate for the creature and the source.

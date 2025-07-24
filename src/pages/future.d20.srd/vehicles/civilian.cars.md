@@ -2,11 +2,6 @@
 title: Civilian Cars
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Vehicles](/future.d20.srd/vehicles) > Civilian Cars
-
-## Civilian Cars
-
 Civilian automobiles of the future are required by law to carry remote
 shutdown systems in the event the vehicle is involved in a high-speed chase.
 Cars can be equipped with options like heated side mirrors, power seats, and

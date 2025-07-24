@@ -2,11 +2,6 @@
 title: Craft Cybernetics
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Feats](/future.d20.srd/feats) > Craft Cybernetics
-
-## Craft Cybernetics
-
 You can construct cybernetic attachments.
 
 Prerequisites: Craft (electrical) 10 ranks, Craft (mechanical) 10 ranks,

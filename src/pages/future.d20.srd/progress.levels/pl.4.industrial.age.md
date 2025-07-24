@@ -1,12 +1,7 @@
 ---
-title: PL 0: Stone Age
+title: PL 0 Industrial Age
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Progress Levels](/future.d20.srd/progress) > PL 0: Stone Age
-
-## PL 4: Industrial Age
-
 In the fourth Progress Level, the theoretical knowledge of the previous era
 matures into widespread practical application. The harnessing of hydraulic,
 steam, and electric power creates an explosion of commerce and industry.

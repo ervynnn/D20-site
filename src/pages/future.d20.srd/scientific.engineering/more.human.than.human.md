@@ -2,11 +2,6 @@
 title: More Human Than Human
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > More Human Than Human
-
-## More Human Than Human
-
 Beginning early in PL 6, scientists discover ways to not only replace abnormal
 or defective genes, but also to safely improve on otherwise healthy genes.
 Even more importantly, they discover ways to create retroviruses that target

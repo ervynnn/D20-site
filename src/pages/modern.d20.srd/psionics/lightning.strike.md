@@ -2,11 +2,6 @@
 title: Lightning Strike
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Psionics ](/modern.d20.srd/psionics) > Lightning Strike
-
-##  Lightning Strike
-
 [ Intelligence ](/modern.d20.srd/basics/ability.scores) [Electricity]
 
 Level: [ Battle Mind ](/modern.d20.srd/classes/advanced/battle.mind) 3;

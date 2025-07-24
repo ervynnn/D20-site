@@ -2,11 +2,6 @@
 title: Yeti
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [Menaces](/menaces.d20/menaces) > Yeti
-
-## Yeti
-
 A yeti is a large, white-furred, human-shaped creature that stands about 8
 feet tall and weighs approximately 300 pounds. Its long fur is heaviest around
 the head and shoulders, and its hands and feet are wide and flat. Layers of

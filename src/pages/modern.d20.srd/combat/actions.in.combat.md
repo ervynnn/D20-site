@@ -2,11 +2,6 @@
 title: Actions in Combat
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Actions in Combat
-
-## Actions in Combat
-
 The fundamental actions of moving and attacking cover most of what a character
 wants to do in a battle. They’re described here. Other, more specialized
 options are touched on in Table: Actions in Combat, and covered in [Special Initiative Actions](/modern.d20.srd/combat/special.initiative.actions) and

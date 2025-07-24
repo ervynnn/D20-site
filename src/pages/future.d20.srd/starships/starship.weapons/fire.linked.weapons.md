@@ -2,11 +2,6 @@
 title: Fire-Linked Weapons
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Weapons](/future.d20.srd/starships/starship) > Fire-Linked Weapons
-
-##  Fire-Linked Weapons
-
 Fire-linked weapons are identical beam weapons, projectile weapons, or missile
 launchers that point and fire in the same direction. In effect, this
 arrangement creates a single weapon (fired with a single attack roll) that

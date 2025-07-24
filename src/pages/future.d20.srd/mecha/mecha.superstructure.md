@@ -2,11 +2,6 @@
 title: Mecha Superstructure
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mecha ](/future.d20.srd/mecha) > Mecha Superstructure
-
-##  Mecha Superstructure
-
 A mecha's superstructure--its exoskeleton, interior braces, and other
 structural parts--can be made from any sufficiently advanced metal alloy.
 Whatever its composition, a mecha's superstructure has a hardness that reduces

@@ -2,11 +2,6 @@
 title: Free Actions
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > Free Actions
-
-## Free Actions
-
 A starship can perform multiple free actions during its turn, subject to the
 GM’s approval. In general, if one or more free actions take longer than 6
 seconds to complete, they are not free actions. Free actions include

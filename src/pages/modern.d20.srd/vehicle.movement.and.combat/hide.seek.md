@@ -2,11 +2,6 @@
 title: Hide and Seek
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Vehicle Movement and Combat](/modern.d20.srd/vehicle.movement.and.combat) > Hide and Seek
-
-## Hide and Seek
-
 When being pursued, a driver can attempt a [Hide](/modern.d20.srd/skills/hide)
 [check](/modern.d20.srd/skills/skill.basics) to lose the pursuer in heavy
 traffic, or a [Bluff](/modern.d20.srd/skills/bluff)

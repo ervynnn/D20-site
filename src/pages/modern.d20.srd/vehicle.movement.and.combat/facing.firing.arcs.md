@@ -2,11 +2,6 @@
 title: Facing and Firing Arcs
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Vehicle Movement and Combat](/modern.d20.srd/vehicle.movement.and.combat) > Facing and Firing Arcs
-
-## Facing and Firing Arcs
-
 Unlike with characters, when dealing with
 [vehicles](/modern.d20.srd/equipment/equipment.vehicles), the
 [vehicle’s](/modern.d20.srd/equipment/equipment.vehicles) facing (the

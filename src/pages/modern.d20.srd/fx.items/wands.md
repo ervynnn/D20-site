@@ -2,11 +2,6 @@
 title: Wands
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX Items](/modern.d20.srd/fx.items) > Wands
-
-## Wands
-
 A wand is a short stick imbued with the power to cast a specific
 [spell](/modern.d20.srd/fx) 50 times. The spell must be 4th level or lower,
 and the wand cannot be recharged. A typical wand has a Defense of 7, hardness

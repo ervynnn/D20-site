@@ -2,11 +2,6 @@
 title: Teleport
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Teleport
-
-##  Teleport
-
 Conjuration (Teleporting)
 
 Skill Check: Knowledge (arcane lore) DC 31, 5 successes, and Navigate DC 31, 1

@@ -2,11 +2,6 @@
 title: Energy Age Weapons
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Equipment](/future.d20.srd/equipment) > Energy Age Weapons
-
-## Energy Age Weapons
-
 The following weapons are available at PL 8.
 
 

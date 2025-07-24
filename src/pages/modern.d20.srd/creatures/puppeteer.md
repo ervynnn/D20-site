@@ -2,11 +2,6 @@
 title: Puppeteer
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Puppeteer
-
-## Puppeteer
-
 ### Species Traits
 
 Combined Challenge Rating: The Challenge Rating of a puppeteer with a host is

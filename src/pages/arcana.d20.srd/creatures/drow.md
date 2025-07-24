@@ -2,11 +2,6 @@
 title: Drow
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Drow
-
-##  Drow
-
 Drow speak, read, and write Elven, a beautiful language they’ve corrupted with
 their own vile idioms and inflections.
 

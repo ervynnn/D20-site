@@ -2,11 +2,6 @@
 title: Hazards of Time Travel
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Traveler Science](/future.d20.srd/traveler.science) > [Fantastic Space Travel](/future.d20.srd/traveler.science/fantastic.space.travel) > Hazards of Time Travel
-
-## Hazards of Time Travel
-
 The time machine is perhaps more dangerous than any other technology that
 manipulates space and time. Not only can unscrupulous people use it to wreak
 havoc in the past and take advantage of knowledge from the future, but a

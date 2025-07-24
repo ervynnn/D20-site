@@ -2,11 +2,6 @@
 title: Monstrous Flytrap
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Monstrous Flytrap
-
-## Monstrous Flytrap
-
 ### Species Traits
 
 Plant: Monstrous flytraps have the traits and immunities common to

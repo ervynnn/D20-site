@@ -2,11 +2,6 @@
 title: Spellslinger
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Spellslinger
-
-##  Spellslinger
-
 You have a gift for magic that allows you to cast more spells than normal.
 
 **Prerequisite:** Intelligence 13 (for arcane spellcasters) or Wisdom 13 (for

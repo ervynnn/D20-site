@@ -2,11 +2,6 @@
 title: Exotic Melee Weapon Proficiency
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Exotic Melee Weapon Proficiency
-
-## Exotic Melee Weapon Proficiency
-
 Choose one [exotic melee weapon](/modern.d20.srd/equipment/weapons.exotic)
 from. The character is proficient with that melee weapon in combat.
 

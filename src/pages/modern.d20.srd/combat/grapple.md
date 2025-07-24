@@ -2,11 +2,6 @@
 title: Grapple
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Grapple
-
-## Grapple
-
 Grappling means wrestling and struggling hand-to-hand.
 
 There are three stages to grappling: grabbing, holding, and pinning.

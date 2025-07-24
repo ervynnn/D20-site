@@ -2,11 +2,6 @@
 title: Casting Time
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX](/modern.d20.srd/fx) > Casting Time
-
-## Casting Time
-
 This entry tells how much time is needed to complete the casting of a spell
 once it is begun.
 

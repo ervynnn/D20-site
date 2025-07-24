@@ -2,11 +2,6 @@
 title: Gravity Age Armor Gadgets
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Equipment](/future.d20.srd/equipment) > Gravity Age Armor Gadgets
-
-## Gravity Age Armor Gadgets
-
 The following gadgets are found in the Gravity Age and can apply to armors of
 that era or later, provided all gadget-specific restrictions are observed.
 

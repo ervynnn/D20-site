@@ -2,11 +2,6 @@
 title: Targeting Occupants
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Vehicle Movement and Combat](/modern.d20.srd/vehicle.movement.and.combat) > Targeting Occupants
-
-##  Targeting Occupants
-
 An attack made against a [ vehicle](/modern.d20.srd/equipment/equipment.vehicles) uses the [ vehicle’s](/modern.d20.srd/equipment/equipment.vehicles) [ Defense](/modern.d20.srd/combat/defense) , modified by its [ speed category](/modern.d20.srd/vehicle.movement.and.combat/vehicle.speed) . Attackers can
 choose instead to target specific [ vehicle](/modern.d20.srd/equipment/equipment.vehicles) occupants.
 

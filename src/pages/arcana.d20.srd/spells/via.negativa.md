@@ -2,11 +2,6 @@
 title: Via Negativa
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Via Negativa
-
-## Via Negativa
-
 Necromancy
 
 Level: Arcane 4, Divine 4; Components: S, F/DF; Casting Time: Attack action;

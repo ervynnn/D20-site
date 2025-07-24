@@ -2,11 +2,6 @@
 title: Ghost Shot
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Psionics ](/arcana.d20.srd/psionics) > Ghost Shot
-
-##  Ghost Shot
-
 Dexterity
 
 Level: Psionic Agent 4; Display: Visual; Manifestation Time: Attack action;

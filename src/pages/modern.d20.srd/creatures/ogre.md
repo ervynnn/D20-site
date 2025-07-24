@@ -2,11 +2,6 @@
 title: Ogre
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Ogre
-
-## Ogre
-
 ### Species Traits
 
 Bonus Feat: An ogre gains the bonus feat [Archaic Weapons Proficiency](/modern.d20.srd/feats/archaic.weapons.proficiency) or [Simple Weapons Proficiency](/modern.d20.srd/feats/simple.weapons.proficiency).

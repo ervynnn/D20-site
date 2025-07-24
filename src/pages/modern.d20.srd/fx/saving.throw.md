@@ -2,11 +2,6 @@
 title: Saving Throw
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX ](/modern.d20.srd/fx) > Saving Throw
-
-##  Saving Throw
-
 Most harmful spells allow an affected creature to make a [ saving throw](/modern.d20.srd/basics/saving.throws) to avoid some or all of the effect.
 The Saving Throw entry in a spell description defines which type of [ saving throw ](/modern.d20.srd/basics/saving.throws) the spell allows and describes
 how saving throws against the spell work.

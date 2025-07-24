@@ -2,11 +2,6 @@
 title: Vehicle Speeds
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Vehicle Movement and Combat](/modern.d20.srd/vehicle.movement.and.combat) > Vehicle Speeds
-
-## Vehicle Speed
-
 [Vehicle](/modern.d20.srd/equipment/equipment.vehicles) speed is expressed in
 five categories: stationary, alley speed, street speed, highway speed, and
 all-out. Each of these speed categories represents a range of possible

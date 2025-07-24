@@ -2,11 +2,6 @@
 title: Death, Dying and Healing
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Death, Dying and Healing
-
-## Death, Dying and Healing
-
 ### Injury and Death
 
 Hit points measure how hard a character is to kill. [Hit points](/modern.d20.srd/combat/hit.points) mean two things in the game world:

@@ -2,11 +2,6 @@
 title: Attacks of Opportunity
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Attacks of Opportunity
-
-## Attacks of Opportunity
-
 The melee combat rules assume that combatants are actively avoiding attacks. A
 player doesn’t have to declare anything special for his or her character to be
 on the defensive. Sometimes, however, a combatant in a melee lets his or her

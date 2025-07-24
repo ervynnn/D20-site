@@ -2,11 +2,6 @@
 title: Cybernetic Surgery
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Feats](/future.d20.srd/feats) > Cybernetic Surgery
-
-## Cybernetic Surgery
-
 You can graft cybernetic attachments onto living tissue as well as safely
 remove them.
 

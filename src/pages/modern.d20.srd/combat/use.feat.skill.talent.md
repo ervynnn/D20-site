@@ -1,12 +1,7 @@
 ---
 title: Use Feat, Skill, or Talent
 layout: '~/layouts/MarkdownLayout.astro'
----
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Combat ](/modern.d20.srd/combat) > Use Feat, Skill, or Talent
-
-##  Use [ Feat ](/modern.d20.srd/feats) , [ Skill ](/modern.d20.srd/skills) ,
-or Talent
+---or Talent
 
 Certain [ feats ](/modern.d20.srd/feats) , let a character take special
 actions in combat. Other feats are not actions in themselves, but they give a

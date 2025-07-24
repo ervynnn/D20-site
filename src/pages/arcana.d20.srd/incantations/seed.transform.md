@@ -1,12 +1,7 @@
 ---
-title: Seed: Transform
+title: Seed Transform
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Seed: Transform
-
-##  Seed: Transform
-
 Transmutation
 
 Knowledge (arcane lore) DC: 32; Range: Close; Target: One creature or

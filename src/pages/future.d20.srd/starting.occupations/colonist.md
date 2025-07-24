@@ -2,11 +2,6 @@
 title: Colonist
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starting Occupations ](/future.d20.srd/starting) > Colonist
-
-##  Colonist
-
 Colonists are wayfaring pioneers who set the foundations of new societies on
 far-flung continents, planets, or moons. To survive in their new surroundings,
 they learn to live off the land and defend themselves against indigenous

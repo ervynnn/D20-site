@@ -2,11 +2,6 @@
 title: Mecha Equipment
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > Mecha Equipment
-
-## Mecha Equipment
-
 Mecha equipment falls into several categories: flight systems, sensor systems,
 defense systems, weapons (both hand-held and integrated), and miscellaneous
 systems.

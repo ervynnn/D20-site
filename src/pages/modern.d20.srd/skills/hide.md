@@ -2,11 +2,6 @@
 title: Hide
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Hide
-
-## Hide ([Dex](/modern.d20.srd/basics/ability.scores)) [Armor Penalty](/modern.d20.srd/equipment/armor.general)
-
 [Check](/modern.d20.srd/skills/skill.basics): A character’s Hide
 [check](/modern.d20.srd/skills/skill.basics) is opposed by the
 [Spot](/modern.d20.srd/skills/spot)

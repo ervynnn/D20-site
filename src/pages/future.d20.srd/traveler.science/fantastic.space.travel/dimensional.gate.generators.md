@@ -2,11 +2,6 @@
 title: Dimension Gate Generators
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Traveler Science](/future.d20.srd/traveler.science) > [Fantastic Space Travel](/future.d20.srd/traveler.science/fantastic.space.travel) > Dimension Gate Generators
-
-## Dimension Gate Generators
-
 The technology behind dimension gates is highly advanced. The first working
 gates are treated as late Progress Level 7 technology, and concerted human
 exploration of alternative dimensions begins at Progress Level 8. The

@@ -2,11 +2,6 @@
 title: Infiltrator
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Classes ](/modern.d20.srd/classes) > [ Advanced Classes](/modern.d20.srd/classes/advanced) > Infiltrator
-
-##  Infiltrator
-
 ###  Requirements
 
 To qualify to become an Infiltrator, a character must fulfill the following

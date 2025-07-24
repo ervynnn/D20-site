@@ -2,11 +2,6 @@
 title: Construct
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Creature Types ](/modern.d20.srd/creature.types) > Construct
-
-##  Construct
-
 A construct is an animated object or artificially constructed creature. See
 Table: Constructs for physical ability scores, recommended minimum Hit Dice,
 and damage based on size.

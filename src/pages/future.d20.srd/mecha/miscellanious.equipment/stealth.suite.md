@@ -2,11 +2,6 @@
 title: Stealth Suite
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Miscellanious Equipment](/future.d20.srd/mecha/miscellanious.equipment) > Stealth Suite
-
-## Stealth Suite (PL 6)
-
 Based on high-tech low observables technology, this combination of sound
 baffles, heat dispersers, and nonreflective paint combines to give the mecha a
 +10 bonus on Hide and Move Silently checks. Cost and the size penalty combine

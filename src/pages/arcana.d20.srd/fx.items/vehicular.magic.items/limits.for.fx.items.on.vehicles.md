@@ -2,11 +2,6 @@
 title: Limits for FX Items on Vehicles
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ FX Items ](/arcana.d20.srd/fx.items) > [ Vehiclular Magic Items ](/arcana.d20.srd/fx.items/vehicular.magic.items) > Limits for FX Items on Vehicles
-
-##  Limits for FX Items on Vehicles
-
 Just as characters are limited in their ability to carry magic items, a
 vehicle can only bear so many functional magic items. The limits are as
 follows:

@@ -2,11 +2,6 @@
 title: Instant Connectivity
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Instant Connectivity
-
-##  Instant Connectivity
-
 Conjuration (Teleporting)
 
 Level: Arcane 5; Components: V, S, F; Casting Time: Attack action; Range:

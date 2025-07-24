@@ -2,11 +2,6 @@
 title: Artifact Purchase DCs
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ FX Items ](/arcana.d20.srd/fx.items) > [ Artifacts](/arcana.d20.srd/fx.items/artifacts) > Artifact Purchase DCs
-
-##  Artifact Purchase DCs
-
 Artifacts cannot generally be purchased on the open market, although a
 careless vendors might sell one inadvertantly (by failing to realize its true
 nature or power). Since artifacts are often unique items, one must strike a

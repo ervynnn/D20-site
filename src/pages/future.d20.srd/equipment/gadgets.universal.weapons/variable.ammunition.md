@@ -2,11 +2,6 @@
 title: Variable Ammunition
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Weapon Gadgets ](/future.d20.srd/equipment/gadgets.universal.weapons) > Variable Ammunition
-
-##  Variable Ammunition
-
 Firearms typically draw their ammunition from a single source and do so until
 they are reloaded with a fresh magazine. The variable ammunition gadget
 changes this; it allows the user to load an additional type of ammunition.

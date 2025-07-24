@@ -2,11 +2,6 @@
 title: Casting an Incantation
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Casting an Incantation
-
-##  Casting an Incantation
-
 At its core, casting an incantation means having the required incantation
 components, then succeeding at a number of Knowledge (arcane lore) checks
 during the incantation’s casting time. Each incantation lists how many

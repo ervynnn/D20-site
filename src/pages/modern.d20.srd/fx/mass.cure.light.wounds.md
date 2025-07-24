@@ -2,11 +2,6 @@
 title: Mass Cure Light Wounds
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX ](/modern.d20.srd/fx) > Mass Cure Light Wounds
-
-##  Mass Cure Light Wounds
-
 Conjuration (Healing)
 
 [ Level ](/modern.d20.srd/fx/level) : [ Acolyte](/modern.d20.srd/classes/advanced/acolyte) 5; [ Components](/modern.d20.srd/fx/components) : V, S; [ Casting Time](/modern.d20.srd/fx/casting.time) ; [ Attack action](/modern.d20.srd/combat/attack.actions) [ Range ](/modern.d20.srd/fx/range) :

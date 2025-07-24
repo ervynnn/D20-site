@@ -2,11 +2,6 @@
 title: Swiss Juncture of Gnomes
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Organizations ](/arcana.d20.srd/organizations) > Swiss Juncture of Gnomes
-
-##  Swiss Juncture of Gnomes
-
 Some Shadowkind find it difficult to make the transition to our world, others
 are able just pick up doing exactly what they did before. Such is the case for
 a group of gnomes who happened to pass through the veil of Shadow and find

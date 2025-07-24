@@ -2,11 +2,6 @@
 title: The Black Feathers
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Organizations ](/arcana.d20.srd/organizations) > The Black Feathers
-
-##  The Black Feathers
-
 The Black Feathers is a loose affiliation of organizations dedicated to
 fighting the spread of urban sprawl. Some groups are against deforestation,
 others are for the protection of wildlife, and still others simply pine for a

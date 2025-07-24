@@ -2,11 +2,6 @@
 title: Trample
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Special Abilities](/modern.d20.srd/special.abilities) > Trample
-
-## Trample (Ex)
-
 As an [attack action](/modern.d20.srd/combat/attack.actions) during its turn
 each round, the creature can run over an opponent at least one size category
 smaller than itself, entering the opponent’s fighting space to do so. The

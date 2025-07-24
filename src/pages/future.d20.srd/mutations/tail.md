@@ -2,11 +2,6 @@
 title: Tail
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mutations](/future.d20.srd/mutations) > Tail
-
-## Tail [MINOR]
-
 You grow a thick tail. The tail may be fur-covered, slender and whiplike like
 a rat’s, or scaly like a lizard’s. Although the tail improves your balance and
 can serve as a weapon, it cannot be used for gripping objects.

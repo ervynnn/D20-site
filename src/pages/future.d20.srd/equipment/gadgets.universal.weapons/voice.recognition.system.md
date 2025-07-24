@@ -2,11 +2,6 @@
 title: Voice Recognition System
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Weapon Gadgets ](/future.d20.srd/equipment/gadgets.universal.weapons) > Voice Recognition System
-
-##  Voice Recognition System
-
 A countermeasure commonly built into weapons is the voice recognition system
 gadget. It requires any user to speak a command word to unlock the weapon
 before it can be used. Some weapons couple the voice recognition system with

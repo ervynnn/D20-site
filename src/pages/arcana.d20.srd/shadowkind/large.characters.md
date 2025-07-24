@@ -2,11 +2,6 @@
 title: Large Characters
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Shadowkind ](/arcana.d20.srd/shadowkind) > Large Characters
-
-##  Large Characters
-
 Large characters take a –1 size penalty to Defense, a –1 size penalty on
 attack rolls, and a –4 size penalty on Hide checks. Large characters gain a +4
 bonus on grapple checks.

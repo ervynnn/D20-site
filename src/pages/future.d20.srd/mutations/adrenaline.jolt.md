@@ -2,11 +2,6 @@
 title: Adrenaline Jolt
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Adrenaline Jolt
-
-##  Adrenaline Jolt [MINOR]
-
 You can flood your bloodstream with extreme amounts of adrenaline to
 temporarily boost your Strength or Dexterity.
 

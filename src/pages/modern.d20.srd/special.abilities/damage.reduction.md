@@ -2,11 +2,6 @@
 title: Damage Reduction
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Special Abilities](/modern.d20.srd/special.abilities) > Damage Reduction
-
-## Damage Reduction (Su)
-
 The creature ignores [damage](/modern.d20.srd/combat/damage) from most weapons
 and natural [attacks](/modern.d20.srd/combat/attack.actions). Wounds heal
 immediately, or the [weapon](/modern.d20.srd/equipment/equipment.weapons)

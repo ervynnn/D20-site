@@ -2,11 +2,6 @@
 title: Caduceus
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Caduceus
-
-##  Caduceus
-
 Conjuration (Healing)
 
 Skill Check: Knowledge (arcane lore) DC 31, 4 successes, and Treat Injury DC

@@ -2,11 +2,6 @@
 title: Degauss
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Degauss
-
-##  Degauss
-
 Transmutation
 
 Level: Arcane 1, Divine 1; Components: V, S; Casting Time: Attack action;

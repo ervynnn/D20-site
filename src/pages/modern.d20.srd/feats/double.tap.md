@@ -2,11 +2,6 @@
 title: Double Tap
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Double Tap
-
-## Double Tap
-
 Prerequisites: [Dexterity](/modern.d20.srd/basics/ability.scores) 13, [Point Blank Shot](/modern.d20.srd/feats/point.blank.shot).
 
 Benefit: When using a semiautomatic firearm with at least two bullets loaded,

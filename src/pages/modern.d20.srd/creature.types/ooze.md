@@ -2,11 +2,6 @@
 title: Ooze
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Creature Types ](/modern.d20.srd/creature.types) > Ooze
-
-##  Ooze
-
 An ooze is an amorphous or mutable creature. See Table: Oozes for physical
 ability scores, recommended minimum Hit Dice, and [ damage](/modern.d20.srd/combat/damage) based on size.
 

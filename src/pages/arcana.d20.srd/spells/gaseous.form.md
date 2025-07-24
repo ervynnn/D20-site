@@ -2,11 +2,6 @@
 title: Gaseous Form
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Gaseous Form
-
-## Gaseous Form
-
 Transmutation
 
 Level: Arcane 3; Components: S, M; Casting Time: Attack action; Range: Touch;

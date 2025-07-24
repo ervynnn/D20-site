@@ -2,11 +2,6 @@
 title: Internal Weapon Mount
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Cybernetics](/future.d20.srd/cybernetics) > Internal Weapon Mount
-
-## Internal Weapon Mount (PL 7)
-
 The recipient has a subcutaneous weapon embedded in her body, usually in a
 prosthetic forearm or hand. The weapon extends from the prosthesis and is
 visible when in use.

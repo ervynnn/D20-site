@@ -2,11 +2,6 @@
 title: Mediumweight Starship Subtypes
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > Mediumweight Starship Subtypes
-
-## Mediumweight Starship Subtypes
-
 Mediumweight starships encompass cruisers, clippers, and most transports. They
 balance firepower and defense with speed and maneuverability.
 

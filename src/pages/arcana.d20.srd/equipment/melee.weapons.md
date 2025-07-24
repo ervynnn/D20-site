@@ -2,11 +2,6 @@
 title: Melee Weapons
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Equipment ](/arcana.d20.srd/equipment) > Melee Weapons
-
-##  Melee Weapons
-
 Melee weapons are used in close combat and are generally among the simplest
 weapons to use. The feat that provides proficiency with these weapons varies
 from weapon to weapon; some are considered simple weapons (covered by the

@@ -2,11 +2,6 @@
 title: Information Age Weapons
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Equipment](/future.d20.srd/equipment) > Information Age Weapons
-
-## Information Age Weapons
-
 The following weapons are available at PL 5 and later.
 
 

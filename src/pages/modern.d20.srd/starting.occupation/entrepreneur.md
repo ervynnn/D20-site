@@ -2,11 +2,6 @@
 title: Entrepreneur
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Starting Occupation ](/modern.d20.srd/starting.occupation) > Entrepreneur
-
-##  Entrepreneur
-
 Entrepreneurs have an obsession about being their own boss. They believe in
 themselves, have an abundance of confidence, and the ability to acquire the
 funds necessary to bankroll their newest moneymaking venture. These small to

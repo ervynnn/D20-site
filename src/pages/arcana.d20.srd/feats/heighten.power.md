@@ -1,12 +1,7 @@
 ---
 title: Heighten Power
 layout: '~/layouts/MarkdownLayout.astro'
----
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Heighten Power
-[Metapsionic]
-
-##  Heighten Power [Metapsionic]
+---[Metapsionic]
 
 You can manifest a power as if it were a higher level than it actually is.
 

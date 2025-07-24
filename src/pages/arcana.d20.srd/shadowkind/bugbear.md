@@ -2,11 +2,6 @@
 title: Bugbear
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Shadowkind ](/arcana.d20.srd/shadowkind) > Bugbear
-
-##  Bugbear
-
 Size: Medium. Bugbears have no special bonuses or penalties due to their size.
 
 Ability Modifiers: +4 Strength, +2 Dexterity, +2 Constitution, –2 Charisma.

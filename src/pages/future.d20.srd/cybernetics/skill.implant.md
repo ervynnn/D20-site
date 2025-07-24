@@ -2,11 +2,6 @@
 title: Skill Implant
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Cybernetics](/future.d20.srd/cybernetics) > Skill Implant
-
-## Skill Implant (PL 6)
-
 This small brain implant enables its recipient to perform a specific skill
 more adroitly.
 

@@ -2,11 +2,6 @@
 title: Drifter
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starting Occupations ](/future.d20.srd/starting) > Drifter
-
-##  Drifter
-
 Drifters are aimless wanderers and worldwise jacks-of-all-trades who move
 between cities or star systems, working odd jobs until boredom or fate leads
 them elsewhere. Along the way, they learn strange customs and pick up

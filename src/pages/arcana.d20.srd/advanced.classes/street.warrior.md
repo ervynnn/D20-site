@@ -2,11 +2,6 @@
 title: Street Warrior
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Advanced Classes ](/arcana.d20.srd/advanced.classes) > Street Warrior
-
-##  Street Warrior
-
 The fastest path into this advanced class is from the Strong hero basic class,
 though other paths are possible.
 

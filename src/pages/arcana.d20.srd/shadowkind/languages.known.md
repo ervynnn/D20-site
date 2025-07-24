@@ -2,11 +2,6 @@
 title: Languages Known
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Shadowkind ](/arcana.d20.srd/shadowkind) > Languages Known
-
-##  Languages Known
-
 A character who begins play as a newly arrived Shadowkind knows one or more
 languages, most of which are not spoken on Earth. Such languages include
 Celestial, Draconic, Elven, and Goblin. However, they all share a common

@@ -2,11 +2,6 @@
 title: Injector Unit
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Cybernetics](/future.d20.srd/cybernetics) > Injector Unit
-
-## Injector Unit (PL 6)
-
 This unit, attached the recipient’s forearm or thigh, incorporates three
 medical hypo-syringes. Upon command, the unit can inject any or all of the
 medicinal substances into the recipient’s bloodstream.

@@ -2,11 +2,6 @@
 title: Remote Shutdown System
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Vehicles](/future.d20.srd/vehicles) > [Vehicle Gear](/future.d20.srd/vehicles/vehicle.gear) > Remote Shutdown System
-
-## Remote Shutdown System
-
 This public safety feature, introduced at Progress Level 6, is required by law
 on all civilian vehicles. The remote shutdown system consists of a
 microcomputer attached to the vehicle’s electrical system plus a microantenna.

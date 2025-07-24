@@ -2,11 +2,6 @@
 title: Acidic Saliva
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Acidic Saliva
-
-##  Acidic Saliva [MINOR]
-
 Your saliva can burn other creatures like acid.
 
 MP Cost: 1.

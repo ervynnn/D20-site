@@ -2,11 +2,6 @@
 title: Orc
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Shadowkind ](/arcana.d20.srd/shadowkind) > Orc
-
-##  Orc
-
 Size: Medium. Orcs have no special bonuses or penalties due to their size.
 
 Ability Modifiers: +4 Strength, –2 Intelligence, –2 Wisdom, –2 Charisma.

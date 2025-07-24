@@ -2,11 +2,6 @@
 title: Claws
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Claws
-
-##  Claws [MINOR]
-
 Your hands mutate into sharp claws.
 
 MP Cost: 1.

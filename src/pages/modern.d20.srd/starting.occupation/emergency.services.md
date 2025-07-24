@@ -2,11 +2,6 @@
 title: Emergency Services
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Starting Occupation ](/modern.d20.srd/starting.occupation) > Emergency Services
-
-##  Emergency Services
-
 Rescue workers, firefighters, paramedics, hazardous material handlers, and
 emergency medical technicians fall under this category.
 

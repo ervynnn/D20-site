@@ -2,11 +2,6 @@
 title: Luminous Skin
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Cybernetics](/future.d20.srd/cybernetics) > Luminous Skin
-
-## Luminous Skin (PL 7)
-
 Special skin grafts create luminous displays on the recipient’s flesh. Most
 recipients use it purely for decoration, but the same technology can provide a
 built-in chronometer.

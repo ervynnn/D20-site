@@ -2,11 +2,6 @@
 title: School
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX ](/modern.d20.srd/fx) > School
-
-##  School
-
 The first line beneath the spell’s name provides the school (and perhaps also
 a subschool) that the spell belongs to. Schools provide a way of grouping
 together spells that have certain characteristics in common.

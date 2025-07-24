@@ -2,11 +2,6 @@
 title: Autopilot System
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Defense Systems ](/future.d20.srd/starships/starship.defense) > Autopilot System
-
-##  Autopilot System (PL 5)
-
 An autopilot system “kicks in” whenever the pilot is unable to fly the
 starship. An autopilot system isn’t as good at avoiding attacks as a living
 pilot, but it’s better than nothing. Larger vessels have more adaptive

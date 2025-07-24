@@ -2,11 +2,6 @@
 title: Haywire
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Haywire
-
-## Haywire
-
 Transmutation
 
 Level: Arcane 0, Divine 0; Components: V, S, M; Casting Time: Attack action;

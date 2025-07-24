@@ -2,11 +2,6 @@
 title: Pheromone Repulsion
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mutations](/future.d20.srd/mutations) > Pheromone Repulsion
-
-## Pheromone Repulsion [DRAWBACK]
-
 You release pheromones that other creatures find repulsive.
 
 MP Value: 1.

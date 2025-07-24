@@ -2,11 +2,6 @@
 title: Repair
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Expanded Skills ](/future.d20.srd/expanded.skills) > Repair
-
-##  Repair (Int)
-
 You can use this skill to repair vehicles, starships, mecha, cybernetic
 attachments, and constructs (including robots). You can also use the Repair
 skill to safely remove the “brain” of a destroyed robot.

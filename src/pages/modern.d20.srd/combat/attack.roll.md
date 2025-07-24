@@ -2,11 +2,6 @@
 title: Attack Roll
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Attack Roll
-
-## Attack Roll
-
 An attack roll represents a character’s attempts to strike an opponent on the
 character’s turn in a round. When a character makes an attack roll, he or she
 rolls 1d20 and adds his or her [attack bonus](/modern.d20.srd/combat/attack.bonus). If the result equals or beats the

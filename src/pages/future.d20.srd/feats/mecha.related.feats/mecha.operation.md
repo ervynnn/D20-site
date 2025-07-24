@@ -2,11 +2,6 @@
 title: Feats
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Feats
-
-## Mecha Operation
-
 You know how to operate a mecha.
 
 Benefit: You do not suffer the restrictions on movement and penalties on skill

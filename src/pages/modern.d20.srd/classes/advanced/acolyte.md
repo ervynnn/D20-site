@@ -2,11 +2,6 @@
 title: Acolyte
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Classes ](/modern.d20.srd/classes) > [ Advanced Classes](/modern.d20.srd/classes/advanced) > Acolyte
-
-##  Acolyte
-
 ###  Requirements
 
 To qualify to become an Acolyte, a character must fulfill the following

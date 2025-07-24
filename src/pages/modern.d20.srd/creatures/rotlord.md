@@ -2,11 +2,6 @@
 title: Rotlord
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Rotlord
-
-## Rotlord (Carrion Fiend)
-
 Rotlord (carrion fiend): CR 4; Large
 [outsider](/modern.d20.srd/creature.types/outsider); HD 5d8+15;
 [hp](/modern.d20.srd/combat/hit.points) 37;

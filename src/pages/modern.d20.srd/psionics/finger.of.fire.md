@@ -2,11 +2,6 @@
 title: Finger of Fire
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Psionics ](/modern.d20.srd/psionics) > Finger of Fire
-
-##  Finger of Fire
-
 [ Intelligence ](/modern.d20.srd/basics/ability.scores) [Fire]
 
 Level: [ Telepath ](/modern.d20.srd/classes/advanced/telepath) 0/ [ Battle Mind ](/modern.d20.srd/classes/advanced/battle.mind) 0; Display: Visual;

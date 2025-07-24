@@ -2,11 +2,6 @@
 title: Feats
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Feats
-
-## Thruster Blast
-
 By directing your vectored thrusters all around your mecha, you can kick up a
 cloud of dust and debris that obscures the battlefield.
 

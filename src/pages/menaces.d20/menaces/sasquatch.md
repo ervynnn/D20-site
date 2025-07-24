@@ -2,11 +2,6 @@
 title: Sasquatch
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Sasquatch
-
-##  Sasquatch
-
 A sasquatch stands 8 to 10 feet tall and weighs about 300 pounds. It has long,
 tawny fur and beady black eyes. A sasquatch has an oppressive, bestial stink
 that frightens domestic animals.

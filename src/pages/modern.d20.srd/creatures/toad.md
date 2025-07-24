@@ -2,11 +2,6 @@
 title: Toad
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Toad
-
-## Toad
-
 ### Species Traits
 
 Skill Bonuses: A toad’s coloration gives it a +4 species bonus on

@@ -2,11 +2,6 @@
 title: Mechanical
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > [Craft](/modern.d20.srd/skills/craft) > Mechanical
-
-## Craft (Mechanical) ([Int](/modern.d20.srd/basics/ability.scores)) [Trained Only](/modern.d20.srd/skills/skill.basics)
-
 This skill allows a character to build mechanical devices from scratch,
 including engines and engine parts,
 [weapons](/modern.d20.srd/equipment/equipment.weapons),

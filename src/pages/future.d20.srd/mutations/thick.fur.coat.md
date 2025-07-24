@@ -2,11 +2,6 @@
 title: Thick Fur Coat
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Thick Fur Coat
-
-##  Thick Fur Coat [MINOR]
-
 You grow a thick, protective layer of fur over your body.
 
 MP Cost: 1.

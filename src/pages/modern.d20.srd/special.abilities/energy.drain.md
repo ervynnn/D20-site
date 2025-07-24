@@ -2,11 +2,6 @@
 title: Energy Drain
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Special Abilities](/modern.d20.srd/special.abilities) > Energy Drain
-
-## Energy Drain (Su)
-
 This attack saps a living opponent’s vital energy. With each successful [melee attack](/modern.d20.srd/combat/attack.actions), the creature bestows one or
 more negative levels. If an attack that includes an energy drain scores a
 [critical hit](/modern.d20.srd/combat/critical.hits), it drains double the

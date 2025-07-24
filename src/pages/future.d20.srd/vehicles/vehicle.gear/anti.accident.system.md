@@ -2,11 +2,6 @@
 title: Anti-Accident System
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Vehicles](/future.d20.srd/vehicles) > [Vehicle Gear](/future.d20.srd/vehicles/vehicle.gear) > Anti-Accident System
-
-## Anti-Accident System
-
 Anti-accident systems use airbags, fire-retardant foam, no-skid brakes,
 gyroscopic stabilizers, and other safety features to improve a driver’s
 chances of surviving or averting accidents.

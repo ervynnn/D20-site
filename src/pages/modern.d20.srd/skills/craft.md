@@ -2,11 +2,6 @@
 title: Craft
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Craft
-
-## Craft ([Int](/modern.d20.srd/basics/ability.scores))
-
 This skill encompasses several categories, each of them treated as a separate
 skill: [Craft (chemical)](/modern.d20.srd/skills/craft.chemical), [Craft (electronic)](/modern.d20.srd/skills/craft.electronic), [Craft (mechanical)](/modern.d20.srd/skills/craft.mechanical), [Craft (pharmaceutical)](/modern.d20.srd/skills/craft.pharmaceutical), [Craft (structural)](/modern.d20.srd/skills/craft.structural), [Craft (visual arts)](/modern.d20.srd/skills/craft.visual.art), and [Craft (writing)](/modern.d20.srd/skills/craft.writing).
 

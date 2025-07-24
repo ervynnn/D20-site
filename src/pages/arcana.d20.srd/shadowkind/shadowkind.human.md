@@ -2,11 +2,6 @@
 title: Shadowkind Human
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Shadowkind ](/arcana.d20.srd/shadowkind) > Shadowkind Human
-
-##  Shadowkind Human
-
 Size: Medium. Shadowkind humans have no special bonuses or penalties due to
 their size.
 

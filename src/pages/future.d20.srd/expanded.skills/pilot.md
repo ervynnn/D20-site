@@ -2,11 +2,6 @@
 title: Pilot
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Expanded Skills ](/future.d20.srd/expanded.skills) > Pilot
-
-##  Pilot (Dex)
-
 You can use the Pilot skill to fly any kind of spacecraft.
 
 Check: Unless you have the Starship Operation feat (page 14), you take a –4

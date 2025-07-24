@@ -2,11 +2,6 @@
 title: Starship Actions
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > Starship Actions
-
-## Starship Actions
-
 The fundamental actions of moving and attacking cover most of what a starship
 wants to do in a battle. They’re described here. Other, more specialized
 options are touched on in Table: Starship Actions, and covered later in

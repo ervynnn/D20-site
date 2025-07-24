@@ -2,11 +2,6 @@
 title: Losing Control
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Vehicle Movement and Combat](/modern.d20.srd/vehicle.movement.and.combat) > Losing Control
-
-## Losing Control
-
 A [collision](/modern.d20.srd/vehicle.movement.and.combat/collisions.ramming)
 or a failed [stunt](/modern.d20.srd/vehicle.movement.and.combat/stunts) can
 cause a driver to lose control of his

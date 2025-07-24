@@ -2,11 +2,6 @@
 title: Zap
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Zap
-
-##  Zap
-
 ###  Species Traits
 
 Elemental: Zaps have the traits and immunities common to elementals.

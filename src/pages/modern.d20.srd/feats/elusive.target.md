@@ -2,11 +2,6 @@
 title: Elusive Target
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Elusive Target
-
-## Elusive Target
-
 Prerequisites: [Dexterity](/modern.d20.srd/basics/ability.scores) 13,
 [Defensive Martial Arts](/modern.d20.srd/feats/defensive.martial.arts).
 

@@ -2,11 +2,6 @@
 title: Mini-Me
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > Mini-Me
-
-## Mini-Me
-
 Some time toward the end of PL 5 or the beginning of PL 6, researchers find
 the solution for the developmental problems to which clones are prone. At this
 point, it is possible for scientists to successfully clone any living organism

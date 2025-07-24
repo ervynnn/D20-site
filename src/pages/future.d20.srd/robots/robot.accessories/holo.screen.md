@@ -2,11 +2,6 @@
 title: Holo Screen
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Robots ](/future.d20.srd/robots) > [ Robot Accessories](/future.d20.srd/robots/robot.accessories) > Holo Screen
-
-##  Holo Screen (PL 7)
-
 A holo screen unit projects a holographic image around the robot, making it
 appear as something else of roughly similar proportions occupying the same
 amount of space. For instance, it could make a Gargantuan robot look like a

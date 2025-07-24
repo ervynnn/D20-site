@@ -2,11 +2,6 @@
 title: Force Stop
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Force Stop
-
-## Force Stop
-
 Prerequisites: [Drive](/modern.d20.srd/skills/drive) 4 ranks, [Vehicle Expert](/modern.d20.srd/feats/vehicle.expert).
 
 Benefit: When the character attempts a sideswipe

@@ -2,11 +2,6 @@
 title: Damage
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > [Combat Statistics](/future.d20.srd/starships/combat/combat) > Damage
-
-## Damage
-
 When a starship hits with a weapon, it deals damage according to the type of
 weapon (see Table: Starship Weapons). Damage is deducted from the target’s
 current hit points. If a starship’s hit points are reduced to 0 or fewer, the

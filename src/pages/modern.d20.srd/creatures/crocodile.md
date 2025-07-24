@@ -2,11 +2,6 @@
 title: Crocodile
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Crocodile
-
-## Crocodile
-
 ### Species Traits
 
 Aquatic: Crocodiles can move in water without making

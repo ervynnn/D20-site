@@ -2,11 +2,6 @@
 title: Identity Chip
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Cybernetics](/future.d20.srd/cybernetics) > Identity Chip
-
-## Identity Chip (PL 6)
-
 Identity chips provide identification without requiring visual recognition—
 high-tech ID cards that function even when the wearer is unrecognizable.
 

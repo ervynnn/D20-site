@@ -2,11 +2,6 @@
 title: Missive
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Psionics ](/modern.d20.srd/psionics) > Missive
-
-##  Missive
-
 [ Charisma ](/modern.d20.srd/basics/ability.scores) [Language-Dependent]
 
 Level: [ Telepath ](/modern.d20.srd/classes/advanced/telepath) 0; Display:

@@ -2,11 +2,6 @@
 title: Class II Sensor Array
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Sensors](/future.d20.srd/starships/starship) > Class II Sensor Array
-
-## Class II Sensor Array (PL 6)
-
 This array incorporates hi-res video, infrared and electromagnetic sensors,
 and ladar detection units. (The ladar uses low-powered laser beams to locate
 targets.) As a move action, a Class II sensor array can perform any one of the

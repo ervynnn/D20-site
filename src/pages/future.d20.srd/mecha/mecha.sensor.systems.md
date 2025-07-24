@@ -2,11 +2,6 @@
 title: Mecha Sensor Systems
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > Mecha Sensor Systems
-
-## Mecha Sensor Systems
-
 Sensor systems make it easier for mecha operators to perceive their
 surroundings; however, not all mecha are equipped with sensors (or even
 require them). In such cases, mecha operators must rely on their own acute

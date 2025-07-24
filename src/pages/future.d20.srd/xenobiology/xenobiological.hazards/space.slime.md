@@ -2,11 +2,6 @@
 title: Space Slime
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Xenobiology](/future.d20.srd/xenobiology) > [Xenobiological Hazards](/future.d20.srd/xenobiology/xenobiological.hazards) > Space Slime
-
-## Space Slime (CR 4)
-
 This sticky, translucent green slime devours flesh and organic materials on
 contact. Wet and sticky, it clings to walls, ceilings, and floors in patches,
 growing and spreading as it consumes organic matter. It drops from walls and

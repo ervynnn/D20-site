@@ -2,11 +2,6 @@
 title: Star Carrier
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Types](/future.d20.srd/starships/starship) > [ Superheavy Starship Subtypes](/future.d20.srd/starships/starship.types/superheavy.starship) > Star Carrier
-
-##  Star Carrier (PL 7)
-
 A larger version of the fleet carrier, the star carrier serves as a mobile
 base for smaller craft. A star carrier’s fighting space takes up 36 500- foot
 squares (a 6-square-by-6-square area).

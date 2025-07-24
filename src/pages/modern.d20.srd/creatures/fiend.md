@@ -2,11 +2,6 @@
 title: Fiend
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Fiend
-
-## Fiend
-
 Fiends vary wildly. GMs are encouraged to design their own fiends using the
 information provided in the Table: Outsiders and below. Several sample fiends
 are given below.

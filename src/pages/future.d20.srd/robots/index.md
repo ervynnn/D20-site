@@ -2,11 +2,6 @@
 title: Robots
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Robots
-
-## Robots
-
 ### Evolution Of Robotics
 
 Progress Level 5: Though crude automata have existed before this era, PL 5 is
@@ -89,8 +84,6 @@ biodroid or bioreplica hero; these are discussed in-depth below.
   </div>
 </div>
 
-## [Locomotion](/future.d20.srd/robots/locomotion)
-
 #### PL 5
 <div class="border-t border-slate-200 dark:border-slate-700">
   <!-- Row 1 -->
@@ -135,10 +128,6 @@ biodroid or bioreplica hero; these are discussed in-depth below.
   </div>
 </div>
 
-## [Manipulators](/future.d20.srd/robots/manipulators)
-
-## [Armor](/future.d20.srd/robots/armor)
-
 #### PL 5
 <div class="border-t border-slate-200 dark:border-slate-700">
   <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
@@ -170,8 +159,6 @@ biodroid or bioreplica hero; these are discussed in-depth below.
     <a href="/future.d20.srd/robots/armor/reactive" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Reactive</a>
   </div>
 </div>
-
-## [Sensors](/future.d20.srd/robots/sensors)
 
 #### PL 5
 <div class="border-t border-slate-200 dark:border-slate-700">
@@ -207,8 +194,6 @@ biodroid or bioreplica hero; these are discussed in-depth below.
   </div>
 </div>
 
-## [Skills](/future.d20.srd/robots/skills)
-
 #### PL 5
 <div class="border-t border-slate-200 dark:border-slate-700">
   <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
@@ -238,9 +223,6 @@ biodroid or bioreplica hero; these are discussed in-depth below.
   </div>
 </div>
 
-
-## [Feat Software](/future.d20.srd/robots/feat.software)
-
 #### PL 6
 <div class="border-t border-slate-200 dark:border-slate-700">
   <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
@@ -261,9 +243,6 @@ biodroid or bioreplica hero; these are discussed in-depth below.
     <a href="/future.d20.srd/robots/feat.software/feat.web" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Feat Web</a>
   </div>
 </div>
-
-
-## [Ability Upgrades](/future.d20.srd/robots/ability.upgrades)
 
 #### PL 5
 <div class="border-t border-slate-200 dark:border-slate-700">
@@ -287,9 +266,6 @@ biodroid or bioreplica hero; these are discussed in-depth below.
     <a href="/future.d20.srd/robots/ability.upgrades/wisdom.upgrade" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Wisdom Upgrade</a>
   </div>
 </div>
-
-
-## [Robot Accessories](/future.d20.srd/robots/robot.accessories)
 
 #### PL 5
 <div class="border-t border-slate-200 dark:border-slate-700">
@@ -353,10 +329,6 @@ biodroid or bioreplica hero; these are discussed in-depth below.
     <a href="/future.d20.srd/robots/robot.accessories/robot.repair.unit" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Robot Repair Unit</a>
   </div>
 </div>
-
-## [Robot Weapon Rules](/future.d20.srd/robots/robot.weapon.rules)
-
-## [Sample Robots](/future.d20.srd/robots/sample.robots)
 
 #### PL 6
 <div class="border-t border-slate-200 dark:border-slate-700">

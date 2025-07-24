@@ -2,11 +2,6 @@
 title: Battle Cruiser
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Types](/future.d20.srd/starships/starship) > [ Heavy Starship Subtypes](/future.d20.srd/starships/starship.types/heavy.starship) > Battle Cruiser
-
-##  Battle Cruiser (PL 7)
-
 The battle cruiser is a formidable warship that sacrifices weight of armor in
 exchange for speed. Its heavy weapons can make short work of any smaller
 vessel, and it can usually outrun anything big enough to stand up to it in a

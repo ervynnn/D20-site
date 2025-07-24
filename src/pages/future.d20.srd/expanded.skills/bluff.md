@@ -2,11 +2,6 @@
 title: Bluff
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Expanded Skills ](/future.d20.srd/expanded.skills) > Bluff
-
-##  Bluff (Cha)
-
 You can use the Bluff skill to feint in starship combat.
 
 Check: With a successful Bluff check, you mislead another starship so that it

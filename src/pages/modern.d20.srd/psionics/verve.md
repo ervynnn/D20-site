@@ -2,11 +2,6 @@
 title: Verve
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Psionics ](/modern.d20.srd/psionics) > Verve
-
-##  Verve
-
 [ Strength ](/modern.d20.srd/basics/ability.scores)
 
 Level: [ Telepath ](/modern.d20.srd/classes/advanced/telepath) 0/ [ Battle Mind ](/modern.d20.srd/classes/advanced/battle.mind) 0; Display: Material,

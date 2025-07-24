@@ -3,11 +3,6 @@ title: Other Civilian Vehicles
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > [Vehicles](/modern.d20.srd/equipment/equipment.vehicles) > Other Civilian Vehicles
-
-## Other Civilian Vehicles
-
-
 <table> <tr> <th>Name</th> <th>Crew</th> <th>Pass</th> <th>Cargo</th> <th>Init</th> <th>Maneuver</th> <th>Top Speed</th> <th>Defense</th> <th>Hardness</th> <th>Hit Points</th> <th>Size</th> <th>Purchase DC</th> <th>Restriction</th> </tr> <tr><td> Armored truck</td><td> 2</td><td> 0</td><td> 3,600 lb.</td><td> –2</td><td> –2</td><td> 175 (17)</td><td> 8</td><td> 10</td><td> 36</td><td> H</td><td> 34</td><td> Res (+2) </td></tr> <tr><td> Honda TRX400FW (4-wheel ATV)</td><td> 1</td><td> 0</td><td> 675 lb.</td><td> –1</td><td> +1</td><td> 95 (9)</td><td> 9</td><td> 5</td><td> 22</td><td> L</td><td> 23</td><td> Lic (+1) </td></tr> <tr><td> Limousine</td><td> 1</td><td> 7</td><td> 425 lb.</td><td> –4</td><td> –4</td><td> 195 (19)</td><td> 6</td><td> 5</td><td> 38</td><td> G</td><td> 36</td><td> Lic (+1) </td></tr> <tr><td> Moving truck</td><td> 1</td><td> 2</td><td> 33,000 lb.</td><td> –4</td><td> –4</td><td> 165 (16)</td><td> 6</td><td> 5</td><td> 44</td><td> G</td><td> 34</td><td> Lic (+1) </td></tr> <tr><td> NABI Model 40LFW (city bus)</td><td> 1</td><td> 39</td><td> 0 lb.</td><td> –4</td><td> –4</td><td> 120 (12)</td><td> 6</td><td> 5</td><td> 48</td><td> G</td><td> 38</td><td> Lic (+1) </td></tr></table>
 
 

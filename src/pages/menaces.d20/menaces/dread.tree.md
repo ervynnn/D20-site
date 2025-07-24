@@ -2,11 +2,6 @@
 title: Dread Tree
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Dread Tree
-
-##  Dread Tree
-
 ###  Species Traits
 
 Blindsight (Ex): A dread tree is blind but can ascertain all creatures and

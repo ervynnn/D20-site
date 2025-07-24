@@ -2,11 +2,6 @@
 title: Ecclesiarch
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Prestige Classes ](/arcana.d20.srd/prestige.classes) > Ecclesiarch
-
-##  Ecclesiarch
-
 The fastest path into this prestige class is from the Acolyte and Mystic
 advanced classes, though other paths are possible.
 

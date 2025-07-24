@@ -2,11 +2,6 @@
 title: Clown Car
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Clown Car
-
-## Clown Car
-
 Conjuration (Summoning)
 
 Level: Arcane 4; Components: V, S, F; Casting Time: 1 minute; Range: 0 ft.;

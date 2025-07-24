@@ -2,11 +2,6 @@
 title: Multiclass Characters
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Classes ](/modern.d20.srd/classes) > Multiclass Characters
-
-##  Multiclass Characters
-
 A character may add new classes as he or she progresses in levels, thereby
 becoming a multiclass character. The class abilities from all of a character’s
 classes combine to determine a multiclass character’s overall abilities.

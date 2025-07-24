@@ -2,11 +2,6 @@
 title: Armor Proficiency (Powered)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Feats](/future.d20.srd/feats) > Armor Proficiency (Powered)
-
-## Armor Proficiency (Powered)
-
 You are proficient with powered armor.
 
 Prerequisites: Armor Proficiency (light) , Armor Proficiency (medium).

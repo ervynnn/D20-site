@@ -2,11 +2,6 @@
 title: Enchantment (Compulsion)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Enchantment (Compulsion) [Mind-Affecting]
-
-##  Sigil of Algos
-
 Enchantment (Compulsion) [Mind-Affecting]
 
 Skill Check: Knowledge (arcane lore) DC 32, 6 successes; Failure: Two

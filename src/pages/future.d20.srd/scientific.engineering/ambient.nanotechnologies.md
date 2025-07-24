@@ -2,11 +2,6 @@
 title: Ambient Nanocolonies
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > Ambient Nanocolonies
-
-## Ambient Nanocolonies
-
 In addition to the independent and internal nanocolonies, a third type of
 nanocolony exists. The ambient nanocolony floats in the air with no fixed
 location or purpose. Most ambient nanocolonies exist in areas where nanotech

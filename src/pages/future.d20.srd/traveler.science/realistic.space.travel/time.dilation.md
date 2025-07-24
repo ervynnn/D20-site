@@ -2,11 +2,6 @@
 title: Time Dilation
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Traveler Science](/future.d20.srd/traveler.science) > [Realistic Space Travel](/future.d20.srd/traveler.science/realistic.space.travel) > Time Dilation
-
-## Time Dilation
-
 When a ship approaches to within 90% of the speed of light, time slows down.
 Characters on board the ship would not notice, but if they were to make hourly
 reports back to their point of origin, those reports might arrive only once

@@ -2,11 +2,6 @@
 title: Satellite Datalink
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Equipment Gadgets ](/future.d20.srd/equipment/gadgets.universal) > Satellite Datalink
-
-##  Satellite Datalink
-
 At the dawn of the Information Age, the value of knowledge and accurate
 intelligence became a crucial aspect of warfare. The ability to connect to a
 global communications network was critical to the success of any army, as

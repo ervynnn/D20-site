@@ -2,11 +2,6 @@
 title: Lightning-Class Template
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > [Starship Class Templates](/future.d20.srd/starships/starship.types/starship.class) > Lightning-Class Template
-
-## Lightning-Class Template (PL 7)
-
 The Lightning-class template can be applied to any PL 6 light starship. The
 starship’s design specs should be adjusted as follows.
 

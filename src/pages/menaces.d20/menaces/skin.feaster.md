@@ -2,11 +2,6 @@
 title: Skin Feaster
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Skin Feaster
-
-##  Skin Feaster
-
 ###  Species Traits
 
 Automatic Languages: A skin feaster can read, write, and speak any one

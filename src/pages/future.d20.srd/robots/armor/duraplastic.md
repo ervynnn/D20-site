@@ -2,11 +2,6 @@
 title: Duraplastic Armor
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > [Armor](/future.d20.srd/robots/armor) > Duraplastic Armor
-
-## Duraplastic Armor (PL 5)
-
 Duraplastic armor is made of advanced plastic polymers, like carbon fiber and
 high-grade fiberglass. Although relatively cheap and light, it doesn’t offer
 tremendous protection. Bioreplica robots of Medium-size or smaller and liquid-

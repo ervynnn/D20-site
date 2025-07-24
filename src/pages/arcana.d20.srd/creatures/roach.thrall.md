@@ -2,11 +2,6 @@
 title: Roach Thrall
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Roach Thrall
-
-##  Roach Thrall
-
 Roach thralls learn the dominant human language in their area
 quickly—generally within a few weeks of emerging from their eggs. They lose
 the ability to speak if they emerge from their human host, but they still

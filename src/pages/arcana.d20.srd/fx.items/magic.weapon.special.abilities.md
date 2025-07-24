@@ -2,11 +2,6 @@
 title: Magic Weapon Special Abilities
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [FX Items](/arcana.d20.srd/fx.items) > Magic Weapon Special Abilities
-
-## Magic Weapon Special Abilities
-
 Most magic weapons have a +1 or better enhancement bonus. They can also have
 special abilities detailed here. A weapon with a special ability must have at
 least a +1 enchantment bonus.

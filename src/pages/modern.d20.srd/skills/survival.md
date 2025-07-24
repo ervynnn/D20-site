@@ -2,11 +2,6 @@
 title: Survival
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Survival
-
-## Survival ([Wis](/modern.d20.srd/basics/ability.scores))
-
 [Check](/modern.d20.srd/skills/skill.basics): A character can keep
 his or herself and others safe and fed in the wild.
 

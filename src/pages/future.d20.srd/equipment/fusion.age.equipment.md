@@ -2,11 +2,6 @@
 title: Fusion Age Equipment
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Equipment](/future.d20.srd/equipment) > Fusion Age Equipment
-
-## Fusion Age Equipment
-
 The following equipment is available at PL 6 and later.
 
 

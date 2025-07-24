@@ -2,11 +2,6 @@
 title: Vampire (Template)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Vampire (Template)
-
-## Vampire (Template)
-
 Vampires speak, read, and write the languages they knew in life.
 
 ### Template Traits

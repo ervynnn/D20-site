@@ -2,11 +2,6 @@
 title: Aasimar
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Shadowkind ](/arcana.d20.srd/shadowkind) > Aasimar
-
-##  Aasimar
-
 Size: Medium. Aasimars have no special bonuses or penalties due to their size.
 
 Ability Modifiers: +2 Wisdom, +2 Charisma.

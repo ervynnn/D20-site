@@ -2,11 +2,6 @@
 title: Burst Fire
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Burst Fire
-
-## Burst Fire
-
 Prerequisites: [Wisdom](/modern.d20.srd/basics/ability.scores) 13, [Personal Firearms Proficiency](/modern.d20.srd/feats/personal.firearms.proficiency),
 [Advanced Firearms Proficiency](/modern.d20.srd/feats/advanced.firearms.proficiency).
 

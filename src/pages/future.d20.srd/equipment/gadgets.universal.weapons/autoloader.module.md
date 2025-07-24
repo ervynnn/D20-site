@@ -2,11 +2,6 @@
 title: Autoloader Module
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Weapon Gadgets ](/future.d20.srd/equipment/gadgets.universal.weapons) > Autoloader Module
-
-##  Autoloader Module
-
 Many weapons rely on box magazines or power packs to function. The autoloader
 gadget facilitates quick reloading. This may come in the form of an integrated
 power pack alternator, or in spring-mounted magazine loaders worn on the wrist

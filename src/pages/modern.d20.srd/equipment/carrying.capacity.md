@@ -2,11 +2,6 @@
 title: Carrying Capacity
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > Carrying Capacity
-
-## Carrying Capacity
-
 A character’s carrying capacity depends directly on the character’s
 [Strength](/modern.d20.srd/basics/ability.scores) score, as shown on Table:
 Carrying Capacity.

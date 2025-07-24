@@ -2,11 +2,6 @@
 title: Starship Types
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > Starship Types
-
-## Starship Types
-
 A starship can be one of the following five types: ultralight, light,
 mediumweight, heavy, or superheavy. A starship’s type determines how much
 space it occupies on the battle grid, as well as its game statistics.

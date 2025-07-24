@@ -2,11 +2,6 @@
 title: Secret Vault
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Secret Vault
-
-## Secret Vault
-
 Conjuration (Summoning)
 
 Level: Arcane 5; Components: V, S, F; Casting Time: 10 minutes; Range: See

@@ -2,11 +2,6 @@
 title: Arcane Magical Writings
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX](/modern.d20.srd/fx) > Arcane Magical Writings
-
-## Arcane Magical Writings
-
 To decipher an arcane magical writing, a character must make a successful
 [Spellcraft](/modern.d20.srd/classes/advanced/mage) check (DC 20 + the spell’s
 level). If the check fails, the character cannot attempt to read that

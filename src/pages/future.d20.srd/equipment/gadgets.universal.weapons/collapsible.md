@@ -2,11 +2,6 @@
 title: Collapsible
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Weapon Gadgets ](/future.d20.srd/equipment/gadgets.universal.weapons) > Collapsible
-
-##  Collapsible
-
 In situations that call for stealth and deception, it is of great value to be
 able to separate an item into its parts and transport them in their broken
 down state. A weapon that makes use of the collapsible gadget is easily

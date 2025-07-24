@@ -2,11 +2,6 @@
 title: Swim
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Swim
-
-## Swim ([Str](/modern.d20.srd/basics/ability.scores)) [Armor Penalty](/modern.d20.srd/equipment/armor.general)
-
 [Check](/modern.d20.srd/skills/skill.basics): A successful Swim
 [check](/modern.d20.srd/skills/skill.basics) allows a character to
 swim one-quarter his or her speed as a [move action](/modern.d20.srd/combat/move.actions) or half the character’s speed as

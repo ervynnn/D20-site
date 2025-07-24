@@ -1,12 +1,7 @@
 ---
-title: Seed: Contact
+title: Seed Contact
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Seed: Contact
-
-##  Seed: Contact
-
 Divination
 
 Knowledge (arcane lore) DC: 30; Range: See text; Targets: One other creature;

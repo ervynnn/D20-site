@@ -2,11 +2,6 @@
 title: Whirlwind Attack
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Whirlwind Attack
-
-## Whirlwind Attack
-
 Prerequisites: [Dexterity](/modern.d20.srd/basics/ability.scores) 13,
 [Intelligence](/modern.d20.srd/basics/ability.scores) 13,
 [Dodge](/modern.d20.srd/feats/dodge),

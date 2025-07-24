@@ -2,11 +2,6 @@
 title: Cloaking Screen
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Defense Systems](/future.d20.srd/starships/starship.defense) > Cloaking Screen
-
-## Cloaking Screen (PL 8)
-
 An improvement of the PL 7 stealth screen, the cloaking screen warps light and
 energy around the ship’s hull, rendering the ship invisible to visual and
 electronic sensors.

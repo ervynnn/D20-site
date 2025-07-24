@@ -2,11 +2,6 @@
 title: Feats
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > Feats
-
-## FEATS
-
 Feat Descriptions
 
 Here is the format for feat descriptions.

@@ -2,11 +2,6 @@
 title: Traveler Science
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Traveler Science
-
-##  Traveler Science
-
 [ Realistic Space Travel](/future.d20.srd/traveler.science/realistic.space.travel)
 
   * [ Hazards of Space Travel ](/future.d20.srd/traveler.science/realistic.space.travel/hazards.of.space.travel)

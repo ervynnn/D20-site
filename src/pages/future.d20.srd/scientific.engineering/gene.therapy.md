@@ -2,11 +2,6 @@
 title: Gene Therapy
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > Gene Therapy
-
-## Gene Therapy
-
 It is possible in the closing stages of PL 5 for scientists to develop
 effective forms of gene therapy. These treatments can be used on mature
 creatures to replace defective genes, or genes that are linked to particular

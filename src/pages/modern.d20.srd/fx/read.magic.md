@@ -2,11 +2,6 @@
 title: Read Magic
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX ](/modern.d20.srd/fx) > Read Magic
-
-##  Read Magic
-
 Universal
 
 [ Level ](/modern.d20.srd/fx/level) : [ Acolyte](/modern.d20.srd/classes/advanced/acolyte) 0, [ Mage](/modern.d20.srd/classes/advanced/mage) 0; [ Components](/modern.d20.srd/fx/components) : V, S, F; [ Casting Time](/modern.d20.srd/fx/casting.time) ; [ Attack action](/modern.d20.srd/combat/attack.actions) [ Range ](/modern.d20.srd/fx/range) :

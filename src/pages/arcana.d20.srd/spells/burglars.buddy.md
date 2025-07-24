@@ -2,11 +2,6 @@
 title: Burglar’s Buddy
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Burglar’s Buddy
-
-## Burglar’s Buddy
-
 Illusion
 
 Level: Arcane 2; Components: V, S, M; Casting Time: Attack action; Range: Long

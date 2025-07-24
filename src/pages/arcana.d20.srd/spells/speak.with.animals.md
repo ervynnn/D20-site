@@ -2,11 +2,6 @@
 title: Speak with Animals
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Speak with Animals
-
-##  Speak with Animals
-
 Divination
 
 Level: Divine 2; Components: V, S; Casting Time: Attack action; Range:

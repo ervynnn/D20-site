@@ -2,11 +2,6 @@
 title: Potion of Invisibility
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX Items ](/modern.d20.srd/fx.items) > [ Potions](/modern.d20.srd/fx.items/potions) > Potion of Invisibility
-
-##  Potion of Invisibility
-
 The drinker and any gear he or she is carrying vanish from sight. Even
 creatures with [ darkvision ](/modern.d20.srd/special.abilities/darkvision)
 cannot see the invisible creature. Any object picked up by the invisible

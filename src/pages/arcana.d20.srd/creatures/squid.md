@@ -2,11 +2,6 @@
 title: Squid
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Squid
-
-##  Squid
-
 ###  Species Traits
 
 Squid have the following traits:

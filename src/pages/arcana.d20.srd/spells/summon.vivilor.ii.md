@@ -2,11 +2,6 @@
 title: Summon Vivilor II
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Summon Vivilor II
-
-##  Summon Vivilor II
-
 Conjuration (Summoning)
 
 Level: Arcane 2, Divine 2; Effect: One or more summoned creatures, no two of

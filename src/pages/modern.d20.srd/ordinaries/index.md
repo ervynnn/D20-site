@@ -2,11 +2,6 @@
 title: Ordinaries
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > Ordinaries
-
-## Ordinaries
-
 “Ordinaries” are nonheroic supporting characters and extras. Ordinaries are
 built using the six basic classes
 ([Strong](/modern.d20.srd/classes/basic/strong.hero),

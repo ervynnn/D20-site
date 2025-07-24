@@ -2,11 +2,6 @@
 title: Creating New Incantations
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Creating New Incantations
-
-##  Creating New Incantations
-
 Designing unique incantations is a tricky balancing act. Incantations are
 intentionally constructed to be much more idiosyncratic than spells. Since
 incantations hinge on Knowledge (arcane lore) checks, it’s possible for

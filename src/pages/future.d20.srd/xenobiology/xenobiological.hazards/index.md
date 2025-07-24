@@ -2,11 +2,6 @@
 title: Xenobiological Hazards
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Xenobiology](/future.d20.srd/xenobiology) > Xenobiological Hazards
-
-## Xenobiological Hazards
-
 In addition to facing dangerous creatures and harsh environmental conditions,
 space explorers must occasionally contend with xenobiological
 hazards—nonsentient forms of life that are, by their verynature, menacing and

@@ -2,11 +2,6 @@
 title: Monitor Lizard
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Monitor Lizard
-
-##  Monitor Lizard
-
 A monitor lizard measures between 8 inches and 10 feet long, depending on the
 particular species. Sleek and fast, it has a long neck ending in a tapered
 head, muscular legs, and a long, powerful tail.

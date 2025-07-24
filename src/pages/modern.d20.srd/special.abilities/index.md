@@ -2,11 +2,6 @@
 title: Special Abilities
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > Special Abilities
-
-##  Special Abilities
-
 | [ Ability Score Reduction](/modern.d20.srd/special.abilities/ability.score.reduction) | [ Blindsight ](/modern.d20.srd/special.abilities/blindsight) |
 |---|---|
 | [ Breath Weapon ](/modern.d20.srd/special.abilities/breath.weapon) | [ Constrict ](/modern.d20.srd/special.abilities/constrict) |

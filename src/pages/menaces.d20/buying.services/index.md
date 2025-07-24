@@ -2,11 +2,6 @@
 title: Buying Services
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > Buying Services
-
-## Buying Services
-
 When a hero buys services, use these rules to arrive at an asking price and a
 bare minimum price. In most cases, the arrived-at cost is per task performed
 on the hero’s behalf, regardless of how many skill checks are involved.

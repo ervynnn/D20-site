@@ -2,11 +2,6 @@
 title: Condition Summary
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > Condition Summary
-
-## Condition Summary
-
 A number of adverse conditions can affect the way a character operates, as
 defined here. If more than one condition affects a character, apply both if
 possible. If not possible, apply only the most severe condition.

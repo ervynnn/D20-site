@@ -2,11 +2,6 @@
 title: Scale
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Vehicle Movement and Combat](/modern.d20.srd/vehicle.movement.and.combat) > Scale
-
-## Scale
-
 These rules use two scales. If the encounter involves both
 [vehicles](/modern.d20.srd/equipment/equipment.vehicles) and characters on
 foot, use character scale. If the scene involves only

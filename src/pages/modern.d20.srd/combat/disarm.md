@@ -2,11 +2,6 @@
 title: Disarm
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Disarm
-
-## Disarm
-
 As a melee attack, a character may attempt to disarm his or her opponent. If
 the character does so with a weapon, he or she knocks the opponent’s weapon
 out of his or her hands and to the ground. If the character attempts the

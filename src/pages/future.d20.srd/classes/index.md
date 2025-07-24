@@ -2,11 +2,6 @@
 title: Classes
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Classes
-
-##  Classes
-
 | [ Ambassador ](/future.d20.srd/classes/ambassador) | [ Dogfighter ](/future.d20.srd/classes/dogfighter) |
 |---|---|
 | [ Dreadnought ](/future.d20.srd/classes/dreadnought) | [ Engineer ](/future.d20.srd/classes/engineer) |

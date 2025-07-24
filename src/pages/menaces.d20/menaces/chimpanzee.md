@@ -2,11 +2,6 @@
 title: Chimpanzee
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Chimpanzee
-
-##  Chimpanzee
-
 The statistics below represent a chimpanzee, but they can also be used for any
 ape or monkey of similar size, such as a howler monkey. Most such animals are
 omnivorous, although some can be quite fierce and aggressive.

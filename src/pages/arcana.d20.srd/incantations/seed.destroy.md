@@ -1,12 +1,7 @@
 ---
-title: Seed: Destroy
+title: Seed Destroy
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Seed: Destroy
-
-##  Seed: Destroy
-
 Transmutation
 
 Knowledge (arcane lore) DC: 30; Range: Long; Targets: 1 creature, or up to a

@@ -2,11 +2,6 @@
 title: Unbalance Opponent
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Unbalance Opponent
-
-## Unbalance Opponent
-
 Prerequisites: [Defensive Martial Arts](/modern.d20.srd/feats/defensive.martial.arts), base attack bonus +6.
 
 Benefit: During the character’s action, the character designates an opponent

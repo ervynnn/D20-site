@@ -2,11 +2,6 @@
 title: Feat Net
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Robots ](/future.d20.srd/robots) > [ Feat Software](/future.d20.srd/robots/feat.software) > Feat Net
-
-##  Feat Net (PL 7)
-
 A feat net consists of a series of interlocking programs that allow the robot
 to emulate multiple feats. A feat net holds as many as four feats.
 

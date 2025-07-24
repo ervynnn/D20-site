@@ -2,11 +2,6 @@
 title: Ultralight Starship Subtypes
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > Ultralight Starship Subtypes
-
-## Ultralight Starship Subtypes
-
 Ultralight ships cover most small spacecraft, including fighters, cutters,
 launches, and couriers.
 

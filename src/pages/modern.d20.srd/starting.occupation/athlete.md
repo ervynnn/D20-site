@@ -2,11 +2,6 @@
 title: Athlete
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Starting Occupation ](/modern.d20.srd/starting.occupation) > Athlete
-
-##  Athlete
-
 Athletes include amateur athletes of Olympic quality and professional athletes
 of all types, including gymnasts, weight trainers, wrestlers, boxers, martial
 artists, swimmers, skaters, and those who engage in any type of competitive

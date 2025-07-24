@@ -72,9 +72,6 @@ relatedPages:
     href: /modern.d20.srd/skills
     description: Character abilities and skill descriptions
 ---
-
-## Character Classes Overview
-
 Character classes in the Modern d20 system are divided into two main categories: Basic Classes and Advanced Classes.
 
 ### Basic Classes

@@ -2,11 +2,6 @@
 title: Dogfighter
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Classes](/future.d20.srd/classes) > Dogfighter
-
-## Dogfighter
-
 The fastest path into this advanced class is from the Fast hero basic class,
 though other paths are certainly possible.
 

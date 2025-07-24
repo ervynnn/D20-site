@@ -2,11 +2,6 @@
 title: Festergog (Vomit Fiend)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Festergog (Vomit Fiend)
-
-## Festergog (Vomit Fiend)
-
 Festergog (vomit fiend): CR 9; Huge
 [outsider](/modern.d20.srd/creature.types/outsider); HD 12d8+60;
 [hp](/modern.d20.srd/combat/hit.points) 114;

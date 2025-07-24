@@ -2,11 +2,6 @@
 title: Sand Slave (Template)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Sand Slave (Template)
-
-##  Sand Slave (Template)
-
 Sand slaves (sometimes called sandmen or cyberslaves) are intelligent
 creatures that have been transformed into cybernetic slaves of the etoile (see
 the “Etoile” entry above). A sand slave looks much like it did before its

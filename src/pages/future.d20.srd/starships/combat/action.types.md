@@ -2,11 +2,6 @@
 title: Action Types
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > Action Types
-
-## Action Types
-
 As in character combat, starships may make attack actions, full-round actions,
 move actions, and free actions. In a normal round, a starship can perform an
 attack action and two move actions (in any order), two move actions, or a

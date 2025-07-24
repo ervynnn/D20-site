@@ -2,11 +2,6 @@
 title: Cybernetics
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Cybernetics
-
-##  Cybernetics
-
 [ Evolution of Cybernetics](/future.d20.srd/cybernetics/evolution.of.cybernetics)
 
 [ Cybernetic Attachments ](/future.d20.srd/cybernetics/cybernetic.attachments)

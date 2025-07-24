@@ -2,11 +2,6 @@
 title: Jack Of All Trades
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Feats](/future.d20.srd/feats) > Jack Of All Trades
-
-## Jack Of All Trades
-
 You’ve picked up a smattering of even the most obscure skills.
 
 Prerequisite: Character level 8th+.

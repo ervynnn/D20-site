@@ -2,11 +2,6 @@
 title: Control Object
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Psionics ](/modern.d20.srd/psionics) > Control Object
-
-##  Control Object
-
 [ Constitution ](/modern.d20.srd/basics/ability.scores)
 
 Level: [ Telepath ](/modern.d20.srd/classes/advanced/telepath) 1; Display:

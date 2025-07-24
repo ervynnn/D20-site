@@ -2,11 +2,6 @@
 title: Obscuring Mist
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Obscuring Mist
-
-## Obscuring Mist
-
 Conjuration (Creation)
 
 Level: Arcane 1, Divine 1; Components: V, S; Casting Time: Attack action;

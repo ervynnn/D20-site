@@ -2,11 +2,6 @@
 title: Regeneration
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Special Abilities](/modern.d20.srd/special.abilities) > Regeneration
-
-## Regeneration (Ex)
-
 This ability makes the creature impervious to most types of damage. Any
 [damage](/modern.d20.srd/combat/damage) dealt to the creature that falls below
 its [massive damage threshold](/modern.d20.srd/combat/death.dying.healing)

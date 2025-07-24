@@ -2,11 +2,6 @@
 title: Tattoos
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX Items](/modern.d20.srd/fx.items) > Tattoos
-
-## Tattoos
-
 Tattoos are single-use “items” containing a [spell-like](/modern.d20.srd/fx)
 or [psionic](/modern.d20.srd/psionics) effect that affects only the bearer.
 They can be drawn or imprinted just about anywhere on the body; however, the

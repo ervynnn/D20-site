@@ -2,11 +2,6 @@
 title: Swarm
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Swarm
-
-##  Swarm
-
 A swarm is a collection of Fine or Diminutive creatures (usually creatures of
 the vermin or animal types, but not always) that acts as a single creature.
 Swarms include flocks of birds, swarms of bees, writhing nests of poisonous

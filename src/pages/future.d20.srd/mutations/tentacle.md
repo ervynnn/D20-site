@@ -2,11 +2,6 @@
 title: Tentacle
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mutations](/future.d20.srd/mutations) > Tentacle
-
-## Tentacle [MAJOR]
-
 A single tentacle grows from your side or back. The tentacle might resemble an
 octopus’s suckered tentacle or a simple, scaly pseudopod.
 

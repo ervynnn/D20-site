@@ -2,11 +2,6 @@
 title: Law Enforcement
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Starting Occupation ](/modern.d20.srd/starting.occupation) > Law Enforcement
-
-##  Law Enforcement
-
 Law enforcement personnel include uniformed police, state troopers, federal
 police, federal agents, SWAT team members, and military police.
 

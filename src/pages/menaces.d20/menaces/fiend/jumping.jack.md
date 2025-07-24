@@ -2,11 +2,6 @@
 title: Baal
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > [ Fiend](/menaces.d20/menaces/fiend) > Baal
-
-##  Jumping Jack (Blood Fiend)
-
 Breath Weapon (Su): Once every 1d4 rounds, the jumping jack can breathe a
 15-foot cone of fire. Each creature in the area takes 2d6 points of fire
 damage; a successful Reflex save (DC 10 + 1/2 the jumping jack’s Hit Dice +

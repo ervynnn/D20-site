@@ -2,11 +2,6 @@
 title: Starship Comm Systems
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > Starship Comm Systems
-
-##  Starship Comm Systems
-
 The ability to communicate with other ships and bases is vital to starships.
 The more advanced a ship’s communications capabilities, the better informed
 its crew is, and the better they can coordinate with other ships in the same

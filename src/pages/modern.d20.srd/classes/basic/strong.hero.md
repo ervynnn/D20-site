@@ -2,11 +2,6 @@
 title: The Strong Hero
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Classes](/modern.d20.srd/classes) > [Basic Classes](/modern.d20.srd/classes/basic) > The Strong Hero
-
-## The Strong Hero
-
 Ability: [Strength](/modern.d20.srd/basics/ability.scores)
 
 Hit Die: 1d8

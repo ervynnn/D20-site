@@ -2,11 +2,6 @@
 title: Animated Object
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Animated Object
-
-##  Animated Object
-
 ###  Species Traits
 
 Blind (Ex): A sheetlike animated object (such as a carpet or a drape) can use

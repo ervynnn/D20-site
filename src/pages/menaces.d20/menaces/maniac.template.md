@@ -2,11 +2,6 @@
 title: Maniac (Template)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Maniac (Template)
-
-##  Maniac (Template)
-
 ###  Template Traits
 
 “Maniac” is an acquired template that can be added to any humanoid or

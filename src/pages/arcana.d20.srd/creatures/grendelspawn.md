@@ -2,11 +2,6 @@
 title: Grendelspawn
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Grendelspawn
-
-##  Grendelspawn
-
 Grendelspawn hiss and growl but seem to have no language of their own.
 
 ###  Species Traits

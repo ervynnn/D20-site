@@ -2,11 +2,6 @@
 title: Improved Damage Threshold
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Improved Damage Threshold
-
-## Improved Damage Threshold
-
 Benefit: The character increases his or her [massive damage](/modern.d20.srd/combat/death.dying.healing) threshold by 3 points.
 
 Normal: A character without this feat has a [massive damage](/modern.d20.srd/combat/death.dying.healing) threshold equal to his or

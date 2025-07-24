@@ -2,11 +2,6 @@
 title: Prosthetic Enhancer
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Cybernetics](/future.d20.srd/cybernetics) > Prosthetic Enhancer
-
-## Prosthetic Enhancer (PL 7)
-
 This implant attaches to a prosthetic arm or leg, making it stronger.
 
 Benefit: If attached to a prosthetic leg, the prosthetic enhancer increases

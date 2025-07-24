@@ -2,11 +2,6 @@
 title: Spell Focus
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Spell Focus
-
-##  Spell Focus
-
 Choose a school of magic, such as Evocation or Illusion. Your spells of that
 school are more potent than normal.
 

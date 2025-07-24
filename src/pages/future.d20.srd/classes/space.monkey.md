@@ -2,11 +2,6 @@
 title: Space Monkey
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Classes](/future.d20.srd/classes) > Space Monkey
-
-## Space Monkey
-
 The fastest path into this advanced class is from the Tough hero basic class,
 though other paths are possible.
 

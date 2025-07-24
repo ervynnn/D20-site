@@ -2,11 +2,6 @@
 title: Heavy Starship Subtypes
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > Heavy Starship Subtypes
-
-## Heavy Starship Subtypes
-
 Heavy starships are the workhorses of space travel: battle cruisers,
 battleships, fleet carriers, tankers, liners, and heavy transports. They move
 relatively quickly—thanks to massive engines—but maneuver very slowly. Their

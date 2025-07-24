@@ -2,11 +2,6 @@
 title: Tempest
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Sample Mecha](/future.d20.srd/mecha/sample.mecha) > Tempest
-
-## Tempest (PL 7)
-
 The Tempest is a heavy support mecha, designed to work alongside tanks and
 other heavy armored vehicles, or as the centerpiece of smaller mecha platoons.
 

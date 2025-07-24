@@ -2,11 +2,6 @@
 title: Sidhe
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Sidhe
-
-##  Sidhe
-
 Use the information on Fey to create new sidhe.
 
 ###  Species Traits

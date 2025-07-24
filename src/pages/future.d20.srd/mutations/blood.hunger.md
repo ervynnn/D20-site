@@ -2,11 +2,6 @@
 title: Blood Hunger
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Blood Hunger
-
-##  Blood Hunger [DRAWBACK]
-
 You crave the taste of blood. Moreover, you need to drink blood to survive.
 
 MP Cost: 1.

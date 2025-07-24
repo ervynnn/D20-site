@@ -2,11 +2,6 @@
 title: By Hook or by Crook
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > By Hook or by Crook
-
-##  By Hook or by Crook
-
 Heroes who cannot afford to buy their own starship can always borrow,
 requisition, rent, or steal one as the need arises.
 

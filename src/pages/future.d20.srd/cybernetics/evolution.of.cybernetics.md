@@ -2,11 +2,6 @@
 title: Evolution of Cybernetics
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Cybernetics](/future.d20.srd/cybernetics) > Evolution of Cybernetics
-
-## Evolution of Cybernetics
-
 As with all forms of technology, advancements in cybernetics can be tracked by
 Progress Level.
 

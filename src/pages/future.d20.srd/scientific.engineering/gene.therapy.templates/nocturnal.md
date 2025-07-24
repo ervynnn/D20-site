@@ -2,11 +2,6 @@
 title: Nocturnal
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > [Gene Therapy Templates](/future.d20.srd/scientific.engineering/gene.therapy.templates) > Nocturnal
-
-## Nocturnal (Template)
-
 “Nocturnal” is an acquired template that can be added to any humanoid or
 monstrous humanoid (referred to hereafter as the character). It uses all the
 character’s statistics and special abilities except as noted here.

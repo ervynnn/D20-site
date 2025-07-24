@@ -2,11 +2,6 @@
 title: Progress Level 8 Gear
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > Progress Level 8 Gear
-
-##  Progress Level 8 Gear
-
 The Energy Age sees the miniaturization of most power production systems,
 allowing for more powerful personal weapons and travel to distant stars. The
 invention of the StarDrive connects the farflung reaches of the galaxy in new

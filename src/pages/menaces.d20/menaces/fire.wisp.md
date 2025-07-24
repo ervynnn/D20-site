@@ -2,11 +2,6 @@
 title: Fire Wisp
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Fire Wisp
-
-##  Fire Wisp
-
 A fire wisp resembles a jet of fire between 6 inches and 1 foot high. Green or
 blue in color, it flickers a like living flame.
 

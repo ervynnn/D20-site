@@ -2,11 +2,6 @@
 title: Paint-On LCD
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Equipment Gadgets ](/future.d20.srd/equipment/gadgets.universal) > Paint-On LCD
-
-##  Paint-On LCD
-
 One of the most revolutionary advances in computer technology during the
 Information Age and beyond is the paint-on LCD gadget. This allows almost any
 surface to be used as a computer display, as it grafts the color-changing

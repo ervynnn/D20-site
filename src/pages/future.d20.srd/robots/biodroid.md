@@ -2,11 +2,6 @@
 title: Biodroid
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > Biodroid
-
-## Biodroid (“Android”)
-
 Biodroids exist in societies of Progress Level 6 or higher. They are typically
 modeled after their anthropomorphic creators. The technology that creates them
 is so versatile that virtually any living creature (except oozes and plants)

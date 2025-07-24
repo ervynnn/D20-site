@@ -2,11 +2,6 @@
 title: Electricity
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Environment & Hazards](/modern.d20.srd/environment.hazards) > Electricity
-
-##  Electricity
-
 Electrical hazards come in many forms, including stun guns, downed power
 lines, and electric security fences. Table: Electricity Damage gives [ damage](/modern.d20.srd/combat/damage) values for various electrical hazards based
 on relative voltage. A character can make a Fortitude [ saving throw](/modern.d20.srd/basics/saving.throws) to reduce the damage by half. If that

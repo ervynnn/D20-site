@@ -2,11 +2,6 @@
 title: Fey
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Creature Types ](/modern.d20.srd/creature.types) > Fey
-
-##  Fey
-
 A fey is a creature with supernatural abilities and connections to nature or
 some other force or place. Fey are usually human-shaped. See Table: Fey for
 physical ability scores, recommended minimum Hit Dice, and damage based on

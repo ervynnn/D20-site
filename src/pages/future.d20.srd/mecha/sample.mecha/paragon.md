@@ -2,11 +2,6 @@
 title: Paragon
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Sample Mecha](/future.d20.srd/mecha/sample.mecha) > Paragon
-
-## Paragon (PL 8)
-
 Nothing less than a mobile weapons platform, the Paragon dominates any
 battlefield and can lay waste to entire armies. In space, it can fight toe-to-
 toe with armed starships.

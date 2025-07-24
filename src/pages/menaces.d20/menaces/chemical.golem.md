@@ -2,11 +2,6 @@
 title: Chemical Golem
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Chemical Golem
-
-##  Chemical Golem
-
 A typical chemical golem stands about 9 feet tall and weighs approximately
 4,000 pounds.
 

@@ -2,11 +2,6 @@
 title: Spirit
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Spirit
-
-##  Spirit
-
 ###  Species Traits
 
 All spirits have the following capabilities. Particular types of spirits may

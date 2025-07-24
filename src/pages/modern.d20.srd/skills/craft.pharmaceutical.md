@@ -1,12 +1,7 @@
 ---
 title: Pharmaceutical
 layout: '~/layouts/MarkdownLayout.astro'
----
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > [Craft](/modern.d20.srd/skills/craft) > Pharmaceutical
-
-## Craft (Pharmaceutical) ([Int](/modern.d20.srd/basics/ability.scores))
-[Trained Only](/modern.d20.srd/skills/skill.basics)
+---[Trained Only](/modern.d20.srd/skills/skill.basics)
 
 This skill allows a character to compound medicinal drugs to aid in recovery
 from treatable illnesses. A medicinal drug gives a +2 circumstance bonus on

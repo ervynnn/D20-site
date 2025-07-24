@@ -2,11 +2,6 @@
 title: Class VIII Sensor System
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Robots ](/future.d20.srd/robots) > [ Sensors](/future.d20.srd/robots/sensors) > Class VIII Sensor System
-
-##  Class VIII Sensor System (PL 7)
-
 This sensor system includes hi-definition video sensors with darkvision (out
 to 120 feet), acoustic audio sensors, a sophisticated olfactory sensor, a
 tactile sensor array, and multiband radar.

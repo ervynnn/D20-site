@@ -2,11 +2,6 @@
 title: Neutrad Dependency
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Neutrad Dependency
-
-##  Neutrad Dependency [DRAWBACK]
-
 You rely on a medical compound called neutrad to survive.
 
 MP Value: 6.

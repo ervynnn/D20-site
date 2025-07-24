@@ -2,11 +2,6 @@
 title: Soldier
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Classes](/modern.d20.srd/classes) > [Advanced Classes](/modern.d20.srd/classes/advanced) > Soldier
-
-## Soldier
-
 ### Requirements
 
 To qualify to become a Soldier, a character must fulfill the following

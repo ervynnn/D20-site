@@ -52,9 +52,6 @@ sections:
     description: Magic spells and supernatural effects
     icon: tabler:sparkles
 ---
-
-## About Arcana D20
-
 The Arcana d20 System Reference Document provides comprehensive rules for supernatural and occult gaming campaigns. From urban fantasy adventures to cosmic horror, this system covers everything you need for mystical roleplaying.
 
 ### Quick Navigation Tips

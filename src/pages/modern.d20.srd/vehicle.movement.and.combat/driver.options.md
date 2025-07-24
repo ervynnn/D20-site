@@ -2,11 +2,6 @@
 title: Driver Options
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Vehicle Movement and Combat](/modern.d20.srd/vehicle.movement.and.combat) > Driver Options
-
-## Driver Options
-
 Here is what a [vehicle](/modern.d20.srd/equipment/equipment.vehicles) driver
 can do in a single round:
 

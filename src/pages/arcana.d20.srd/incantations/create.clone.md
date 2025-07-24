@@ -2,11 +2,6 @@
 title: Create Clone
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Create Clone
-
-##  Create Clone
-
 Necromancy
 
 Skill Check: Knowledge (arcane lore) DC 32, 7 successes, and Knowledge (earth

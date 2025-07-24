@@ -2,11 +2,6 @@
 title: Equipment (General)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > Equipment (General)
-
-## Equipment (General)
-
 ### General Equipment
 
 This section covers the wide variety of general gear available to adventurers

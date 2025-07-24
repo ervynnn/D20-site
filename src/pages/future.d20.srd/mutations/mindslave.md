@@ -2,11 +2,6 @@
 title: Mindslave
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mutations](/future.d20.srd/mutations) > Mindslave
-
-## Mindslave [DRAWBACK]
-
 You have certain mental deficiencies that make it harder to resist mind-
 influencing effects.
 

@@ -2,11 +2,6 @@
 title: Inertial Flux Engine
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Engines](/future.d20.srd/starships/starship) > Inertial Flux Engine
-
-## Inertial Flux Engine (PL 8)
-
 By precisely controlling the quantum energy level of every atom on the ship
 simultaneously, the inertial flux engine assumes the inertial states necessary
 to produce motion in any direction. In effect, by operating the controls, the

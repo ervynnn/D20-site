@@ -2,11 +2,6 @@
 title: Department-7
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Organizations ](/arcana.d20.srd/organizations) > Department-7
-
-##  Department-7
-
 Department-7 is a private institution that recruits talented individuals who
 are not only aware of the rise of Shadow, but are willing to act for the
 common good of both mundane and magical beings. Funding for the organization

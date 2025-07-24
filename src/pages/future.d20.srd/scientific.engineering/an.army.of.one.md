@@ -2,11 +2,6 @@
 title: An Army of One
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > An Army of One
-
-## An Army of One
-
 In a setting where cloning and artificial aging are commonplace, it is
 possible for an individual to have dozens of replicas of herself at any one
 time. Of course, if a new clone can be grown and artificially aged within a

@@ -2,11 +2,6 @@
 title: Clairaudience/Clairvoyance
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Psionics ](/modern.d20.srd/psionics) > Clairaudience/Clairvoyance
-
-##  Clairaudience/Clairvoyance
-
 [ Wisdom ](/modern.d20.srd/basics/ability.scores)
 
 Level: [ Telepath ](/modern.d20.srd/classes/advanced/telepath) 2; Display:

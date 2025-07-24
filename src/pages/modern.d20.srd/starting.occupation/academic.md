@@ -2,11 +2,6 @@
 title: Academic
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Starting Occupation ](/modern.d20.srd/starting.occupation) > Academic
-
-##  Academic
-
 Academics include librarians, archaeologists, scholars, professors, teachers,
 and other education professionals.
 

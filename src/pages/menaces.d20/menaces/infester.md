@@ -2,11 +2,6 @@
 title: Infester
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Infester
-
-##  Infester
-
 ###  Species Traits
 
 Anesthetic Bite (Ex): The bite of an infester grub releases an anesthetic that

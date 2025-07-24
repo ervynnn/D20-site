@@ -1,12 +1,7 @@
 ---
 title: Magical Heritage
 layout: '~/layouts/MarkdownLayout.astro'
----
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Feats](/arcana.d20.srd/feats) > Magical Heritage
-[Initial]
-
-## Magical Heritage [Initial]
+---[Initial]
 
 You have magical ability in your background, such as a sorcerer in your
 bloodline, or you gained access to magic at a particularly young age (by

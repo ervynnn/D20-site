@@ -2,11 +2,6 @@
 title: Combat Reflexes
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Combat Reflexes
-
-## Combat Reflexes
-
 Benefit: The maximum number of [attacks of opportunity](/modern.d20.srd/combat/attacks.of.opportunity) the character may
 make each round is equal to the character’s
 [Dexterity](/modern.d20.srd/basics/ability.scores) modifier + 1. The character

@@ -2,11 +2,6 @@
 title: Living Dumpster
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Living Dumpster
-
-##  Living Dumpster
-
 Living dumpsters do not speak. They weigh between 500 and 1,000 pounds,
 depending on how much trash they have inside them.
 

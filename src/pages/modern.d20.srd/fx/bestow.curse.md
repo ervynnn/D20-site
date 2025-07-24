@@ -2,11 +2,6 @@
 title: Bestow Curse
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX](/modern.d20.srd/fx) > Bestow Curse
-
-## Bestow Curse
-
 Necromancy
 
 [Level](/modern.d20.srd/fx/level):

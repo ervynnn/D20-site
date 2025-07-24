@@ -2,11 +2,6 @@
 title: Prosthetic Arm Upgrade
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Cybernetics ](/future.d20.srd/cybernetics) > Prosthetic Arm Upgrade
-
-##  Prosthetic Arm Upgrade (PL 6)
-
 This upgraded version of the PL 5 prosthetic arm not only replaces a lost or
 destroyed arm but is also more resilient than its technological predecessor.
 

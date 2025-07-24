@@ -2,11 +2,6 @@
 title: FX Items
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > FX Items
-
-##  FX Items
-
 | [ Magic Items and Mundanes](/arcana.d20.srd/fx.items/magic.items.and.mundanes) | [ Incantation Based FX Items](/arcana.d20.srd/fx.items/incantation.based.fx.items) |
 |---|---|
 | [ Armor and Shields ](/arcana.d20.srd/fx.items/armor.and.shields) | [ Magic Armor and Shields Special Abilities](/arcana.d20.srd/fx.items/magic.armor.and.shield.special.abilities) |

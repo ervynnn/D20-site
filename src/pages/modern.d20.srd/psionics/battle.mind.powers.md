@@ -2,11 +2,6 @@
 title: Battle Mind Powers
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Psionics](/modern.d20.srd/psionics) > Battle Mind Powers
-
-## Battle Mind Powers
-
 0-Level Battle Mind Powers  
 [Detect Psionics](/modern.d20.srd/psionics/detect.psionics) (Wis): Manifester
 can detect the presence of psionic activity.  

@@ -2,11 +2,6 @@
 title: Environments
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Environments
-
-##  Environments
-
 [ Radiation Sickness ](/future.d20.srd/environments/radiation.sickness)
 
 [ Gravity ](/future.d20.srd/environments/gravity)

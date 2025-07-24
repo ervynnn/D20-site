@@ -2,11 +2,6 @@
 title: Ability Scores
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Basics](/modern.d20.srd/basics) > Ability Scores
-
-## Ability Scores
-
 Every character has six basic Ability Scores:
 
 Strength (STR)

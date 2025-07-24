@@ -2,11 +2,6 @@
 title: Cybernetic Attachments
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Cybernetics](/future.d20.srd/cybernetics) > Cybernetic Attachments
-
-## Cybernetic Attachments
-
 Two kinds of cybernetic attachments exist: replacements and enhancements.
 
 Replacements: Replacements are prosthetic or artificial units intended to

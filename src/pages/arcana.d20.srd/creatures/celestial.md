@@ -2,11 +2,6 @@
 title: Celestial
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Celestial
-
-##  Celestial
-
 All celestials are outsiders. A sample celestial (the gotthammer) is presented
 below; use the information about outsiders to create new celestial types.
 

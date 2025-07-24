@@ -2,11 +2,6 @@
 title: Mecha Jockey
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Classes](/future.d20.srd/classes) > Mecha Jockey
-
-## Mecha Jockey
-
 Select this advanced class if you want your character to be an expert mecha
 operator, in command of a massive, armored war machine equipped with
 terrifying weaponry. The fastest path into this advanced class is from the

@@ -2,11 +2,6 @@
 title: Urban Tracking
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Feats](/future.d20.srd/feats) > Urban Tracking
-
-## Urban Tracking
-
 You can track down the location of missing persons or wanted individuals.
 
 Benefit: To find the trail of an individual or to follow it for 1 hour

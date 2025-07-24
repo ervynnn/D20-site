@@ -2,11 +2,6 @@
 title: Corvette
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Types](/future.d20.srd/starships/starship) > [ Light Starship Subtypes](/future.d20.srd/starships/starship.types/light.starship) > Corvette
-
-##  Corvette (PL 6)
-
 Essentially a larger version of the escort ship, the corvette serves as both a
 gunship and fleet escort. Of the military vessels designed to operate
 independently in wartime, corvettes are the smallest.

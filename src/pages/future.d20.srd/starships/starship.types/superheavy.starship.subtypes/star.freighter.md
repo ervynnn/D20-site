@@ -2,11 +2,6 @@
 title: Star Freighter
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > [Superheavy Starship Subtypes](/future.d20.srd/starships/starship.types/superheavy.starship) > Star Freighter
-
-## Star Freighter (PL 7)
-
 The largest of the starships built for routine commercial purposes, the star
 freighter can be modified to serve as a super-tanker or super-transport.
 

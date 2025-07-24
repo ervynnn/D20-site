@@ -2,11 +2,6 @@
 title: Starship Weapons
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > Starship Weapons
-
-## Starship Weapons
-
 Starship weapons fall into one of four categories: beam weapons, projectile
 weapons, missiles, and mines. Each category of weapon is described in greater
 detail below.

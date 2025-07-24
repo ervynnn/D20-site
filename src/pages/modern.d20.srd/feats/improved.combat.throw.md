@@ -2,11 +2,6 @@
 title: Improved Combat Throw
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Improved Combat Throw
-
-## Improved Combat Throw
-
 Prerequisites: [Defensive Martial Arts](/modern.d20.srd/feats/defensive.martial.arts), [Combat Throw](/modern.d20.srd/feats/combat.throw), base attack bonus +3.
 
 Benefit: In melee combat, if an opponent

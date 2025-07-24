@@ -2,11 +2,6 @@
 title: Shark, Huge
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Shark, Huge
-
-##  Shark, Huge
-
 ###  Species Traits
 
 Keen Scent (Ex): A Huge shark notices creatures by scent in a 180-foot radius.

@@ -2,11 +2,6 @@
 title: Half-Ogre
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Shadowkind ](/arcana.d20.srd/shadowkind) > Half-Ogre
-
-##  Half-Ogre
-
 Size: Medium. Half-ogres have no special bonuses or penalties due to their
 size.
 

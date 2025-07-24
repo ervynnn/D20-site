@@ -2,11 +2,6 @@
 title: Surgery
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Surgery
-
-## Surgery
-
 Prerequisite: [Treat Injury](/modern.d20.srd/skills/treat.injury) 4 ranks.
 
 Benefit: The character can use the [Treat Injury](/modern.d20.srd/skills/treat.injury) skill to perform surgery without

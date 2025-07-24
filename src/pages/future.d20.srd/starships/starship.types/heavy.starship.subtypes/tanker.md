@@ -2,11 +2,6 @@
 title: Tanker
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Types](/future.d20.srd/starships/starship) > [ Heavy Starship Subtypes](/future.d20.srd/starships/starship.types/heavy.starship) > Tanker
-
-##  Tanker (PL 6)
-
 A tanker is a large starship intended for the transport of large quantities of
 gases or liquids. It can be adapted for other forms of cargo storage, but most
 ships of this size carry water, hydrogen, petrochemicals, or oxygen.

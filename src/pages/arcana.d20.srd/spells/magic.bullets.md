@@ -2,11 +2,6 @@
 title: Magic Bullets
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Magic Bullets
-
-## Magic Bullets
-
 Transmutation
 
 Level: Arcane 4, Divine 4; Components: V, S, F; Casting Time: Attack action;

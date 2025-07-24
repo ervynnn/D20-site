@@ -2,11 +2,6 @@
 title: Sensors
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > Sensors
-
-## Sensors
-
 Robots are unable to perceive their surroundings without a sensor system of
 some kind. Without sensors, they are effectively blind and deaf, and they
 suffer penalties on certain checks—if they can attempt them at all.

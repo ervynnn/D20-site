@@ -2,11 +2,6 @@
 title: Troglodyte
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Troglodyte
-
-## Troglodyte
-
 ### Species Traits
 
 Stench (Ex): When a troglodyte is angry or frightened, it secretes an oily,

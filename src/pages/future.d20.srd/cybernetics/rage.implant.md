@@ -2,11 +2,6 @@
 title: Rage Implant
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Cybernetics](/future.d20.srd/cybernetics) > Rage Implant
-
-## Rage Implant (PL 7)
-
 This brain implant dramatically increases the amount of adrenaline and
 testosterone the recipient’s body produces, temporarily boosting his strength
 and durability.

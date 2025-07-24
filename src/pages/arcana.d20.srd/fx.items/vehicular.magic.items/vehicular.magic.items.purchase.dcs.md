@@ -2,11 +2,6 @@
 title: Vehicular Magic Item Purchase DCs
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ FX Items ](/arcana.d20.srd/fx.items) > [ Vehiclular Magic Items ](/arcana.d20.srd/fx.items/vehicular.magic.items) > Vehicular Magic Item Purchase DCs
-
-##  Vehicular Magic Item Purchase DCs
-
 A vehicular magic item’s purchase price is 20 + the item’s caster level + its
 FX modifier. The FX modifier depends on the item’s nature, as shown on the
 table below:

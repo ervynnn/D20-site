@@ -2,11 +2,6 @@
 title: Signature Spell
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Feats](/arcana.d20.srd/feats) > Signature Spell
-
-## Signature Spell
-
 You are so familiar with a mastered spell that you can spontaneously cast it,
 converting other prepared spells into that spell.
 

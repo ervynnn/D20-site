@@ -2,11 +2,6 @@
 title: Sigil of Lyssa
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Sigil of Lyssa
-
-##  Sigil of Lyssa
-
 Enchantment (Compulsion) [Mind-Affecting]
 
 Skill Check: Knowledge (arcane lore) DC 35, 7 successes (and see text);

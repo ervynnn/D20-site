@@ -2,11 +2,6 @@
 title: Declaring Speed
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Vehicle Movement and Combat](/modern.d20.srd/vehicle.movement.and.combat) > Declaring Speed
-
-## Declaring Speed
-
 At the beginning of his or her action, a driver must declare his or her speed
 category for the round. The driver can choose to go one category faster or
 slower than the [vehicle’s](/modern.d20.srd/equipment/equipment.vehicles)

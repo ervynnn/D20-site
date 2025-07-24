@@ -2,11 +2,6 @@
 title: Multiple Use Item
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Equipment Gadgets ](/future.d20.srd/equipment/gadgets.universal) > Multiple Use Item
-
-##  Multiple Use Item
-
 Similar in function to the alternate weapon gadget, the multiple use item
 gadget allows the character to integrate the function of two separate items
 into a single device.

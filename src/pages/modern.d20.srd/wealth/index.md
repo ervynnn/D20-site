@@ -2,9 +2,6 @@
 title: Wealth
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-## Wealth
-
 Every character has a [Wealth](/modern.d20.srd/wealth/wealth.bonus)[bonus](/modern.d20.srd/wealth/wealth.bonus)
 that reflects his or her buying power—a composite of income, credit rating,
 and savings. A character’s [Wealth bonus](/modern.d20.srd/wealth/wealth.bonus)

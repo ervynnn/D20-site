@@ -2,11 +2,6 @@
 title: Quick Reload
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Feats ](/modern.d20.srd/feats) > Quick Reload
-
-##  Quick Reload
-
 Prerequisite: Base attack bonus +1.
 
 Benefit: Reloading a firearm with an already filled box magazine or speed

@@ -2,11 +2,6 @@
 title: Area
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX ](/modern.d20.srd/fx) > Area
-
-##  Area
-
 Some spells affect an area. The caster selects where the spell starts, but
 otherwise doesn’t control which creatures or objects the spell affects.
 Sometimes a spell describes a specially defined area, but usually an area

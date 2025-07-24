@@ -2,11 +2,6 @@
 title: Gnome
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Gnome
-
-##  Gnome
-
 Gnomes speak their own language, Gnome. They usually take the time to learn
 one or more local languages as well. Particularly bright gnomes may know
 additional Shadow languages, including Draconic, Dwarven, Elven, Giant,

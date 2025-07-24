@@ -2,11 +2,6 @@
 title: Vehicular Magic Items Descriptions
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ FX Items ](/arcana.d20.srd/fx.items) > [ Vehiclular Magic Items ](/arcana.d20.srd/fx.items/vehicular.magic.items) > Vehicular Magic Items Descriptions
-
-##  Vehicular Magic Items Descriptions
-
 The following section described several new vehicular magic items.
 
 **Ablative Paint Job**

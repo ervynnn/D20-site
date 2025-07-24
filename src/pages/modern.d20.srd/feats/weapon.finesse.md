@@ -2,11 +2,6 @@
 title: Weapon Finesse
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Feats ](/modern.d20.srd/feats) > Weapon Finesse
-
-##  Weapon Finesse
-
 Choose one light melee weapon, a rapier (if the character can use it with one
 hand), or a chain. A character can choose unarmed strike or [ grapple](/modern.d20.srd/combat/grapple) as a weapon for the purposes of this feat.
 

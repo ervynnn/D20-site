@@ -2,11 +2,6 @@
 title: Mending
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Mending
-
-## Mending
-
 Transmutation
 
 Level: Arcane 0, Divine 0; Components: V, S; Casting Time: Attack action;

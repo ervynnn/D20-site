@@ -2,11 +2,6 @@
 title: Mecha Flight Systems
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > Mecha Flight Systems
-
-## Mecha Flight Systems
-
 All mecha are equipped with legs that allow them to walk and run. A mecha’s
 size determines its base speed, as noted in Table: Mecha Sizes. This section
 describes various optional flight systems. To build a flight system from

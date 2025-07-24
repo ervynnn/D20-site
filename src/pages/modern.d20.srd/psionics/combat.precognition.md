@@ -2,11 +2,6 @@
 title: Combat Precognition
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Psionics ](/modern.d20.srd/psionics) > Combat Precognition
-
-##  Combat Precognition
-
 [ Wisdom ](/modern.d20.srd/basics/ability.scores)
 
 Level: [ Battle Mind ](/modern.d20.srd/classes/advanced/battle.mind) 1;

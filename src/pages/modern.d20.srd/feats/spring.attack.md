@@ -2,11 +2,6 @@
 title: Spring Attack
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Spring Attack
-
-## Spring Attack
-
 Prerequisites: [Dexterity](/modern.d20.srd/basics/ability.scores) 13,
 [Dodge](/modern.d20.srd/feats/dodge),
 [Mobility](/modern.d20.srd/feats/mobility), base attack bonus +4.

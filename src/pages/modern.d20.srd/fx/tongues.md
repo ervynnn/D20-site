@@ -2,11 +2,6 @@
 title: Tongues
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX](/modern.d20.srd/fx) > Tongues
-
-## Tongues
-
 Divination
 
 [Level](/modern.d20.srd/fx/level):

@@ -2,11 +2,6 @@
 title: Thought Eater
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Thought Eater
-
-##  Thought Eater
-
 A thought eater is a 3-foot-long creature with flesh of wispy protomatter,
 through which its skeleton is visible. It has the body shape of a predatory
 feline and the skull and claws of a cruel bird of prey.

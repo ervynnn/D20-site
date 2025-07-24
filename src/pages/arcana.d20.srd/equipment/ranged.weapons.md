@@ -2,11 +2,6 @@
 title: Ranged Weapons
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Equipment ](/arcana.d20.srd/equipment) > Ranged Weapons
-
-##  Ranged Weapons
-
 Descriptions of ranged weapons follow. Some are considered simple weapons
 (covered by the Simple Weapon Proficiency feat), some are archaic (covered by
 the Archaic Weapons Proficiency), and some are special in that they do not

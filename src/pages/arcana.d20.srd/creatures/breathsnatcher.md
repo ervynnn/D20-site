@@ -2,11 +2,6 @@
 title: Breathsnatcher
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Breathsnatcher
-
-##  Breathsnatcher
-
 They average 6 feet tall and weigh about 150 pounds.
 
 ###  Species Traits

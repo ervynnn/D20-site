@@ -2,11 +2,6 @@
 title: Frailty
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mutations](/future.d20.srd/mutations) > Frailty
-
-## Frailty [DRAWBACK]
-
 Your body is particularly vulnerable to the ravages of poison, disease,
 radiation, and other ailments. You also have trouble stabilizing when severely
 wounded.

@@ -2,11 +2,6 @@
 title: Action Points
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Basics](/modern.d20.srd/basics) > Action Points
-
-## Action Points
-
 Action points provide characters with the means to affect game play in
 significant ways. A character always has a limited amount of action points,
 and while the character replenishes this supply with every new level he or she

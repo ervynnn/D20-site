@@ -2,11 +2,6 @@
 title: Prosthetic Arm
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Cybernetics ](/future.d20.srd/cybernetics) > Prosthetic Arm
-
-##  Prosthetic Arm (PL 5)
-
 A prosthetic arm fully replaces a lost or destroyed biological arm. The
 prosthetic arm may begin at the shoulder, elbow, or wrist.
 

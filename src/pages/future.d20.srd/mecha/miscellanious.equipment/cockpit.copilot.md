@@ -2,11 +2,6 @@
 title: Cockpit, Copilot
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > [Miscellanious Equipment](/future.d20.srd/mecha/miscellanious.equipment) > Cockpit, Copilot
-
-## Cockpit, Copilot (PL 5)
-
 This extra cockpit provides a comfortable station inside the mecha for a Small
 or Medium-size copilot. A copilot has the ability to fire the mecha’s ranged
 weapons, perform active scans using the mecha’s sensor systems, or aid the

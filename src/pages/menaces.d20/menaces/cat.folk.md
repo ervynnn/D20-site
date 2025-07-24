@@ -2,11 +2,6 @@
 title: Cat Folk
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Cat Folk
-
-##  Cat Folk
-
 In its natural form, a cat folk is an attractive biped standing approximately
 6 feet tall and weighing about 120 pounds. Its face and body are humanlike
 except for several distinctly feline features: a short muzzle, whiskers,

@@ -2,11 +2,6 @@
 title: Feat Implant
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Cybernetics](/future.d20.srd/cybernetics) > Feat Implant
-
-## Feat Implant (PL 7)
-
 Thanks to a chip implanted in the recipient’s brain or a series of implants
 wired to the recipient’s nervous system, the recipient gains special knowledge
 or some extraordinary ability.

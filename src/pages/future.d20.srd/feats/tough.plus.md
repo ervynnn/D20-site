@@ -2,11 +2,6 @@
 title: Tough Plus
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Feats](/future.d20.srd/feats) > Tough Plus
-
-## Tough Plus
-
 Advancements in science coupled with your drive to excel enable you to
 progress faster toward becoming a truly tough hero.
 

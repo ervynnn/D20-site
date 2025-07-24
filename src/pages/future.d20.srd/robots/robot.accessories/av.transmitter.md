@@ -2,11 +2,6 @@
 title: AV Transmitter
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > [Robot Accessories](/future.d20.srd/robots/robot.accessories) > AV Transmitter
-
-## AV Transmitter (PL 5)
-
 A remote audio-visual unit consists of a video camera and microphone connected
 to the robot’s visual and audio sensors, with a transmitter to send the
 information to a computer or a remote control unit (see Remote Control Unit,

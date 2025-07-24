@@ -2,11 +2,6 @@
 title: Tractor Beam Emitter
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Grappling Systems ](/future.d20.srd/starships/grappling) > Tractor Beam Emitter
-
-##  Tractor Beam Emitter (PL 7)
-
 A tractor beam emitter projects a short-range gravitational “tether” that
 latches onto or immobilizes a single target, usually a ship or unattended
 object. The target must be in the same square or in an adjacent square.

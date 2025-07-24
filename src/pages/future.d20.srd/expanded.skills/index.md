@@ -2,11 +2,6 @@
 title: Expanded Skills
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Expanded Skills
-
-##  Expanded Skills
-
 The following skills are expanded to include rules specific to future
 campaigns.
 

@@ -2,11 +2,6 @@
 title: Designer Diseases
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > Designer Diseases
-
-## Designer Diseases
-
 One of the most basic implementations of genetic manipulation is modifying
 existing microscopic organisms such as bacteria and viruses. At PL 5,
 scientists are able to alter existing diseases to be resistant to particular

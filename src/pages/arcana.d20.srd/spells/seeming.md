@@ -2,11 +2,6 @@
 title: Seeming
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Seeming
-
-## Seeming
-
 Illusion
 
 Level: Arcane 5; Components: V, S; Casting Time: Attack action; Range: Close

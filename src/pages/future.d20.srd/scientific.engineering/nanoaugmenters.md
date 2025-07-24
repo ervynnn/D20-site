@@ -2,11 +2,6 @@
 title: Nanoaugmenters
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > Nanoaugmenters
-
-## Nanoaugmenters
-
 Unlike nanoviruses, nanoaugmenters latch onto a specific biological system and
 provide consistent bonuses for as long as the nanites remain active. Most
 nanoaugmenters are injected into a character or creature to permanently

@@ -2,11 +2,6 @@
 title: Disease
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Environment & Hazards](/modern.d20.srd/environment.hazards) > Disease
-
-## Disease
-
 When a character is exposed to a treatable disease, the character must make an
 immediate Fortitude [saving throw](/modern.d20.srd/basics/saving.throws). The
 victim must make this roll when he or she comes into contact with an

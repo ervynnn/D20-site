@@ -2,11 +2,6 @@
 title: Holy/Unholy Knight
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Prestige Classes ](/arcana.d20.srd/prestige.classes) > Holy/Unholy Knight
-
-##  Holy/Unholy Knight
-
 The fastest path into this prestige class is from the Strong and Fast hero
 basic classes, in particular those which proceed through the Archaic
 Weaponsmaster and Swashbuckler advanced classes.

@@ -2,11 +2,6 @@
 title: Gravity Age Equipment
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Equipment](/future.d20.srd/equipment) > Gravity Age Equipment
-
-## Gravity Age Equipment
-
 The following equipment is available at PL 7 and later.
 
 

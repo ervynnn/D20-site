@@ -2,11 +2,6 @@
 title: Psychic
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Occupations ](/arcana.d20.srd/occupations) > Psychic
-
-##  Psychic
-
 Psychics can be people with innate, low-level psionic abilities or simply con-
 artists looking to make a buck off those gullible enough to believe their
 ruses.

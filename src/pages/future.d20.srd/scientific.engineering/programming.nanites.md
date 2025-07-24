@@ -2,11 +2,6 @@
 title: Programming Nanites
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > Programming Nanites
-
-## Programming Nanites
-
 Since nanites are small machines controlled by small computers, they can be
 programmed and reprogrammed accordingly. Reprogramming a nanocolony requires a
 special computer that can broadcast signals on a frequency the nanocolony

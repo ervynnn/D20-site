@@ -2,11 +2,6 @@
 title: Robot Accessories
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > Robot Accessories
-
-## Robot Accessories
-
 Even an assembly-line robot needs certain tools to accomplish its tasks. The
 following section describes miscellaneous accessories designed specifically
 for robots.

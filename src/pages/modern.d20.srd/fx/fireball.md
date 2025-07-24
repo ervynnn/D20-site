@@ -2,11 +2,6 @@
 title: Fireball
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX](/modern.d20.srd/fx) > Fireball
-
-## Fireball
-
 Evocation [Fire]
 
 [Level](/modern.d20.srd/fx/level):

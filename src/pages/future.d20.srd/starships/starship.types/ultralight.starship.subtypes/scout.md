@@ -2,11 +2,6 @@
 title: Scout
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Starship Types](/future.d20.srd/starships/starship) > [ Ultralight Starship Subtypes](/future.d20.srd/starships/starship.types/ultralight.starship) > Scout
-
-##  Scout (PL 6)
-
 Scouts are designed to cross great distances and locate enemies quickly
 without engaging in serious combat.
 

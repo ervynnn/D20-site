@@ -2,11 +2,6 @@
 title: Create Undead
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Create Undead
-
-##  Create Undead
-
 Necromancy [Evil]
 
 Skill Check: Knowledge (arcane lore) DC 31, 7 successes; Failure: Two

@@ -3,11 +3,6 @@ title: Civilian Aircraft
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > [Vehicles](/modern.d20.srd/equipment/equipment.vehicles) > Civilian Aircraft
-
-## Civilian Aircraft
-
-
 <table> <tr> <th>Name</th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Crew</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Pass</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Cargo</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Init</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Maneuver</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Top Speed</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Defense</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Hardness</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Hit Points</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Size</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Purchase DC</a></th> <th><a href="/modern.d20.srd/equipment/equipment.vehicles">Restriction</a></th> </tr> <tr><td> Bell Jet Ranger (helicopter)</td><td> 1</td><td> 4</td><td> 250 lb.</td><td> –4</td><td> –4</td><td> 245 (25)</td><td> 6</td><td> 5</td><td> 28</td><td> G</td><td> 39</td><td> Lic (+1) </td></tr> <tr><td> Bell Model 212 (helicopter)</td><td> 2</td><td> 13</td><td> 5,000 lb.</td><td> –4</td><td> –4</td><td> 200(20)</td><td> 6</td><td> 5</td><td> 36</td><td> G</td><td> 45</td><td> Res (+2) </td></tr> <tr><td> Cessna 172 Skyhawk (prop plane)</td><td> 1</td><td> 3</td><td> 120 lb.</td><td> –4</td><td> –4</td><td> 210 (21)</td><td> 6</td><td> 5</td><td> 30</td><td> G</td><td> 36</td><td> Lic (+1) </td></tr> <tr><td> Learjet Model 45 (corporate jet)</td><td> 2</td><td> 10</td><td> 500 lb.</td><td> –4</td><td> –4</td><td> 1,100 (110)</td><td> 6</td><td> 5</td><td> 44</td><td> G</td><td> 40</td><td> Lic (+1) </td></tr> </table>
 
 

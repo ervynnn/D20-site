@@ -2,11 +2,6 @@
 title: Light Starship Subtypes
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > Light Starship Subtypes
-
-## Light Starship Subtypes
-
 Light starships include corvettes, frigates, destroyers, haulers, and
 industrial ships, such as garbage barges and fuel carriers. Light starships
 are somewhat better armed and armored than ultralight starships, but sacrifice

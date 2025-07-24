@@ -2,11 +2,6 @@
 title: Small Characters
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Shadowkind ](/arcana.d20.srd/shadowkind) > Small Characters
-
-##  Small Characters
-
 Small characters (such as gnomes, goblins, and halflings) gain a +1 size bonus
 to Defense, a +1 size bonus on attack rolls, and a +4 size bonus on Hide
 checks. They suffer a –4 penalty on grapple checks.

@@ -2,11 +2,6 @@
 title: Alien Probe
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Alien Probe
-
-##  Alien Probe
-
 ###  Species Traits
 
 Actinic Light (Sp): As an attack action, an alien probe can produce an

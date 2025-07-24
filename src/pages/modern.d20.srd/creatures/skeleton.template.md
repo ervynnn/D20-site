@@ -2,11 +2,6 @@
 title: Skeleton
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Skeleton
-
-## Skeleton (Template)
-
 ### Template Traits
 
 “Skeleton” is an acquired template that can be added to any living corporeal

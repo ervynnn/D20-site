@@ -2,11 +2,6 @@
 title: Wyrm
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Wyrm
-
-## Wyrm
-
 ### Species Traits
 
 [Breath Weapon](/modern.d20.srd/special.abilities/breath.weapon) (Su): A wyrm

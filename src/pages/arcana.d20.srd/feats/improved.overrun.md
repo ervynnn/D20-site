@@ -2,11 +2,6 @@
 title: Improved Overrun
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Improved Overrun
-
-##  Improved Overrun
-
 You are skilled at knocking down opponents.
 
 Prerequisites: Power Attack, Strength 13.

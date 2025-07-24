@@ -2,11 +2,6 @@
 title: Ion Engine
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Engines](/future.d20.srd/starships/starship) > Ion Engine
-
-## Ion Engine (PL 6)
-
 The ion engine generates power to break down molecules of a fuel material to
 create ions, and then expels them by means of a magnetic impeller. It doesn’t
 provide as effective a mass-thrust ratio as the fusion torch, but it’s more

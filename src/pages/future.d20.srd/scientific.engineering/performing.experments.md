@@ -2,11 +2,6 @@
 title: Performing Experiments
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Scientific Engineering](/future.d20.srd/scientific.engineering) > Performing Experiments
-
-##  Performing Experiments
-
 Science is not a process that happens quickly, although key developments often
 happen accidentally, reshaping the knowledge base overnight. Performing basic
 experiments in genetic manipulation realistically would take a researcher

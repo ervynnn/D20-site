@@ -1,12 +1,7 @@
 ---
-title: PL 0: Stone Age
+title: PL 0 Gravity Age
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Progress Levels](/future.d20.srd/progress) > PL 0: Stone Age
-
-## PL 7: Gravity Age
-
 As this Progress Level opens, the invention of two key technologies herald
 humanity’s climb to the stars. The gravity induction reactor systematically
 replaces fusion power as an even more efficient source of energy that can be

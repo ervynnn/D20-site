@@ -2,11 +2,6 @@
 title: Information Age Equipment
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Equipment](/future.d20.srd/equipment) > Information Age Equipment
-
-## Information Age Equipment
-
 The following equipment is available at PL 5 and later.
 
 

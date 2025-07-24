@@ -1,23 +1,13 @@
 ---
 title: Equipment
 layout: '~/layouts/MarkdownLayout.astro'
----
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Equipment
-
-##  Equipment
-
-## <a href="/future.d20.srd/equipment/the.gadget.system">The Gadget System</a>
-<div class="border-t border-slate-200 dark:border-slate-700">
+---<div class="border-t border-slate-200 dark:border-slate-700">
   <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
     <a href="/future.d20.srd/equipment/gadgets.universal.weapons" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Universal Weapon Gadgets</a>
     <a href="/future.d20.srd/equipment/gadgets.universal.armor" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Universal Armor Gadgets</a>
     <a href="/future.d20.srd/equipment/gadgets.universal.equipment" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Universal Equipment Gadgets</a>
   </div>
 </div>
-
-
-## <a href="/future.d20.srd/equipment/progress.level.5.gear">Progress Level 5 Gear</a>
 <div class="border-t border-slate-200 dark:border-slate-700">
   <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
     <a href="/future.d20.srd/equipment/information.age.weapons" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3">Information Age Weapons</a>
@@ -25,9 +15,6 @@ layout: '~/layouts/MarkdownLayout.astro'
     <a href="/future.d20.srd/equipment/information.age.equipment" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Information Age Equipment</a>
   </div>
 </div>
-
-
-## <a href="/future.d20.srd/equipment/progress.level.6.gear">Progress Level 6 Gear</a>
 <div class="border-t border-slate-200 dark:border-slate-700">
   <!-- Row 1 -->
   <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
@@ -42,9 +29,6 @@ layout: '~/layouts/MarkdownLayout.astro'
     <a href="/future.d20.srd/equipment/fusion.age.equipment.gadgets" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Fusion Age Equipment Gadgets</a>
   </div>
 </div>
-
-
-## <a href="/future.d20.srd/equipment/progress.level.7.gear">Progress Level 7 Gear</a>
 <div class="border-t border-slate-200 dark:border-slate-700">
   <!-- Row 1 -->
   <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">
@@ -59,9 +43,6 @@ layout: '~/layouts/MarkdownLayout.astro'
     <a href="/future.d20.srd/equipment/gravity.age.equipment.gadgets" class="flex items-center h-16 px-4 hover:underline w-full lg:w-1/3 border-t lg:border-t-0 lg:border-l border-slate-200 dark:border-slate-700">Gravity Age Equipment Gadgets</a>
   </div>
 </div>
-
-
-## <a href="/future.d20.srd/equipment/progress.level.8.gear">Progress Level 8 Gear</a>
 <div class="border-t border-slate-200 dark:border-slate-700">
   <!-- Row 1 -->
   <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">

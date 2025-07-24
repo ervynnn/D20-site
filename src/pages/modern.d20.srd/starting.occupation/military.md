@@ -2,11 +2,6 @@
 title: Military
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Starting Occupation ](/modern.d20.srd/starting.occupation) > Military
-
-##  Military
-
 Military covers any of the branches of the armed forces, including army, navy,
 air force, and marines, as well as the various elite training units such as
 Seals, Rangers, and Special Forces. Prerequisite: Age 18+.

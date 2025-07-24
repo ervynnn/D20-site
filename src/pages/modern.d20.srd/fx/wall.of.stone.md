@@ -2,11 +2,6 @@
 title: Wall of Stone
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX](/modern.d20.srd/fx) > Wall of Stone
-
-## Wall of Stone
-
 Conjuration (Creation)
 
 [Level](/modern.d20.srd/fx/level):

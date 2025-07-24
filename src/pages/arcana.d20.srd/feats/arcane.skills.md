@@ -2,11 +2,6 @@
 title: Arcane Skills
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Arcane Skills
-
-##  Arcane Skills
-
 You have access to arcane skills.
 
 **Benefit:** The character gains the following class skills, as described

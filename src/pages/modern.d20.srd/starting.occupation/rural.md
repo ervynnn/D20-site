@@ -2,11 +2,6 @@
 title: Rural
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Starting Occupation ](/modern.d20.srd/starting.occupation) > Rural
-
-##  Rural
-
 Farm workers, hunters, and others who make a living in rural communities fall
 under this category. Prerequisite: Age 15+.
 

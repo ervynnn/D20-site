@@ -2,11 +2,6 @@
 title: Internal Storage Unit
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > [Robot Accessories](/future.d20.srd/robots/robot.accessories) > Internal Storage Unit
-
-## Internal Storage Unit (PL 5)
-
 The robot has an insulated compartment for storing foreign objects. The
 compartment can store objects of up to two size categories smaller than the
 robot. See Table: Internal Storage Units for compartment weight limits and

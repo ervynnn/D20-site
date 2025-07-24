@@ -2,11 +2,6 @@
 title: Realistic Space Travel
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Traveler Science ](/future.d20.srd/traveler.science) > Realistic Space Travel
-
-##  Realistic Space Travel
-
 When speaking of space travel, it is important to distinguish interplanetary
 travel from interstellar travel. Travel between planets is within the grasp of
 modern technology and is likely to become easier as science develops new fuel

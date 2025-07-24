@@ -2,11 +2,6 @@
 title: Navigate
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Navigate
-
-## Navigate ([Int](/modern.d20.srd/basics/ability.scores))
-
 [Check](/modern.d20.srd/skills/skill.basics): Make a Navigate
 [check](/modern.d20.srd/skills/skill.basics) when a character is
 trying to find his or her way to a distant location without directions or

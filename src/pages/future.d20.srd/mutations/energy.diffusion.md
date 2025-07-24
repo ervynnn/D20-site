@@ -2,11 +2,6 @@
 title: Energy Diffusion
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Energy Diffusion
-
-##  Energy Diffusion [MINOR]
-
 Your body’s ability to withstand energy damage increases.
 
 MP Cost: 2.

@@ -2,11 +2,6 @@
 title: Elasticity
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Elasticity
-
-##  Elasticity [MAJOR]
-
 You can bend and twist your body in unnatural ways and squeeze through very
 tight spaces.
 

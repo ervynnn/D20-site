@@ -2,11 +2,6 @@
 title: Wondrous Items
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX Items ](/modern.d20.srd/fx.items) > Wondrous Items
-
-##  Wondrous Items
-
 Wondrous items include anything that doesn’t fall into the other groups,
 including jewelry, tools, books, clothing, and gadgets.
 

@@ -2,11 +2,6 @@
 title: Decipher Script
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Decipher Script
-
-## Decipher Script ([Int](/modern.d20.srd/basics/ability.scores)) [Trained Only](/modern.d20.srd/skills/skill.basics)
-
 [Check](/modern.d20.srd/skills/skill.basics): A character can
 decipher writing in an ancient language or in code, or interpret the meaning
 of an incomplete text. The base DC is 20 for the simplest messages, 25 for

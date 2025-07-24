@@ -2,11 +2,6 @@
 title: Scope, Rangefinding Laser
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Weapon Gadgets ](/future.d20.srd/equipment/gadgets.universal.weapons) > Scope, Rangefinding Laser
-
-##  Scope, Rangefinding Laser
-
 One of the most valuable additions to any weapon is a scope, allowing the
 bearer to target opponents farther away than normal. What makes the
 rangefinding laser scope gadget so valuable is that it serves two purposes.

@@ -1,12 +1,7 @@
 ---
-title: Seed: Ward
+title: Seed Ward
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Incantations ](/arcana.d20.srd/incantations) > Seed: Ward
-
-##  Seed: Ward
-
 Abjuration
 
 Knowledge (arcane lore) DC: 30; Range: Touch; Target: Creature or object of

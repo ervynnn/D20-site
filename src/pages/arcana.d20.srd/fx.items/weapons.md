@@ -2,11 +2,6 @@
 title: Weapons
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ FX Items ](/arcana.d20.srd/fx.items) > Weapons
-
-##  Weapons
-
 **Bladegun**
 
 A bladegun is a magic pistol that transforms into a magic short sword (and

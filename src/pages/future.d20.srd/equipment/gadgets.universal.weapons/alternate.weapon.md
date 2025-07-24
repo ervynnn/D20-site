@@ -2,11 +2,6 @@
 title: Alternate Weapon
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Weapon Gadgets ](/future.d20.srd/equipment/gadgets.universal.weapons) > Alternate Weapon
-
-##  Alternate Weapon
-
 Some weapons are capable of serving multiple purposes by integrating two types
 of weapon into one. This can encompass everything from having a bayonet
 installed on a rifle to allowing a weapon to switch between two different

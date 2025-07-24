@@ -2,11 +2,6 @@
 title: Novitiate
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Occupations ](/arcana.d20.srd/occupations) > Novitiate
-
-##  Novitiate
-
 Novitiates draw quiet strength from their belief in a greater power. They do
 not necessarily have ties to a specific religion or denomination—their faith
 is enough. Some novitiates are lay clergy, counselors, motivational speakers,

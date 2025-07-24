@@ -1,12 +1,7 @@
 ---
 title: Quicken Power
 layout: '~/layouts/MarkdownLayout.astro'
----
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Feats](/arcana.d20.srd/feats) > Quicken Power
-[Metapsionic]
-
-## Quicken Power [Metapsionic]
+---[Metapsionic]
 
 You can manifest powers as free actions with but a moment’s thought.
 

@@ -2,11 +2,6 @@
 title: Mindwreckers
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Organizations ](/arcana.d20.srd/organizations) > Mindwreckers
-
-##  Mindwreckers
-
 The mundane world is not quite sure how to treat this organization. On the one
 hand, it is a radical group that regularly is involved in disturbing the
 peace, assault, torture, and even extremely violent terrorist activities. On

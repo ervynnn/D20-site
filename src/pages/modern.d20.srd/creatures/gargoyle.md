@@ -2,11 +2,6 @@
 title: Gargoyle
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Gargoyle
-
-## Gargoyle
-
 ### Species Traits
 
 Keen Sight (Ex): Gargoyles have

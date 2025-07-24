@@ -2,11 +2,6 @@
 title: What If It Escapes?
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > What If It Escapes?
-
-## What If It Escapes?
-
 Specimens for use in laboratory experiments are generally bred to be short-
 lived, require specific temperatures and conditions to thrive, and often are
 sterilized. If a sample escapes or is accidentally released, it is nearly

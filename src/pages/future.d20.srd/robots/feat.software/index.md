@@ -2,11 +2,6 @@
 title: Feat Software
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Robots](/future.d20.srd/robots) > Feat Software
-
-## Feat Software
-
 Nonheroic robots, like constructs, do not gain feats. However, at Progress
 Level 6 or higher, they can be programmed with software that enables them to
 emulate feats.

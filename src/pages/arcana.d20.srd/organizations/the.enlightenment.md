@@ -2,11 +2,6 @@
 title: The Enlightenment
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Organizations ](/arcana.d20.srd/organizations) > The Enlightenment
-
-##  The Enlightenment
-
 A classic conspiratorial organization whose members all belong to the highest
 level of international high society, the Enlightenment desires nothing short
 of global domination. They use global forums such as the WTO, World Bank, and

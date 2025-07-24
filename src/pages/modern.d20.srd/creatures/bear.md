@@ -2,11 +2,6 @@
 title: Bear
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Bear
-
-## Bear
-
 ### Species Traits
 
 Bears have the following traits.

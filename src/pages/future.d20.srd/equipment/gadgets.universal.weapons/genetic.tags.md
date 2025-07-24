@@ -2,11 +2,6 @@
 title: Genetic Tags
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > [ Universal Weapon Gadgets ](/future.d20.srd/equipment/gadgets.universal.weapons) > Genetic Tags
-
-##  Genetic Tags
-
 Some law enforcement agencies and military units go out of their way to track
 the exact actions of their members by placing an identifying marker on any
 ammunition expended. This marker may come in the form of a serial number

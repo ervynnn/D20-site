@@ -2,11 +2,6 @@
 title: Military Vehicles
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Vehicles](/future.d20.srd/vehicles) > Military Vehicles
-
-## Military Vehicles
-
 Despite being grouped together under the military vehicle heading, some of
 these vehicles are used by law-enforcement and emergency services. The
 operative skill for these vehicles depends on their mode of travel. Generally,

@@ -2,11 +2,6 @@
 title: Star Systems
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Environments](/future.d20.srd/environments) > Star Systems
-
-## Star Systems
-
 A star system can contain one star or multiple stars. Humans are more likely
 to find habitable planets in systems with single stars. In reality, more than
 half of all star systems have two or more stars, and these systems typically

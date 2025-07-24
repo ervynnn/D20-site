@@ -2,11 +2,6 @@
 title: New Equipment
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > New Equipment
-
-##  New Equipment
-
 The scientific experimentation needed to develop the equipment below
 frequently attracted attention from the very horrors that the items were
 designed to combat. Many people died to bring these items into being, and many

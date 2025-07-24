@@ -2,11 +2,6 @@
 title: Cleave
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Cleave
-
-## Cleave
-
 Prerequisites: [Strength](/modern.d20.srd/basics/ability.scores) 13, [Power Attack](/modern.d20.srd/feats/power.attack).
 
 Benefit: If the character deals an opponent enough

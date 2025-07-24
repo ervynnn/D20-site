@@ -2,11 +2,6 @@
 title: Xenomedic
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Feats](/future.d20.srd/feats) > Xenomedic
-
-## Xenomedic
-
 You know how to provide safe medical treatment to alien life forms.
 
 Prerequisites: Knowledge (earth and life sciences) 6 ranks, Treat Injury 6

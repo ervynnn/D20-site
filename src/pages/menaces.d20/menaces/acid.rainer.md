@@ -2,11 +2,6 @@
 title: Acid Rainer
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Acid Rainer
-
-##  Acid Rainer
-
 ###  Species Traits
 
 Acid Resistance 10 (Ex): An acid rainer ignores the first 10 points of acid

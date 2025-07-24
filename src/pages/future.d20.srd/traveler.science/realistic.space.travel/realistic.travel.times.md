@@ -2,11 +2,6 @@
 title: Realistic Travel Times
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Traveler Science](/future.d20.srd/traveler.science) > [Realistic Space Travel](/future.d20.srd/traveler.science/realistic.space.travel) > Realistic Travel Times
-
-## Realistic Travel Times
-
 Table: Realistic Travel Times provides various “realistic” interplanetary and
 interstellar travel times. These times assume that starships cannot achieve
 velocities anywhere near the speed of light, for reasons discussed under

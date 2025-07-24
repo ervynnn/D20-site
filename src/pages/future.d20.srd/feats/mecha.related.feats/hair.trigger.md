@@ -2,11 +2,6 @@
 title: Feats
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Feats
-
-## Hair Trigger
-
 You have developed a delicate sense of timing, and your area attacks hit your
 foes when they’re ill-prepared to defend against them.
 

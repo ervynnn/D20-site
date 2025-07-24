@@ -1,12 +1,7 @@
 ---
 title: Shadow Heritage
 layout: '~/layouts/MarkdownLayout.astro'
----
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Shadow Heritage
-[Initial]
-
-##  Shadow Heritage [Initial]
+---[Initial]
 
 You have a creature of Shadow in your distant ancestry. The exact nature of
 that shadowblood is immaterial (though it may be a source of adventure), as

@@ -2,11 +2,6 @@
 title: Rogue Tulpa
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Rogue Tulpa
-
-##  Rogue Tulpa
-
 Shamans and students of psychic powers have for centuries practiced the
 creation of tulpas—spirit duplicates that are indistinguishable from their
 creators and can operate independently of them. Only the most accomplished

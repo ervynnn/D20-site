@@ -2,11 +2,6 @@
 title: Achilles Targeting Software
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Sensors](/future.d20.srd/starships/starship) > Achilles Targeting Software
-
-## Achilles Targeting Software (PL 8)
-
 Any starship with a targeting system can have Achilles targeting software; the
 software does not take up one o f the starship’s sensor system slots.
 

@@ -2,11 +2,6 @@
 title: Commission for Research into Unexplained Phenomena
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Organizations ](/arcana.d20.srd/organizations) > Commission for Research into Unexplained Phenomena
-
-##  Commission for Research into Unexplained Phenomena
-
 Mundanes may not be able to recognize creatures of Shadow for what they are,
 but they do notice the rise in unusual incidents and unidentifiable materials.
 In response to a recent sudden increase in the number of reports being filed

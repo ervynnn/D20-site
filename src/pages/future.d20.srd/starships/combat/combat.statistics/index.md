@@ -2,11 +2,6 @@
 title: Combat Statistics
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Starships ](/future.d20.srd/starships) > [ Combat](/future.d20.srd/starships/combat) > Combat Statistics
-
-##  Combat Statistics
-
 Several fundamental statistics determine how well a starship performs in
 combat. This section summarizes these vital statistics, and the following
 sections detail how to use them.

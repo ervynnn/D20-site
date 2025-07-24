@@ -2,11 +2,6 @@
 title: Orbital Shuttle
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Types](/future.d20.srd/starships/starship) > [Ultralight Starship Subtypes](/future.d20.srd/starships/starship.types/ultralight.starship) > Orbital Shuttle
-
-## Orbital Shuttle (PL 5)
-
 An orbital shuttle can haul people and light equipment into orbit and return
 safely to the planet below, but it is not suitable for long-range space travel
 to other planets or star systems.

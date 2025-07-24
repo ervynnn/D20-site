@@ -2,11 +2,6 @@
 title: Avoiding Hazards
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > Avoiding Hazards
-
-## Avoiding Hazards
-
 A hazard is any unmanned obstacle of Large size or bigger that a starship
 might hit, either because the starship has entered the hazard’s square or
 because the hazard has entered the starship’s fighting space. Sample hazards

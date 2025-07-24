@@ -2,11 +2,6 @@
 title: Silent Walkers
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Organizations ](/arcana.d20.srd/organizations) > Silent Walkers
-
-##  Silent Walkers
-
 This Japanese organization dates back to the early 1600s. On the surface it
 seems like nothing more than a group dedicated to a particularly strict
 martial arts form called Shizuka Ni Ugoku (“Moving In Silence”). Students are

@@ -2,11 +2,6 @@
 title: Lesser Domination
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Psionics ](/modern.d20.srd/psionics) > Lesser Domination
-
-##  Lesser Domination
-
 [ Charisma ](/modern.d20.srd/basics/ability.scores) [Compulsion, Mind- Affecting, Language-Dependent]
 
 Level: [ Telepath ](/modern.d20.srd/classes/advanced/telepath) 3; Display:

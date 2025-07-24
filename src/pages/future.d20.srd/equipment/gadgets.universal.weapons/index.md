@@ -2,11 +2,6 @@
 title: Universal Weapon Gadgets
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > Universal Weapon Gadgets
-
-##  Universal Weapon Gadgets
-
 The following gadgets are universal and can apply to weapons found in any era,
 provided all gadget-specific restrictions are observed.
 

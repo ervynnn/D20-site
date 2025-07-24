@@ -2,11 +2,6 @@
 title: Elemental
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Creature Types ](/modern.d20.srd/creature.types) > Elemental
-
-##  Elemental
-
 An elemental is a being composed of one of the four classical elements: air,
 earth, fire, or water. See Table: Elementals for physical ability scores,
 recommended minimum Hit Dice, and damage based on size.

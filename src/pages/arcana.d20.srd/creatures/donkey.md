@@ -2,11 +2,6 @@
 title: Donkey
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Creatures ](/arcana.d20.srd/creatures) > Donkey
-
-##  Donkey
-
 Donkeys are surefooted and sturdy. They can carry up to 50 pounds as a light
 load, 51–100 pounds as a medium load, and 101–150 pounds as a heavy load. A
 donkey can drag 750 pounds.

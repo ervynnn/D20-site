@@ -2,11 +2,6 @@
 title: Creatures
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > Creatures
-
-## Creatures
-
 The creatures described in this section include mundane animals as well as
 fantastic creatures. The fantastic creatures are intended for campaigns that
 allow FX abilities.

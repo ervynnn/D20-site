@@ -2,11 +2,6 @@
 title: Subcutaneous Body Armor
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Cybernetics](/future.d20.srd/cybernetics) > Subcutaneous Body Armor
-
-## Subcutaneous Body Armor (PL 6)
-
 Subcutaneous body armor consists of small plates of flexible armor implanted
 under the recipient’s skin.
 

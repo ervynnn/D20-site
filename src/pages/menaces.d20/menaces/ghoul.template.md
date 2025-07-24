@@ -2,11 +2,6 @@
 title: Ghoul (Template)
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [Menaces](/menaces.d20/menaces) > Ghoul (Template)
-
-## Ghoul (Template)
-
 ### Template Traits
 
 “Ghoul” is an acquired template that can be added to any living corporeal

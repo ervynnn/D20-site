@@ -2,11 +2,6 @@
 title: Disable Device
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Disable Device
-
-## Disable Device ([Int](/modern.d20.srd/basics/ability.scores)) [Trained Only](/modern.d20.srd/skills/skill.basics)
-
 [Check](/modern.d20.srd/skills/skill.basics): The GM makes the
 Disable Device [check](/modern.d20.srd/skills/skill.basics) so that
 the character doesn’t necessarily know whether he or she has succeeded.

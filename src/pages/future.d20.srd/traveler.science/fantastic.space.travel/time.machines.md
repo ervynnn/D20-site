@@ -2,11 +2,6 @@
 title: Time Machines
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Traveler Science](/future.d20.srd/traveler.science) > [Fantastic Space Travel](/future.d20.srd/traveler.science/fantastic.space.travel) > Time Machines
-
-## Time Machines
-
 Temporal displacement drives—colloquially known as “time machines”—do not
 exist until Progress Level 8. The first time machines are faintly reminiscent
 of the brass, ivory, and quartz machine invented by H.G. Wells in his novel

@@ -2,11 +2,6 @@
 title: Mecha In Outer Space
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mecha](/future.d20.srd/mecha) > Mecha In Outer Space
-
-## Mecha In Outer Space
-
 Only a mecha equipped with space skin (see Miscellaneous Equipment) can
 operate in outer space. However, the mecha’s operator takes a –4 penalty on
 all attack rolls and skill checks unless she has the Zero-G Training feat or

@@ -2,11 +2,6 @@
 title: Endothermic Mold
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Xenobiology ](/future.d20.srd/xenobiology) > [Xenobiological Hazards ](/future.d20.srd/xenobiology/xenobiological.hazards) > Endothermic Mold
-
-##  Endothermic Mold (CR 2)
-
 Endothermic mold feeds on warmth, siphoning heat from anything around it. A
 patch of endothermic mold is red-brown in color and 5 feet in diameter, and
 the temperature is always cold in a 30- foot radius around it. Living

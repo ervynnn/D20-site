@@ -2,11 +2,6 @@
 title: Dimensional Horror
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Menaces D20 ](/menaces.d20) > [ Menaces ](/menaces.d20/menaces) > Dimensional Horror
-
-##  Dimensional Horror
-
 ###  Species Traits
 
 Blindsight (Ex): A dimensional horror can ascertain all creatures and objects

@@ -1,12 +1,7 @@
 ---
 title: Eschew Materials
 layout: '~/layouts/MarkdownLayout.astro'
----
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Eschew Materials
-[Metamagic]
-
-##  Eschew Materials [Metamagic]
+---[Metamagic]
 
 You can cast spells without relying on material components.
 

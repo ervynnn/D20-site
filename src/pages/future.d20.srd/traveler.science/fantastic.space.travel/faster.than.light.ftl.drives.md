@@ -2,11 +2,6 @@
 title: Faster- Than-Light (FTL) Drives
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Traveler Science](/future.d20.srd/traveler.science) > [Fantastic Space Travel](/future.d20.srd/traveler.science/fantastic.space.travel) > Faster- Than-Light (FTL) Drives
-
-## Faster-Than-Light (FTL) Drives
-
 Early in Progress Level 7, the development of artificial gravity technology
 spawns the induction engine, and scientists quickly learn to apply the
 technology to faster-than-light travel. The early “stardrives” are not truly

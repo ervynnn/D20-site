@@ -2,11 +2,6 @@
 title: Creature of Shadow
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Shadowkind ](/arcana.d20.srd/shadowkind) > Creature of Shadow
-
-##  Creature of Shadow
-
 Creatures brought to our world by Shadow are reclaimed by the tides of Shadow
 after they die. As a general rule, a creature of Shadow vanishes 1d4 rounds
 after it dies (drops to –10 hit points), leaving behind no trace of itself

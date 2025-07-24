@@ -2,11 +2,6 @@
 title: Weapon Batteries
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Starship Weapons](/future.d20.srd/starships/starship) > Weapon Batteries
-
-## Weapon Batteries
-
 A weapon battery consists of a cluster of up to five identical beam weapons,
 projectile weapons, or missile launchers that fire as a single weapon
 (requiring a single attack roll). When using battery fire, every weapon after

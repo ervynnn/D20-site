@@ -2,11 +2,6 @@
 title: Feats
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > Feats
-
-## Feats
-
 <div class="border-t border-slate-200 dark:border-slate-700 mb-16">
   <!-- Row 1 -->
   <div class="flex flex-wrap border-b border-slate-200 dark:border-slate-700">

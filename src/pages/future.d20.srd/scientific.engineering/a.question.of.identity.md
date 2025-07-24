@@ -2,11 +2,6 @@
 title: A Question Of Identity
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Scientific Engineering](/future.d20.srd/scientific.engineering) > A Question Of Identity
-
-## A Question Of Identity
-
 If a person is the sum of all his experiences, a clone is no more the person
 whose genetic structure he shares than he is a photograph or sculpture of that
 person. To transform a clone into that person, a way needs to be found to make

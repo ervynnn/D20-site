@@ -2,11 +2,6 @@
 title: Falling Objects
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Environment & Hazards](/modern.d20.srd/environment.hazards) > Falling Objects
-
-##  Falling Objects
-
 Objects that fall upon characters (or creatures or vehicles) deal [ damage](/modern.d20.srd/combat/damage) based on their size and the distance fallen,
 as noted on Table: Damage from Falling Objects.
 

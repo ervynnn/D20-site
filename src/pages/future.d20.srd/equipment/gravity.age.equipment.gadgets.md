@@ -2,11 +2,6 @@
 title: Gravity Age Equipment Gadgets
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Equipment ](/future.d20.srd/equipment) > Gravity Age Equipment Gadgets
-
-##  Gravity Age Equipment Gadgets
-
 The following gadgets are found in the Gravity Age and can apply to equipment
 of that era or later, provided all gadget-specific restrictions are observed.
 

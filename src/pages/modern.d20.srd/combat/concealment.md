@@ -2,11 +2,6 @@
 title: Concealment
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Combat](/modern.d20.srd/combat) > Concealment
-
-## Concealment
-
 Concealment includes all circumstances in which nothing physically blocks a
 blow or shot, but something interferes with an attacker’s accuracy.
 

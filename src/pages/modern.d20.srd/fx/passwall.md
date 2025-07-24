@@ -2,11 +2,6 @@
 title: Passwall
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [FX](/modern.d20.srd/fx) > Passwall
-
-## Passwall
-
 Transmutation
 
 [Level](/modern.d20.srd/fx/level):

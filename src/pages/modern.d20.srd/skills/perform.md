@@ -2,11 +2,6 @@
 title: Perform
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > Perform
-
-## Perform ([Cha](/modern.d20.srd/basics/ability.scores))
-
 This skill encompasses several categories, each of them treated as a separate
 skill. These categories are identified and defined below.
 

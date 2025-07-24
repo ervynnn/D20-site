@@ -3,11 +3,6 @@ title: Medium Armor
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Equipment](/modern.d20.srd/equipment) > [Armor](/modern.d20.srd/equipment/armor.general) > Medium Armor
-
-## Medium Armor
-
-
 <table> <tr><th> Name</th><th> <a href="/modern.d20.srd/equipment/armor.general">Type</a></th><th> <a href="/modern.d20.srd/equipment/armor.general">Equipment Bonus</a></th><th> <a href="/modern.d20.srd/equipment/armor.general">Nonprof. Bonus</a></th><th> <a href="/modern.d20.srd/equipment/armor.general">Maximum Dex Bonus</a></th><th> <a href="/modern.d20.srd/equipment/armor.general">Armor Penalty</a></th><th> <a href="/modern.d20.srd/equipment/armor.general">Speed (30 ft.)</a></th><th> <a href="/modern.d20.srd/equipment/armor.general">Weight</a></th><th> <a href="/modern.d20.srd/equipment/armor.general">Purchase DC</a></th><th> <a href="/modern.d20.srd/equipment/armor.general">Restriction</a></th> </tr> <tr><td> Concealable vest</td><td> Concealable</td><td> +4</td><td> +2</td><td> +4</td><td> –3</td><td> 25</td><td> 4 lb.</td><td> 15</td><td> Lic (+1) </td></tr> <tr><td> Chainmail shirt</td><td> Archaic</td><td> +5</td><td> +2</td><td> +2</td><td> –5</td><td> 20</td><td> 40 lb.</td><td> 18</td><td> — </td></tr> <tr><td> Light-duty vest</td><td> Tactical</td><td> +5</td><td> +2</td><td> +3</td><td> –4</td><td> 25</td><td> 8 lb.</td><td> 16</td><td> Lic (+1) </td></tr> <tr><td> Tactical vest</td><td> Tactical</td><td> +6</td><td> +2</td><td> +2</td><td> –5</td><td> 25</td><td> 10 lb.</td><td> 17</td><td> Lic (+1) </td></tr> </table>
 
 

@@ -2,11 +2,6 @@
 title: Illusory Concealable Vest
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ FX Items ](/modern.d20.srd/fx.items) > [ Armor](/modern.d20.srd/fx.items/armor) > Illusory Concealable Vest
-
-##  Illusory Concealable Vest
-
 The wearer of this concealable vest gains a +1 to +3 enchantment bonus to [Defense ](/modern.d20.srd/combat/defense) . Upon command, the protective
 garment changes shape and form to assume the appearance of a sweater or other
 normal piece of [ clothing ](/modern.d20.srd/equipment/clothing) . The vest

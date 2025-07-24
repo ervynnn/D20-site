@@ -2,11 +2,6 @@
 title: Faerie Fire
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Spells ](/arcana.d20.srd/spells) > Faerie Fire
-
-##  Faerie Fire
-
 Evocation [Light]
 
 Level: Divine 1; Components: V, S, DF; Casting Time: Attack action; Range:

@@ -2,11 +2,6 @@
 title: Student
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Starting Occupation ](/modern.d20.srd/starting.occupation) > Student
-
-##  Student
-
 A student can be in high school, college, or graduate school. He or she could
 be in a seminary, a military school, or a private institution. A college-age
 student should also pick a major field of study.

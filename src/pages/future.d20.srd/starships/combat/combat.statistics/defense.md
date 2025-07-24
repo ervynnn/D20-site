@@ -2,11 +2,6 @@
 title: Defense
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Starships](/future.d20.srd/starships) > [Combat](/future.d20.srd/starships/combat) > [Combat Statistics](/future.d20.srd/starships/combat/combat) > Defense
-
-## Defense
-
 A starship’s Defense represents how difficult it is to hit in combat. It’s the
 attack roll result that an enemy ship needs to achieve a hit. In general,
 starships are easy to hit, which is why they rely on armor to absorb damage

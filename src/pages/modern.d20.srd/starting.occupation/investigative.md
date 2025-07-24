@@ -2,11 +2,6 @@
 title: Investigative
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Starting Occupation ](/modern.d20.srd/starting.occupation) > Investigative
-
-##  Investigative
-
 There are a number of jobs that fit within this occupation, including
 investigative reporters, photojournalists, private investigators, police
 detectives, criminologists, criminal profilers, espionage agents, and others

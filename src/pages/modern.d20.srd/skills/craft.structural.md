@@ -2,11 +2,6 @@
 title: Structural
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Skills](/modern.d20.srd/skills) > [Craft](/modern.d20.srd/skills/craft) > Structural
-
-## Craft (Structural) ([Int](/modern.d20.srd/basics/ability.scores))
-
 This skill allows a character to build wooden, concrete, or metal structures
 from scratch, including bookcases, desks, walls, houses, and so forth, and
 includes such handyman skills as plumbing, house painting, drywall, laying

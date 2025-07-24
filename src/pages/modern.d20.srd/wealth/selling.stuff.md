@@ -2,11 +2,6 @@
 title: Selling Stuff
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [ Wealth ](/modern.d20.srd/wealth) > Selling Stuff
-
-##  Selling Stuff
-
 To sell something, a character first needs to determine its sale value.
 Assuming the [ object ](/modern.d20.srd/equipment/equipment.general) is
 undamaged and in working condition, the sale value is equal to the [ object’s](/modern.d20.srd/equipment/equipment.general) purchase DC (as if purchased

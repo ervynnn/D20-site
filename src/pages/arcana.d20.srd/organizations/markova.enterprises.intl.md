@@ -2,11 +2,6 @@
 title: Markova Enterprises, Intl.
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Organizations ](/arcana.d20.srd/organizations) > Markova Enterprises, Intl.
-
-##  Markova Enterprises, Intl.
-
 If knowledge is power, then Markova Enterprises may well be the most powerful
 organization on earth. This media conglomerate owns major newspapers in every
 major city in Europe and North America, runs fifteen different cable

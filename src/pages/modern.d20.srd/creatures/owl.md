@@ -2,11 +2,6 @@
 title: Owl
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Creatures](/modern.d20.srd/creatures) > Owl
-
-## Owl
-
 ### Species Traits
 
 Skill Bonuses: Owls receive a +8 species bonus on

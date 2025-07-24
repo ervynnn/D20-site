@@ -2,11 +2,6 @@
 title: Reach Spell
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [ Feats ](/arcana.d20.srd/feats) > Reach Spell [Metamagic]
-
-##  Reach Spell [Metamagic]
-
 You can cast touch spells without touching the spell recipient.
 
 **Benefit:** You may cast a spell that normally has a range of “touch” at any

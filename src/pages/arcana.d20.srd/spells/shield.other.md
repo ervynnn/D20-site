@@ -2,11 +2,6 @@
 title: Shield Other
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Spells](/arcana.d20.srd/spells) > Shield Other
-
-## Shield Other
-
 Abjuration
 
 Level: Divine 2; Components: V, S, F; Casting Time: Attack action; Range:

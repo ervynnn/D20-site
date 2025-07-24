@@ -2,11 +2,6 @@
 title: Skeletal Reinforcement
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Skeletal Reinforcement
-
-##  Skeletal Reinforcement [MAJOR]
-
 Your bones become more resilient, allowing you withstand greater amounts of
 punishment.
 

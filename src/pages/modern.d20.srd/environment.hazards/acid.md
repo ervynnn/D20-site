@@ -2,11 +2,6 @@
 title: Acid
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Environment & Hazards](/modern.d20.srd/environment.hazards) > Acid
-
-## Acid
-
 Corrosive acids deal [damage](/modern.d20.srd/combat/damage) each round of
 exposure. The amount of [damage](/modern.d20.srd/combat/damage) varies
 depending on the acid’s strength, as noted on Table: Acid

@@ -2,11 +2,6 @@
 title: Gravity Age Armor
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Equipment](/future.d20.srd/equipment) > Gravity Age Armor
-
-## Gravity Age Armor
-
 The following armors are available at PL 7 and later.
 
 

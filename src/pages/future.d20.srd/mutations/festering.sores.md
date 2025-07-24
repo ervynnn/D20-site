@@ -2,11 +2,6 @@
 title: Festering Sores
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mutations](/future.d20.srd/mutations) > Festering Sores
-
-## Festering Sores [DRAWBACK]
-
 Your skin is covered with painful, festering sores.
 
 MP Value: 2.

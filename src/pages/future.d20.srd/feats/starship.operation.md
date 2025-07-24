@@ -2,11 +2,6 @@
 title: Starship Operation
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Feats](/future.d20.srd/feats) > Starship Operation
-
-## Starship Operation
-
 Select one of the following types of starships: ultralight, light,
 mediumweight, heavy, or superheavy. You are proficient at operating starships
 of that type.

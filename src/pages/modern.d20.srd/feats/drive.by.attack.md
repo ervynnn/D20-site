@@ -2,11 +2,6 @@
 title: Drive-By Attack
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Modern D20 ](/modern.d20.srd) > [Feats](/modern.d20.srd/feats) > Drive-By Attack
-
-## Drive-By Attack
-
 Benefit: The character takes no vehicle speed penalty when making an
 [attack](/modern.d20.srd/combat/attack.roll) while in a moving vehicle. Also,
 if the character is the driver, he or she can take his or her [attack action](/modern.d20.srd/combat/attack.roll) to make an

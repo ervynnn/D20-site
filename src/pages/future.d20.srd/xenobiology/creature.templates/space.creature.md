@@ -2,11 +2,6 @@
 title: Space Creature
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Xenobiology](/future.d20.srd/xenobiology) > [Creature Templates](/future.d20.srd/xenobiology/creature) > Space Creature
-
-## Space Creature (Template)
-
 A space creature is a xenomorph that either lives in the cold vacuum of space
 or can survive there indefinitely. Space creatures often hibernate in comets
 and asteroids. Others wander outer space in search of food, occasionally

@@ -2,11 +2,6 @@
 title: The Breath of Life
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Scientific Engineering](/future.d20.srd/scientific.engineering) > The Breath of Life
-
-##  The Breath of Life
-
 While matter replication can duplicate inanimate objects from the proper
 blueprint, creating a living being is another issue altogether. The complexity
 of a living being is far beyond that of even the most complicated machine and

@@ -1,12 +1,7 @@
 ---
-title: Seed: Life
+title: Seed Life
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Arcana D20 ](/arcana.d20.srd) > [Incantations](/arcana.d20.srd/incantations) > Seed: Life
-
-## Seed: Life
-
 Conjuration (Healing)
 
 Knowledge (arcane lore) DC: 33; Range: Touch; Target: Dead creature touched;

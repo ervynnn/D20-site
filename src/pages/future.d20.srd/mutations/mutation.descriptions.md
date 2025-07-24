@@ -2,11 +2,6 @@
 title: Mutation Descriptions
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Mutations](/future.d20.srd/mutations) > Mutation Descriptions
-
-## Mutation Descriptions
-
 Cosmetic Mutations: The simplest and least mechanically complicated mutation
 is a cosmetic mutation. A cosmetic mutation has no game effect other than to
 change a creature’s appearance in some fashion. Cosmetic mutations cost 0 MP.

@@ -2,11 +2,6 @@
 title: Hazards of Space Travel
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [Traveler Science](/future.d20.srd/traveler.science) > [Realistic Space Travel](/future.d20.srd/traveler.science/realistic.space.travel) > Hazards of Space Travel
-
-## Hazards of Space Travel
-
 Space travel is nowhere near as easy as books and movies make it seem. Foreign
 objects are a constant danger; even a micrometeoroid traveling at a high
 enough velocity can punch a hole through a starship’s hull and expose the

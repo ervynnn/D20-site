@@ -2,11 +2,6 @@
 title: Vexing Voice
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
-[ Index ](/) > [ Future D20 ](/future.d20.srd) > [ Mutations ](/future.d20.srd/mutations) > Vexing Voice
-
-##  Vexing Voice [MAJOR]
-
 You can vex another creature using the peculiar resonance of your voice.
 
 MP Cost: 4.
