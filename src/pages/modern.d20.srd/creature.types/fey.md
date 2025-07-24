@@ -9,7 +9,7 @@ size.
 
 Hit Die: d6.
 
-Base Attack Bonus: 1/2 of total Hit Dice (see [ Table: Creature Saves and Base Attack Bonuses ](/modern.d20.srd/creature.types/index) ).
+Base Attack Bonus: 1/2 of total Hit Dice (see [ Table: Creature Saves and Base Attack Bonuses ](/modern.d20.srd/creature.types) ).
 
 Good [ Saving Throws ](/modern.d20.srd/basics/saving.throws) : Will.
 

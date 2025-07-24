@@ -15,7 +15,7 @@ The target’s higher mind is locked away. He or she stands mentally paralyzed,
 unable to take any actions. The brain locked subject is not stunned (so
 attackers get no special advantage). He or she can defend him or herself
 against physical attacks ( [ Dexterity](/modern.d20.srd/basics/ability.scores) bonus to [ Defense](/modern.d20.srd/combat/defense) still applies), but otherwise can’t move,
-and can’t use [ psionic powers ](/modern.d20.srd/psionics/index) .
+and can’t use [ psionic powers ](/modern.d20.srd/psionics) .
 
 A brain locked flyer can’t flap its wings and [ falls](/modern.d20.srd/environment.hazards/falling) . A swimmer can’t swim and may
 [ drown ](/modern.d20.srd/environment.hazards/suffocation.drowning) .

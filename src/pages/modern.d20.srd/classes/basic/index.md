@@ -76,7 +76,7 @@ Defense Bonus: The character’s bonus to
 bonus also applies.
 
 Reputation Bonus: The character’s base
-[Reputation](/modern.d20.srd/reputation/index) bonus.
+[Reputation](/modern.d20.srd/reputation) bonus.
 
 ### Class Features
 

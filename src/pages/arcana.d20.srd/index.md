@@ -54,11 +54,15 @@ sections:
 ---
 The Arcana d20 System Reference Document provides comprehensive rules for supernatural and occult gaming campaigns. From urban fantasy adventures to cosmic horror, this system covers everything you need for mystical roleplaying.
 
+<div id="tips" style="position: relative; top: -80px;"></div>
+
 ### Quick Navigation Tips
 
 - **New Players**: Start with [Advanced Classes](/arcana.d20.srd/advanced.classes) and [Occupations](/arcana.d20.srd/occupations)
 - **Game Masters**: Reference [Creatures](/arcana.d20.srd/creatures) and [Organizations](/arcana.d20.srd/organizations) for campaign elements
 - **Character Building**: Check [Incantations](/arcana.d20.srd/incantations), [FX Items](/arcana.d20.srd/fx.items), and [Feats](/arcana.d20.srd/feats)
+
+<div id="features" style="position: relative; top: -80px;"></div>
 
 ### System Features
 

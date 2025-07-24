@@ -5,7 +5,7 @@ layout: '~/layouts/MarkdownLayout.astro'
 The fundamental actions of moving and attacking cover most of what a character
 wants to do in a battle. They’re described here. Other, more specialized
 options are touched on in Table: Actions in Combat, and covered in [Special Initiative Actions](/modern.d20.srd/combat/special.initiative.actions) and
-[Special Attacks](/modern.d20.srd/combat/index).
+[Special Attacks](/modern.d20.srd/combat).
 
 ### The Combat Round
 

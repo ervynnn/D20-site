@@ -52,51 +52,39 @@ const getNavigationSections = (): NavigationSection[] => {
   if (path.startsWith('/modern.d20.srd')) {
     return [
       {
-        title: 'MODERN D20',
+        title: 'MODERN D20 SRD',
         color: 'blue',
         items: [
-          { text: 'Basics', href: '/modern.d20.srd/basics' },
-          { text: 'Classes', href: '/modern.d20.srd/classes' },
-          { text: 'Equipment', href: '/modern.d20.srd/equipment' },
-          { text: 'Combat', href: '/modern.d20.srd/combat' },
-          { text: 'Skills', href: '/modern.d20.srd/skills' },
-          { text: 'Feats', href: '/modern.d20.srd/feats' },
-          { text: 'Creatures', href: '/modern.d20.srd/creatures' },
-          { text: 'Wealth', href: '/modern.d20.srd/wealth' },
+          { text: 'Reference Sections', href: '#reference' },
+          { text: 'Quick Navigation Tips', href: '/modern.d20.srd#tips' },
+          { text: 'System Features', href: '/modern.d20.srd#features' },
+          { text: 'Bookmarks', href: '#bookmarks' },
         ]
       }
     ];
   } else if (path.startsWith('/future.d20.srd')) {
     return [
       {
-        title: 'FUTURE D20',
+        title: 'FUTURE D20 SRD',
         color: 'purple',
         items: [
-          { text: 'Classes', href: '/future.d20.srd/classes' },
-          { text: 'Cybernetics', href: '/future.d20.srd/cybernetics' },
-          { text: 'Mecha', href: '/future.d20.srd/mecha' },
-          { text: 'Mutations', href: '/future.d20.srd/mutations' },
-          { text: 'Equipment', href: '/future.d20.srd/equipment' },
-          { text: 'Progress Levels', href: '/future.d20.srd/progress.levels' },
-          { text: 'Starships', href: '/future.d20.srd/starships' },
-          { text: 'Robots', href: '/future.d20.srd/robots' },
+          { text: 'Reference Sections', href: '#reference' },
+          { text: 'Quick Navigation Tips', href: '/future.d20.srd#tips' },
+          { text: 'System Features', href: '/future.d20.srd#features' },
+          { text: 'Bookmarks', href: '#bookmarks' },
         ]
       }
     ];
   } else if (path.startsWith('/arcana.d20.srd')) {
     return [
       {
-        title: 'ARCANA D20',
+        title: 'ARCANA D20 SRD',
         color: 'green',
         items: [
-          { text: 'Advanced Classes', href: '/arcana.d20.srd/advanced.classes' },
-          { text: 'FX Items', href: '/arcana.d20.srd/fx.items' },
-          { text: 'Incantations', href: '/arcana.d20.srd/incantations' },
-          { text: 'Creatures', href: '/arcana.d20.srd/creatures' },
-          { text: 'Equipment', href: '/arcana.d20.srd/equipment' },
-          { text: 'Organizations', href: '/arcana.d20.srd/organizations' },
-          { text: 'Prestige Classes', href: '/arcana.d20.srd/prestige.classes' },
-          { text: 'Spells', href: '/arcana.d20.srd/spells' },
+          { text: 'Reference Sections', href: '#reference' },
+          { text: 'Quick Navigation Tips', href: '/arcana.d20.srd#tips' },
+          { text: 'System Features', href: '/arcana.d20.srd#features' },
+          { text: 'Bookmarks', href: '#bookmarks' },
         ]
       }
     ];
@@ -106,9 +94,10 @@ const getNavigationSections = (): NavigationSection[] => {
         title: 'D20 MENACES',
         color: 'red',
         items: [
-          { text: 'Menaces', href: '/menaces.d20/menaces' },
-          { text: 'Feats', href: '/menaces.d20/feats' },
-          { text: 'Buying Services', href: '/menaces.d20/buying.services' },
+          { text: 'Reference Sections', href: '#reference' },
+          { text: 'Quick Navigation Tips', href: '/menaces.d20#tips' },
+          { text: 'System Features', href: '/menaces.d20#features' },
+          { text: 'Bookmarks', href: '#bookmarks' },
         ]
       }
     ];
@@ -153,6 +142,7 @@ const navigationSections = getNavigationSections();
       </section>
 
       <!-- All Sections Grid -->
+      <div id="reference" style="position: relative; top: -80px;"></div>
       {frontmatter.sections && frontmatter.sections.length > 0 && (
         <Features
           title="Reference Sections"

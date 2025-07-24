@@ -8,7 +8,7 @@ Hit Dice, and damage based on size.
 
 Hit Die: d12.
 
-Base Attack Bonus: Total Hit Dice (see [ Table: Creature Saves and Base Attack Bonuses ](/modern.d20.srd/creature.types/index) ).
+Base Attack Bonus: Total Hit Dice (see [ Table: Creature Saves and Base Attack Bonuses ](/modern.d20.srd/creature.types) ).
 
 Good [ Saving Throws ](/modern.d20.srd/basics/saving.throws) : Fortitude,
 Reflex, Will.

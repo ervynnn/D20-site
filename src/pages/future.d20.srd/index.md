@@ -70,11 +70,15 @@ sections:
 ---
 The Future d20 System Reference Document provides comprehensive rules for science fiction gaming campaigns. From cyberpunk adventures to space exploration, this system covers everything you need for futuristic roleplaying.
 
+<div id="tips" style="position: relative; top: -80px;"></div>
+
 ### Quick Navigation Tips
 
 - **New Players**: Start with [Classes](/future.d20.srd/classes) and [Progress Levels](/future.d20.srd/progress.levels)
 - **Game Masters**: Reference [Equipment](/future.d20.srd/equipment) and [Environments](/future.d20.srd/environments) for campaign elements
 - **Character Building**: Check [Cybernetics](/future.d20.srd/cybernetics), [Mutations](/future.d20.srd/mutations), and [Feats](/future.d20.srd/feats)
+
+<div id="features" style="position: relative; top: -80px;"></div>
 
 ### System Features
 

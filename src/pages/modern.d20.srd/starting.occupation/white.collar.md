@@ -9,9 +9,9 @@ this starting occupation.
 
 Prerequisite: Age 23+.
 
-Skills: Choose two of the following [ skills ](/modern.d20.srd/skills/index)
-as permanent class [ skills ](/modern.d20.srd/skills/index) . If a [ skill](/modern.d20.srd/skills/index) the character selects is already a class [skill ](/modern.d20.srd/skills/index) , he or she receives a +1 competence
-bonus on checks using that [ skill ](/modern.d20.srd/skills/index) .
+Skills: Choose two of the following [ skills ](/modern.d20.srd/skills)
+as permanent class [ skills ](/modern.d20.srd/skills) . If a [ skill](/modern.d20.srd/skills) the character selects is already a class [skill ](/modern.d20.srd/skills) , he or she receives a +1 competence
+bonus on checks using that [ skill ](/modern.d20.srd/skills) .
 
 [ Computer Use ](/modern.d20.srd/skills/computer.use) , [ Diplomacy](/modern.d20.srd/skills/diplomacy) , [ Knowledge](/modern.d20.srd/skills/knowledge) (art, business, civics, earth and life
 sciences, history, physical sciences, or technology), [ Research](/modern.d20.srd/skills/research) .

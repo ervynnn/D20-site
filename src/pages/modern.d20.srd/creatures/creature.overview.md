@@ -140,7 +140,7 @@ calculate a creature’s [grapple](/modern.d20.srd/combat/grapple) modifier as
 well as the maximum bonus on [damage](/modern.d20.srd/combat/damage) rolls for
 a creature using the [Power Attack](/modern.d20.srd/feats/power.attack) feat.
 A creature’s base attack bonus is derived by cross-referencing the creature’s
-Hit Dice and type on [Table: Creature Saves and Base Attack Bonuses](/modern.d20.srd/creature.types/index).
+Hit Dice and type on [Table: Creature Saves and Base Attack Bonuses](/modern.d20.srd/creature.types).
 
 ### [Grapple](/modern.d20.srd/combat/grapple) Modifier (Grap)
 
@@ -470,7 +470,7 @@ armor bonus to [Defense](/modern.d20.srd/combat/defense), as shown on Table:
 Adjustments to Physical Abilities and Natural Armor. Note that a natural armor
 bonus stacks with an equipment bonus from armor.
 
-[Attack Bonus](/modern.d20.srd/combat/attack.roll): [Table: Creature Saves and Base Attack Bonuses](/modern.d20.srd/creature.types/index) shows how a
+[Attack Bonus](/modern.d20.srd/combat/attack.roll): [Table: Creature Saves and Base Attack Bonuses](/modern.d20.srd/creature.types) shows how a
 creature’s base attack bonus improves as it gains Hit Dice. A change in the
 creature’s size also modifies its [attack rolls](/modern.d20.srd/combat/attack.roll), as shown on Table: Creature Sizes.
 Both values must be counted when recalculating a creature’s attack bonus.
@@ -482,7 +482,7 @@ shown on Table: Creature Sizes.
 Damage: An increase in size also increases the amount of damage a creature
 deals with its natural weapons.
 
-[Saving Throws](/modern.d20.srd/basics/saving.throws): [Table: Creature Saves and Base Attack Bonuses](/modern.d20.srd/creature.types/index) shows how a
+[Saving Throws](/modern.d20.srd/basics/saving.throws): [Table: Creature Saves and Base Attack Bonuses](/modern.d20.srd/creature.types) shows how a
 creature’s saving throw bonuses improve as it gains Hit Dice.
 
 Ability Scores: An increase in size affects a creature’s

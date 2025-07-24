@@ -7,9 +7,9 @@ and other education professionals.
 
 Prerequisite: Age 23+.
 
-Skills: Choose three of the following [ skills ](/modern.d20.srd/skills/index)
-as permanent class [ skills ](/modern.d20.srd/skills/index) . If a [ skill](/modern.d20.srd/skills/index) the character selects is already a class [skill ](/modern.d20.srd/skills/index) , he or she receives a +1 competence
-bonus on checks using that [ skill ](/modern.d20.srd/skills/index) .
+Skills: Choose three of the following [ skills ](/modern.d20.srd/skills)
+as permanent class [ skills ](/modern.d20.srd/skills) . If a [ skill](/modern.d20.srd/skills) the character selects is already a class [skill ](/modern.d20.srd/skills) , he or she receives a +1 competence
+bonus on checks using that [ skill ](/modern.d20.srd/skills) .
 
 [ Computer Use ](/modern.d20.srd/skills/computer.use) , [ Craft (writing)](/modern.d20.srd/skills/craft.writing) , [ Decipher Script](/modern.d20.srd/skills/decipher.script) , [ Gather Information](/modern.d20.srd/skills/gather.information) , [ Knowledge](/modern.d20.srd/skills/knowledge) (arcane lore, art, behavioral sciences,
 business, civics, current events, earth and life sciences, history, physical

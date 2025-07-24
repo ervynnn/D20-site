@@ -7,20 +7,20 @@ starting occupation are only applied once, at the time of character creation.
 
 Many starting occupations have a prerequisite that the character must meet to
 qualify for the occupation. Each occupation provides a number of additional
-permanent class [skills](/modern.d20.srd/skills/index) that the character can
+permanent class [skills](/modern.d20.srd/skills) that the character can
 select from a list of choices. Once selected, a permanent class
-[skill](/modern.d20.srd/skills/index) is always considered to be a class
-[skill](/modern.d20.srd/skills/index) for the character. If the
-[skill](/modern.d20.srd/skills/index) selected is already a class
-[skill](/modern.d20.srd/skills/index) for the character, he or she also gains
-a one-time competence bonus for that [skill](/modern.d20.srd/skills/index).
+[skill](/modern.d20.srd/skills) is always considered to be a class
+[skill](/modern.d20.srd/skills) for the character. If the
+[skill](/modern.d20.srd/skills) selected is already a class
+[skill](/modern.d20.srd/skills) for the character, he or she also gains
+a one-time competence bonus for that [skill](/modern.d20.srd/skills).
 
 Some starting occupations provide a
-[Reputation](/modern.d20.srd/reputation/index) bonus or a bonus
-[feat](/modern.d20.srd/feats/index) (in addition to the two
-[feats](/modern.d20.srd/feats/index) a 1st-level character already receives).
+[Reputation](/modern.d20.srd/reputation) bonus or a bonus
+[feat](/modern.d20.srd/feats) (in addition to the two
+[feats](/modern.d20.srd/feats) a 1st-level character already receives).
 A character still must meet any prerequisites for these bonus
-[feats](/modern.d20.srd/feats/index). Finally, a starting occupation increases
+[feats](/modern.d20.srd/feats). Finally, a starting occupation increases
 the character’s [Wealth bonus](/modern.d20.srd/wealth/wealth.bonus).
 
 Choose one occupation from the available selections and apply the benefits to

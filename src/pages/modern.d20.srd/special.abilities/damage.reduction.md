@@ -8,7 +8,7 @@ immediately, or the [weapon](/modern.d20.srd/equipment/equipment.weapons)
 bounces off harmlessly (in either case, the opponent knows the
 [attack](/modern.d20.srd/combat/attack.actions) was ineffective). The creature
 takes normal damage from energy attacks (even nonmagical ones),
-[spells](/modern.d20.srd/fx/index), spell-like abilities, and supernatural
+[spells](/modern.d20.srd/fx), spell-like abilities, and supernatural
 abilities. A [magic weapon](/modern.d20.srd/fx.items/weapons) or a creature
 with its own damage reduction can sometimes
 [damage](/modern.d20.srd/combat/damage) the creature normally, as noted below.
@@ -25,6 +25,6 @@ magic is considered more powerful than any
 
 For purposes of harming other creatures with damage reduction, a creature’s
 natural weapons count as the type that ignores its own innate damage
-reduction. However, damage reduction from [spells](/modern.d20.srd/fx/index)
+reduction. However, damage reduction from [spells](/modern.d20.srd/fx)
 does not confer this ability. The amount of damage reduction is irrelevant.
 

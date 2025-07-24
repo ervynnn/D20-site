@@ -12,7 +12,7 @@ Some [military vehicles](/modern.d20.srd/equipment/military.vehicles) are
 equipped with fire-control computers. These systems grant equipment
 [bonuses](/modern.d20.srd/combat/attack.bonus) on [attack rolls](/modern.d20.srd/combat/attack.roll) with the [vehicle-mounted weapons](/modern.d20.srd/equipment/military.vehicles) to which they apply.
 
-Driving Defensively: Just as in [melee combat](/modern.d20.srd/combat/index),
+Driving Defensively: Just as in [melee combat](/modern.d20.srd/combat),
 one can fight defensively while driving a
 [vehicle](/modern.d20.srd/equipment/equipment.vehicles), which grants a +2
 [dodge bonus](/modern.d20.srd/combat/defense) to the vehicle’s

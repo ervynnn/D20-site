@@ -82,11 +82,15 @@ sections:
 ---
 The Modern d20 System Reference Document provides comprehensive rules for contemporary gaming campaigns. From urban adventures to modern military operations, this system covers everything you need for present-day roleplaying.
 
+<div id="tips" style="position: relative; top: -80px;"></div>
+
 ### Quick Navigation Tips
 
 - **New Players**: Start with [Basics](/modern.d20.srd/basics) and [Classes](/modern.d20.srd/classes)
 - **Game Masters**: Reference [Creatures](/modern.d20.srd/creatures) and [Equipment](/modern.d20.srd/equipment) for quick stats
 - **Character Building**: Check [Feats](/modern.d20.srd/feats), [Skills](/modern.d20.srd/skills), and [Starting Occupation](/modern.d20.srd/starting.occupation)
+
+<div id="features" style="position: relative; top: -80px;"></div>
 
 ### System Features
 
