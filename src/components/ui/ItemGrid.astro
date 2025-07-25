@@ -32,34 +32,80 @@ const {
         containerClass
       )}
     >
-      {items.map(({ title, description, icon, callToAction, classes: itemClasses = {} }) => (
-        <div class="intersect-once motion-safe:md:opacity-0 motion-safe:md:intersect:animate-fade">
-          <div class={twMerge('flex flex-row max-w-md', panelClass, itemClasses?.panel)}>
-            <div class="flex justify-center">
-              {(icon || defaultIcon) && (
-                <Icon
-                  name={icon || defaultIcon}
-                  class={twMerge('w-7 h-7 mr-2 rtl:mr-0 rtl:ml-2', defaultIconClass, itemClasses?.icon)}
-                />
-              )}
-            </div>
-            <div class="mt-0.5">
-              {title && <h3 class={twMerge('text-xl font-bold', titleClass, itemClasses?.title)}>{title}</h3>}
-              {description && (
-                <p
-                  class={twMerge(`${title ? 'mt-3' : ''} text-muted`, descriptionClass, itemClasses?.description)}
-                  set:html={description}
-                />
-              )}
-              {callToAction && (
-                <div class={twMerge(`${title || description ? 'mt-3' : ''}`, actionClass, itemClasses?.actionClass)}>
-                  <Button variant="link" {...callToAction} />
+      {items.map(({ title, description, icon, callToAction, classes: itemClasses = {} }) => {
+        const cardHref = callToAction?.href;
+        const cardTarget = callToAction?.target;
+        
+        return (
+          <div class="intersect-once motion-safe:md:opacity-0 motion-safe:md:intersect:animate-fade">
+            {cardHref ? (
+              <a 
+                href={cardHref}
+                {...(cardTarget ? { target: cardTarget, rel: 'noopener noreferrer' } : {})}
+                class={twMerge(
+                  'flex flex-row items-start max-w-md cursor-pointer transition-all duration-300 ease-in-out hover:shadow-lg hover:shadow-blue-500/20 hover:border-blue-300 hover:-translate-y-1 hover:bg-white/5 p-4 rounded-lg block w-full text-left no-underline', 
+                  panelClass, 
+                  itemClasses?.panel
+                )}
+              >
+                <div class="flex-shrink-0 mr-4">
+                  {(icon || defaultIcon) && (
+                    <Icon
+                      name={icon || defaultIcon}
+                      class={twMerge('w-12 h-12 p-2 rounded-full', defaultIconClass, itemClasses?.icon)}
+                    />
+                  )}
                 </div>
-              )}
-            </div>
+                <div class="flex-1">
+                  {title && <h3 class={twMerge('text-xl font-bold mb-2', titleClass, itemClasses?.title)}>{title}</h3>}
+                  {description && (
+                    <p
+                      class={twMerge('text-muted mb-2', descriptionClass, itemClasses?.description)}
+                      set:html={description}
+                    />
+                  )}
+                  {callToAction && (
+                    <div class={twMerge(actionClass, itemClasses?.actionClass)}>
+                      <span class="text-sm text-blue-400 hover:text-blue-300">
+                        {callToAction.text || 'View →'}
+                      </span>
+                    </div>
+                  )}
+                </div>
+              </a>
+            ) : (
+              <div class={twMerge(
+                'flex flex-row items-start max-w-md cursor-pointer transition-all duration-300 ease-in-out hover:shadow-lg hover:shadow-blue-500/20 hover:border-blue-300 hover:-translate-y-1 hover:bg-white/5 p-4 rounded-lg', 
+                panelClass, 
+                itemClasses?.panel
+              )}>
+                <div class="flex-shrink-0 mr-4">
+                  {(icon || defaultIcon) && (
+                    <Icon
+                      name={icon || defaultIcon}
+                      class={twMerge('w-12 h-12 p-2 rounded-full', defaultIconClass, itemClasses?.icon)}
+                    />
+                  )}
+                </div>
+                <div class="flex-1">
+                  {title && <h3 class={twMerge('text-xl font-bold mb-2', titleClass, itemClasses?.title)}>{title}</h3>}
+                  {description && (
+                    <p
+                      class={twMerge('text-muted mb-2', descriptionClass, itemClasses?.description)}
+                      set:html={description}
+                    />
+                  )}
+                  {callToAction && (
+                    <div class={twMerge(actionClass, itemClasses?.actionClass)}>
+                      <Button variant="link" {...callToAction} />
+                    </div>
+                  )}
+                </div>
+              </div>
+            )}
           </div>
-        </div>
-      ))}
+        );
+      })}
     </div>
   )
 }
