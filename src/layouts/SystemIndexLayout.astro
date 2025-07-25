@@ -111,10 +111,6 @@ const navigationSections = getNavigationSections();
 
 <Layout metadata={metadata}>
   <div class="flex min-h-screen transition-[padding] duration-300 ease-in-out" id="mainContainer">
-    <!-- Sidebar Navigation -->
-    {navigationSections.length > 0 && (
-        <SideNavigation sections={navigationSections} />
-    )}
     
     <!-- Main Content Area -->
     <main class="flex-1 px-4 sm:px-6 lg:px-8 min-w-0 transition-[margin] duration-300 ease-in-out">
@@ -130,6 +126,11 @@ const navigationSections = getNavigationSections();
             </p>
           )}
         </div>
+
+      <!-- Sidebar Navigation -->
+      {navigationSections.length > 0 && (
+          <SideNavigation sections={navigationSections} />
+      )}
         
         <!-- Breadcrumb Navigation -->
         <nav class="flex items-center space-x-2 text-sm text-gray-500 dark:text-slate-400 mb-8">
