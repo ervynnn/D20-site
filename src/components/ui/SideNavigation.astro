@@ -26,40 +26,181 @@ const sectionsWithActive = sections.map(section => ({
 }));
 ---
 
-<aside class="w-64 bg-white dark:bg-slate-800 border-r border-gray-200 dark:border-slate-700 h-screen fixed overflow-y-auto">
-  <div class="p-6">
-    <h2 class="text-lg font-bold text-gray-900 dark:text-slate-300 mb-4">Quick Navigation</h2>
-    
-    {sectionsWithActive.map((section) => (
-      <div class="mb-6">
-        <h3 class="text-sm font-semibold uppercase tracking-wide mb-3" 
-            class:list={[
-              section.color === 'blue' && 'text-blue-600 dark:text-blue-400',
-              section.color === 'purple' && 'text-purple-600 dark:text-purple-400', 
-              section.color === 'green' && 'text-green-600 dark:text-green-400',
-              section.color === 'red' && 'text-red-600 dark:text-red-400',
-              !section.color && 'text-gray-700 dark:text-slate-400'
-            ]}>
-          {section.title}
-        </h3>
-        <ul class="space-y-2">
-          {section.items.map((item) => (
-            <li>
-              <a 
-                href={item.href}
-                class:list={[
-                  "block px-3 py-2 rounded-md text-sm transition-colors",
-                  item.active 
-                    ? "bg-primary/10 text-primary dark:bg-primary/20 font-medium border-l-2 border-primary" 
-                    : "text-gray-600 dark:text-slate-400 hover:text-gray-900 dark:hover:text-slate-300 hover:bg-gray-50 dark:hover:bg-slate-700"
-                ]}
-              >
-                {item.text}
-              </a>
-            </li>
-          ))}
-        </ul>
+<div id="sidebarContainer" class="fixed inset-y-0 left-0 px-2 sm:px-4 pt-20 sm:pt-24 pb-8 h-screen pointer-events-none transition-transform duration-300 ease-in-out z-40">
+  <aside class="bg-slate-50 dark:bg-[#0B1223] rounded-lg w-[280px] sm:w-60 h-full flex overflow-hidden pointer-events-auto shadow-lg dark:shadow-xl border border-slate-200/50 dark:border-slate-800/20 transition-colors duration-200 relative">
+     <!-- Add toggle button -->
+    <button 
+      id="toggleSidebar"
+      class="absolute right-2 top-1/2 transform -translate-y-1/2 w-6 h-16 rounded-r-lg flex items-center place-items-center justify-center text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-slate-300 transition-all duration-200 z-50 cursor-pointer"
+      aria-label="Toggle navigation"
+      type="button"
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-8 transition-transform duration-300 ease-in-out pointer-events-none" viewBox="0 0 20 20" fill="currentColor" id="toggleIcon">
+        <path fill-rule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clip-rule="evenodd" />
+      </svg>
+    </button>
+
+    <div class="p-4 sm:p-6 w-full overflow-y-auto custom-scrollbar">
+      <div class="mb-6 sm:mb-8 flex justify-between items-center">
+        <h2 class="text-sm font-semibold uppercase tracking-wide text-slate-600 dark:text-slate-400">Quick Navigation</h2>
       </div>
-    ))}
-  </div>
-</aside>
+      
+      {sectionsWithActive.map((section) => (
+        <div class="mb-4 sm:mb-6">
+          <h3 class="text-xs font-semibold uppercase tracking-wider text-primary mb-2 sm:mb-3">
+            {section.title}
+          </h3>
+          <ul class="space-y-1 sm:space-y-2">
+            {section.items.map((item) => (
+              <li>
+                <a 
+                  href={item.href}
+                  class:list={[
+                    "flex items-center px-2 sm:px-3 py-2 rounded-lg text-sm transition-colors duration-200",
+                    item.active 
+                      ? "bg-blue-50 text-blue-600 dark:bg-blue-500/10 dark:text-blue-400" 
+                      : "text-slate-600 hover:text-slate-900 hover:bg-slate-100/80 dark:text-slate-400 dark:hover:text-slate-300 dark:hover:bg-slate-800/50"
+                  ]}
+                >
+                  {item.text}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </div>
+  </aside>
+</div>
+
+<style>
+  #sidebarContainer {
+    transition: transform 0.3s ease-in-out;
+  }
+
+  #sidebarContainer.sidebar-hidden {
+    transform: translateX(-280px);
+  }
+
+  /* Ensure consistent behavior on mobile */
+  @media (max-width: 640px) {
+    #sidebarContainer {
+      width: 280px;
+    }
+    
+    #sidebarContainer.sidebar-hidden {
+      transform: translateX(-280px);
+    }
+  }
+
+  #toggleIcon {
+    transition: transform 0.3s ease-in-out;
+  }
+
+  #sidebarContainer.sidebar-hidden #toggleIcon {
+    transform: rotate(180deg);
+  }
+
+  /* Custom scrollbar styles */
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 4px;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    @apply bg-slate-300 dark:bg-slate-700;
+    border-radius: 2px;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    @apply bg-slate-400 dark:bg-slate-600;
+  }
+
+  @media (max-width: 640px) {
+    .custom-scrollbar::-webkit-scrollbar {
+      width: 2px;
+    }
+  }
+
+  /* Ensure the button stays visible when sidebar is hidden */
+  #sidebarContainer.sidebar-hidden #toggleSidebar {
+    right: -3px;
+  }
+</style>
+
+<script>
+  // Single function to avoid duplication
+  function initializeSidebar() {
+    const toggleButton = document.getElementById('toggleSidebar');
+    const sidebarContainer = document.getElementById('sidebarContainer');
+    
+    // Early return if elements don't exist
+    if (!toggleButton || !sidebarContainer) {
+      console.warn('Sidebar elements not found');
+      return;
+    }
+
+    // Remove any existing event listeners to prevent duplicates
+    const newToggleButton = toggleButton.cloneNode(true);
+    toggleButton.parentNode?.replaceChild(newToggleButton, toggleButton);
+    
+    function toggleSidebar(event) {
+      event.preventDefault();
+      event.stopPropagation();
+      
+      console.log('Toggle sidebar clicked');
+      
+      sidebarContainer.classList.toggle('sidebar-hidden');
+      const isClosed = sidebarContainer.classList.contains('sidebar-hidden');
+      
+      console.log('Sidebar is now:', isClosed ? 'closed' : 'open');
+      
+      // Save state to localStorage
+      try {
+        localStorage.setItem('sidebarState', isClosed ? 'closed' : 'open');
+      } catch (e) {
+        console.warn('Could not save sidebar state to localStorage:', e);
+      }
+    }
+
+    function initSidebar() {
+      try {
+        const savedState = localStorage.getItem('sidebarState');
+        console.log('Saved sidebar state:', savedState);
+        
+        if (savedState === 'closed') {
+          sidebarContainer.classList.add('sidebar-hidden');
+          console.log('Sidebar initialized as closed');
+        } else {
+          sidebarContainer.classList.remove('sidebar-hidden');
+          console.log('Sidebar initialized as open');
+        }
+      } catch (e) {
+        console.warn('Could not read sidebar state from localStorage:', e);
+      }
+    }
+
+    // Add event listener to the new button
+    newToggleButton.addEventListener('click', toggleSidebar);
+    
+    // Initialize sidebar state
+    initSidebar();
+    
+    console.log('Sidebar initialized successfully');
+  }
+
+  // Initialize on both events to ensure it works
+  document.addEventListener('astro:page-load', initializeSidebar);
+  document.addEventListener('DOMContentLoaded', initializeSidebar);
+
+  // Also initialize immediately if DOM is already ready
+  if (document.readyState === 'loading') {
+    // Do nothing, we'll catch it with DOMContentLoaded
+  } else {
+    // DOM is already ready
+    initializeSidebar();
+  }
+</script>
