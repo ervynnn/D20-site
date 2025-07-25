@@ -26,12 +26,12 @@ const sectionsWithActive = sections.map(section => ({
 }));
 ---
 
-<div id="sidebarContainer" class="fixed inset-y-0 left-0 px-2 sm:px-4 pt-20 sm:pt-24 pb-8 h-screen pointer-events-none transition-transform duration-300 ease-in-out z-40">
+<div id="sidebarContainer" class="fixed inset-y-0 left-0 px-2 sm:px-4 pt-20 sm:pt-24 pb-8 h-screen pointer-events-none transition-transform duration-300 ease-in-out">
   <aside class="bg-slate-50 dark:bg-[#0B1223] rounded-lg w-[280px] sm:w-60 h-full flex overflow-hidden pointer-events-auto shadow-lg dark:shadow-xl border border-slate-200/50 dark:border-slate-800/20 transition-colors duration-200 relative">
      <!-- Add toggle button -->
     <button 
       id="toggleSidebar"
-      class="absolute right-2 top-1/2 transform -translate-y-1/2 w-6 h-16 rounded-r-lg flex items-center place-items-center justify-center text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-slate-300 transition-all duration-200 z-50 cursor-pointer"
+      class="absolute right-0 top-1/2 transform -translate-y-1/2 w-8 h-16 rounded-r-lg flex items-center place-items-center justify-center text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-slate-300 transition-all duration-200 z-50 cursor-pointer"
       aria-label="Toggle navigation"
       type="button"
     >
