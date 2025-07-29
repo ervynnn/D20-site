@@ -3,7 +3,6 @@ import type { GetStaticPaths } from 'astro';
 
 import Layout from '~/layouts/PageLayout.astro';
 import Hero from '~/components/widgets/Hero.astro';
-import IndexList from '~/components/ui/IndexList.astro';
 
 import { getStaticPathsBlogList } from '~/utils/blog';
 
@@ -19,366 +18,209 @@ const metadata = {
     type: 'blog',
   },
 };
-
-const modernD20: [string, string][] = [
-  ['Basics', '/modern.d20.srd/basics'],
-  ['FX Items', '/modern.d20.srd/fx.items'],
-  ['Classes', '/modern.d20.srd/classes'],
-  ['Ordinaries', '/modern.d20.srd/ordinaries'],
-  ['Combat', '/modern.d20.srd/combat'],
-  ['Psionics', '/modern.d20.srd/psionics'],
-  ['Condition Summary', '/modern.d20.srd/conditions'],
-  ['Reputation', '/modern.d20.srd/reputation'],
-  ['Creature Types', '/modern.d20.srd/creature.types'],
-  ['Skills', '/modern.d20.srd/skills'],
-  ['Creatures', '/modern.d20.srd/creatures'],
-  ['Special Abilities', '/modern.d20.srd/special.abilities'],
-  ['Environment & Hazards', '/modern.d20.srd/environment.hazards'],
-  ['Starting Occupation', '/modern.d20.srd/starting.occupation'],
-  ['Equipment', '/modern.d20.srd/equipment'],
-  ['Vehicle Movement and Combat', '/modern.d20.srd/vehicle.movement.and.combat'],
-  ['Feats', '/modern.d20.srd/feats'],
-  ['Wealth', '/modern.d20.srd/wealth'],
-  ['FX', '/modern.d20.srd/fx'],
-];
-
-const futureD20: [string, string][] = [
-  ['Classes', '/future.d20.srd/classes'],
-  ['Progress Levels', '/future.d20.srd/progress.levels'],
-  ['Cybernetics', '/future.d20.srd/cybernetics'],
-  ['Robots', '/future.d20.srd/robots'],
-  ['Environments', '/future.d20.srd/environments'],
-  ['Scientific Engineering', '/future.d20.srd/scientific.engineering'],
-  ['Equipment', '/future.d20.srd/equipment'],
-  ['Starships', '/future.d20.srd/starships'],
-  ['Expanded Skills', '/future.d20.srd/expanded.skills'],
-  ['Starting Occupations', '/future.d20.srd/starting.occupations'],
-  ['Feats', '/future.d20.srd/feats'],
-  ['Traveler Science', '/future.d20.srd/traveler.science'],
-  ['Mecha', '/future.d20.srd/mecha'],
-  ['Vehicles', '/future.d20.srd/vehicles'],
-  ['Mutations', '/future.d20.srd/mutations'],
-  ['Xenobiology', '/future.d20.srd/xenobiology'],
-];
-
-const arcanaD20: [string, string][] = [
-  ['Advanced Classes', '/arcana.d20.srd/advanced.classes'],
-  ['Occupations', '/arcana.d20.srd/occupations'],
-  ['Creatures', '/arcana.d20.srd/creatures'],
-  ['Organizations', '/arcana.d20.srd/organizations'],
-  ['Equipment', '/arcana.d20.srd/equipment'],
-  ['Prestige Classes', '/arcana.d20.srd/prestige.classes'],
-  ['Feats', '/arcana.d20.srd/feats'],
-  ['Psionics', '/arcana.d20.srd/psionics'],
-  ['FX Items', '/arcana.d20.srd/fx.items'],
-  ['Shadowkind', '/arcana.d20.srd/shadowkind'],
-  ['Incantations', '/arcana.d20.srd/incantations'],
-  ['Spells', '/arcana.d20.srd/spells'],
-];
-
-const menacesD20 = [
-  ['Buying Services', '/menaces.d20/buying.services'],
-  ['Feats', '/menaces.d20/feats'],
-  ['Menaces', '/menaces.d20/menaces'],
-];
-
-const carouselData = [
-  {
-    id: 'modern',
-    title: 'Modern D20',
-    description: 'Explore contemporary settings with modern equipment, technology, and gameplay mechanics.',
-    links: modernD20.slice(0, 3),
-    viewMoreHref: '/modern.d20.srd' // Leave blank as requested
-  },
-  {
-    id: 'future',
-    title: 'Future D20',
-    description: 'Venture into sci-fi realms with advanced technology, cybernetics, and futuristic equipment.',
-    links: futureD20.slice(0, 3),
-    viewMoreHref: '/future.d20.srd' // Leave blank as requested
-  },
-  {
-    id: 'arcana',
-    title: 'Arcana D20',
-    description: 'Delve into mystical arts with spells, incantations, and supernatural abilities.',
-    links: arcanaD20.slice(0, 3),
-    viewMoreHref: '/arcana.d20.srd' // Leave blank as requested
-  }
-];
 ---
 
 <Layout metadata={metadata}>
-  <section class="px-6 sm:px-6 py-12 sm:py-16 lg:py-10 mx-auto max-w-6xl">
-    <Hero>
-      <Fragment slot="title">
-        <span class="text-accent dark:text-white highlight">D20 Resources</span>
-      </Fragment>
-      <Fragment slot="subtitle">
-        <span class="hidden sm:inline"> It was created with the idea of making playing d20 games easier. </span>
-      </Fragment>
-    </Hero>
+  <!-- Hero Section -->
+  <Hero>
+    <Fragment slot="title">
+      <span class="text-accent dark:text-white highlight">D20 Resources</span>
+    </Fragment>
+    <Fragment slot="subtitle">
+      <span class="hidden sm:inline">It was created with the idea of making playing d20 games easier.</span>
+    </Fragment>
+  </Hero>
 
-    <!-- Carousel Section -->
-    <div class="carousel-container relative bg-gray-100 dark:bg-gray-800 rounded-lg border border-gray-500 dark:border-gray-700 p-8 mb-12">
-      <!-- Navigation arrows -->
-      <button class="carousel-prev absolute left-4 top-1/2 transform -translate-y-1/2 z-10 w-12 h-12 rounded-full  bg-transparent dark:bg-transparent hover:border-accent flex items-center justify-center transition-colors hover:bg-accent dark:hover:bg-accent hover:text-white">
-        <span class="text-4xl  dark:text-gray-300">⮜</span>
-      </button>
+   <!-- Main Content Section - Full Width Layout -->
+  <section class="px-6 sm:px-8 lg:px-12 xl:px-16 2xl:px-20 py-8 sm:py-12 lg:py-16 mx-auto max-w-[1800px] relative min-h-[80vh]">
+    <!-- Background Design Elements -->
+    <div class="absolute inset-0 pointer-events-none">
+      <!-- Much more visible light mode backgrounds -->
+      <div class="opacity-[0.15] dark:opacity-[0.08]">
+        <div class="absolute top-10 left-10 w-32 h-32 bg-primary rounded-full blur-3xl"></div>
+        <div class="absolute top-40 right-20 w-24 h-24 bg-blue-500 rounded-full blur-2xl"></div>
+        <div class="absolute bottom-20 left-1/3 w-40 h-40 bg-purple-500 rounded-full blur-3xl"></div>
+        <div class="absolute bottom-40 right-10 w-28 h-28 bg-green-500 rounded-full blur-2xl"></div>
+      </div>
       
-      <button class="carousel-next absolute right-4 top-1/2 transform -translate-y-1/2 z-10 w-12 h-12 rounded-full dark:bg-transparent hover:border-accent flex items-center justify-center transition-colors hover:bg-accent dark:hover:bg-accent hover:text-white">
-        <span class="text-4xl  dark:text-gray-300">⮞</span>
-      </button>
-
-      <!-- Carousel slides -->
-      <div class="carousel-content overflow-hidden">
-        <div class="carousel-track flex transition-transform duration-500 ease-in-out">
-          {carouselData.map((slide, index) => (
-            <div class="carousel-slide w-full flex-shrink-0 px-8">
-              <div class="text-center mb-8">
-                <h2 class="text-4xl text-primary font-bold mb-4">{slide.title}</h2>
-                <p class="text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">{slide.description}</p>
-              </div>
-              
-              <div class="flex flex-col sm:flex-row gap-4 justify-center items-center mb-8">
-                {slide.links.map(([title, href]) => (
-                  <a 
-                    href={href} 
-                    class="px-6 py-3 border border-gray-300 dark:border-gray-600 rounded hover:border-accent hover:bg-accent hover:text-white transition-colors min-w-[140px] text-center"
-                  >
-                    {title}
-                  </a>
-                ))}
-                
-                <a 
-                  href={slide.viewMoreHref} 
-                  class="px-6 py-3 bg-primary text-white rounded hover:bg-accent transition-colors min-w-[140px] text-center font-semibold"
-                >
-                  View More →
-                </a>
-              </div>
-            </div>
-          ))}
+      <!-- Additional light mode specific elements -->
+      <div class="opacity-[0.12] dark:opacity-0">
+        <div class="absolute top-1/4 right-1/4 w-20 h-20 bg-amber-400 rounded-full blur-xl"></div>
+        <div class="absolute bottom-1/3 left-1/4 w-16 h-16 bg-rose-400 rounded-full blur-lg"></div>
+        <div class="absolute top-2/3 left-1/2 w-24 h-24 bg-cyan-400 rounded-full blur-2xl"></div>
+        <div class="absolute top-1/2 right-1/3 w-18 h-18 bg-violet-400 rounded-full blur-lg"></div>
+        <div class="absolute top-3/4 left-2/3 w-14 h-14 bg-indigo-400 rounded-full blur-lg"></div>
+        <div class="absolute bottom-1/4 right-2/3 w-22 h-22 bg-teal-400 rounded-full blur-xl"></div>
+      </div>
+      
+      <!-- Dark mode only backgrounds -->
+      <div class="opacity-0 dark:opacity-[0.1]">
+        <div class="absolute top-2/3 left-1/2 w-24 h-24 bg-cyan-400 rounded-full blur-2xl"></div>
+        <div class="absolute top-1/2 right-1/3 w-18 h-18 bg-violet-400 rounded-full blur-lg"></div>
+        <div class="absolute top-3/4 left-2/3 w-14 h-14 bg-indigo-400 rounded-full blur-lg"></div>
+        <div class="absolute bottom-1/4 right-2/3 w-22 h-22 bg-teal-400 rounded-full blur-xl"></div>
+      </div>
+      
+      <!-- Enhanced gradient overlay for light mode -->
+      <div class="absolute inset-0 bg-gradient-to-br from-transparent-50/60 via-purple-50/40 to-transparent-50/50 dark:from-transparent dark:to-transparent"></div>
+      
+      <!-- Additional texture overlay for light mode -->
+      <div class="absolute inset-0 bg-gradient-to-tr from-transparent via-gray-50/30 to-transparent-50/40 dark:from-transparent dark:to-transparent"></div>
+    </div>
+    
+    <!-- Content Grid - Optimized for viewport height -->
+    <div class="grid grid-cols-1 xl:grid-cols-3 gap-6 lg:gap-8 relative z-10 h-full">
+      
+      <!-- Left Column - Modern D20 SRD -->
+      <div class="bg-white/90 dark:bg-gray-800/20 backdrop-blur-lg rounded-xl p-6 lg:p-8 border border-gray-200/50 dark:border-gray-700/20 hover:bg-white/95 dark:hover:bg-gray-800/30 shadow-xl dark:shadow-none transition-all duration-300 flex flex-col">
+        <h3 class="text-xl lg:text-2xl font-bold mb-6">
+          <a href="/modern.d20.srd" class="text-primary hover:text-primary/80 transition-colors">Modern D20 SRD</a>
+        </h3>
+        <div class="grid grid-cols-1 gap-4 lg:gap-6 text-sm flex-grow">
+          <ul class="space-y-2 text-muted">
+            <li><a href="/modern.d20.srd/basics" class="hover:text-primary transition-colors">Basics</a></li>
+            <li><a href="/modern.d20.srd/classes" class="hover:text-primary transition-colors">Classes</a></li>
+            <li><a href="/modern.d20.srd/combat" class="hover:text-primary transition-colors">Combat</a></li>
+            <li><a href="/modern.d20.srd/conditions" class="hover:text-primary transition-colors">Condition Summary</a></li>
+            <li><a href="/modern.d20.srd/creature.types" class="hover:text-primary transition-colors">Creature Types</a></li>
+            <li><a href="/modern.d20.srd/creatures" class="hover:text-primary transition-colors">Creatures</a></li>
+            <li><a href="/modern.d20.srd/environment.hazards" class="hover:text-primary transition-colors">Environment & Hazards</a></li>
+            <li><a href="/modern.d20.srd/equipment" class="hover:text-primary transition-colors">Equipment</a></li>
+            <li><a href="/modern.d20.srd/feats" class="hover:text-primary transition-colors">Feats</a></li>
+            <li><a href="/modern.d20.srd/fx" class="hover:text-primary transition-colors">FX</a></li>
+            <li><a href="/modern.d20.srd/fx.items" class="hover:text-primary transition-colors">FX Items</a></li>
+            <li><a href="/modern.d20.srd/ordinaries" class="hover:text-primary transition-colors">Ordinaries</a></li>
+            <li><a href="/modern.d20.srd/psionics" class="hover:text-primary transition-colors">Psionics</a></li>
+            <li><a href="/modern.d20.srd/reputation" class="hover:text-primary transition-colors">Reputation</a></li>
+            <li><a href="/modern.d20.srd/skills" class="hover:text-primary transition-colors">Skills</a></li>
+            <li><a href="/modern.d20.srd/special.abilities" class="hover:text-primary transition-colors">Special Abilities</a></li>
+            <li><a href="/modern.d20.srd/starting.occupation" class="hover:text-primary transition-colors">Starting Occupation</a></li>
+            <li><a href="/modern.d20.srd/vehicle.movement.and.combat" class="hover:text-primary transition-colors">Vehicle Movement</a></li>
+            <li><a href="/modern.d20.srd/wealth" class="hover:text-primary transition-colors">Wealth</a></li>
+          </ul>
+        </div>
+        <div class="mt-6 pt-4 border-t border-gray-200/50 dark:border-gray-700/20">
+          <a href="/modern.d20.srd" class="inline-flex items-center justify-center w-full px-4 py-2 text-sm font-medium text-primary hover:text-white hover:bg-primary/20 border border-primary/30 rounded-lg transition-all duration-300">
+            View More
+            <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+            </svg>
+          </a>
         </div>
       </div>
 
-      <!-- Carousel indicators -->
-      <div class="carousel-indicators flex justify-center gap-2 mt-6">
-        {carouselData.map((_, index) => (
-          <button 
-            class={`w-3 h-3 rounded-full transition-colors ${index === 0 ? 'bg-primary' : 'bg-gray-300 dark:bg-gray-600'}`}
-            data-slide={index}
-          ></button>
-        ))}
+      <!-- Center Column - Future D20 SRD and Arcana D20 SRD -->
+      <div class="space-y-6 lg:space-y-8">
+        
+        <!-- Future D20 SRD -->
+        <div class="bg-white/90 dark:bg-gray-800/20 backdrop-blur-lg rounded-xl p-6 lg:p-8 border border-gray-200/50 dark:border-gray-700/20 hover:bg-white/95 dark:hover:bg-gray-800/30 shadow-xl dark:shadow-none transition-all duration-300 flex flex-col">
+          <h3 class="text-xl lg:text-2xl font-bold mb-6">
+            <a href="/future.d20.srd" class="text-primary hover:text-primary/80 transition-colors">Future D20 SRD</a>
+          </h3>
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4 lg:gap-6 text-sm flex-grow">
+            <ul class="space-y-2 text-muted">
+              <li><a href="/future.d20.srd/classes" class="hover:text-primary transition-colors">Classes</a></li>
+              <li><a href="/future.d20.srd/cybernetics" class="hover:text-primary transition-colors">Cybernetics</a></li>
+              <li><a href="/future.d20.srd/environments" class="hover:text-primary transition-colors">Environments</a></li>
+              <li><a href="/future.d20.srd/equipment" class="hover:text-primary transition-colors">Equipment</a></li>
+              <li><a href="/future.d20.srd/expanded.skills" class="hover:text-primary transition-colors">Expanded Skills</a></li>
+              <li><a href="/future.d20.srd/feats" class="hover:text-primary transition-colors">Feats</a></li>
+              <li><a href="/future.d20.srd/mecha" class="hover:text-primary transition-colors">Mecha</a></li>
+              <li><a href="/future.d20.srd/mutations" class="hover:text-primary transition-colors">Mutations</a></li>
+            </ul>
+            <ul class="space-y-2 text-muted">
+              <li><a href="/future.d20.srd/progress.levels" class="hover:text-primary transition-colors">Progress Levels</a></li>
+              <li><a href="/future.d20.srd/robots" class="hover:text-primary transition-colors">Robots</a></li>
+              <li><a href="/future.d20.srd/scientific.engineering" class="hover:text-primary transition-colors">Scientific Engineering</a></li>
+              <li><a href="/future.d20.srd/starships" class="hover:text-primary transition-colors">Starships</a></li>
+              <li><a href="/future.d20.srd/starting.occupations" class="hover:text-primary transition-colors">Starting Occupations</a></li>
+              <li><a href="/future.d20.srd/traveler.science" class="hover:text-primary transition-colors">Traveler Science</a></li>
+              <li><a href="/future.d20.srd/vehicles" class="hover:text-primary transition-colors">Vehicles</a></li>
+              <li><a href="/future.d20.srd/xenobiology" class="hover:text-primary transition-colors">Xenobiology</a></li>
+            </ul>
+          </div>
+          <div class="mt-6 pt-4 border-t border-gray-200/50 dark:border-gray-700/20">
+            <a href="/future.d20.srd" class="inline-flex items-center justify-center w-full px-4 py-2 text-sm font-medium text-primary hover:text-white hover:bg-primary/20 border border-primary/30 rounded-lg transition-all duration-300">
+              View More
+              <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+              </svg>
+            </a>
+          </div>
+        </div>
+
+        <!-- Arcana D20 SRD -->
+        <div class="bg-white/90 dark:bg-gray-800/20 backdrop-blur-lg rounded-xl p-6 lg:p-8 border border-gray-200/50 dark:border-gray-700/20 hover:bg-white/95 dark:hover:bg-gray-800/30 shadow-xl dark:shadow-none transition-all duration-300 flex flex-col">
+          <h3 class="text-xl lg:text-2xl font-bold mb-6">
+            <a href="/arcana.d20.srd" class="text-primary hover:text-primary/80 transition-colors">Arcana D20 SRD</a>
+          </h3>
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 text-sm flex-grow">
+            <ul class="space-y-2 text-muted">
+              <li><a href="/arcana.d20.srd/advanced.classes" class="hover:text-primary transition-colors">Advanced Classes</a></li>
+              <li><a href="/arcana.d20.srd/creatures" class="hover:text-primary transition-colors">Creatures</a></li>
+              <li><a href="/arcana.d20.srd/equipment" class="hover:text-primary transition-colors">Equipment</a></li>
+              <li><a href="/arcana.d20.srd/feats" class="hover:text-primary transition-colors">Feats</a></li>
+            </ul>
+            <ul class="space-y-2 text-muted">
+              <li><a href="/arcana.d20.srd/fx.items" class="hover:text-primary transition-colors">FX Items</a></li>
+              <li><a href="/arcana.d20.srd/incantations" class="hover:text-primary transition-colors">Incantations</a></li>
+              <li><a href="/arcana.d20.srd/occupations" class="hover:text-primary transition-colors">Occupations</a></li>
+              <li><a href="/arcana.d20.srd/organizations" class="hover:text-primary transition-colors">Organizations</a></li>
+            </ul>
+            <ul class="space-y-2 text-muted">
+              <li><a href="/arcana.d20.srd/prestige.classes" class="hover:text-primary transition-colors">Prestige Classes</a></li>
+              <li><a href="/arcana.d20.srd/psionics" class="hover:text-primary transition-colors">Psionics</a></li>
+              <li><a href="/arcana.d20.srd/shadowkind" class="hover:text-primary transition-colors">Shadowkind</a></li>
+              <li><a href="/arcana.d20.srd/spells" class="hover:text-primary transition-colors">Spells</a></li>
+            </ul>
+          </div>
+          <div class="mt-6 pt-4 border-t border-gray-200/50 dark:border-gray-700/20">
+            <a href="/arcana.d20.srd" class="inline-flex items-center justify-center w-full px-4 py-2 text-sm font-medium text-primary hover:text-white hover:bg-primary/20 border border-primary/30 rounded-lg transition-all duration-300">
+              View More
+              <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+              </svg>
+            </a>
+          </div>
+        </div>
       </div>
+
+      <!-- Right Column - D20 Menaces and Bookmark Downloads -->
+      <div class="space-y-6 lg:space-y-8">
+        
+        <!-- D20 Menaces -->
+        <div class="bg-white/90 dark:bg-gray-800/20 backdrop-blur-lg rounded-xl p-6 lg:p-8 border border-gray-200/50 dark:border-gray-700/20 hover:bg-white/95 dark:hover:bg-gray-800/30 shadow-xl dark:shadow-none transition-all duration-300 flex flex-col">
+          <h3 class="text-xl lg:text-2xl font-bold mb-6">
+            <a href="/menaces.d20" class="text-primary hover:text-primary/80 transition-colors">D20 Menaces</a>
+          </h3>
+          <ul class="space-y-3 text-muted text-sm flex-grow">
+            <li><a href="/menaces.d20/buying.services" class="hover:text-primary transition-colors block">Buying Services</a></li>
+            <li><a href="/menaces.d20/feats" class="hover:text-primary transition-colors block">Feats</a></li>
+            <li><a href="/menaces.d20/menaces" class="hover:text-primary transition-colors block">Menaces</a></li>
+          </ul>
+          <div class="mt-6 pt-4 border-t border-gray-200/50 dark:border-gray-700/20">
+            <a href="/menaces.d20" class="inline-flex items-center justify-center w-full px-4 py-2 text-sm font-medium text-primary hover:text-white hover:bg-primary/20 border border-primary/30 rounded-lg transition-all duration-300">
+              View More
+              <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+              </svg>
+            </a>
+          </div>
+        </div>
+
+        <!-- Bookmark Downloads -->
+        <div class="bg-white/90 dark:bg-gray-800/20 backdrop-blur-lg rounded-xl p-6 lg:p-8 border border-gray-200/50 dark:border-gray-700/20 hover:bg-white/95 dark:hover:bg-gray-800/30 shadow-xl dark:shadow-none transition-all duration-300">
+          <h3 class="text-xl lg:text-2xl font-bold mb-6 text-primary">Bookmark Downloads</h3>
+          <ul class="space-y-3 text-muted text-sm">
+            <li><a href="#" class="hover:text-primary transition-colors block">Entire Site</a></li>
+            <li><a href="#" class="hover:text-primary transition-colors block">Modern D20 SRD</a></li>
+            <li><a href="#" class="hover:text-primary transition-colors block">Future D20 SRD</a></li>
+            <li><a href="#" class="hover:text-primary transition-colors block">Arcana D20 SRD (Instructions)</a></li>
+            <li><a href="#" class="hover:text-primary transition-colors block">Menaces D20 (Instructions)</a></li>
+          </ul>
+        </div>
+      </div>
+
     </div>
   </section>
 </Layout>
-<script>
-  class Carousel {
-    constructor() {
-      this.currentSlide = 0;
-      this.totalSlides = 3;
-      this.track = null;
-      this.indicators = null;
-      this.prevButton = null;
-      this.nextButton = null;
-      this.autoPlayInterval = null;
-      this.carouselContainer = null;
-      this.isHovered = false;
-      
-      this.init();
-    }
-
-    init() {
-      // Wait for elements to be available
-      this.waitForElements().then(() => {
-        this.setupElements();
-        this.addEventListeners();
-        this.updateCarousel();
-        this.startAutoPlay();
-      });
-    }
-
-    waitForElements() {
-      return new Promise((resolve) => {
-        const checkElements = () => {
-          const track = document.querySelector('.carousel-track');
-          const indicators = document.querySelectorAll('.carousel-indicators button');
-          const prevButton = document.querySelector('.carousel-prev');
-          const nextButton = document.querySelector('.carousel-next');
-          const container = document.querySelector('.carousel-container');
-          
-          if (track && indicators.length > 0 && prevButton && nextButton && container) {
-            resolve();
-          } else {
-            setTimeout(checkElements, 50);
-          }
-        };
-        checkElements();
-      });
-    }
-
-    setupElements() {
-      this.track = document.querySelector('.carousel-track');
-      this.indicators = document.querySelectorAll('.carousel-indicators button');
-      this.prevButton = document.querySelector('.carousel-prev');
-      this.nextButton = document.querySelector('.carousel-next');
-      this.carouselContainer = document.querySelector('.carousel-container');
-    }
-
-    addEventListeners() {
-      // Remove existing listeners first
-      this.removeEventListeners();
-      
-      // Add navigation listeners
-      this.prevButton?.addEventListener('click', this.handlePrevClick);
-      this.nextButton?.addEventListener('click', this.handleNextClick);
-      
-      this.indicators.forEach((indicator, index) => {
-        indicator.addEventListener('click', () => this.goToSlide(index));
-      });
-
-      // Add hover listeners to pause/resume auto-play
-      this.carouselContainer?.addEventListener('mouseenter', this.handleMouseEnter);
-      this.carouselContainer?.addEventListener('mouseleave', this.handleMouseLeave);
-    }
-
-    removeEventListeners() {
-      this.prevButton?.removeEventListener('click', this.handlePrevClick);
-      this.nextButton?.removeEventListener('click', this.handleNextClick);
-      this.carouselContainer?.removeEventListener('mouseenter', this.handleMouseEnter);
-      this.carouselContainer?.removeEventListener('mouseleave', this.handleMouseLeave);
-    }
-
-    handlePrevClick = () => {
-      this.prevSlide();
-    }
-
-    handleNextClick = () => {
-      this.nextSlide();
-    }
-
-    handleMouseEnter = () => {
-      this.isHovered = true;
-      this.stopAutoPlay();
-    }
-
-    handleMouseLeave = () => {
-      this.isHovered = false;
-      this.startAutoPlay();
-    }
-
-    updateCarousel() {
-      if (!this.track || !this.indicators) return;
-      
-      const translateX = -this.currentSlide * 100;
-      this.track.style.transform = `translateX(${translateX}%)`;
-      
-      // Update indicators
-      this.indicators.forEach((indicator, index) => {
-        if (index === this.currentSlide) {
-          indicator.classList.remove('bg-gray-300', 'dark:bg-gray-600');
-          indicator.classList.add('bg-primary');
-        } else {
-          indicator.classList.remove('bg-primary');
-          indicator.classList.add('bg-gray-300', 'dark:bg-gray-600');
-        }
-      });
-    }
-
-    nextSlide() {
-      this.currentSlide = (this.currentSlide + 1) % this.totalSlides;
-      this.updateCarousel();
-    }
-
-    prevSlide() {
-      this.currentSlide = (this.currentSlide - 1 + this.totalSlides) % this.totalSlides;
-      this.updateCarousel();
-    }
-
-    goToSlide(index) {
-      this.currentSlide = index;
-      this.updateCarousel();
-    }
-
-    startAutoPlay() {
-      
-      if (!this.isHovered) {
-        this.stopAutoPlay(); // Clear any existing interval
-        this.autoPlayInterval = setInterval(() => {
-        
-          if (!this.isHovered) {
-            this.nextSlide();
-          }
-        }, 5000);
-      }
-    }
-
-    stopAutoPlay() {
-      if (this.autoPlayInterval) {
-        clearInterval(this.autoPlayInterval);
-        this.autoPlayInterval = null;
-      }
-    }
-
-    destroy() {
-      this.stopAutoPlay();
-      this.removeEventListeners();
-    }
-  }
-
-  // Global carousel instance
-  let carouselInstance = null;
-
-  function initializeCarousel() {
-    // Destroy existing instance if it exists
-    if (carouselInstance) {
-      carouselInstance.destroy();
-    }
-    
-    // Create new instance
-    carouselInstance = new Carousel();
-  }
-
-  // Initialize on different events to handle various navigation scenarios
-  document.addEventListener('DOMContentLoaded', initializeCarousel);
-  document.addEventListener('astro:page-load', initializeCarousel);
-  
-  // Fallback for when elements might not be ready
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initializeCarousel);
-  } else {
-    initializeCarousel();
-  }
-
-  // Cleanup on page unload
-  document.addEventListener('astro:before-preparation', () => {
-    if (carouselInstance) {
-      carouselInstance.destroy();
-      carouselInstance = null;
-    }
-  });
-</script>
-
-<style>
-  .carousel-container {
-    min-height: 400px;
-  }
-  
-  @media (max-width: 640px) {
-    .carousel-slide {
-      padding-left: 1rem;
-      padding-right: 1rem;
-    }
-    
-    .carousel-slide .flex {
-      flex-direction: column;
-    }
-    
-    .carousel-prev,
-    .carousel-next {
-      width: 2.5rem;
-      height: 2.5rem;
-    }
-  }
-</style>
