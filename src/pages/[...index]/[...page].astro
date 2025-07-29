@@ -31,34 +31,34 @@ const metadata = {
     </Fragment>
   </Hero>
 
-   <!-- Main Content Section - Full Width Layout -->
-  <section class="px-6 sm:px-8 lg:px-12 xl:px-16 2xl:px-20 py-8 sm:py-12 lg:py-16 mx-auto max-w-[1800px] relative min-h-[80vh]">
+   <!-- Main Content Section - Reduced padding and height for 1080p -->
+  <section class="px-4 sm:px-6 lg:px-8 xl:px-12 2xl:px-16 py-6 sm:py-8 lg:py-10 mx-auto max-w-[1400px] relative min-h-[60vh]">
     <!-- Background Design Elements -->
     <div class="absolute inset-0 pointer-events-none">
       <!-- Much more visible light mode backgrounds -->
       <div class="opacity-[0.15] dark:opacity-[0.08]">
-        <div class="absolute top-10 left-10 w-32 h-32 bg-primary rounded-full blur-3xl"></div>
-        <div class="absolute top-40 right-20 w-24 h-24 bg-blue-500 rounded-full blur-2xl"></div>
-        <div class="absolute bottom-20 left-1/3 w-40 h-40 bg-purple-500 rounded-full blur-3xl"></div>
-        <div class="absolute bottom-40 right-10 w-28 h-28 bg-green-500 rounded-full blur-2xl"></div>
+        <div class="absolute top-10 left-10 w-24 h-24 bg-primary rounded-full blur-3xl"></div>
+        <div class="absolute top-32 right-20 w-20 h-20 bg-blue-500 rounded-full blur-2xl"></div>
+        <div class="absolute bottom-20 left-1/3 w-32 h-32 bg-purple-500 rounded-full blur-3xl"></div>
+        <div class="absolute bottom-32 right-10 w-22 h-22 bg-green-500 rounded-full blur-2xl"></div>
       </div>
       
       <!-- Additional light mode specific elements -->
       <div class="opacity-[0.12] dark:opacity-0">
-        <div class="absolute top-1/4 right-1/4 w-20 h-20 bg-amber-400 rounded-full blur-xl"></div>
-        <div class="absolute bottom-1/3 left-1/4 w-16 h-16 bg-rose-400 rounded-full blur-lg"></div>
-        <div class="absolute top-2/3 left-1/2 w-24 h-24 bg-cyan-400 rounded-full blur-2xl"></div>
-        <div class="absolute top-1/2 right-1/3 w-18 h-18 bg-violet-400 rounded-full blur-lg"></div>
-        <div class="absolute top-3/4 left-2/3 w-14 h-14 bg-indigo-400 rounded-full blur-lg"></div>
-        <div class="absolute bottom-1/4 right-2/3 w-22 h-22 bg-teal-400 rounded-full blur-xl"></div>
+        <div class="absolute top-1/4 right-1/4 w-16 h-16 bg-amber-400 rounded-full blur-xl"></div>
+        <div class="absolute bottom-1/3 left-1/4 w-14 h-14 bg-rose-400 rounded-full blur-lg"></div>
+        <div class="absolute top-2/3 left-1/2 w-20 h-20 bg-cyan-400 rounded-full blur-2xl"></div>
+        <div class="absolute top-1/2 right-1/3 w-16 h-16 bg-violet-400 rounded-full blur-lg"></div>
+        <div class="absolute top-3/4 left-2/3 w-12 h-12 bg-indigo-400 rounded-full blur-lg"></div>
+        <div class="absolute bottom-1/4 right-2/3 w-18 h-18 bg-teal-400 rounded-full blur-xl"></div>
       </div>
       
       <!-- Dark mode only backgrounds -->
       <div class="opacity-0 dark:opacity-[0.1]">
-        <div class="absolute top-2/3 left-1/2 w-24 h-24 bg-cyan-400 rounded-full blur-2xl"></div>
-        <div class="absolute top-1/2 right-1/3 w-18 h-18 bg-violet-400 rounded-full blur-lg"></div>
-        <div class="absolute top-3/4 left-2/3 w-14 h-14 bg-indigo-400 rounded-full blur-lg"></div>
-        <div class="absolute bottom-1/4 right-2/3 w-22 h-22 bg-teal-400 rounded-full blur-xl"></div>
+        <div class="absolute top-2/3 left-1/2 w-20 h-20 bg-cyan-400 rounded-full blur-2xl"></div>
+        <div class="absolute top-1/2 right-1/3 w-16 h-16 bg-violet-400 rounded-full blur-lg"></div>
+        <div class="absolute top-3/4 left-2/3 w-12 h-12 bg-indigo-400 rounded-full blur-lg"></div>
+        <div class="absolute bottom-1/4 right-2/3 w-18 h-18 bg-teal-400 rounded-full blur-xl"></div>
       </div>
       
       <!-- Enhanced gradient overlay for light mode -->
@@ -68,16 +68,16 @@ const metadata = {
       <div class="absolute inset-0 bg-gradient-to-tr from-transparent via-gray-50/30 to-transparent-50/40 dark:from-transparent dark:to-transparent"></div>
     </div>
     
-    <!-- Content Grid - Optimized for viewport height -->
-    <div class="grid grid-cols-1 xl:grid-cols-3 gap-6 lg:gap-8 relative z-10 h-full">
+    <!-- Content Grid - Smaller cards for 1080p -->
+    <div class="grid grid-cols-1 xl:grid-cols-3 gap-4 lg:gap-6 relative z-10 h-full">
       
       <!-- Left Column - Modern D20 SRD -->
-      <div class="bg-white/90 dark:bg-gray-800/20 backdrop-blur-lg rounded-xl p-6 lg:p-8 border border-gray-200/50 dark:border-gray-700/20 hover:bg-white/95 dark:hover:bg-gray-800/30 shadow-xl dark:shadow-none transition-all duration-300 flex flex-col">
-        <h3 class="text-xl lg:text-2xl font-bold mb-6">
+      <div class="bg-white/90 dark:bg-gray-800/20 backdrop-blur-lg rounded-xl p-4 lg:p-6 border border-gray-200/50 dark:border-gray-700/20 hover:bg-white/95 dark:hover:bg-gray-800/30 shadow-xl dark:shadow-none transition-all duration-300 flex flex-col">
+        <h3 class="text-lg lg:text-xl font-bold mb-4">
           <a href="/modern.d20.srd" class="text-primary hover:text-primary/80 transition-colors">Modern D20 SRD</a>
         </h3>
-        <div class="grid grid-cols-1 gap-4 lg:gap-6 text-sm flex-grow">
-          <ul class="space-y-2 text-muted">
+        <div class="grid grid-cols-1 gap-3 lg:gap-4 text-xs lg:text-sm flex-grow">
+          <ul class="space-y-1.5 text-muted">
             <li><a href="/modern.d20.srd/basics" class="hover:text-primary transition-colors">Basics</a></li>
             <li><a href="/modern.d20.srd/classes" class="hover:text-primary transition-colors">Classes</a></li>
             <li><a href="/modern.d20.srd/combat" class="hover:text-primary transition-colors">Combat</a></li>
@@ -99,10 +99,10 @@ const metadata = {
             <li><a href="/modern.d20.srd/wealth" class="hover:text-primary transition-colors">Wealth</a></li>
           </ul>
         </div>
-        <div class="mt-6 pt-4 border-t border-gray-200/50 dark:border-gray-700/20">
-          <a href="/modern.d20.srd" class="inline-flex items-center justify-center w-full px-4 py-2 text-sm font-medium text-primary hover:text-white hover:bg-primary/20 border border-primary/30 rounded-lg transition-all duration-300">
+        <div class="mt-4 pt-3 border-t border-gray-200/50 dark:border-gray-700/20">
+          <a href="/modern.d20.srd" class="inline-flex items-center justify-center w-full px-3 py-2 text-xs font-medium text-primary hover:text-white hover:bg-primary/20 border border-primary/30 rounded-lg transition-all duration-300">
             View More
-            <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <svg class="ml-2 w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
             </svg>
           </a>
@@ -110,15 +110,15 @@ const metadata = {
       </div>
 
       <!-- Center Column - Future D20 SRD and Arcana D20 SRD -->
-      <div class="space-y-6 lg:space-y-8">
+      <div class="space-y-4 lg:space-y-6">
         
         <!-- Future D20 SRD -->
-        <div class="bg-white/90 dark:bg-gray-800/20 backdrop-blur-lg rounded-xl p-6 lg:p-8 border border-gray-200/50 dark:border-gray-700/20 hover:bg-white/95 dark:hover:bg-gray-800/30 shadow-xl dark:shadow-none transition-all duration-300 flex flex-col">
-          <h3 class="text-xl lg:text-2xl font-bold mb-6">
+        <div class="bg-white/90 dark:bg-gray-800/20 backdrop-blur-lg rounded-xl p-4 lg:p-6 border border-gray-200/50 dark:border-gray-700/20 hover:bg-white/95 dark:hover:bg-gray-800/30 shadow-xl dark:shadow-none transition-all duration-300 flex flex-col">
+          <h3 class="text-lg lg:text-xl font-bold mb-4">
             <a href="/future.d20.srd" class="text-primary hover:text-primary/80 transition-colors">Future D20 SRD</a>
           </h3>
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-4 lg:gap-6 text-sm flex-grow">
-            <ul class="space-y-2 text-muted">
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-3 lg:gap-4 text-xs lg:text-sm flex-grow">
+            <ul class="space-y-1.5 text-muted">
               <li><a href="/future.d20.srd/classes" class="hover:text-primary transition-colors">Classes</a></li>
               <li><a href="/future.d20.srd/cybernetics" class="hover:text-primary transition-colors">Cybernetics</a></li>
               <li><a href="/future.d20.srd/environments" class="hover:text-primary transition-colors">Environments</a></li>
@@ -128,7 +128,7 @@ const metadata = {
               <li><a href="/future.d20.srd/mecha" class="hover:text-primary transition-colors">Mecha</a></li>
               <li><a href="/future.d20.srd/mutations" class="hover:text-primary transition-colors">Mutations</a></li>
             </ul>
-            <ul class="space-y-2 text-muted">
+            <ul class="space-y-1.5 text-muted">
               <li><a href="/future.d20.srd/progress.levels" class="hover:text-primary transition-colors">Progress Levels</a></li>
               <li><a href="/future.d20.srd/robots" class="hover:text-primary transition-colors">Robots</a></li>
               <li><a href="/future.d20.srd/scientific.engineering" class="hover:text-primary transition-colors">Scientific Engineering</a></li>
@@ -139,10 +139,10 @@ const metadata = {
               <li><a href="/future.d20.srd/xenobiology" class="hover:text-primary transition-colors">Xenobiology</a></li>
             </ul>
           </div>
-          <div class="mt-6 pt-4 border-t border-gray-200/50 dark:border-gray-700/20">
-            <a href="/future.d20.srd" class="inline-flex items-center justify-center w-full px-4 py-2 text-sm font-medium text-primary hover:text-white hover:bg-primary/20 border border-primary/30 rounded-lg transition-all duration-300">
+          <div class="mt-4 pt-3 border-t border-gray-200/50 dark:border-gray-700/20">
+            <a href="/future.d20.srd" class="inline-flex items-center justify-center w-full px-3 py-2 text-xs font-medium text-primary hover:text-white hover:bg-primary/20 border border-primary/30 rounded-lg transition-all duration-300">
               View More
-              <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <svg class="ml-2 w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
               </svg>
             </a>
@@ -150,34 +150,34 @@ const metadata = {
         </div>
 
         <!-- Arcana D20 SRD -->
-        <div class="bg-white/90 dark:bg-gray-800/20 backdrop-blur-lg rounded-xl p-6 lg:p-8 border border-gray-200/50 dark:border-gray-700/20 hover:bg-white/95 dark:hover:bg-gray-800/30 shadow-xl dark:shadow-none transition-all duration-300 flex flex-col">
-          <h3 class="text-xl lg:text-2xl font-bold mb-6">
+        <div class="bg-white/90 dark:bg-gray-800/20 backdrop-blur-lg rounded-xl p-4 lg:p-6 border border-gray-200/50 dark:border-gray-700/20 hover:bg-white/95 dark:hover:bg-gray-800/30 shadow-xl dark:shadow-none transition-all duration-300 flex flex-col">
+          <h3 class="text-lg lg:text-xl font-bold mb-4">
             <a href="/arcana.d20.srd" class="text-primary hover:text-primary/80 transition-colors">Arcana D20 SRD</a>
           </h3>
-          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 text-sm flex-grow">
-            <ul class="space-y-2 text-muted">
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 text-xs lg:text-sm flex-grow">
+            <ul class="space-y-1.5 text-muted">
               <li><a href="/arcana.d20.srd/advanced.classes" class="hover:text-primary transition-colors">Advanced Classes</a></li>
               <li><a href="/arcana.d20.srd/creatures" class="hover:text-primary transition-colors">Creatures</a></li>
               <li><a href="/arcana.d20.srd/equipment" class="hover:text-primary transition-colors">Equipment</a></li>
               <li><a href="/arcana.d20.srd/feats" class="hover:text-primary transition-colors">Feats</a></li>
             </ul>
-            <ul class="space-y-2 text-muted">
+            <ul class="space-y-1.5 text-muted">
               <li><a href="/arcana.d20.srd/fx.items" class="hover:text-primary transition-colors">FX Items</a></li>
               <li><a href="/arcana.d20.srd/incantations" class="hover:text-primary transition-colors">Incantations</a></li>
               <li><a href="/arcana.d20.srd/occupations" class="hover:text-primary transition-colors">Occupations</a></li>
               <li><a href="/arcana.d20.srd/organizations" class="hover:text-primary transition-colors">Organizations</a></li>
             </ul>
-            <ul class="space-y-2 text-muted">
+            <ul class="space-y-1.5 text-muted">
               <li><a href="/arcana.d20.srd/prestige.classes" class="hover:text-primary transition-colors">Prestige Classes</a></li>
               <li><a href="/arcana.d20.srd/psionics" class="hover:text-primary transition-colors">Psionics</a></li>
               <li><a href="/arcana.d20.srd/shadowkind" class="hover:text-primary transition-colors">Shadowkind</a></li>
               <li><a href="/arcana.d20.srd/spells" class="hover:text-primary transition-colors">Spells</a></li>
             </ul>
           </div>
-          <div class="mt-6 pt-4 border-t border-gray-200/50 dark:border-gray-700/20">
-            <a href="/arcana.d20.srd" class="inline-flex items-center justify-center w-full px-4 py-2 text-sm font-medium text-primary hover:text-white hover:bg-primary/20 border border-primary/30 rounded-lg transition-all duration-300">
+          <div class="mt-4 pt-3 border-t border-gray-200/50 dark:border-gray-700/20">
+            <a href="/arcana.d20.srd" class="inline-flex items-center justify-center w-full px-3 py-2 text-xs font-medium text-primary hover:text-white hover:bg-primary/20 border border-primary/30 rounded-lg transition-all duration-300">
               View More
-              <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <svg class="ml-2 w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
               </svg>
             </a>
@@ -186,22 +186,22 @@ const metadata = {
       </div>
 
       <!-- Right Column - D20 Menaces and Bookmark Downloads -->
-      <div class="space-y-6 lg:space-y-8">
+      <div class="space-y-4 lg:space-y-6">
         
         <!-- D20 Menaces -->
-        <div class="bg-white/90 dark:bg-gray-800/20 backdrop-blur-lg rounded-xl p-6 lg:p-8 border border-gray-200/50 dark:border-gray-700/20 hover:bg-white/95 dark:hover:bg-gray-800/30 shadow-xl dark:shadow-none transition-all duration-300 flex flex-col">
-          <h3 class="text-xl lg:text-2xl font-bold mb-6">
+        <div class="bg-white/90 dark:bg-gray-800/20 backdrop-blur-lg rounded-xl p-4 lg:p-6 border border-gray-200/50 dark:border-gray-700/20 hover:bg-white/95 dark:hover:bg-gray-800/30 shadow-xl dark:shadow-none transition-all duration-300 flex flex-col">
+          <h3 class="text-lg lg:text-xl font-bold mb-4">
             <a href="/menaces.d20" class="text-primary hover:text-primary/80 transition-colors">D20 Menaces</a>
           </h3>
-          <ul class="space-y-3 text-muted text-sm flex-grow">
+          <ul class="space-y-2 text-muted text-xs lg:text-sm flex-grow">
             <li><a href="/menaces.d20/buying.services" class="hover:text-primary transition-colors block">Buying Services</a></li>
             <li><a href="/menaces.d20/feats" class="hover:text-primary transition-colors block">Feats</a></li>
             <li><a href="/menaces.d20/menaces" class="hover:text-primary transition-colors block">Menaces</a></li>
           </ul>
-          <div class="mt-6 pt-4 border-t border-gray-200/50 dark:border-gray-700/20">
-            <a href="/menaces.d20" class="inline-flex items-center justify-center w-full px-4 py-2 text-sm font-medium text-primary hover:text-white hover:bg-primary/20 border border-primary/30 rounded-lg transition-all duration-300">
+          <div class="mt-4 pt-3 border-t border-gray-200/50 dark:border-gray-700/20">
+            <a href="/menaces.d20" class="inline-flex items-center justify-center w-full px-3 py-2 text-xs font-medium text-primary hover:text-white hover:bg-primary/20 border border-primary/30 rounded-lg transition-all duration-300">
               View More
-              <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <svg class="ml-2 w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
               </svg>
             </a>
@@ -209,9 +209,9 @@ const metadata = {
         </div>
 
         <!-- Bookmark Downloads -->
-        <div class="bg-white/90 dark:bg-gray-800/20 backdrop-blur-lg rounded-xl p-6 lg:p-8 border border-gray-200/50 dark:border-gray-700/20 hover:bg-white/95 dark:hover:bg-gray-800/30 shadow-xl dark:shadow-none transition-all duration-300">
-          <h3 class="text-xl lg:text-2xl font-bold mb-6 text-primary">Bookmark Downloads</h3>
-          <ul class="space-y-3 text-muted text-sm">
+        <div class="bg-white/90 dark:bg-gray-800/20 backdrop-blur-lg rounded-xl p-4 lg:p-6 border border-gray-200/50 dark:border-gray-700/20 hover:bg-white/95 dark:hover:bg-gray-800/30 shadow-xl dark:shadow-none transition-all duration-300">
+          <h3 class="text-lg lg:text-xl font-bold mb-4 text-primary">Bookmark Downloads</h3>
+          <ul class="space-y-2 text-muted text-xs lg:text-sm">
             <li><a href="#" class="hover:text-primary transition-colors block">Entire Site</a></li>
             <li><a href="#" class="hover:text-primary transition-colors block">Modern D20 SRD</a></li>
             <li><a href="#" class="hover:text-primary transition-colors block">Future D20 SRD</a></li>
