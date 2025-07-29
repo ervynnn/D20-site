@@ -20,7 +20,7 @@ export default {
       },
 
       animation: {
-        fade: 'fadeInUp 1s both',
+        fade: 'fadeInUp 0.15s ease-out both',
       },
 
       keyframes: {
