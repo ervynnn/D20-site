@@ -119,14 +119,14 @@ const carouselData = [
     </Hero>
 
     <!-- Carousel Section -->
-    <div class="carousel-container relative bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 p-8 mb-12">
+    <div class="carousel-container relative bg-gray-100 dark:bg-gray-800 rounded-lg border border-gray-500 dark:border-gray-700 p-8 mb-12">
       <!-- Navigation arrows -->
-      <button class="carousel-prev absolute left-4 top-1/2 transform -translate-y-1/2 z-10 w-12 h-12 rounded-full border-2 border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 hover:border-accent flex items-center justify-center transition-colors">
-        <span class="text-xl text-gray-600 dark:text-gray-300">←</span>
+      <button class="carousel-prev absolute left-4 top-1/2 transform -translate-y-1/2 z-10 w-12 h-12 rounded-full  bg-transparent dark:bg-transparent hover:border-accent flex items-center justify-center transition-colors hover:bg-accent dark:hover:bg-accent hover:text-white">
+        <span class="text-4xl  dark:text-gray-300">⮜</span>
       </button>
       
-      <button class="carousel-next absolute right-4 top-1/2 transform -translate-y-1/2 z-10 w-12 h-12 rounded-full border-2 border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 hover:border-accent flex items-center justify-center transition-colors">
-        <span class="text-xl text-gray-600 dark:text-gray-300">→</span>
+      <button class="carousel-next absolute right-4 top-1/2 transform -translate-y-1/2 z-10 w-12 h-12 rounded-full dark:bg-transparent hover:border-accent flex items-center justify-center transition-colors hover:bg-accent dark:hover:bg-accent hover:text-white">
+        <span class="text-4xl  dark:text-gray-300">⮞</span>
       </button>
 
       <!-- Carousel slides -->
@@ -171,57 +171,6 @@ const carouselData = [
         ))}
       </div>
     </div>
-
-    <!-- Existing content -->
-    <!-- <div class="flex flex-col gap-8">
-      <IndexList id="modernD20" title="Modern D20" data={modernD20} />
-      <IndexList id="futureD20" title="Future D20" data={futureD20} />
-      <IndexList id="arcanaD20" title="Arcana D20" data={arcanaD20} />
-      
-      <div id="menacesD20" class="flex flex-col gap-4">
-        <h2 class="text-4xl text-primary font-bold">D20 Menaces</h2>
-        <ul class="grid gap-1">
-          {menacesD20.map(([title, href]) => (
-            <li class="border p-2 hover:border-accent group">
-              <a class="block w-full h-full font-light group-hover:font-semibold" href={href}>
-                {title}
-              </a>
-            </li>
-          ))}
-        </ul>
-      </div>
-    </div> -->
-
-    <!-- Bookmark Downloads Section -->
-    <!-- <div class="webmaster-note my-8 p-6 border border-gray-300 rounded">
-      <h2 class="text-2xl font-bold">Simple Bookmark Downloads:</h2>
-      <p>
-        <a href="bookmarks/EntireSite_Bookmarks.html" download="EntireSite_Bookmarks.html" class="text-blue-500 hover:underline">
-          Entire Site
-        </a>            
-      </p>
-      <p>
-        <a href="/bookmarks/Modern_D20_Bookmarks.html" download="Modern_D2_Bookmarks.html" class="text-blue-500 hover:underline">
-          Modern D20 SRD
-        </a>     
-        (<a href="/bookmarks" class="text-blue-500 hover:underline">Instructions</a>)
-      </p>
-      <p>
-        <a href="/bookmarks/Future_D20_Bookmarks.html" download="Future_D20_Bookmarks.html" class="text-blue-500 hover:underline">
-          Future D20 SRD
-        </a>            
-      </p>
-      <p>
-        <a href="/bookmarks/Arcana_D20_Bookmarks.html" download="Arcana_D20_Bookmarks.html" class="text-blue-500 hover:underline">
-          Arcana D20 SRD
-        </a>            
-      </p>          
-      <p>
-        <a href="/bookmarks/Menaces_D20_Bookmarks.html" download="Menaces_D20_Bookmarks.html" class="text-blue-500 hover:underline">
-          Menaces D20
-        </a>            
-      </p>
-    </div> -->
   </section>
 </Layout>
 <script>

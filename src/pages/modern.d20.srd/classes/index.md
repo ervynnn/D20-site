@@ -1,6 +1,6 @@
 ---
 title: Classes
-layout: '~/layouts/ContentPageLayout.astro'
+layout: '~/layouts/MarkdownLayout.astro'
 description: Character classes and progressions for modern D20 gaming
 system: Modern D20 SRD
 category: Classes
