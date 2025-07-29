@@ -234,6 +234,8 @@ const carouselData = [
       this.prevButton = null;
       this.nextButton = null;
       this.autoPlayInterval = null;
+      this.carouselContainer = null;
+      this.isHovered = false;
       
       this.init();
     }
@@ -255,8 +257,9 @@ const carouselData = [
           const indicators = document.querySelectorAll('.carousel-indicators button');
           const prevButton = document.querySelector('.carousel-prev');
           const nextButton = document.querySelector('.carousel-next');
+          const container = document.querySelector('.carousel-container');
           
-          if (track && indicators.length > 0 && prevButton && nextButton) {
+          if (track && indicators.length > 0 && prevButton && nextButton && container) {
             resolve();
           } else {
             setTimeout(checkElements, 50);
@@ -271,24 +274,31 @@ const carouselData = [
       this.indicators = document.querySelectorAll('.carousel-indicators button');
       this.prevButton = document.querySelector('.carousel-prev');
       this.nextButton = document.querySelector('.carousel-next');
+      this.carouselContainer = document.querySelector('.carousel-container');
     }
 
     addEventListeners() {
       // Remove existing listeners first
       this.removeEventListeners();
       
-      // Add new listeners
+      // Add navigation listeners
       this.prevButton?.addEventListener('click', this.handlePrevClick);
       this.nextButton?.addEventListener('click', this.handleNextClick);
       
       this.indicators.forEach((indicator, index) => {
         indicator.addEventListener('click', () => this.goToSlide(index));
       });
+
+      // Add hover listeners to pause/resume auto-play
+      this.carouselContainer?.addEventListener('mouseenter', this.handleMouseEnter);
+      this.carouselContainer?.addEventListener('mouseleave', this.handleMouseLeave);
     }
 
     removeEventListeners() {
       this.prevButton?.removeEventListener('click', this.handlePrevClick);
       this.nextButton?.removeEventListener('click', this.handleNextClick);
+      this.carouselContainer?.removeEventListener('mouseenter', this.handleMouseEnter);
+      this.carouselContainer?.removeEventListener('mouseleave', this.handleMouseLeave);
     }
 
     handlePrevClick = () => {
@@ -297,6 +307,16 @@ const carouselData = [
 
     handleNextClick = () => {
       this.nextSlide();
+    }
+
+    handleMouseEnter = () => {
+      this.isHovered = true;
+      this.stopAutoPlay();
+    }
+
+    handleMouseLeave = () => {
+      this.isHovered = false;
+      this.startAutoPlay();
     }
 
     updateCarousel() {
@@ -333,10 +353,16 @@ const carouselData = [
     }
 
     startAutoPlay() {
-      this.stopAutoPlay(); // Clear any existing interval
-      this.autoPlayInterval = setInterval(() => {
-        this.nextSlide();
-      }, 5000);
+      
+      if (!this.isHovered) {
+        this.stopAutoPlay(); // Clear any existing interval
+        this.autoPlayInterval = setInterval(() => {
+        
+          if (!this.isHovered) {
+            this.nextSlide();
+          }
+        }, 5000);
+      }
     }
 
     stopAutoPlay() {
