@@ -40,7 +40,64 @@ const splitIntoColumns = (links: Array<any>, columnsCount = 2) => {
   <div
     class="relative max-w-7xl mx-auto px-4 sm:px-6 dark:text-slate-300 intersect-once intersect-quarter intercept-no-queue motion-safe:md:opacity-0 motion-safe:md:intersect:animate-fade"
   >
-    <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-4 gap-y-8 sm:gap-8 py-2 md:py-4">
+    <!-- Mobile Layout -->
+    <div class="md:hidden py-2">
+      {
+        links.map(({ title, links }, index) => {
+          const columns = splitIntoColumns(links || [], 2);
+          return (
+            <div class="border-b border-gray-300 dark:border-slate-800 last:border-b-0">
+              <button 
+                class="w-full flex items-center justify-between py-3 text-left dark:text-gray-300 font-medium"
+                onclick={`toggleMobileSection('section-${index}')`}
+              >
+                <span>{title || '\u00A0'}</span>
+                <svg 
+                  class="w-4 h-4 transform transition-transform duration-200" 
+                  fill="none" 
+                  stroke="currentColor" 
+                  viewBox="0 0 24 24"
+                  id={`icon-${index}`}
+                >
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                </svg>
+              </button>
+              <div id={`section-${index}`} class="hidden pb-3">
+                <div class="grid grid-cols-2 gap-x-4">
+                  {columns.map((columnLinks, columnIndex) => (
+                    <div key={columnIndex}>
+                      {columnLinks && Array.isArray(columnLinks) && columnLinks.length > 0 && (
+                        <ul class="text-xs space-y-1">
+                          {columnLinks.map(({ text, href, ariaLabel }) => (
+                            <li>
+                              <a
+                                class="text-muted hover:text-gray-700 hover:underline dark:text-gray-400 transition duration-150 ease-in-out"
+                                href={href}
+                                aria-label={ariaLabel}
+                              >
+                                <Fragment set:html={text} />
+                              </a>
+                            </li>
+                          ))}
+                        </ul>
+                      )}
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </div>
+          );
+        })
+      }
+      <div class="py-1">
+        <div class="text-sm dark:text-muted">
+          <Fragment set:html={footNote} />
+        </div>
+      </div>
+    </div>
+
+    <!-- Desktop Layout -->
+    <div class="hidden md:grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-4 gap-y-8 sm:gap-8 py-2 md:py-4">
       {
         links.map(({ title, links }, index) => {
           const columns = splitIntoColumns(links || [], 2);
@@ -74,6 +131,7 @@ const splitIntoColumns = (links: Array<any>, columnsCount = 2) => {
           );
         })
       }
+      <!-- Bookmark Downloads - Hidden on mobile -->
       <div class="col-span-1 px-4 last:pr-0 border-l border-gray-300 dark:border-slate-800">
         <div class="dark:text-gray-300 font-medium mb-2">Bookmark Downloads</div>
         <div class="grid grid-cols-2 gap-x-4">
@@ -123,3 +181,23 @@ const splitIntoColumns = (links: Array<any>, columnsCount = 2) => {
     </div>
   </div>
 </footer>
+
+<script>
+  function toggleMobileSection(sectionId: string) {
+    const section = document.getElementById(sectionId);
+    const icon = document.getElementById(sectionId.replace('section-', 'icon-'));
+    
+    if (section && icon) {
+      if (section.classList.contains('hidden')) {
+        section.classList.remove('hidden');
+        icon.style.transform = 'rotate(180deg)';
+      } else {
+        section.classList.add('hidden');
+        icon.style.transform = 'rotate(0deg)';
+      }
+    }
+  }
+
+  // Make function globally available
+  (window as any).toggleMobileSection = toggleMobileSection;
+</script>
