@@ -18,10 +18,64 @@ const metadata = {
     type: 'blog',
   },
 };
+
+// Define sections for each SRD
+const srdSections = {
+  modern: {
+    title: 'Modern D20 SRD',
+    baseHref: '/modern.d20.srd',
+    links: [
+      { title: 'Basics', href: '/modern.d20.srd/basics' },
+      { title: 'Classes', href: '/modern.d20.srd/classes' },
+      { title: 'Combat', href: '/modern.d20.srd/combat' },
+      { title: 'Condition Summary', href: '/modern.d20.srd/conditions' },
+      { title: 'Creature Types', href: '/modern.d20.srd/creature.types' },
+      { title: 'Creatures', href: '/modern.d20.srd/creatures' },
+      { title: 'Equipment', href: '/modern.d20.srd/equipment' },
+      { title: 'Feats', href: '/modern.d20.srd/feats' }
+    ]
+  },
+  future: {
+    title: 'Future D20 SRD',
+    baseHref: '/future.d20.srd',
+    links: [
+      { title: 'Classes', href: '/future.d20.srd/classes' },
+      { title: 'Cybernetics', href: '/future.d20.srd/cybernetics' },
+      { title: 'Environments', href: '/future.d20.srd/environments' },
+      { title: 'Equipment', href: '/future.d20.srd/equipment' },
+      { title: 'Expanded Skills', href: '/future.d20.srd/expanded.skills' },
+      { title: 'Feats', href: '/future.d20.srd/feats' },
+      { title: 'Mecha', href: '/future.d20.srd/mecha' },
+      { title: 'Mutations', href: '/future.d20.srd/mutations' }
+    ]
+  },
+  arcana: {
+    title: 'Arcana D20 SRD',
+    baseHref: '/arcana.d20.srd',
+    links: [
+      { title: 'Advanced Classes', href: '/arcana.d20.srd/advanced.classes' },
+      { title: 'Creatures', href: '/arcana.d20.srd/creatures' },
+      { title: 'Equipment', href: '/arcana.d20.srd/equipment' },
+      { title: 'Feats', href: '/arcana.d20.srd/feats' },
+      { title: 'FX Items', href: '/arcana.d20.srd/fx.items' },
+      { title: 'Incantations', href: '/arcana.d20.srd/incantations' },
+      { title: 'Occupations', href: '/arcana.d20.srd/occupations' },
+      { title: 'Organizations', href: '/arcana.d20.srd/organizations' }
+    ]
+  },
+  menaces: {
+    title: 'D20 Menaces',
+    baseHref: '/menaces.d20',
+    links: [
+      { title: 'Buying Services', href: '/menaces.d20/buying.services' },
+      { title: 'Feats', href: '/menaces.d20/feats' },
+      { title: 'Menaces', href: '/menaces.d20/menaces' }
+    ]
+  }
+};
 ---
 
 <Layout metadata={metadata}>
-  <!-- Hero Section -->
   <Hero>
     <Fragment slot="title">
       <span class="text-accent dark:text-white highlight">D20 Resources</span>
@@ -31,196 +85,52 @@ const metadata = {
     </Fragment>
   </Hero>
 
-   <!-- Main Content Section - Reduced padding and height for 1080p -->
   <section class="px-4 sm:px-6 lg:px-8 xl:px-12 2xl:px-16 py-6 sm:py-8 lg:py-10 mx-auto max-w-[1400px] relative min-h-[60vh]">
-    <!-- Background Design Elements -->
-    <div class="absolute inset-0 pointer-events-none">
-      <!-- Much more visible light mode backgrounds -->
-      <div class="opacity-[0.15] dark:opacity-[0.08]">
-        <div class="absolute top-10 left-10 w-24 h-24 bg-primary rounded-full blur-3xl"></div>
-        <div class="absolute top-32 right-20 w-20 h-20 bg-blue-500 rounded-full blur-2xl"></div>
-        <div class="absolute bottom-20 left-1/3 w-32 h-32 bg-purple-500 rounded-full blur-3xl"></div>
-        <div class="absolute bottom-32 right-10 w-22 h-22 bg-green-500 rounded-full blur-2xl"></div>
-      </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-6 relative z-10">
       
-      <!-- Additional light mode specific elements -->
-      <div class="opacity-[0.12] dark:opacity-0">
-        <div class="absolute top-1/4 right-1/4 w-16 h-16 bg-amber-400 rounded-full blur-xl"></div>
-        <div class="absolute bottom-1/3 left-1/4 w-14 h-14 bg-rose-400 rounded-full blur-lg"></div>
-        <div class="absolute top-2/3 left-1/2 w-20 h-20 bg-cyan-400 rounded-full blur-2xl"></div>
-        <div class="absolute top-1/2 right-1/3 w-16 h-16 bg-violet-400 rounded-full blur-lg"></div>
-        <div class="absolute top-3/4 left-2/3 w-12 h-12 bg-indigo-400 rounded-full blur-lg"></div>
-        <div class="absolute bottom-1/4 right-2/3 w-18 h-18 bg-teal-400 rounded-full blur-xl"></div>
-      </div>
-      
-      <!-- Dark mode only backgrounds -->
-      <div class="opacity-0 dark:opacity-[0.1]">
-        <div class="absolute top-2/3 left-1/2 w-20 h-20 bg-cyan-400 rounded-full blur-2xl"></div>
-        <div class="absolute top-1/2 right-1/3 w-16 h-16 bg-violet-400 rounded-full blur-lg"></div>
-        <div class="absolute top-3/4 left-2/3 w-12 h-12 bg-indigo-400 rounded-full blur-lg"></div>
-        <div class="absolute bottom-1/4 right-2/3 w-18 h-18 bg-teal-400 rounded-full blur-xl"></div>
-      </div>
-      
-      <!-- Enhanced gradient overlay for light mode -->
-      <div class="absolute inset-0 bg-gradient-to-br from-transparent-50/60 via-purple-50/40 to-transparent-50/50 dark:from-transparent dark:to-transparent"></div>
-      
-      <!-- Additional texture overlay for light mode -->
-      <div class="absolute inset-0 bg-gradient-to-tr from-transparent via-gray-50/30 to-transparent-50/40 dark:from-transparent dark:to-transparent"></div>
-    </div>
-    
-    <!-- Content Grid - Smaller cards for 1080p -->
-    <div class="grid grid-cols-1 xl:grid-cols-3 gap-4 lg:gap-6 relative z-10 h-full">
-      
-      <!-- Left Column - Modern D20 SRD -->
-      <div class="bg-white/90 dark:bg-gray-800/20 backdrop-blur-lg rounded-xl p-4 lg:p-6 border border-gray-200/50 dark:border-gray-700/20 hover:bg-white/95 dark:hover:bg-gray-800/30 shadow-xl dark:shadow-none transition-all duration-300 flex flex-col">
-        <h3 class="text-lg lg:text-xl font-bold mb-4">
-          <a href="/modern.d20.srd" class="text-primary hover:text-primary/80 transition-colors">Modern D20 SRD</a>
-        </h3>
-        <div class="grid grid-cols-1 gap-3 lg:gap-4 text-xs lg:text-sm flex-grow">
-          <ul class="space-y-1.5 text-muted">
-            <li><a href="/modern.d20.srd/basics" class="hover:text-primary transition-colors">Basics</a></li>
-            <li><a href="/modern.d20.srd/classes" class="hover:text-primary transition-colors">Classes</a></li>
-            <li><a href="/modern.d20.srd/combat" class="hover:text-primary transition-colors">Combat</a></li>
-            <li><a href="/modern.d20.srd/conditions" class="hover:text-primary transition-colors">Condition Summary</a></li>
-            <li><a href="/modern.d20.srd/creature.types" class="hover:text-primary transition-colors">Creature Types</a></li>
-            <li><a href="/modern.d20.srd/creatures" class="hover:text-primary transition-colors">Creatures</a></li>
-            <li><a href="/modern.d20.srd/environment.hazards" class="hover:text-primary transition-colors">Environment & Hazards</a></li>
-            <li><a href="/modern.d20.srd/equipment" class="hover:text-primary transition-colors">Equipment</a></li>
-            <li><a href="/modern.d20.srd/feats" class="hover:text-primary transition-colors">Feats</a></li>
-            <li><a href="/modern.d20.srd/fx" class="hover:text-primary transition-colors">FX</a></li>
-            <li><a href="/modern.d20.srd/fx.items" class="hover:text-primary transition-colors">FX Items</a></li>
-            <li><a href="/modern.d20.srd/ordinaries" class="hover:text-primary transition-colors">Ordinaries</a></li>
-            <li><a href="/modern.d20.srd/psionics" class="hover:text-primary transition-colors">Psionics</a></li>
-            <li><a href="/modern.d20.srd/reputation" class="hover:text-primary transition-colors">Reputation</a></li>
-            <li><a href="/modern.d20.srd/skills" class="hover:text-primary transition-colors">Skills</a></li>
-            <li><a href="/modern.d20.srd/special.abilities" class="hover:text-primary transition-colors">Special Abilities</a></li>
-            <li><a href="/modern.d20.srd/starting.occupation" class="hover:text-primary transition-colors">Starting Occupation</a></li>
-            <li><a href="/modern.d20.srd/vehicle.movement.and.combat" class="hover:text-primary transition-colors">Vehicle Movement</a></li>
-            <li><a href="/modern.d20.srd/wealth" class="hover:text-primary transition-colors">Wealth</a></li>
-          </ul>
-        </div>
-        <div class="mt-4 pt-3 border-t border-gray-200/50 dark:border-gray-700/20">
-          <a href="/modern.d20.srd" class="inline-flex items-center justify-center w-full px-3 py-2 text-xs font-medium text-primary hover:text-white hover:bg-primary/20 border border-primary/30 rounded-lg transition-all duration-300">
+      {Object.entries(srdSections).map(([key, section]) => (
+        <div class="bg-white/90 dark:bg-gray-800/20 backdrop-blur-lg rounded-xl p-6 border border-gray-300/60 dark:border-gray-600/40 hover:bg-white/95 dark:hover:bg-gray-800/30 hover:border-gray-400/70 dark:hover:border-gray-500/50 transition-all duration-300 flex flex-col">
+          <h3 class="text-lg font-bold mb-6">
+          <a href={section.baseHref} class="text-primary hover:text-primary/80 transition-colors">{section.title}</a>
+          </h3>
+          
+          <div class="flex-grow mb-6">
+            <div class="grid grid-cols-1 gap-4 text-sm">
+            <ul class="space-y-2 text-muted">
+            {section.links.map((link) => (
+                  <li><a href={link.href} class="hover:text-primary transition-colors">{link.title}</a></li>
+            ))}
+            </ul>
+            </div>
+          </div>
+          
+          <div class="mt-auto pt-4 border-t border-gray-200/50 dark:border-gray-700/20">
+          <a href={section.baseHref} class="inline-flex items-center justify-center w-full px-4 py-3 text-sm font-medium text-primary hover:text-white hover:bg-primary/20 border border-white/20 rounded-lg transition-all duration-300">
             View More
-            <svg class="ml-2 w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+            <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
             </svg>
           </a>
-        </div>
-      </div>
-
-      <!-- Center Column - Future D20 SRD and Arcana D20 SRD -->
-      <div class="space-y-4 lg:space-y-6">
-        
-        <!-- Future D20 SRD -->
-        <div class="bg-white/90 dark:bg-gray-800/20 backdrop-blur-lg rounded-xl p-4 lg:p-6 border border-gray-200/50 dark:border-gray-700/20 hover:bg-white/95 dark:hover:bg-gray-800/30 shadow-xl dark:shadow-none transition-all duration-300 flex flex-col">
-          <h3 class="text-lg lg:text-xl font-bold mb-4">
-            <a href="/future.d20.srd" class="text-primary hover:text-primary/80 transition-colors">Future D20 SRD</a>
-          </h3>
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-3 lg:gap-4 text-xs lg:text-sm flex-grow">
-            <ul class="space-y-1.5 text-muted">
-              <li><a href="/future.d20.srd/classes" class="hover:text-primary transition-colors">Classes</a></li>
-              <li><a href="/future.d20.srd/cybernetics" class="hover:text-primary transition-colors">Cybernetics</a></li>
-              <li><a href="/future.d20.srd/environments" class="hover:text-primary transition-colors">Environments</a></li>
-              <li><a href="/future.d20.srd/equipment" class="hover:text-primary transition-colors">Equipment</a></li>
-              <li><a href="/future.d20.srd/expanded.skills" class="hover:text-primary transition-colors">Expanded Skills</a></li>
-              <li><a href="/future.d20.srd/feats" class="hover:text-primary transition-colors">Feats</a></li>
-              <li><a href="/future.d20.srd/mecha" class="hover:text-primary transition-colors">Mecha</a></li>
-              <li><a href="/future.d20.srd/mutations" class="hover:text-primary transition-colors">Mutations</a></li>
-            </ul>
-            <ul class="space-y-1.5 text-muted">
-              <li><a href="/future.d20.srd/progress.levels" class="hover:text-primary transition-colors">Progress Levels</a></li>
-              <li><a href="/future.d20.srd/robots" class="hover:text-primary transition-colors">Robots</a></li>
-              <li><a href="/future.d20.srd/scientific.engineering" class="hover:text-primary transition-colors">Scientific Engineering</a></li>
-              <li><a href="/future.d20.srd/starships" class="hover:text-primary transition-colors">Starships</a></li>
-              <li><a href="/future.d20.srd/starting.occupations" class="hover:text-primary transition-colors">Starting Occupations</a></li>
-              <li><a href="/future.d20.srd/traveler.science" class="hover:text-primary transition-colors">Traveler Science</a></li>
-              <li><a href="/future.d20.srd/vehicles" class="hover:text-primary transition-colors">Vehicles</a></li>
-              <li><a href="/future.d20.srd/xenobiology" class="hover:text-primary transition-colors">Xenobiology</a></li>
-            </ul>
-          </div>
-          <div class="mt-4 pt-3 border-t border-gray-200/50 dark:border-gray-700/20">
-            <a href="/future.d20.srd" class="inline-flex items-center justify-center w-full px-3 py-2 text-xs font-medium text-primary hover:text-white hover:bg-primary/20 border border-primary/30 rounded-lg transition-all duration-300">
-              View More
-              <svg class="ml-2 w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
-              </svg>
-            </a>
           </div>
         </div>
-
-        <!-- Arcana D20 SRD -->
-        <div class="bg-white/90 dark:bg-gray-800/20 backdrop-blur-lg rounded-xl p-4 lg:p-6 border border-gray-200/50 dark:border-gray-700/20 hover:bg-white/95 dark:hover:bg-gray-800/30 shadow-xl dark:shadow-none transition-all duration-300 flex flex-col">
-          <h3 class="text-lg lg:text-xl font-bold mb-4">
-            <a href="/arcana.d20.srd" class="text-primary hover:text-primary/80 transition-colors">Arcana D20 SRD</a>
-          </h3>
-          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 text-xs lg:text-sm flex-grow">
-            <ul class="space-y-1.5 text-muted">
-              <li><a href="/arcana.d20.srd/advanced.classes" class="hover:text-primary transition-colors">Advanced Classes</a></li>
-              <li><a href="/arcana.d20.srd/creatures" class="hover:text-primary transition-colors">Creatures</a></li>
-              <li><a href="/arcana.d20.srd/equipment" class="hover:text-primary transition-colors">Equipment</a></li>
-              <li><a href="/arcana.d20.srd/feats" class="hover:text-primary transition-colors">Feats</a></li>
-            </ul>
-            <ul class="space-y-1.5 text-muted">
-              <li><a href="/arcana.d20.srd/fx.items" class="hover:text-primary transition-colors">FX Items</a></li>
-              <li><a href="/arcana.d20.srd/incantations" class="hover:text-primary transition-colors">Incantations</a></li>
-              <li><a href="/arcana.d20.srd/occupations" class="hover:text-primary transition-colors">Occupations</a></li>
-              <li><a href="/arcana.d20.srd/organizations" class="hover:text-primary transition-colors">Organizations</a></li>
-            </ul>
-            <ul class="space-y-1.5 text-muted">
-              <li><a href="/arcana.d20.srd/prestige.classes" class="hover:text-primary transition-colors">Prestige Classes</a></li>
-              <li><a href="/arcana.d20.srd/psionics" class="hover:text-primary transition-colors">Psionics</a></li>
-              <li><a href="/arcana.d20.srd/shadowkind" class="hover:text-primary transition-colors">Shadowkind</a></li>
-              <li><a href="/arcana.d20.srd/spells" class="hover:text-primary transition-colors">Spells</a></li>
-            </ul>
-          </div>
-          <div class="mt-4 pt-3 border-t border-gray-200/50 dark:border-gray-700/20">
-            <a href="/arcana.d20.srd" class="inline-flex items-center justify-center w-full px-3 py-2 text-xs font-medium text-primary hover:text-white hover:bg-primary/20 border border-primary/30 rounded-lg transition-all duration-300">
-              View More
-              <svg class="ml-2 w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
-              </svg>
-            </a>
-          </div>
-        </div>
-      </div>
-
-      <!-- Right Column - D20 Menaces and Bookmark Downloads -->
-      <div class="space-y-4 lg:space-y-6">
-        
-        <!-- D20 Menaces -->
-        <div class="bg-white/90 dark:bg-gray-800/20 backdrop-blur-lg rounded-xl p-4 lg:p-6 border border-gray-200/50 dark:border-gray-700/20 hover:bg-white/95 dark:hover:bg-gray-800/30 shadow-xl dark:shadow-none transition-all duration-300 flex flex-col">
-          <h3 class="text-lg lg:text-xl font-bold mb-4">
-            <a href="/menaces.d20" class="text-primary hover:text-primary/80 transition-colors">D20 Menaces</a>
-          </h3>
-          <ul class="space-y-2 text-muted text-xs lg:text-sm flex-grow">
-            <li><a href="/menaces.d20/buying.services" class="hover:text-primary transition-colors block">Buying Services</a></li>
-            <li><a href="/menaces.d20/feats" class="hover:text-primary transition-colors block">Feats</a></li>
-            <li><a href="/menaces.d20/menaces" class="hover:text-primary transition-colors block">Menaces</a></li>
-          </ul>
-          <div class="mt-4 pt-3 border-t border-gray-200/50 dark:border-gray-700/20">
-            <a href="/menaces.d20" class="inline-flex items-center justify-center w-full px-3 py-2 text-xs font-medium text-primary hover:text-white hover:bg-primary/20 border border-primary/30 rounded-lg transition-all duration-300">
-              View More
-              <svg class="ml-2 w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
-              </svg>
-            </a>
-          </div>
-        </div>
-
-        <!-- Bookmark Downloads -->
-        <div class="bg-white/90 dark:bg-gray-800/20 backdrop-blur-lg rounded-xl p-4 lg:p-6 border border-gray-200/50 dark:border-gray-700/20 hover:bg-white/95 dark:hover:bg-gray-800/30 shadow-xl dark:shadow-none transition-all duration-300">
-          <h3 class="text-lg lg:text-xl font-bold mb-4 text-primary">Bookmark Downloads</h3>
-          <ul class="space-y-2 text-muted text-xs lg:text-sm">
-            <li><a href="#" class="hover:text-primary transition-colors block">Entire Site</a></li>
-            <li><a href="#" class="hover:text-primary transition-colors block">Modern D20 SRD</a></li>
-            <li><a href="#" class="hover:text-primary transition-colors block">Future D20 SRD</a></li>
-            <li><a href="#" class="hover:text-primary transition-colors block">Arcana D20 SRD (Instructions)</a></li>
-            <li><a href="#" class="hover:text-primary transition-colors block">Menaces D20 (Instructions)</a></li>
-          </ul>
-        </div>
-      </div>
+      ))}
 
     </div>
+
+  <!-- Bookmark  -->
+    <div class="mt-8 relative z-10">
+      <div class="bg-white/90 dark:bg-gray-800/20 backdrop-blur-lg rounded-xl p-6 border border-gray-300/60 dark:border-gray-600/40 hover:bg-white/95 dark:hover:bg-gray-800/30 hover:border-gray-400/70 dark:hover:border-gray-500/50 transition-all duration-300">
+      <h3 class="text-lg font-bold mb-6 text-primary">Bookmark Downloads</h3>
+      <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-4 text-sm">
+      <a href="bookmarks/EntireSite_Bookmarks.html" download="EntireSite_Bookmarks.html" class="hover:text-primary transition-colors p-3 rounded-lg hover:bg-gray-50/50 dark:hover:bg-gray-700/20">Entire Site</a>
+      <a href="/bookmarks/Modern_D20_Bookmarks.html" download="Modern_D20_Bookmarks.html" class="hover:text-primary transition-colors p-3 rounded-lg hover:bg-gray-50/50 dark:hover:bg-gray-700/20">Modern D20 SRD</a>
+      <a href="/bookmarks/Future_D20_Bookmarks.html" download="Future_D20_Bookmarks.html" class="hover:text-primary transition-colors p-3 rounded-lg hover:bg-gray-50/50 dark:hover:bg-gray-700/20">Future D20 SRD</a>
+      <a href="/bookmarks/Arcana_D20_Bookmarks.html" download="Arcana_D20_Bookmarks.html" class="hover:text-primary transition-colors p-3 rounded-lg hover:bg-gray-50/50 dark:hover:bg-gray-700/20">Arcana D20 SRD</a>
+      <a href="/bookmarks/Menaces_D20_Bookmarks.html" download="Menaces_D20_Bookmarks.html" class="hover:text-primary transition-colors p-3 rounded-lg hover:bg-gray-50/50 dark:hover:bg-gray-700/20">Menaces D20</a>
+      <a href="/bookmarks" class="hover:text-primary transition-colors p-3 rounded-lg hover:bg-gray-50/50 dark:hover:bg-gray-700/20">Instructions</a>
+      </div>
+      </div>
+    </div>
+
   </section>
 </Layout>
