@@ -26,21 +26,24 @@ const sectionsWithActive = sections.map(section => ({
 }));
 ---
 
-<div id="sidebarContainer" class="fixed inset-y-0 left-0 px-2 sm:px-4 pt-20 sm:pt-24 pb-8 h-screen pointer-events-none transition-transform duration-300 ease-in-out">
-  <aside class="bg-slate-50 dark:bg-[#0B1223] rounded-lg w-[280px] sm:w-60 h-full flex overflow-hidden pointer-events-auto shadow-lg dark:shadow-xl border border-slate-200/50 dark:border-slate-800/20 transition-colors duration-200 relative">
-     <!-- Add toggle button -->
-    <button 
-      id="toggleSidebar"
-      class="absolute right-0 top-1/2 transform -translate-y-1/2 w-8 h-16 rounded-r-lg flex items-center place-items-center justify-center text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-slate-300 transition-all duration-200 z-50 cursor-pointer"
-      aria-label="Toggle navigation"
-      type="button"
-    >
-      <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-8 transition-transform duration-300 ease-in-out pointer-events-none" viewBox="0 0 20 20" fill="currentColor" id="toggleIcon">
-        <path fill-rule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clip-rule="evenodd" />
-      </svg>
-    </button>
+<!-- Overlay for mobile when sidebar is open -->
+<div id="sidebarOverlay" class="fixed inset-0 bg-black/50 z-40 hidden pointer-events-none"></div>
 
-    <div class="p-4 sm:p-6 w-full overflow-y-auto custom-scrollbar">
+<!-- Toggle button - separate from sidebar so it's always visible -->
+<button 
+  id="toggleSidebar"
+  class="fixed left-0 top-1/2 transform -translate-y-1/2 w-8 h-16 bg-slate-50 dark:bg-[#0B1223] border border-slate-200/50 dark:border-slate-800/20 rounded-r-lg flex items-center justify-center text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-slate-300 transition-all duration-300 ease-out z-50 cursor-pointer shadow-lg dark:shadow-xl group"
+  aria-label="Toggle navigation"
+  type="button"
+>
+  <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 transition-transform duration-300 ease-in-out pointer-events-none" viewBox="0 0 20 20" fill="currentColor" id="toggleIcon">
+    <path fill-rule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clip-rule="evenodd" />
+  </svg>
+</button>
+
+<div id="sidebarContainer" class="fixed inset-y-0 left-0 px-2 sm:px-4 pt-20 sm:pt-24 pb-8 h-screen z-40 transition-transform duration-300 ease-in-out">
+  <aside class="bg-slate-50 dark:bg-[#0B1223] rounded-lg w-[280px] sm:w-60 h-full flex overflow-hidden shadow-lg dark:shadow-xl border border-slate-200/50 dark:border-slate-800/20 transition-colors duration-200 relative">
+    <div class="p-4 sm:p-6 w-full overflow-y-auto custom-scrollbar sidebar-content">
       <div class="mb-6 sm:mb-8 flex justify-between items-center">
         <h2 class="text-sm font-semibold uppercase tracking-wide text-slate-600 dark:text-slate-400">Quick Navigation</h2>
       </div>
@@ -78,27 +81,147 @@ const sectionsWithActive = sections.map(section => ({
     transition: transform 0.3s ease-in-out;
   }
 
+  /* Hidden state - slide sidebar off screen but keep toggle button visible */
   #sidebarContainer.sidebar-hidden {
-    transform: translateX(-280px);
+    transform: translateX(-100%);
   }
 
-  /* Ensure consistent behavior on mobile */
-  @media (max-width: 640px) {
-    #sidebarContainer {
-      width: 280px;
-    }
-    
-    #sidebarContainer.sidebar-hidden {
-      transform: translateX(-280px);
+  /* Toggle button base styles - ensure proper positioning */
+  #toggleSidebar {
+    transition: all 0.3s ease-out;
+    position: fixed !important;
+    top: 50% !important;
+    z-index: 9999 !important;
+    transform: translateY(-50%);
+  }
+
+  /* When sidebar is hidden, position toggle button at screen edge */
+  #sidebarContainer.sidebar-hidden ~ #toggleSidebar {
+    left: -4px !important;
+    transform: translateX(0%) translateY(-50%);
+    background: rgba(59, 130, 246, 0.9) !important;
+    border-color: rgba(59, 130, 246, 0.5) !important;
+    color: white !important;
+    box-shadow: 2px 0 12px rgba(0, 0, 0, 0.25) !important;
+    border-left-width: 0;
+    border-radius: 0 0.5rem 0.5rem 0;
+  }
+
+  /* Dark mode styles for hidden state */
+  .dark #sidebarContainer.sidebar-hidden ~ #toggleSidebar {
+    background: rgba(59, 130, 246, 0.95) !important;
+    border-color: rgba(59, 130, 246, 0.6) !important;
+    color: white !important;
+    box-shadow: 2px 0 15px rgba(0, 0, 0, 0.4) !important;
+  }
+
+  /* Enhanced hover effect when sidebar is hidden */
+  #sidebarContainer.sidebar-hidden ~ #toggleSidebar:hover {
+    left: 0px !important;
+    background: rgba(59, 130, 246, 1) !important;
+    color: white !important;
+    box-shadow: 2px 0 20px rgba(0, 0, 0, 0.3) !important;
+    border-color: rgba(59, 130, 246, 0.8) !important;
+  }
+
+  /* Dark mode hover when hidden */
+  .dark #sidebarContainer.sidebar-hidden ~ #toggleSidebar:hover {
+    background: rgba(59, 130, 246, 1) !important;
+    color: white !important;
+    box-shadow: 2px 0 25px rgba(0, 0, 0, 0.5) !important;
+  }
+
+  /* When sidebar is open, position toggle button next to sidebar */
+  #sidebarContainer:not(.sidebar-hidden) ~ #toggleSidebar {
+    left: calc(280px + 0.5rem) !important;
+    transform: translateX(0%) translateY(-50%);
+    background: rgb(248, 250, 252) !important;
+    border-color: rgba(226, 232, 240, 0.5) !important;
+    color: rgba(100, 116, 139, 1) !important;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1) !important;
+    border-left-width: 0;
+    border-radius: 0 0.375rem 0.375rem 0;
+  }
+
+  .dark #sidebarContainer:not(.sidebar-hidden) ~ #toggleSidebar {
+    background: #0B1223 !important;
+    border-color: rgba(71, 85, 105, 0.2) !important;
+    color: rgba(148, 163, 184, 1) !important;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3) !important;
+  }
+
+  @media (min-width: 640px) {
+    #sidebarContainer:not(.sidebar-hidden) ~ #toggleSidebar {
+      left: calc(240px + 1rem) !important;
     }
   }
 
+  /* Toggle icon rotation with proper timing */
   #toggleIcon {
     transition: transform 0.3s ease-in-out;
+    transform-origin: center;
   }
 
-  #sidebarContainer.sidebar-hidden #toggleIcon {
+  /* Rotate icon when sidebar is hidden (pointing right) */
+  #sidebarContainer.sidebar-hidden ~ #toggleSidebar #toggleIcon {
     transform: rotate(180deg);
+  }
+
+  /* Icon points left when sidebar is open */
+  #sidebarContainer:not(.sidebar-hidden) ~ #toggleSidebar #toggleIcon {
+    transform: rotate(0deg);
+  }
+
+  /* Disable pointer events on sidebar content when hidden */
+  #sidebarContainer.sidebar-hidden .sidebar-content {
+    pointer-events: none;
+  }
+
+  #sidebarContainer:not(.sidebar-hidden) .sidebar-content {
+    pointer-events: auto;
+  }
+
+  /* Show overlay on mobile when sidebar is open */
+  @media (max-width: 768px) {
+    #sidebarContainer:not(.sidebar-hidden) ~ #sidebarOverlay {
+      display: block !important;
+      pointer-events: auto;
+    }
+  }
+
+    /* Mobile-specific positioning */
+  @media (max-width: 768px) {
+    #toggleSidebar {
+      top: 1rem !important;
+      left: 1rem !important;
+      transform: none !important;
+      width: 2.5rem !important;
+      height: 2.5rem !important;
+      border-radius: 0.5rem !important;
+    }
+
+    /* When sidebar is hidden on mobile */
+    #sidebarContainer.sidebar-hidden ~ #toggleSidebar {
+      left: 1rem !important;
+      top: 1rem !important;
+      transform: none !important;
+      border-radius: 0.5rem !important;
+    }
+
+    /* When sidebar is open on mobile */
+    #sidebarContainer:not(.sidebar-hidden) ~ #toggleSidebar {
+      left: 1rem !important;
+      top: 1rem !important;
+      transform: none !important;
+      border-radius: 0.5rem !important;
+      z-index: 10000 !important;
+    }
+
+    /* Hide toggle on hover effects for mobile */
+    #sidebarContainer.sidebar-hidden ~ #toggleSidebar:hover {
+      left: 1rem !important;
+      transform: none !important;
+    }
   }
 
   /* Custom scrollbar styles */
@@ -124,39 +247,32 @@ const sectionsWithActive = sections.map(section => ({
       width: 2px;
     }
   }
-
-  /* Ensure the button stays visible when sidebar is hidden */
-  #sidebarContainer.sidebar-hidden #toggleSidebar {
-    right: -3px;
-  }
 </style>
 
 <script>
-  // Single function to avoid duplication
+  let isInitialized = false;
+
   function initializeSidebar() {
+    if (isInitialized) {
+      console.log('Sidebar already initialized, skipping...');
+      return;
+    }
+
     const toggleButton = document.getElementById('toggleSidebar');
     const sidebarContainer = document.getElementById('sidebarContainer');
+    const overlay = document.getElementById('sidebarOverlay');
     
-    // Early return if elements don't exist
-    if (!toggleButton || !sidebarContainer) {
+    if (!toggleButton || !sidebarContainer || !overlay) {
       console.warn('Sidebar elements not found');
       return;
     }
 
-    // Remove any existing event listeners to prevent duplicates
-    const newToggleButton = toggleButton.cloneNode(true);
-    toggleButton.parentNode?.replaceChild(newToggleButton, toggleButton);
-    
     function toggleSidebar(event) {
       event.preventDefault();
       event.stopPropagation();
       
-      console.log('Toggle sidebar clicked');
-      
       sidebarContainer.classList.toggle('sidebar-hidden');
       const isClosed = sidebarContainer.classList.contains('sidebar-hidden');
-      
-      console.log('Sidebar is now:', isClosed ? 'closed' : 'open');
       
       // Save state to localStorage
       try {
@@ -166,41 +282,66 @@ const sectionsWithActive = sections.map(section => ({
       }
     }
 
-    function initSidebar() {
-      try {
-        const savedState = localStorage.getItem('sidebarState');
-        console.log('Saved sidebar state:', savedState);
-        
-        if (savedState === 'closed') {
-          sidebarContainer.classList.add('sidebar-hidden');
-          console.log('Sidebar initialized as closed');
-        } else {
-          sidebarContainer.classList.remove('sidebar-hidden');
-          console.log('Sidebar initialized as open');
+    function closeSidebarOnOverlay(event) {
+      if (event.target === overlay) {
+        sidebarContainer.classList.add('sidebar-hidden');
+        try {
+          localStorage.setItem('sidebarState', 'closed');
+        } catch (e) {
+          console.warn('Could not save sidebar state to localStorage:', e);
         }
-      } catch (e) {
-        console.warn('Could not read sidebar state from localStorage:', e);
       }
     }
 
-    // Add event listener to the new button
-    newToggleButton.addEventListener('click', toggleSidebar);
+    function initSidebarState() {
+      try {
+        const savedState = localStorage.getItem('sidebarState');
+        
+        // Apply state immediately without animation to prevent flash
+        sidebarContainer.style.transition = 'none';
+        toggleButton.style.transition = 'none';
+        
+        if (savedState === 'closed') {
+          sidebarContainer.classList.add('sidebar-hidden');
+        } else {
+          sidebarContainer.classList.remove('sidebar-hidden');
+        }
+        
+        // Re-enable transitions after DOM update
+        requestAnimationFrame(() => {
+          sidebarContainer.style.transition = '';
+          toggleButton.style.transition = '';
+        });
+        
+      } catch (e) {
+        console.warn('Could not read sidebar state from localStorage:', e);
+        sidebarContainer.classList.remove('sidebar-hidden');
+      }
+    }
+
+    // Add event listeners
+    toggleButton.addEventListener('click', toggleSidebar);
+    overlay.addEventListener('click', closeSidebarOnOverlay);
     
     // Initialize sidebar state
-    initSidebar();
+    initSidebarState();
     
+    isInitialized = true;
     console.log('Sidebar initialized successfully');
   }
 
-  // Initialize on both events to ensure it works
-  document.addEventListener('astro:page-load', initializeSidebar);
-  document.addEventListener('DOMContentLoaded', initializeSidebar);
+  function handlePageNavigation() {
+    isInitialized = false;
+    setTimeout(initializeSidebar, 10);
+  }
 
-  // Also initialize immediately if DOM is already ready
+  // Initialize on Astro page load (for SPA navigation)
+  document.addEventListener('astro:page-load', handlePageNavigation);
+
+  // Initialize on initial page load
   if (document.readyState === 'loading') {
-    // Do nothing, we'll catch it with DOMContentLoaded
+    document.addEventListener('DOMContentLoaded', initializeSidebar);
   } else {
-    // DOM is already ready
     initializeSidebar();
   }
 </script>
