@@ -37,11 +37,11 @@ const sectionsWithActive = sections.map(section => ({
   type="button"
 >
   <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 transition-transform duration-300 ease-in-out pointer-events-none" viewBox="0 0 20 20" fill="currentColor" id="toggleIcon">
-    <path fill-rule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clip-rule="evenodd" />
+    <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
   </svg>
 </button>
 
-<div id="sidebarContainer" class="fixed inset-y-0 left-0 px-2 sm:px-4 pt-20 sm:pt-24 pb-8 h-screen z-40 transition-transform duration-300 ease-in-out">
+<div id="sidebarContainer" class="sidebar-hidden fixed inset-y-0 left-0 px-2 sm:px-4 pt-20 sm:pt-24 pb-8 h-screen z-40 transition-transform duration-300 ease-in-out">
   <aside class="bg-slate-50 dark:bg-[#0B1223] rounded-lg w-[280px] sm:w-60 h-full flex overflow-hidden shadow-lg dark:shadow-xl border border-slate-200/50 dark:border-slate-800/20 transition-colors duration-200 relative">
     <div class="p-4 sm:p-6 w-full overflow-y-auto custom-scrollbar sidebar-content">
       <div class="mb-6 sm:mb-8 flex justify-between items-center">
@@ -250,31 +250,47 @@ const sectionsWithActive = sections.map(section => ({
 </style>
 
 <script>
-  let isInitialized = false;
-
+  const leftArrow = "M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z";
+  const rightArrow = "M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z";
+  let isClosed
+  
   function initializeSidebar() {
-    if (isInitialized) {
-      console.log('Sidebar already initialized, skipping...');
-      return;
-    }
-
     const toggleButton = document.getElementById('toggleSidebar');
     const sidebarContainer = document.getElementById('sidebarContainer');
     const overlay = document.getElementById('sidebarOverlay');
-    
+    const togglePath = document.querySelector('#toggleIcon path'); 
+
     if (!toggleButton || !sidebarContainer || !overlay) {
       console.warn('Sidebar elements not found');
       return;
     }
 
+    // Restore saved state
+    try {
+      const savedState = localStorage.getItem('sidebarState');
+      sidebarContainer.style.transition = 'none';
+      toggleButton.style.transition = 'none';
+
+      const isClosed = savedState === 'closed';
+      if (togglePath) togglePath.setAttribute("d", isClosed ? rightArrow : leftArrow);
+      sidebarContainer.classList.toggle('sidebar-hidden', isClosed);
+
+      requestAnimationFrame(() => {
+        sidebarContainer.style.transition = '';
+        toggleButton.style.transition = '';
+      });
+    } catch (e) {
+      console.warn('Could not read sidebar state from localStorage:', e);
+    }
+
     function toggleSidebar(event) {
       event.preventDefault();
       event.stopPropagation();
-      
       sidebarContainer.classList.toggle('sidebar-hidden');
-      const isClosed = sidebarContainer.classList.contains('sidebar-hidden');
-      
-      // Save state to localStorage
+      isClosed = sidebarContainer.classList.contains('sidebar-hidden');
+      const togglePath = document.querySelector('#toggleIcon path'); 
+      if (togglePath) togglePath.setAttribute("d", isClosed ? rightArrow : leftArrow);
+
       try {
         localStorage.setItem('sidebarState', isClosed ? 'closed' : 'open');
       } catch (e) {
@@ -285,6 +301,7 @@ const sectionsWithActive = sections.map(section => ({
     function closeSidebarOnOverlay(event) {
       if (event.target === overlay) {
         sidebarContainer.classList.add('sidebar-hidden');
+        if (togglePath) togglePath.setAttribute("d", rightArrow);
         try {
           localStorage.setItem('sidebarState', 'closed');
         } catch (e) {
@@ -293,52 +310,24 @@ const sectionsWithActive = sections.map(section => ({
       }
     }
 
-    function initSidebarState() {
-      try {
-        const savedState = localStorage.getItem('sidebarState');
-        
-        // Apply state immediately without animation to prevent flash
-        sidebarContainer.style.transition = 'none';
-        toggleButton.style.transition = 'none';
-        
-        if (savedState === 'closed') {
-          sidebarContainer.classList.add('sidebar-hidden');
-        } else {
-          sidebarContainer.classList.remove('sidebar-hidden');
-        }
-        
-        // Re-enable transitions after DOM update
-        requestAnimationFrame(() => {
-          sidebarContainer.style.transition = '';
-          toggleButton.style.transition = '';
-        });
-        
-      } catch (e) {
-        console.warn('Could not read sidebar state from localStorage:', e);
-        sidebarContainer.classList.remove('sidebar-hidden');
-      }
-    }
+    // Always remove old listeners before adding new ones
+    toggleButton.replaceWith(toggleButton.cloneNode(true));
+    overlay.replaceWith(overlay.cloneNode(true));
 
-    // Add event listeners
-    toggleButton.addEventListener('click', toggleSidebar);
-    overlay.addEventListener('click', closeSidebarOnOverlay);
-    
-    // Initialize sidebar state
-    initSidebarState();
-    
-    isInitialized = true;
+    // Re-query after cloning
+    const newToggleButton = document.getElementById('toggleSidebar');
+    const newOverlay = document.getElementById('sidebarOverlay');
+
+    newToggleButton.addEventListener('click', toggleSidebar);
+    newOverlay.addEventListener('click', closeSidebarOnOverlay);
+
     console.log('Sidebar initialized successfully');
   }
 
-  function handlePageNavigation() {
-    isInitialized = false;
-    setTimeout(initializeSidebar, 10);
-  }
+  // For Astro SPA navigation
+  document.addEventListener('astro:page-load', initializeSidebar);
 
-  // Initialize on Astro page load (for SPA navigation)
-  document.addEventListener('astro:page-load', handlePageNavigation);
-
-  // Initialize on initial page load
+  // For full page load
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', initializeSidebar);
   } else {
