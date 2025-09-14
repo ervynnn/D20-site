@@ -9,42 +9,62 @@ It was created with the idea of making **playing d20 games easier** by providing
 ## 📚 Available Resources
 
 ### Modern D20 SRD
-- Basics  
-- Classes  
-- Combat  
-- Condition Summary  
-- Creature Types  
-- Creatures  
-- Equipment  
-- Feats  
-- *View More*
+- 📖 **Basics** – Fundamental rules and core mechanics  
+- 🧑‍🚀 **Classes** – Character classes and progressions  
+- ⚔️ **Combat** – Combat rules and mechanics  
+- 🩹 **Condition Summary** – Status effects and conditions  
+- 🐉 **Creature Types** – Categories of creatures and beings  
+- 👹 **Creatures** – Monsters, NPCs, and adversaries  
+- 🌪️ **Environment & Hazards** – Environmental dangers and obstacles  
+- 🛡️ **Equipment** – Weapons, armor, and gear  
+- ⭐ **Feats** – Special abilities and talents  
+- ✨ **FX** – Special effects and supernatural elements  
+- 🪄 **FX Items** – Supernatural equipment and artifacts  
+- 👤 **Ordinaries** – Standard NPCs and common characters  
+- 🧠 **Psionics** – Mental powers and psychic abilities  
+- 🏅 **Reputation** – Social standing and influence systems  
+- 🛠️ **Skills** – Character abilities and proficiencies  
+- 🔮 **Special Abilities** – Unique powers and capabilities  
+- 🧑‍💼 **Starting Occupation** – Character backgrounds and careers  
+- 🚗 **Vehicle Movement and Combat** – Vehicular rules and chase scenes  
+- 💰 **Wealth** – Economic systems and purchasing  
 
 ### Future D20 SRD
-- Classes  
-- Cybernetics  
-- Environments  
-- Equipment  
-- Expanded Skills  
-- Feats  
-- Mecha  
-- Mutations  
-- *View More*
+- 🧑‍🚀 **Classes** – Futuristic character classes and professions  
+- 🦾 **Cybernetics** – Cyber-implants and technological enhancements  
+- 🌍 **Environments** – Alien worlds and future settings  
+- ⚙️ **Equipment** – Advanced technology and futuristic gear  
+- 📚 **Expanded Skills** – New skills for futuristic campaigns  
+- ⭐ **Feats** – Advanced abilities and technological talents  
+- 🤖 **Mecha** – Giant robots and mech combat systems  
+- 🧬 **Mutations** – Genetic alterations and evolved abilities  
+- 📈 **Progress Levels** – Technological development stages  
+- 🤖 **Robots** – Artificial intelligence and robotic companions  
+- 🏗️ **Scientific Engineering** – Advanced engineering and construction  
+- 🚀 **Starships** – Spacecraft and interstellar travel  
+- 🧑‍💼 **Starting Occupations** – Futuristic careers and backgrounds  
+- 🛰️ **Traveler Science** – Interstellar travel and exploration  
+- 🚗 **Vehicles** – Advanced transportation and combat vehicles  
+- 👽 **Xenobiology** – Alien life forms and exotic biology  
 
 ### Arcana D20 SRD
-- Advanced Classes  
-- Creatures  
-- Equipment  
-- Feats  
-- FX Items  
-- Incantations  
-- Occupations  
-- Organizations  
-- *View More*
+- 🧙 **Advanced Classes** – Specialized supernatural character classes  
+- 👹 **Creatures** – Supernatural beings and occult entities  
+- ⚔️ **Equipment** – Mundane and supernatural gear  
+- ⭐ **Feats** – Supernatural abilities and occult talents  
+- 🪄 **FX Items** – Magical artifacts and mystical equipment  
+- 📜 **Incantations** – Ritual magic and ceremonial spells  
+- 🧑‍💼 **Occupations** – Supernatural careers and backgrounds  
+- 🏰 **Organizations** – Cults, societies, and mystical groups  
+- 🎖️ **Prestige Classes** – Elite supernatural character progressions  
+- 🧠 **Psionics** – Mental powers and psychic abilities  
+- 🌑 **Shadowkind** – Dark creatures and shadow beings  
+- ✨ **Spells** – Magic spells and supernatural effects  
 
 ### D20 Menaces
-- Buying Services  
-- Feats  
-- Menaces  
+- 💰 **Buying Services** – Black market and criminal services  
+- ⭐ **Feats** – Specialized feats for antagonists and threats  
+- ⚠️ **Menaces** – Campaign threats and organized dangers  
 
 ---
 
