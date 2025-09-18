@@ -3,8 +3,6 @@ title: Bookmarks
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[ Index ](/) > Bookmarks
-
 ## Navigating Dept7 with Downloadable Bookmarks
 
 Dept7 was designed to be a simple, fast, and easy-to-use d20 HTML resource. Due to the vast amount of data available, traditional website navigation can be challenging. To address this, we provide:

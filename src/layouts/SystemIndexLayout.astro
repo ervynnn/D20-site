@@ -1,0 +1,194 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+import Features from '~/components/widgets/Features.astro';
+import SideNavigation from '~/components/ui/SideNavigation.astro';
+import type { NavigationSection } from '~/components/ui/SideNavigation.astro';
+
+export interface Props {
+  frontmatter: {
+    title?: string;
+    description?: string;
+    tagline?: string;
+    sections?: Array<{
+      title: string;
+      href: string;
+      description?: string;
+      icon?: string;
+    }>;
+  };
+}
+
+const { frontmatter } = Astro.props;
+
+const metadata = {
+  title: frontmatter?.title,
+  description: frontmatter?.description,
+};
+
+// Organize sections for compact display
+const organizeSections = (sections:  Array<{
+  title: string;
+  href: string;
+  description?: string;
+  icon?: string;
+}>) => {
+  const items = sections.map(section => ({
+    title: section.title,
+    description: section.description || '',
+    icon: section.icon || 'tabler:book-2',
+    callToAction: {
+      target: '_self',
+      text: '',
+      href: section.href,
+    },
+  }));
+  return items;
+};
+
+// Generate navigation sections based on current system
+const getNavigationSections = (): NavigationSection[] => {
+  const path = Astro.url.pathname;
+  
+  if (path.startsWith('/modern.d20.srd')) {
+    return [
+      {
+        title: 'MODERN D20 SRD',
+        color: 'blue',
+        items: [
+          { text: 'Reference Sections', href: '#reference' },
+          { text: 'Quick Navigation Tips', href: '/modern.d20.srd#tips' },
+          { text: 'System Features', href: '/modern.d20.srd#features' },
+          { text: 'Bookmarks', href: '#bookmarks' },
+        ]
+      }
+    ];
+  } else if (path.startsWith('/future.d20.srd')) {
+    return [
+      {
+        title: 'FUTURE D20 SRD',
+        color: 'purple',
+        items: [
+          { text: 'Reference Sections', href: '#reference' },
+          { text: 'Quick Navigation Tips', href: '/future.d20.srd#tips' },
+          { text: 'System Features', href: '/future.d20.srd#features' },
+          { text: 'Bookmarks', href: '#bookmarks' },
+        ]
+      }
+    ];
+  } else if (path.startsWith('/arcana.d20.srd')) {
+    return [
+      {
+        title: 'ARCANA D20 SRD',
+        color: 'green',
+        items: [
+          { text: 'Reference Sections', href: '#reference' },
+          { text: 'Quick Navigation Tips', href: '/arcana.d20.srd#tips' },
+          { text: 'System Features', href: '/arcana.d20.srd#features' },
+          { text: 'Bookmarks', href: '#bookmarks' },
+        ]
+      }
+    ];
+  } else if (path.startsWith('/menaces.d20')) {
+    return [
+      {
+        title: 'D20 MENACES',
+        color: 'red',
+        items: [
+          { text: 'Reference Sections', href: '#reference' },
+          { text: 'Quick Navigation Tips', href: '/menaces.d20#tips' },
+          { text: 'System Features', href: '/menaces.d20#features' },
+          { text: 'Bookmarks', href: '#bookmarks' },
+        ]
+      }
+    ];
+  }
+  
+  return [];
+};
+
+const navigationSections = getNavigationSections();
+---
+
+<Layout metadata={metadata}>
+  <div class="flex min-h-screen transition-[padding] duration-300 ease-in-out" id="mainContainer">
+    
+    <!-- Main Content Area -->
+    <div class="flex-1 px-4 sm:px-6 lg:px-8 min-w-0 transition-[margin] duration-300 ease-in-out">
+      <!-- System Title and Description -->
+      <section class="py-8 lg:py-24 mx-auto max-w-6xl">
+        <div class="text-center pb-8">
+          <h1 class="font-bold font-heading text-4xl md:text-5xl leading-tighter tracking-tighter text-gray-900 dark:text-slate-300">
+            {frontmatter.title}
+          </h1>
+          {frontmatter.description && (
+            <p class="text-xl text-gray-600 dark:text-slate-400 mt-4 max-w-3xl mx-auto">
+              {frontmatter.description}
+            </p>
+          )}
+        </div>
+
+      <!-- Sidebar Navigation -->
+      {navigationSections.length > 0 && (
+          <SideNavigation sections={navigationSections} />
+      )}
+      </section>
+
+      
+      <!-- All Sections Grid -->
+      <div id="reference" style="position: relative; top: -80px;">
+      </div>
+      {frontmatter.sections && frontmatter.sections.length > 0 && (
+        <Features
+          title="Reference Sections"
+          subtitle="Browse all available sections in this system reference document."
+          items={organizeSections(frontmatter.sections)}
+          classes={{ container: 'max-w-6xl' }}
+          columns={3}
+        />
+      )}
+
+      <!-- Standard Content Area for any additional markdown -->
+      <section class="px-4 py-8 sm:px-6 mx-auto lg:px-8 max-w-6xl">
+        <div class="mx-auto prose prose-lg max-w-4xl dark:prose-invert dark:prose-headings:text-slate-300 prose-md prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:font-bold prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-img:rounded-md prose-img:shadow-lg">
+          <slot />
+        </div>
+      </section>
+    </div>
+  </div>
+
+
+
+<script>
+  document.addEventListener('astro:page-load', () => {
+    const mainContainer = document.getElementById('mainContainer');
+    const sidebarContainer = document.getElementById('sidebarContainer');
+
+    // Initial state
+    if (!sidebarContainer?.classList.contains('sidebar-hidden')) {
+      mainContainer?.classList.add('pl-[280px]');
+    }
+
+    // Watch for sidebar changes
+    const observer = new MutationObserver((mutations) => {
+      mutations.forEach((mutation) => {
+        if (mutation.target instanceof Element) {
+          const isSidebarHidden = mutation.target.classList.contains('sidebar-hidden');
+          if (isSidebarHidden) {
+            mainContainer?.classList.remove('pl-[280px]');
+          } else {
+            mainContainer?.classList.add('pl-[280px]');
+          }
+        }
+      });
+    });
+
+    if (sidebarContainer) {
+      observer.observe(sidebarContainer, {
+        attributes: true,
+        attributeFilter: ['class']
+      });
+    }
+  });
+</script>
+
+</Layout>

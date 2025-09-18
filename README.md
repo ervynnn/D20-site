@@ -1,6 +1,12 @@
+<<<<<<< Updated upstream
 # Dept 7 DND Website - D20 Resources
 
 This project is the official **Dept 7 DND Website**, built with [AstroWind](https://github.com/onwidget/astrowind), a free and open-source Astro 5.0 + Tailwind CSS template.  
+=======
+# Dept 7 Website - D20 Resources
+
+This project is the official **Dept 7 Website**, built with [AstroWind](https://github.com/onwidget/astrowind), a free and open-source Astro 5.0 + Tailwind CSS template.  
+>>>>>>> Stashed changes
 
 It was created with the idea of making **playing d20 games easier** by providing streamlined access to rules, resources, and references.
 
