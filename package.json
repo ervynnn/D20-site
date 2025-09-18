@@ -48,7 +48,11 @@
     "@types/mdx": "^2.0.13",
     "@typescript-eslint/eslint-plugin": "^8.21.0",
     "@typescript-eslint/parser": "^8.21.0",
+<<<<<<< Updated upstream
     "astro": "^5.11.2",
+=======
+    "astro": "^5.13.5",
+>>>>>>> Stashed changes
     "astro-compress": "2.3.6",
     "astro-eslint-parser": "^1.1.0",
     "eslint": "^9.18.0",
